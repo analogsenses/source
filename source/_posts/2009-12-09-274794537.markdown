@@ -1,0 +1,20 @@
+---
+author: alvaroserrano
+comments: false
+date: 2009-12-09 00:17:45+00:00
+layout: post
+slug: '274794537'
+title: Today’s quote
+wordpress_id: 274794537
+categories:
+- Post
+- Quote
+post_format:
+- Quote
+tags:
+- Quote
+---
+
+[Procrastination is the art of keeping up with yesterday."](http://www.brainyquote.com/quotes/quotes/d/donmarquis107414.html)
+
+**Don Marquis (1878 - 1937).**

@@ -1,0 +1,21 @@
+---
+author: alvaroserrano
+comments: false
+date: 2009-11-13 20:06:04+00:00
+layout: post
+slug: '242497920'
+title: Today’s quote
+wordpress_id: 242497920
+categories:
+- Post
+- Quote
+post_format:
+- Quote
+tags:
+- movies
+- Quote
+---
+
+[You want more mysterious? I'll just try and think, "Where the hell's the whiskey?" ](http://www.imdb.com/title/tt0335266/quotes)
+
+**Bob Harris**, _Lost in Translation (2003)_.

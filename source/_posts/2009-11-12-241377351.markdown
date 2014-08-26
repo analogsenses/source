@@ -1,0 +1,20 @@
+---
+author: alvaroserrano
+comments: false
+date: 2009-11-12 19:07:18+00:00
+layout: post
+slug: '241377351'
+title: Today's quote
+wordpress_id: 241377351
+categories:
+- Post
+- Quote
+post_format:
+- Quote
+tags:
+- Quote
+---
+
+[The days of the digital watch are numbered."](http://en.wikiquote.org/wiki/Tom_Stoppard)
+
+**Tom Stoppard (1937- ).**

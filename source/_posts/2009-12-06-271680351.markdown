@@ -1,0 +1,20 @@
+---
+author: alvaroserrano
+comments: false
+date: 2009-12-06 20:59:00+00:00
+layout: post
+slug: '271680351'
+title: Today’s quote
+wordpress_id: 271680351
+categories:
+- Post
+- Quote
+post_format:
+- Quote
+tags:
+- Quote
+---
+
+[An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today."](http://www.brainyquote.com/quotes/quotes/l/laurencej163120.html)
+
+**Laurence J. Peter (1919 - 1988).**

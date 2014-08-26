@@ -1,0 +1,19 @@
+---
+author: alvaroserrano
+comments: false
+date: 2010-08-06 16:17:41+00:00
+layout: post
+slug: '911835049'
+title: Quote of the Day
+wordpress_id: 911835049
+categories:
+- Quote
+post_format:
+- Quote
+tags:
+- Quote
+---
+
+[Too bad the only people who know how to run the country are busy driving cabs and cutting hair."](http://www.quotationspage.com/quote/503.html)
+
+**George Burns (1896-1996)**
