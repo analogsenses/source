@@ -125,7 +125,7 @@ $border-style: 2px solid $secondary-text-color;
 }
 
 .sans-serif-font-bold {
-  font-family: "LamplighterScript","Fjalla One", "Helvetica Neue", Arial, sans-serif;
+  font-family: "atrament-web","Fjalla One", "Helvetica Neue", Arial, sans-serif;
 }
 
 .sans-serif-font {
@@ -613,6 +613,8 @@ article {
       margin-bottom: 0.173rem;
       line-height: 52.96px;
       line-height: 2.648rem; /* 1.916 + 0.732 */
+      text-shadow: white 0px 1px 0px;
+
       
       
       a {
@@ -671,11 +673,14 @@ article {
   h2 {
     font-size: 30.56px;
     font-size: 1.528rem; /* 1.618 - 0.09 */
-    text-transform: uppercase;
+    text-transform: none;
     margin-top: 52.358px;
     margin-top: 2.618rem;
-    margin-bottom: 9.046px;
-    margin-bottom: 0.452rem;
+    //margin-bottom: 9.046px;
+    //margin-bottom: 0.452rem;
+    margin-bottom:15px;
+    text-shadow: white 0px 1px 0px;
+
   }
   
   ul, ol {

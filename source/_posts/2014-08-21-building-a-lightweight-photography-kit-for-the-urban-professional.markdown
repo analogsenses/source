@@ -20,7 +20,7 @@ When you look at the whole process, the amount of tools and gear that are needed
 
 
 
-### The bag
+## The bag
 
 
 
@@ -58,7 +58,7 @@ All in all, this is a really nice bag but, alas, it’s not perfect: since it ha
  
 
 
-### The gear
+## The gear
 
 
 
@@ -105,7 +105,7 @@ If there’s not a clear need for one particular lens or another, I’ll usually
 
 
 
-### The other stuff
+## The other stuff
 
 
 
@@ -157,7 +157,7 @@ My kit, for example, contains several other items that I hope you won’t need. 
 
 
 
-### Fitting everything
+## Fitting everything
 
 
 
@@ -185,7 +185,7 @@ With this organization, things fit nicely in their proper place and they don’t
 
 
 
-### An alternative: the GORUCK GR Echo
+## An alternative: the GORUCK GR Echo
 
 
 
@@ -229,7 +229,7 @@ So there you have it, another great way to carry your photography gear across to
 
 
 
-### Conclusions
+## Conclusions
 
 
 
