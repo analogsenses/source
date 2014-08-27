@@ -143,7 +143,7 @@ $border-style: 2px solid $secondary-text-color;
 html {
   @extend .default-font;
   border-top: 8px solid $accent-color;
-  font-size: 125%;
+  font-size: 106%;
   line-height: 1;
 }
 
@@ -153,7 +153,8 @@ body {
   background-repeat:repeat; 
   color: $text-color;
   text-align: left;
-  width: 54%;
+  //width: 54%;
+  width:750px;
   margin: 0 auto;
 }
 
@@ -181,10 +182,10 @@ a {
 
 a.analog {
 	display:inline-block;
-	padding-left:120px;
+	padding-left:100px;
 	padding-top:10px;
 	font-family: "LamplighterScript", Georgia, serif;
-	font-size: 135px;
+	font-size: 125px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: normal;
@@ -195,7 +196,7 @@ a.analog {
   
   a.senses{
   	display:inline-block;
-	font-size: 90px;
+	font-size: 77px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: normal;
@@ -207,8 +208,8 @@ a.analog {
 
 #main {
   clear: both;
-  padding-left:130px;
-  padding-right:130px;
+  padding-left:100px;
+  padding-right:100px;
 }
 
 aside,
@@ -409,7 +410,7 @@ body {
   	background-size: 750px 180px;
     background-repeat: no-repeat;
     background-position:right;
-    padding: 36px 0 26px 0;
+    padding: 48px 0 39px 0;
     //padding: 4.236rem 0 2.618rem 0;
     
     hgroup{	
@@ -432,7 +433,7 @@ body {
 	      //@extend .font-size-large;
 	      //@extend .sans-serif-font;
 	    //color: $secondary-text-color;
-	    display:float-left;
+	    display:none;
 	    padding-top:12px;
 	    color: #4B4B4B; 
 	    font-size: 35px;
@@ -761,15 +762,19 @@ article {
 // ------------------------------
 
 @media screen and (max-width: 1500px) {
-  a.analog{
+   html {
+    font-size: 106%;
+  }
+ 
+ /* a.analog{
  	font-size:125px;
  	margin-left:90px;
  }
   a.senses{
  	font-size:85px;
- }
+ }*/
  body {
-    width: 70%;
+    //width: 65%;
     > header {
       h2{
       	font-size:16px;
@@ -779,8 +784,8 @@ article {
   }
 #main {
   clear: both;
-  padding-left:180px;
-  padding-right:180px;
+  padding-left:100px;
+  padding-right:100px;
   }
 
 }
@@ -788,15 +793,19 @@ article {
 // ------------------------------
 
 @media screen and (max-width: 1300px) {
-  a.analog{
+  html {
+    font-size: 106%;
+  }		
+	
+/*  a.analog{
  	font-size:120px;
  	margin-left:100px;
  }
   a.senses{
  	font-size:80px;
- }
+ }*/
   body {
-    width: 80%;
+    //width: 80%;
     > header {
       h2{
       	font-size:16px;
@@ -807,8 +816,8 @@ article {
   
   #main {
   clear: both;
-  padding-left:150px;
-  padding-right:150px;
+  padding-left:100px;
+  padding-right:100px;
   }
 }
 
@@ -816,6 +825,10 @@ article {
 // ------------------------------
 
 @media screen and (max-width: 1100px) {
+  html {
+    font-size: 106%;
+  }	
+/*	
  a.analog{
  	font-size:110px;
  	margin:0px;
@@ -828,9 +841,9 @@ article {
  	margin-left:10px;
  	padding:0px;
 
- 	}
+ 	}*/
   body {
-    width: 90%;
+    //width: 90%;
     > header {
       h2{
       	font-size:16px;
@@ -840,8 +853,8 @@ article {
   }
 #main {
   clear: both;
-  padding-left:120px;
-  padding-right:120px;
+  padding-left:100px;
+  padding-right:100px;
   }
 
 }
@@ -851,32 +864,37 @@ article {
 // ------------------------------
 
 @media screen and (max-width: 900px) {
- a.analog{
- 	font-size:100px;
+  html {
+    font-size: 106%;
+  }
+
+/* a.analog{
+ 	font-size:110px;
  	margin:0px;
  	margin-left:40px;
  	padding:0px;
  	}
  	a.senses{
- 	font-size:70px;
+ 	font-size:80px;
  	margin:0px;
  	margin-left:10px;
  	padding:0px;
 
- 	}
+ 	}*/
  
   body {
-    width: 90%;
+    //width: 90%;
     > header {
+    padding:50px 0 40px 0;
       h2{
-      display:none;	
+      display:none;   	
       }
   	}  
   }
   #main {
   clear: both;
-  padding-left:40px;
-  padding-right:40px;
+  padding-left:100px;
+  padding-right:100px;
   }
 
 }
@@ -892,7 +910,7 @@ article {
   	display:float-left;
   	text-align:center;
   	margin:0px;
-  	margin-left:145px;
+  	margin-left:40px;
   	margin-bottom:20px;
   	font-size:160px;
   	
@@ -909,16 +927,18 @@ article {
   
   #main {
   clear: both;
-  padding-left:0px;
-  padding-right:0px;
+  padding-left:30px;
+  padding-right:30px;
 }
 
   
   body {
+  	width:90%;
     > header {
       background-image:none;
       margin: 44.401px 0;
       margin: 2.618rem 0;
+      padding:30px 0 15px 0;
       
       h2{
       display:none;	
@@ -965,9 +985,32 @@ article {
 // ------------------------------
 
 @media screen and (max-width: 480px) {
+	
+	a.analog{
+ 		font-size:140px;
+ 		margin:0px;
+ 		margin-left:60px;
+ 		padding:5px;
+ 		text-align:center;
+ 	}
+ 	a.senses{
+ 		font-size:90px;
+ 		margin:0px;
+ 		margin-left:50px;
+ 		padding:5px;
+ 		text-align:center;
+ 	}	
+ 	
+ 	  #main {
+  clear: both;
+  padding-left:10px;
+  padding-right:10px;
+}
+ 	
   body > header {
     margin: 32.495px 0;
     margin: 1.916rem 0;
+    padding: 20px 0 10px 0;
     
     h1 {
       font-size: 37.244px;
@@ -990,6 +1033,7 @@ article {
       
       li {
         font-weight: normal;
+        font-size:
       }
       
       li + li {
