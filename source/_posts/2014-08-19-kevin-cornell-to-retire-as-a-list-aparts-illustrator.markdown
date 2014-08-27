@@ -10,27 +10,18 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://alistapart.com/blog/post/my-favorite-kevin-cornell
 ---
-
-[Kevin Cornell to retire as A List Apart's illustrator](http://alistapart.com/blog/post/my-favorite-kevin-cornell)
-
-
 
 <blockquote>After 200 issues—yes, _two hundred_—Kevin Cornell is retiring from his post as _A List Apart_’s staff illustrator. Tomorrow’s issue will be the last one featuring new illustrations from him.
 
 Sob.</blockquote>
 
-
-
 Sob indeed.
 
 Via [Rands](http://randsinrepose.com/links/2014/08/18/my-favorite-kevin-cornell/), who adds:
 
-
-
 <blockquote>I was fortunate enough to have him illustrate the very first (out of print) [Rands t-shirt](http://randsinrepose.com/archives/a-pleasant-elsewhere/). Can’t wait to see what he tackles next.</blockquote>
-
-
 
 [I have it](http://instagram.com/p/CbdGV/), and it's always been my favorite of all the Rands t-shirts.
 

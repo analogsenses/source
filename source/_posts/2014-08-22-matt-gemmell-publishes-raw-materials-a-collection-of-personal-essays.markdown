@@ -11,17 +11,12 @@ categories:
 - Writing
 post_format:
 - Link
+external-url: http://mattgemmell.com/raw-materials-collected-essays/
 ---
-
-[Matt Gemmell publishes Raw Materials, a collection of personal essays](http://mattgemmell.com/raw-materials-collected-essays/)
-
-
 
 <blockquote>I’m excited to announce that I’ve compiled an anthology of some of my most popular personal essays, and made them available as an e-book.
 
 The collection is entitled Raw Materials, and includes revised and updated versions of each piece, with new author’s notes after each one, plus an exclusive extra essay written especially for the collection.</blockquote>
-
-
 
 It's great to have this selection available as a Kindle book. As much as I enjoy Matt's writing about technology, software development, productivity and the like, I believe his more personal pieces are when he is undoubtedly at his best.[footnote]I still don't know how his fiction writing is, but I can't wait to find out.[/footnote]
 

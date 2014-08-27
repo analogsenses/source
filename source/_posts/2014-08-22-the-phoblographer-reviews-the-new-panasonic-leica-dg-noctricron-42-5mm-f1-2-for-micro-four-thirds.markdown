@@ -12,17 +12,12 @@ categories:
 - Photography
 post_format:
 - Link
+external-url: http://www.thephoblographer.com/2014/08/21/review-panasonic-42-5mm-f1-2-micro-four-thirds/
 ---
-
-[The Phoblographer reviews the new Panasonic Leica DG Nocticron 42.5mm f1.2  for Micro Four Thirds](http://www.thephoblographer.com/2014/08/21/review-panasonic-42-5mm-f1-2-micro-four-thirds/#.U_cQI0tWfVQ)
 
 They seem to like it:
 
-
-
 <blockquote>This has to be by far the most solid feeling Micro Four Thirds lens that we’ve ever handled. It feels every bit as solid and well constructed as a Leica lens would–and indeed it is co-branded with a Leica badge. However, it isn’t weather sealed so we need to keep that in mind when shooting.</blockquote>
-
-
 
 It clearly looks like a great portrait lens for Micro Four Thirds cameras, and almost [every](http://www.mu-43.com/showthread.php?t=61546) [reviewer](http://www.stevehuffphoto.com/2014/03/31/the-panasonic-leica-nocticron-42-5-f1-2-lens-review-comparison/) is saying so. However, I find it a bit odd that this review doesn't mention the Voigtlander 42.5mm f0.95 lens, which in my opinion is the closest competitor of the Nocticron. 
 

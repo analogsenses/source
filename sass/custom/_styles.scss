@@ -21,6 +21,7 @@ to learn about modular scales.
 -------------------------------------------------------------------------
 */
 
+
 /* import typography */
 @import "typography.scss";
 
@@ -161,6 +162,7 @@ body {
 img {
   width: auto;
   max-width: 100%;
+  border: 1px #4b4b4b solid;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -205,6 +207,12 @@ a.analog {
 	text-transform: none;
 	text-shadow: white 0px 2px 1px;
   }
+  
+  a img {
+  width: auto;
+  max-width: 100%;
+  border: 1px #4b4b4b solid;
+}
 
 #main {
   clear: both;
@@ -606,15 +614,27 @@ article {
       line-height: 52.96px;
       line-height: 2.648rem; /* 1.916 + 0.732 */
       
-      a, a:hover {
+      
+      a {
         color: $text-color;
       }
+      a:hover {
+        color: $accent-hover-color;
+      }
+      
     }
+    
+    a.external-permalink{
+    	font-size:120%;
+    	text-decoration:none;
+    }
+    
     
     p.meta {
       @extend .font-size-medium;
       @extend .sans-serif-font;
       color: $secondary-text-color;
+      font-weight:normal;
       line-height: 1.184rem;
       text-align: left;
       
@@ -639,6 +659,14 @@ article {
     margin-bottom: 20px;
     margin-bottom: 1rem;
   }
+  
+  h1.external-title{
+  	font-size:35px;
+  	a{
+  		font-size:35px;
+  		}
+  	
+  	}
   
   h2 {
     font-size: 30.56px;
@@ -698,8 +726,10 @@ article {
   
   footer {
     @extend .sans-serif-font;
-    padding-top: 12.361px;
-    padding-top: 0.618rem;
+    //padding-top: 12.361px;
+    //padding-top: 0.618rem;
+    padding-top: 0px;
+
     
     > span > a {
       text-decoration: underline;

@@ -10,8 +10,7 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://bearskinrug.co.uk/farewellala/
 ---
-
-["Farewell" | Bearskinrug](http://bearskinrug.co.uk/farewellala/)
 
 Speaking of Kevin Cornell, here's his personal farewell message to A List Apart. Perfect.
