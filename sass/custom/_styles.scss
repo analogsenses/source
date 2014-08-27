@@ -208,8 +208,8 @@ a.analog {
 
 #main {
   clear: both;
-  padding-left:100px;
-  padding-right:100px;
+  padding-left:90px;
+  padding-right:90px;
 }
 
 aside,
@@ -885,6 +885,7 @@ article {
   body {
     width: 740px;;
     > header {
+     	padding: 55px 0 45px 0;
       h2{
       display:none;   	
       }
@@ -965,6 +966,11 @@ article {
       //border-bottom: 1px solid $line-color;
       padding: 16.96px 0;
       padding: 1rem 0;
+      
+      li{
+  		padding-left:0px;
+  	  }
+      
     }
     
     ul, form {
