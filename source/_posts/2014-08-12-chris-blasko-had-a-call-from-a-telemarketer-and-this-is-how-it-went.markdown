@@ -10,14 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: https://plus.google.com/%2BChrisBlasko/posts/GzCuzTyUXNq
 ---
 
-[Chris Blasko had a call from a telemarketer and this is how it went](https://plus.google.com/%2BChrisBlasko/posts/GzCuzTyUXNq)
-
-
-
 <blockquote>Today is a good day. I just had a call from a telemarketer. Did I yell and scream at them, you ask? Certainly not. Like a good IT administrator I put my skills to use for their benefit. Heres how the conversation went:</blockquote>
-
-
 
 This was pretty awesome.

@@ -10,17 +10,12 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://hellogiggles.com/fathers-shouldnt-say-cant-daughters
 ---
-
-[Dear Dads: Here’s How to Talk to Girls](http://hellogiggles.com/fathers-shouldnt-say-cant-daughters)
 
 Angelica Asadi:
 
-
-
 <blockquote>One of my favorite quotes is by the beautiful and talented comedian, Sarah Silverman, in her HBO special _We Are Miracles_. She says: “Stop telling girls they can be anything they want when they grow up. I think it’s a mistake, not because they can’t, but because it would’ve never occurred to them they couldn’t.”</blockquote>
-
-
 
 _Exactly_. 
 

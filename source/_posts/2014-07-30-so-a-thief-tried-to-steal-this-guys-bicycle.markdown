@@ -10,14 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://imgur.com/gallery/7SU8O
 ---
-
-[So a thief tried to steal this guy's bicycle...](http://imgur.com/gallery/7SU8O)
-
 
 
 <blockquote>After a long day at work in Times Square, I find my bike locked with a mysterious Kryptonite U-lock. It's an old trick. The thief will come back in the dead of night, release their lock, and pop my chain with a bolt-cutter. But I ain't givin up that easy.</blockquote>
-
-
 
 This is awesome on so many levels.

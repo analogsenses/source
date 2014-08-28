@@ -11,9 +11,8 @@ categories:
 - Photography
 post_format:
 - Link
+external-url: http://www.thesartorialist.com/
 ---
-
-[Life is beautiful at The Sartorialist](http://www.thesartorialist.com/)
 
 If you enjoy street photography and, more precisely, gorgeous pictures of beautiful, impeccably dressed people, The Sartorialist is for you.
 

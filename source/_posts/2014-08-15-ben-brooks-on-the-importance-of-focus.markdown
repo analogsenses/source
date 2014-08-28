@@ -11,19 +11,14 @@ categories:
 - Writing
 post_format:
 - Link
+external-url: https://brooksreview.net/2014/08/nothing-to-do-with-photography/
 ---
-
-[Ben Brooks on the importance of focus | The Brooks Review](https://brooksreview.net/2014/08/nothing-to-do-with-photography/)
-
-
 
 <blockquote>I used to write a productivity blog, and a photography blog too. Those are still topics I know and love, but they aren’t what has captivated _most_ of my attention.
 
 As with everyone I get bored. I get bored with reading the same shit on fifteen different websites each day (and I know I always say this), but then I quickly go back to posting that same shit like everyone else.
 
 _Because it is easy_.</blockquote>
-
-
 
 I think it's great that Ben is changing things around, trying to recover his passion and energy. I've noticed the recent change in focus and style on The Brooks Review, and it's been clearly for the better. I've been guilty of the same mistakes here in the past, but lately I've also been making a conscious effort to devote the majority of my time to the things that are truly important to me.
 
