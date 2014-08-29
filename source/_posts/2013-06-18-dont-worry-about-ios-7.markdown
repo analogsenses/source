@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.loopinsight.com/2013/06/17/dont-worry-about-ios-7/
 ---
-
-[Don’t worry about iOS 7 | The Loop](http://www.loopinsight.com/2013/06/17/dont-worry-about-ios-7/)
 
 Jim Dalrymple, on the recent wave on enthusiasm/criticism about iOS 7:
 

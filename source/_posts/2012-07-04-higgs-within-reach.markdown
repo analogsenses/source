@@ -4,17 +4,14 @@ comments: false
 date: 2012-07-04 10:51:05+00:00
 layout: post
 slug: higgs-within-reach
-title: Higgs within reach
+title: Higgs within reach | CERN
 wordpress_id: 1637173184
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://public.web.cern.ch/public/
 ---
-
-[Higgs within reach | CERN](http://public.web.cern.ch/public/)
-
-
 
 <blockquote>Our understanding of the universe is about to change…</blockquote>
 

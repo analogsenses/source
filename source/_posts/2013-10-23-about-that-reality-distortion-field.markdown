@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://blogs.technet.com/b/microsoft_blog/archive/2013/10/23/apples-and-oranges.aspx
 ---
-
-[About that Reality Distortion Field...](http://blogs.technet.com/b/microsoft_blog/archive/2013/10/23/apples-and-oranges.aspx)
 
 Frank Shaw, Corporate Vice President of Communications at Microsoft, writing on The Official Microsoft Blog:
 

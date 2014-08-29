@@ -11,10 +11,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://appleinsider.com/articles/13/07/06/editorial-apple-google-and-the-failure-of-open
 ---
 
-[Apple, Google and the Failure of Open | Apple Insider](http://appleinsider.com/articles/13/07/06/editorial-apple-google-and-the-failure-of-open)
-
+Apple Insider:
 
 
 <blockquote>Open Source enthusiasts love to tell you Android is winning, and that it is winning because it is open. But they're wrong on both counts. The history of computing makes that abundantly clear, as do the current leaders in profitability.

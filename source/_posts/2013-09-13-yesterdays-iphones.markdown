@@ -11,11 +11,11 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.marco.org/2013/09/11/iphones
 ---
 
-[Yesterday's iPhones | Marco.org](http://www.marco.org/2013/09/11/iphones)
 
-Marco nails it:
+Marco Arment nails it:
 
 
 

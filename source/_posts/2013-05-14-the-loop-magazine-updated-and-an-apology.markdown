@@ -12,9 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.loopinsight.com/2013/05/13/the-loop-magazine-updated-and-an-apology/
 ---
-
-[The Loop Magazine updated and an apology](http://www.loopinsight.com/2013/05/13/the-loop-magazine-updated-and-an-apology/)
 
 Jim Dalrymple, on the subscription bug that plagued the first two releases of the excellent [The Loop Magazine](http://www.loopinsight.com/2013/05/09/the-loop-magazine-for-iphone-and-ipad-released/) app: 
 

@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.salon.com/2011/09/15/roger_ebert/
 ---
-
-[“I do not fear death”](http://www.salon.com/2011/09/15/roger_ebert/)
 
 Roger Ebert back in September, 2011:
 

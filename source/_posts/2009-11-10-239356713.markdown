@@ -11,8 +11,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.thequotefactory.com/quote-by/bram-stoker/welcome-to-my-house-come-freely/496290
 ---
 
-[Welcome to my house. Come freely. Go safely; and leave something of the happiness you bring!"](http://www.thequotefactory.com/quote-by/bram-stoker/welcome-to-my-house-come-freely/496290)
+<blockquote>Welcome to my house. Come freely. Go safely; and leave something of the happiness you bring!</blockquote>
 
 **Bram Stoker (1847-1912)**, _Dracula (1897)._

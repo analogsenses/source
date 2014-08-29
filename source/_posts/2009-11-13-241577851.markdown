@@ -11,8 +11,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/25835.html
 ---
 
-[The first step to getting the things you want out of life is this: Decide what you want."](http://www.quotationspage.com/quote/25835.html)
+<blockquote>The first step to getting the things you want out of life is this: Decide what you want.</blockquote>
 
 **Ben Stein (1944-)**

@@ -11,10 +11,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://news.cnet.com/8301-13579_3-57620109-37/apples-ios-7.1-lands-with-carplay-improved-fingerprint-scanner/
 ---
 
-[Apples iOS 7.1 lands with CarPlay, improved fingerprint scanner | CNET News](http://news.cnet.com/8301-13579_3-57620109-37/apples-ios-7.1-lands-with-carplay-improved-fingerprint-scanner/)
-
+CNET News:
 
 
 <blockquote>Apple on Monday released an update to its iOS 7 mobile operating system -- iOS 7.1 -- that adds new features such as CarPlay and fixes bugs.

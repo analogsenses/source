@@ -14,8 +14,9 @@ post_format:
 tags:
 - movies
 - Quote
+external-url: http://www.imdb.com/title/tt0335266/quotes
 ---
 
-[You want more mysterious? I'll just try and think, "Where the hell's the whiskey?" ](http://www.imdb.com/title/tt0335266/quotes)
+<blockquote>You want more mysterious? I'll just try and think, "Where the hell's the whiskey?"</blockquote>
 
 **Bob Harris**, _Lost in Translation (2003)_.

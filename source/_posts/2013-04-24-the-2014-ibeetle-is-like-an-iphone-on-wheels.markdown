@@ -4,15 +4,14 @@ comments: false
 date: 2013-04-24 09:07:47+00:00
 layout: post
 slug: the-2014-ibeetle-is-like-an-iphone-on-wheels
-title: The 2014 iBeetle Is Like an iPhone on Wheels
+title: The 2014 iBeetle Is Like an iPhone on Wheels | The NY Times
 wordpress_id: 1637173388
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://wheels.blogs.nytimes.com/2013/04/22/the-2014-ibeetle-is-like-an-iphone-on-wheels/
 ---
-
-[The 2014 iBeetle Is Like an iPhone on Wheels | NYTimes.com](http://wheels.blogs.nytimes.com/2013/04/22/the-2014-ibeetle-is-like-an-iphone-on-wheels/)
 
 This has the potential to be really cool. The Beetle is an iconic car, probably my favorite car since its last redesign a couple years ago. Next year's model looks promising:
 

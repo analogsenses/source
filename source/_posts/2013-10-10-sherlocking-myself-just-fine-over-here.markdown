@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.marco.org/2013/10/08/sherlocking-myself
 ---
-
-[Sherlocking Myself Just Fine Over Here | Marco.org](http://www.marco.org/2013/10/08/sherlocking-myself)
 
 Marco Arment shares his thoughts on whether it makes sense for iOS developers to target well-established, popular markets in the App Store:
 

@@ -4,16 +4,15 @@ comments: false
 date: 2013-02-26 11:48:39+00:00
 layout: post
 slug: the-making-of-pulp-fiction
-title: The Making of Pulp Fiction
+title: The Making of Pulp Fiction | Vanity Fair
 wordpress_id: 1637173331
 categories:
 - Digital Life
 - Movies
 post_format:
 - Link
+external-url: http://www.vanityfair.com/hollywood/2013/03/making-of-pulp-fiction-oral-history
 ---
-
-[The Making of Pulp Fiction: Quentin Tarantino’s and the Cast’s Retelling | Vanity Fair](http://www.vanityfair.com/hollywood/2013/03/making-of-pulp-fiction-oral-history)
 
 And this, my friends, is why I love movies. A fun teaser:
 

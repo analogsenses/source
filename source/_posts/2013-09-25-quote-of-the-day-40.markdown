@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/30312.html
 ---
 
-[I'm not dumb. I just have a command of thoroughly useless information".](http://www.quotationspage.com/quote/30312.html)
+<blockquote>I'm not dumb. I just have a command of thoroughly useless information.</blockquote>
 
 **Bill Watterson**, US cartoonist (1958 - ), _Calvin and Hobbes: It's a Magical World_.

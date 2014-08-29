@@ -4,16 +4,15 @@ comments: false
 date: 2012-07-25 11:37:43+00:00
 layout: post
 slug: manually-migrating-to-a-new-mac
-title: Manually Migrating to a New Mac
+title: Manually Migrating to a New Mac | Matt Gemmell
 wordpress_id: 1637173230
 categories:
 - Apple
 - Digital Life
 post_format:
 - Link
+external-url: http://mattgemmell.com/2011/06/20/manually-migrating-to-a-new-mac/
 ---
-
-[Manually migrating to a new Mac | Matt Gemmell](http://mattgemmell.com/2011/06/20/manually-migrating-to-a-new-mac/)
 
 Great news for Mac geeks all around: today is Upgrade Day. OS X Mountain Lion, the next major version of Apple's desktop operating system (previously known as Mac OS X), [is due out today](http://www.macworld.com/article/1167849/apple_to_ship_mountain_lion_on_wednesday.html).
 

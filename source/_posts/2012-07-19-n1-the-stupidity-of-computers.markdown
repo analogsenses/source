@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://nplusonemag.com/the-stupidity-of-computers
 ---
-
-[The Stupidity of Computers | n+1](http://nplusonemag.com/the-stupidity-of-computers)
 
 Fantastic essay by David Auerbach on the current state and technical challenges of the human search for artificial intelligence:
 

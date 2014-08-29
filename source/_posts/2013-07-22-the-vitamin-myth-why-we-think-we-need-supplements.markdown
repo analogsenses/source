@@ -10,10 +10,11 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.theatlantic.com/health/archive/2013/07/the-vitamin-myth-why-we-think-we-need-supplements/277947/
 ---
 
-[The Vitamin Myth: Why We Think We Need Supplements | The Atlantic](http://www.theatlantic.com/health/archive/2013/07/the-vitamin-myth-why-we-think-we-need-supplements/277947/)
 
+The Atlantic:
 
 
 <blockquote>The logic is obvious: if fruits and vegetables contain antioxidants -- and people who eat lots of fruits and vegetables are healthier -- then people who take supplemental antioxidants should also be healthier.

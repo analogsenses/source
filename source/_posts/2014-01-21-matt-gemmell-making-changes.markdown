@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://mattgemmell.com/making-changes/
 ---
-
-[Making changes | Matt Gemmell](http://mattgemmell.com/making-changes/)
 
 Matt Gemmell explains the reasons behind his career transition into writing full-time. Refreshingly honest article, as usual:
 

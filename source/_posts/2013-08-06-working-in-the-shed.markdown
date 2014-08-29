@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://mattgemmell.com/2013/07/31/working-in-the-shed/
 ---
-
-[Working in the Shed | Matt Gemmell](http://mattgemmell.com/2013/07/31/working-in-the-shed/)
 
 Matt Gemmell, on how important it is to find the right place to work, one that allows you to focus your creative energy instead of wasting it on distractions. Lots of great stuff in here:
 

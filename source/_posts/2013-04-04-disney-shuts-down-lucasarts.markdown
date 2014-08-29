@@ -4,16 +4,14 @@ comments: false
 date: 2013-04-04 09:15:32+00:00
 layout: post
 slug: disney-shuts-down-lucasarts
-title: Disney Shuts Down LucasArts
+title: Disney Shuts Down LucasArts | Kotaku
 wordpress_id: 1637173372
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://kotaku.com/disney-shuts-down-lucasarts-468473749
 ---
-
-[Disney Shuts Down LucasArts | Kotaku](http://kotaku.com/disney-shuts-down-lucasarts-468473749)
-
 
 
 <blockquote>Staff were informed of the shutdown this morning, according to a reliable Kotaku source. Some 150 people were laid off, and both of the studio's current projects—Star Wars: First Assault and Star Wars 1313—were cancelled. Disney will still use the LucasArts name to license games, but the studio is no more.

@@ -11,8 +11,7 @@ categories:
 - Travel
 post_format:
 - Link
+external-url: http://instagram.com/p/Mskvyqxay7/
 ---
-
-[Speaking of cool things that can happen on your birthday...](http://instagram.com/p/Mskvyqxay7/)
 
 I love that in this day and age, things like these are possible. We do live in interesting times.

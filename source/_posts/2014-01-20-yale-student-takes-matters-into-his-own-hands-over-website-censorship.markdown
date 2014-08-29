@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://haufler.org/2014/01/19/i-hope-i-dont-get-kicked-out-of-yale-for-this/
 ---
-
-[Yale student takes matters into his own hands over website censorship | Haufler.org](http://haufler.org/2014/01/19/i-hope-i-dont-get-kicked-out-of-yale-for-this/)
 
 [Sean Haufler](http://haufler.org), an Economics student at Yale, on how the University censored a course-selection website made by two fellow Yale students:
 

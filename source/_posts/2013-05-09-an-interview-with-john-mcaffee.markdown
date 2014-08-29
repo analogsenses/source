@@ -4,15 +4,14 @@ comments: false
 date: 2013-05-09 08:23:44+00:00
 layout: post
 slug: an-interview-with-john-mcaffee
-title: An interview with John McAffee
+title: An interview with John McAffee | Slashdot
 wordpress_id: 1637173395
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://features.slashdot.org/story/13/05/07/2017203/interview-john-mcafee-answers-your-questions
 ---
-
-[An interview with John McAffee | Slashdot](http://features.slashdot.org/story/13/05/07/2017203/interview-john-mcafee-answers-your-questions)
 
 The man has lived an interesting life, I'll give him that:
 

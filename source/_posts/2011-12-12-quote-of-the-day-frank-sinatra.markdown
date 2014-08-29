@@ -11,8 +11,9 @@ categories:
 - Music
 post_format:
 - Quote
+external-url: http://home.earthlink.net/~ggsurplus/words2.html
 ---
 
-[You only live once, and the way I live, once is enough."](http://home.earthlink.net/~ggsurplus/words2.html)
+<blockquote>You only live once, and the way I live, once is enough.</blockquote>
 
 **Frank Sinatra (1915-1998).**

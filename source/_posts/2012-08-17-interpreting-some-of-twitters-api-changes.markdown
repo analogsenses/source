@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.marco.org/2012/08/16/twitter-api-changes
 ---
-
-[Interpreting some of Twitter’s API changes | Marco.org](http://www.marco.org/2012/08/16/twitter-api-changes)
 
 Marco Arment, on the "Individual Tweet" section of Twitter's [Display Guidelines](https://dev.twitter.com/terms/display-guidelines), which will become Requirements in the near future:
 

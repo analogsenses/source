@@ -782,8 +782,6 @@ article {
   
   footer {
     @extend .sans-serif-font-bold;
-    //padding-top: 12.361px;
-    //padding-top: 0.618rem;
     padding-top: 0px;
     text-shadow: white 0px 1px 0px;
     font-size:25px;
@@ -794,13 +792,13 @@ article {
     
     > p.meta {
       @extend .sans-serif-font-bold;
+      font-size:25px;
       overflow: auto;
       padding-bottom: 38.319px;
       padding-bottom: 1.916rem;
-      
+            
       &:first-child {
       	@extend .sans-serif-font;
-        //@extend .font-size-smallest;
         font-size:14px;
         @extend .margin-bottom-large;
         padding-bottom: 14.637px;

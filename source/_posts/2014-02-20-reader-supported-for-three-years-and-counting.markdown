@@ -4,16 +4,15 @@ comments: false
 date: 2014-02-20 17:45:55+00:00
 layout: post
 slug: reader-supported-for-three-years-and-counting
-title: Reader Supported for Three Years (And Counting…)
+title: Reader Supported for Three Years (And Counting…) | Shawn Blanc
 wordpress_id: 1637173838
 categories:
 - Apple
 - Digital Life
 post_format:
 - Link
+external-url: http://shawnblanc.net/2014/02/reader-supported/
 ---
-
-[Reader Supported for Three Years (And Counting…) | Shawn Blanc](http://shawnblanc.net/2014/02/reader-supported/)
 
 To paraphrase his title, 3 years as a proud member (and counting...):
 

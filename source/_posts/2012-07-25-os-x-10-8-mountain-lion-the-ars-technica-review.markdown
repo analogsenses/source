@@ -11,10 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://arstechnica.com/apple/2012/07/os-x-10-8/
 ---
-
-[OS X 10.8 Mountain Lion: the Ars Technica review | Ars Technica](http://arstechnica.com/apple/2012/07/os-x-10-8/)
-
 
 
 <blockquote>[And here we... go](http://www.youtube.com/watch?v=xSLlZh9yelk).</blockquote>

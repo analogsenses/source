@@ -4,16 +4,14 @@ comments: false
 date: 2014-02-04 09:25:53+00:00
 layout: post
 slug: paper-the-opening-sentence-in-facebooks-10-year-plan
-title: Paper, The Opening Sentence In Facebook's 10-Year Plan
+title: Paper, The Opening Sentence In Facebook's 10-Year Plan | Co.Design
 wordpress_id: 1637173794
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.fastcodesign.com/3025755/paper-the-opening-sentence-in-facebooks-next-10-year-plan
 ---
-
-[Paper, The Opening Sentence In Facebook's 10-Year Plan | Co.Design](http://www.fastcodesign.com/3025755/paper-the-opening-sentence-in-facebooks-next-10-year-plan)
-
 
 
 <blockquote>Paper radically re-imagines what Facebook is on a mobile device as a fluid river of cards featuring news articles, photos, status updates, and more, with no ads to sully the experience (yet). It's being released next week on February 3rd, just one day before Facebook's 10-year anniversary, and there's a reason for that: Paper is the opening sentence in Facebook's next 10-year plan.</blockquote>

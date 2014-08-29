@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.marco.org/2013/11/26/penny-arcade-awful-job
 ---
-
-[Penny Arcade’s Insultingly Horrible Job | Marco.org](http://www.marco.org/2013/11/26/penny-arcade-awful-job)
 
 Marco Arment, on a terrible job offer from Penny Arcade:
 

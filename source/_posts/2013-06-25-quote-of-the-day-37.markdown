@@ -11,8 +11,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/26216.html
 ---
 
-[The great tragedy of Science: the slaying of a beautiful hypothesis by an ugly fact."](http://www.quotationspage.com/quote/26216.html)
+<blockquote>The great tragedy of Science: the slaying of a beautiful hypothesis by an ugly fact.</blockquote>
 
 **Thomas H. Huxley (1825 - 1895)**, English biologist

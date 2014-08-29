@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.theverge.com/2013/8/13/4605528/your-meat-addiction-is-destroying-the-planet-but-we-can-fix-it
 ---
-
-[Your meat addiction is destroying the planet | The Verge](http://www.theverge.com/2013/8/13/4605528/your-meat-addiction-is-destroying-the-planet-but-we-can-fix-it)
 
 Great piece by Laura June for The Verge:
 

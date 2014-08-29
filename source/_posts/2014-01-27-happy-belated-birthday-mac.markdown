@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.apple.com/30-years/
 ---
-
-[Thirty Years of Mac | Apple](http://www.apple.com/30-years/)
 
 Wonderful special feature on Apple's website about the history of the Mac. It all started in 1984 with a boyish-looking Steve Jobs and the promise of insanely great things. 30 years later, the Mac has become an iconic piece of technology that empowers artists, designers, writers and many more creative professionals to be the very best they can be. It has literally changed the world; it's made a dent in the Universe.
 

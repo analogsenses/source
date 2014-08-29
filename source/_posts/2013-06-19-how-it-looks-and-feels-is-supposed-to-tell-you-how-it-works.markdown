@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://binarybonsai.com/blog/ios7
 ---
-
-[How It Looks And Feels Is Supposed To Tell You How It Works | Binary Bonsai](http://binarybonsai.com/blog/ios7)
 
 Michael Heilemann, on some of the questionable design choices made by Apple in iOS 7:
 

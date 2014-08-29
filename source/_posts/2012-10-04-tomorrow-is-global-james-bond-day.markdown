@@ -10,10 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.007.com/global-james-bond-day-announced/
 ---
-
-[Tomorrow is Global James Bond Day:](http://www.007.com/global-james-bond-day-announced/)
-
 
 
 <blockquote>It has been announced that October 5th, 2012 will be Global James Bond Day, a day-long series of events for 007 fans around the world.</blockquote>

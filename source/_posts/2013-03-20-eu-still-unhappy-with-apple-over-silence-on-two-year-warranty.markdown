@@ -12,10 +12,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://arstechnica.com/apple/2013/03/eu-still-unhappy-with-apple-over-silence-on-two-year-warranty/
 ---
 
-[EU still unhappy with Apple over silence on two-year warranty | Ars Technica](http://arstechnica.com/apple/2013/03/eu-still-unhappy-with-apple-over-silence-on-two-year-warranty/)
-
+Ars Technica:
 
 
 <blockquote>The EU remains unhappy with Apple when it comes to informing customers about their right to a two-year warranty on their purchases, as reported by Dow Jones Business News. EU Justice Commissioner Viviane Reding spoke on Tuesday about Apple's warranty practices, pointing out that the company hasn't been forthcoming in making customers aware that they can get free hardware repairs past Apple's standard one-year warranty period, even after facing fines and lawsuits throughout Europe.</blockquote>

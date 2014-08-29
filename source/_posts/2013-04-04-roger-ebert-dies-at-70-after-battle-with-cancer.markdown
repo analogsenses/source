@@ -4,15 +4,14 @@ comments: false
 date: 2013-04-04 20:59:59+00:00
 layout: post
 slug: roger-ebert-dies-at-70-after-battle-with-cancer
-title: Roger Ebert dies at 70 after battle with cancer
+title: Roger Ebert dies at 70 after battle with cancer | Chicago Sun-Times
 wordpress_id: 1637173378
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.suntimes.com/news/metro/17320958-418/roger-ebert-dies-at-70-after-battle-with-cancer.html
 ---
-
-[Roger Ebert dies at 70 after battle with cancer | Chicago Sun-Times](http://www.suntimes.com/news/metro/17320958-418/roger-ebert-dies-at-70-after-battle-with-cancer.html)
 
 Damn. Another one of the good ones is gone:
 

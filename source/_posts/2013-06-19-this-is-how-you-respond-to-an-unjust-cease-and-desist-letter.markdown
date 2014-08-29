@@ -10,10 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://gawker.com/this-is-how-you-respond-to-an-unjust-cease-and-desist-l-514155395
 ---
-
-[This Is How You Respond to an Unjust Cease and Desist Letter](http://gawker.com/this-is-how-you-respond-to-an-unjust-cease-and-desist-l-514155395)
-
 
 
 <blockquote>When retainer attorneys employed by Big Deals send out scary cease and desist letters to nobodies on behalf of their Super Important clients, it's typically a pro forma matter.

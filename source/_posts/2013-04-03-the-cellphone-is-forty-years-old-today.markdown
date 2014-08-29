@@ -4,15 +4,14 @@ comments: false
 date: 2013-04-03 09:07:53+00:00
 layout: post
 slug: the-cellphone-is-forty-years-old-today
-title: The cellphone is forty years old today
+title: The cellphone is forty years old today | The Verge
 wordpress_id: 1637173370
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.theverge.com/2013/4/3/4177844/the-cellphone-is-forty-years-old-today
 ---
-
-[The cellphone is forty years old today | The Verge](http://www.theverge.com/2013/4/3/4177844/the-cellphone-is-forty-years-old-today)
 
 Wow. Forty years. That doesn't seem possible:
 

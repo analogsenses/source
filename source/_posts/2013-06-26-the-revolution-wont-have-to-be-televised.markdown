@@ -10,10 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://patrickrhone.com/2013/06/26/the-revolution-wont-have-to-be-televised/
 ---
 
-[The Revolution Won’t Have To Be Televised | Patrick Rhone](http://patrickrhone.com/2013/06/26/the-revolution-wont-have-to-be-televised/)
-
+Patrick Rhone:
 
 
 <blockquote>The old guard has not learned that yet. They still believe in a world where, if they don’t cover it, no one will find out. That the truth only exists the way they wish to tell it, when they wish to tell it, if they wish to tell the truth at all.

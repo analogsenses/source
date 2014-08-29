@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://shawnblanc.net/2014/01/the-weekly-briefly-indie-life/
 ---
-
-[Shawn Blanc introduces his new podcast, The Weekly Briefly](http://shawnblanc.net/2014/01/the-weekly-briefly-indie-life/)
 
 From my review on iTunes (which, by the way, is something you should always do for the shows you like):
 

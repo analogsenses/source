@@ -10,9 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www2.macleans.ca/2013/11/30/thanks-for-the-tip-ill-get-it-on-amazon/
 ---
 
-[Thanks for the tip, I’ll get it on Amazon | Macleans](http://www2.macleans.ca/2013/11/30/thanks-for-the-tip-ill-get-it-on-amazon/)
+Macleans:
 
 
 

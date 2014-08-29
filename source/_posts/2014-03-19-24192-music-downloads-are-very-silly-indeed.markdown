@@ -4,15 +4,14 @@ comments: false
 date: 2014-03-19 09:58:06+00:00
 layout: post
 slug: 24192-music-downloads-are-very-silly-indeed
-title: 24/192 Music Downloads are Very Silly Indeed
+title: 24/192 Music Downloads are Very Silly Indeed | Xiph.org
 wordpress_id: 1637173875
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://xiph.org/~xiphmont/demo/neil-young.html
 ---
-
-[24/192 Music Downloads are Very Silly Indeed | Xiph.org](http://xiph.org/~xiphmont/demo/neil-young.html)
 
 The Internet has been going back and forth over the past few weeks on the topic of high-quality, uncompressed digital audio files. It's always been a sensitive subject, mostly due to terribly uninformed, so-called "audio experts" muddling the waters with their biased opinion. However, things got considerably worse after Pono, the [Kickstarter project](https://www.kickstarter.com/projects/1003614822/ponomusic-where-your-soul-rediscovers-music) famously endorsed by Neil Young, was successfully funded a few days ago.
 

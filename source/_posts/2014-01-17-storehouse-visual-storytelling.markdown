@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: https://www.storehouse.co/
 ---
-
-[Storehouse: visual storytelling](https://www.storehouse.co/)
 
 Great new iPad app to share your photos and videos in an attractive, easy to navigate way. [John Gruber](http://daringfireball.net/linked/2014/01/16/storehouse) explains it:
 

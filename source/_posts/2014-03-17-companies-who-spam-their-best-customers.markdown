@@ -4,15 +4,14 @@ comments: false
 date: 2014-03-17 21:15:42+00:00
 layout: post
 slug: companies-who-spam-their-best-customers
-title: Companies who Spam Their Best Customers
+title: Companies who Spam Their Best Customers | Shawn Blanc
 wordpress_id: 1637173855
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://shawnblanc.net/2012/01/spaghetti-spam/
 ---
-
-[Companies who Spam Their Best Customers | Shawn Blanc](http://shawnblanc.net/2012/01/spaghetti-spam/)
 
 Old article, but still very relevant today:
 

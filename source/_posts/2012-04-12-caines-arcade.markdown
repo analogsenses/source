@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://vimeo.com/40000072
 ---
-
-[Caine's Arcade | Vimeo](http://vimeo.com/40000072)
 
 This is, without a doubt, the best thing you will watch today.
 

@@ -11,10 +11,10 @@ categories:
 - Writing
 post_format:
 - Link
+external-url: http://mattgemmell.com/own-your-words/
 ---
 
-[Own your words | Matt Gemmell](http://mattgemmell.com/own-your-words/)
-
+Matt Gemmell:
 
 
 <blockquote>I do have an issue with giving away your words just because it’s easy to do so. By default, your words should be yours, and that means more than being attributed: it also means gathering them together in your own publication, controlled by you, that serves as a place for your own voice to be heard above and instead of all others.</blockquote>

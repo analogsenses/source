@@ -10,9 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://mattgemmell.com/2013/01/25/the-unfollower/
 ---
 
-[The Unfollower | Matt Gemmell](http://mattgemmell.com/2013/01/25/the-unfollower/)
+Matt Gemmell: 
 
 
 

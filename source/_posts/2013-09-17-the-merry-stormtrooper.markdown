@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://alistapart.com/column/the-merry-stormtrooper
 ---
-
-[The Merry Stormtrooper | An A List Apart Column](http://alistapart.com/column/the-merry-stormtrooper)
 
 Nishant Kothary, a former Microsoft employee, has an interesting view on they key to success:
 

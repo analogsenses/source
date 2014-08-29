@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://mattgemmell.com/2013/10/27/fear/
 ---
-
-[Fear | Matt Gemmell](http://mattgemmell.com/2013/10/27/fear/)
 
 Matt Gemmell takes a huge load off the chest. I won't spoil it, because such an intimate, personal story deserves your full attention. Just a tidbit:
 

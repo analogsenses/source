@@ -4,15 +4,14 @@ comments: false
 date: 2012-03-13 16:52:00+00:00
 layout: post
 slug: madrids-sol-subway-station-temporarily-renamed-sol-galaxy-note
-title: Madrid's Sol subway station temporarily renamed "Sol Galaxy Note"
+title: Madrid’s Subway Station, Sol, Temporarily Renamed to “Sol Galaxy Note” | El País (Spanish source)
 wordpress_id: 1637173117
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://ccaa.elpais.com/ccaa/2012/03/12/madrid/1331581839_273393.html
 ---
-
-[Madrid’s Subway Station, Sol, Temporarily Renamed to “Sol Galaxy Note” | El País (Spanish source)](http://ccaa.elpais.com/ccaa/2012/03/12/madrid/1331581839_273393.html)
 
 [![Estacion Sol Galaxy Note?](http://farm8.staticflickr.com/7044/6832783912_77a32b61eb.jpg)](http://www.flickr.com/photos/aleyda/6832783912/)
 

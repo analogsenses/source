@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://arstechnica.com/science/2012/07/epic-fraud-how-to-succeed-in-science-without-doing-any/
 ---
-
-[Epic fraud: How to succeed in science (without doing any) | Ars Technica](http://arstechnica.com/science/2012/07/epic-fraud-how-to-succeed-in-science-without-doing-any/)
 
 Epic piece by John Timmer for Ars:
 

@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://daringfireball.net/2013/03/open_and_shut
 ---
-
-[Open and Shut | Daring Fireball ](http://daringfireball.net/2013/03/open_and_shut)
 
 John Gruber utterly (and in typical fashion) destroys [this article](http://www.newyorker.com/online/blogs/newsdesk/2013/02/does-a-company-like-apple-need-a-genius-like-steve-jobs.html?currentPage=all) from Tim Wu for The New Yorker:
 

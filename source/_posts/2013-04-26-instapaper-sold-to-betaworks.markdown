@@ -4,16 +4,15 @@ comments: false
 date: 2013-04-26 09:07:52+00:00
 layout: post
 slug: instapaper-sold-to-betaworks
-title: Instapaper sold to Betaworks
+title: Instapaper sold to Betaworks | Marco.org
 wordpress_id: 1637173392
 categories:
 - Apple
 - Digital Life
 post_format:
 - Link
+external-url: http://www.marco.org/2013/04/25/instapaper-next-generation
 ---
-
-[Instapaper sold to Betaworks | Marco.org](http://www.marco.org/2013/04/25/instapaper-next-generation)
 
 This was even more surprising than WWDC selling out in under two minutes:
 

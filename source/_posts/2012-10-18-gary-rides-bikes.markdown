@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://garyridesbikes.blogspot.com.es/
 ---
-
-[Gary Rides Bikes](http://garyridesbikes.blogspot.com.es/)
 
 Meet Gary, and listen to his story: the chronicles of a cyclist living in the busy roads of LA. Great blog with some wonderful stories, such as [this classic passage](http://garyridesbikes.blogspot.com.es/2012/06/with-all-their-speed-forward-they-may.html) about cars from the Orson Welles film, ["The Magnificent Ambersons"](http://www.imdb.com/title/tt0035015/) (1942):
 

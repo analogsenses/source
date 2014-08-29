@@ -10,8 +10,7 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://5by5.tv/systematic/79
 ---
-
-[Systematic #79: Marco Arment - Indie Life | 5by5](http://5by5.tv/systematic/79)
 
 Great episode of Brett Terpstra's podcast over at 5by5. In this episode he is joined by Marco Arment and they talk about how they transitioned from side-gigs to becoming self-employed full-time. This is something I'm giving much thought to lately, and I found their take to be incredibly inspiring.

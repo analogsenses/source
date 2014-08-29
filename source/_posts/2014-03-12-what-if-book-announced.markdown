@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://blog.xkcd.com/2014/03/12/what-if-i-wrote-a-book/
 ---
-
-["What If" book announced | xkcd](http://blog.xkcd.com/2014/03/12/what-if-i-wrote-a-book/)
 
 This just made my day:
 

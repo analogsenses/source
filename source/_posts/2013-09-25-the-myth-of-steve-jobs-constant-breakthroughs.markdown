@@ -4,16 +4,15 @@ comments: false
 date: 2013-09-25 08:45:42+00:00
 layout: post
 slug: the-myth-of-steve-jobs-constant-breakthroughs
-title: The Myth of Steve Jobs’ Constant Breakthroughs
+title: The Myth of Steve Jobs’ Constant Breakthroughs | TIME
 wordpress_id: 1637173592
 categories:
 - Apple
 - Digital Life
 post_format:
 - Link
+external-url: http://techland.time.com/2013/09/24/the-myth-of-steve-jobs-constant-breakthroughs/
 ---
-
-[The Myth of Steve Jobs’ Constant Breakthroughs | TIME.com](http://techland.time.com/2013/09/24/the-myth-of-steve-jobs-constant-breakthroughs/)
 
 A very smart take by Harry McCracken on how Steve Jobs is frequently seen, in retrospect, as the man that revolutionized a new industry every two years. The reality though, is that he was as much an advocate of refinement through iteration as Tim Cook is now:
 

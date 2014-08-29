@@ -4,16 +4,15 @@ comments: false
 date: 2014-04-02 13:45:44+00:00
 layout: post
 slug: shawn-blancs-sweet-mac-setup
-title: Shawn Blancs sweet Mac setup
+title: Shawn Blanc's sweet Mac setup
 wordpress_id: 1637173924
 categories:
 - Apple
 - Digital Life
 post_format:
 - Link
+external-url: http://thesweetsetup.com/shawn-blancs-sweet-mac-setup/
 ---
-
-[Shawn Blanc's sweet Mac setup | The Sweet Setup](http://thesweetsetup.com/shawn-blancs-sweet-mac-setup/)
 
 Great article and a very sweet setup indeed. I just have one comment regarding this:
 

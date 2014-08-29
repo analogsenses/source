@@ -10,10 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://blogs.reuters.com/felix-salmon/2013/10/27/how-money-can-buy-happiness-wine-edition/
 ---
 
-[How money can buy happiness, wine edition | Felix Salmon](http://blogs.reuters.com/felix-salmon/2013/10/27/how-money-can-buy-happiness-wine-edition/)
-
+Felix Salmon:
 
 
 <blockquote>What’s more, you don’t need to spend hundreds of dollars on first-growth Bordeaux for this to work. You just need to spend a little bit more than you normally do — enough that you consider it to be a _special_ bottle of wine. That’s it! When you sit down and pop it open, probably with people you love, in pleasant surroundings, everything is set for a very happy outcome.</blockquote>

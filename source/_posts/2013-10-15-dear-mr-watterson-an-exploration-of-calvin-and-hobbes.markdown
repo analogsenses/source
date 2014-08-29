@@ -11,13 +11,12 @@ categories:
 - Movies
 post_format:
 - Link
+external-url: http://dearmrwatterson.com/store/
 ---
-
-[Dear Mr. Watterson: an exploration of Calvin and Hobbes](http://dearmrwatterson.com/store/)
 
 Amazing new documentary about one of the greatest comic strips ever made: Calvin and Hobbes, by Bill Watterson. Available in theaters and as a digital download on iTunes on November 15. Here's the trailer:
 
-http://www.youtube.com/watch?v=KtmV7-f_j7Y
+{% youtube KtmV7-f_j7Y %}
 
 Calvin and Hobbes is my favorite comic strip of all times. Hands down. No other strip comes even close, and there are a few great ones. But Calvin is special. Like they say in the trailer:
 

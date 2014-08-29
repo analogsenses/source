@@ -59,9 +59,7 @@ Sounds perfect, doesn't it? Almost. It's a pretty good setup, no doubt, but a tr
 As for the MacBook Pro, I honestly wouldn't need to back it up too often, since the most important data is already mirrored in the iMac. But as luck would have it, when I bought the 2TB drive for the iMac, it meant that I now had a perfectly good [500GB My Passport Studio](http://www.amazon.com/Western-Digital-Passport-FireWire-Portable/dp/B00378KLYM/ref=sr_1_1?s=electronics&ie=UTF8&qid=1298850759&sr=1-1) drive for which I had no use, and since my MacBook Pro has a 250GB drive, it was clearly a match. So, with that drive I back up the laptop whenever I remember to do it (which is not very often), again with a combination of two 250GB volumes and using Time Machine and SuperDuper!.  No offsite backup here, because we don't need to go crazy over this ;)
 
 
-
-[singlepic id=25 w=500 float=center]
-
+[![Backup Plan.001 by Álvaro Serrano, on Flickr](https://farm4.staticflickr.com/3885/15054305826_d697376087_o.png)](https://www.flickr.com/photos/analogsenses/15054305826)
 
 
 As I said, for most people this setup, while not at all difficult to prepare and maintain, will be overkill. You need to assess your needs and ask yourself what is valuable to you. My guess is that Time Machine is more than capable of handling the needs of the vast majority of people. But if you don't own a Mac or you're just not into it, there are other ways. You can, for example, let someone else handle the pain for you. There are many companies that do cloud backup these days. If you want a simple and affordable deal, Patrick Rhone has [something for you](http://machinemethods.com/backup/), too. Like with everything, adding more layers provides more security, but  it also increases the complexity of the setup. You need to push it to the degree you feel comfortable with, and no more, because a backup is pointless if you don't know how to use it.

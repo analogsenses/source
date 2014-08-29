@@ -4,15 +4,14 @@ comments: false
 date: 2012-08-17 08:38:43+00:00
 layout: post
 slug: the-real-history-of-the-reply-on-twitter
-title: The Real History of the @reply on Twitter
+title: The Real History of the @reply on Twitter | Maniacal Rage
 wordpress_id: 1637173257
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://log.maniacalrage.net/post/26935842947/the-real-history-of-the-reply-on-twitter
 ---
-
-[The Real History of the @reply on Twitter | Maniacal Rage](http://log.maniacalrage.net/post/26935842947/the-real-history-of-the-reply-on-twitter)
 
 In the wake of [Twitter's latest "Fuck You"](https://dev.twitter.com/blog/changes-coming-to-twitter-api) to third-party developers, [Ben Brooks points out](http://brooksreview.net/2012/08/twitter-bullshit/) this nice article form Garrett Murray about the origin of the @reply syntax that has now become standard practice across many places on the Internet:
 

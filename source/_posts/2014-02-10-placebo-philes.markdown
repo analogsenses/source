@@ -4,15 +4,15 @@ comments: false
 date: 2014-02-10 10:09:44+00:00
 layout: post
 slug: placebo-philes
-title: Placebo-philes
+title: Placebo-philes | Anxious Machine
 wordpress_id: 1637173807
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.anxiousmachine.com/blog/2013/12/10/placibo-philes
 ---
 
-[Placebo-philes | Anxious Machine](http://www.anxiousmachine.com/blog/2013/12/10/placibo-philes)
 
 [Last week](http://www.marco.org/2014/02/03/headphones-and-coffee), Marco touched on a subject I've always found fascinating: how higher-end audio equipment (read: more expensive) doesn't _necessarily_ sound better after a certain quality threshold has been met. I find it funny because the audiophile world is full of enthusiastic people who swear by their equipment, and couldn't possibly "compromise" when it comes to their listening experience.
 

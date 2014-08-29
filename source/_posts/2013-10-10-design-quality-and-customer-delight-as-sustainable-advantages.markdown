@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://daringfireball.net/2013/10/design_quality_as_a_sustainable_advantage
 ---
-
-[Design Quality and Customer Delight as Sustainable Advantages | Daring Fireball](http://daringfireball.net/2013/10/design_quality_as_a_sustainable_advantage)
 
 John Gruber takes on the 3 most popular arguments of the "Apple-Is-Doomed" discussion. A great read:
 

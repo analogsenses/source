@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://designtaxi.com/news/357139/In-Japan-McDonald-s-French-Fries-Holder-Lets-You-Enjoy-Fries-As-You-Drive/
 ---
-
-[Because driving all day wasn't bad enough](http://designtaxi.com/news/357139/In-Japan-McDonald-s-French-Fries-Holder-Lets-You-Enjoy-Fries-As-You-Drive/)
 
 John Yong, writing for Design Taxi: 
 

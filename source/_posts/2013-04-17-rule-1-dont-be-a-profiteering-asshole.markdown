@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: https://medium.com/writers-on-writing/94111dde5ca9
 ---
-
-[Rule #1: Don’t Be A Profiteering Asshole | Writers on Writing](https://medium.com/writers-on-writing/94111dde5ca9)
 
 MG Siegler, on the real motives behind the live coverage of the explosions during the Boston Marathon that ran in most tech sites as events unfolded:
 

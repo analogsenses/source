@@ -13,8 +13,9 @@ post_format:
 - Quote
 tags:
 - Quote
+external-url: http://en.wikiquote.org/wiki/Tom_Stoppard
 ---
 
-[The days of the digital watch are numbered."](http://en.wikiquote.org/wiki/Tom_Stoppard)
+<blockquote>The days of the digital watch are numbered.</blockquote>
 
 **Tom Stoppard (1937- ).**

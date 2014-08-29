@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-link: http://www.anandtech.com/show/7335/the-iphone-5s-review/
 ---
-
-[The iPhone 5s Review | AnandTech](http://www.anandtech.com/show/7335/the-iphone-5s-review/)
 
 Anand Lal Shimpi reviews the iPhone 5S in mind-blowing detail, like only he can. Very impressive review.
 

@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://elpais.com/elpais/2013/04/19/inenglish/1366396093_838664.html
 ---
-
-[El País, serious candidate for 'Jackass of the Year' award](http://elpais.com/elpais/2013/04/19/inenglish/1366396093_838664.html)
 
 Mind-bogglingly bad article about Apple in El País, Spain's highest circulation newspaper. This is how it starts:
 

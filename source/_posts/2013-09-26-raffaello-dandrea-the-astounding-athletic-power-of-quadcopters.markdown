@@ -10,11 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.youtube.com/watch?v=w2itwFJCgFQ
 ---
 
-[Raffaello D'Andrea: The astounding athletic power of quadcopters](http://www.youtube.com/watch?v=w2itwFJCgFQ)
-
-http://www.youtube.com/watch?v=w2itwFJCgFQ
+{% youtube w2itwFJCgFQ %}
 
 This is the coolest thing I've seen in a very long time. It's also quite scary: every day it feels like Skynet is getting closer and closer to becoming self-aware.
 

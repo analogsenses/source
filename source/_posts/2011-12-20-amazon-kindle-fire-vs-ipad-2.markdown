@@ -11,9 +11,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.marco.org/2011/12/19/amazon-kindle-vs-ipad
 ---
 
-[Amazon Kindle Fire vs. iPad 2 | Marco.org](http://www.marco.org/2011/12/19/amazon-kindle-vs-ipad)
+Marco Arment:
 
 
 <blockquote>Anyway, the main attraction of Amazon’s Kindle Fire vs. iPad 2 page is the big comparison table. Other people’s feature-comparison checklists always leave out factors that are important to me, so I made my own additions that Amazon is welcome to include on their page.</blockquote>

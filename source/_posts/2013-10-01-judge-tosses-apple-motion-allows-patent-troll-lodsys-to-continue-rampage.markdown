@@ -11,10 +11,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://arstechnica.com/tech-policy/2013/09/judge-tosses-apple-motion-allows-patent-troll-lodsys-to-continue-rampage/
 ---
 
-[Judge tosses Apple motion, allows patent troll Lodsys to continue rampage | Ars Technica](http://arstechnica.com/tech-policy/2013/09/judge-tosses-apple-motion-allows-patent-troll-lodsys-to-continue-rampage/)
-
+Ars:
 
 
 <blockquote>Lodsys became one of the most scorned patent holders in 2011 by making seemingly small cash demands just 0.575 percent of your revenue, please! against small app makers, who it said were infringing its patents that cover in-app purchasing and upgrades.

@@ -4,15 +4,14 @@ comments: false
 date: 2012-01-17 10:44:21+00:00
 layout: post
 slug: morality-and-persecution
-title: Morality and Persecution
+title: Morality and Persecution | Matt Gemmell
 wordpress_id: 1637173058
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://mattgemmell.com/2012/01/16/morality-and-persecution/
 ---
-
-[Morality and Persecution | Matt Gemmell](http://mattgemmell.com/2012/01/16/morality-and-persecution/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+mattgemmell%2Frss2+%28Matt+Legend+Gemmell+-+RSS2%29)
 
 Terrific essay by Matt Gemmell, and a scathing critique of Pope Benedict XVI's [recent declarations against gay marriage](http://uk.reuters.com/article/2012/01/09/uk-pope-gay-idUKTRE8081RR20120109):
 

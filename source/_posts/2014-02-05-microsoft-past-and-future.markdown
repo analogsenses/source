@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://daringfireball.net/2014/02/microsoft_past_and_future
 ---
-
-[Microsoft, Past and Future | Daring Fireball](http://daringfireball.net/2014/02/microsoft_past_and_future)
 
 John Gruber:
 

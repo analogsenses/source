@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/27127.html
 ---
 
-[I shut my eyes in order to see".](http://www.quotationspage.com/quote/27127.html)
+<blockquote>I shut my eyes in order to see</blockquote>
 
 **Paul Gauguin (1848 - 1903)**, French Post-Impressionist painter.

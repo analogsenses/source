@@ -11,10 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://recode.net/2014/02/19/facebook-to-buy-whatsapp-for-16-billion/
 ---
 
-[Facebook to Buy WhatsApp for $16+ Billion | Re/code](http://recode.net/2014/02/19/facebook-to-buy-whatsapp-for-16-billion/)
-
+Re/code:
 
 
 <blockquote>The move marks the social giant’s biggest acquisition to date, as Facebook paid $16 billion in cash and stock for the company. In addition, the deal includes another $3 billion in restricted stock units for WhatsApp employees, which will vest over a period of time.</blockquote>

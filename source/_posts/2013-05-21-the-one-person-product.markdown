@@ -11,9 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.marco.org/2013/05/20/one-person-product
 ---
-
-[The One-Person Product | Marco.org](http://www.marco.org/2013/05/20/one-person-product)
 
 Marco Arment, on Yahoo's acquisition of Tumblr:
 

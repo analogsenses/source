@@ -11,10 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.marco.org/2012/07/25/siracusa-mountain-lion-review-review
 ---
-
-[The Marco.org Review of John Siracusa’s Review of OS X 10.8 Mountain Lion | Marco.org](http://www.marco.org/2012/07/25/siracusa-mountain-lion-review-review)
-
 
 
 <blockquote>This is not a quick read, so it’s a good opportunity to try a read-later method such as Safari’s Reading List, which Apple invented completely on their own.</blockquote>

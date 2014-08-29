@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/26271.html
 ---
 
-[Against stupidity the gods themselves contend in vain".](http://www.quotationspage.com/quote/26271.html)
+<blockquote>Against stupidity the gods themselves contend in vain.</blockquote>
 
 **Friedrich von Schiller (1759 - 1805)**, German dramatist and poet.

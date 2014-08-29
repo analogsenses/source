@@ -10,8 +10,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/2287.html
 ---
 
-[Difficulties strengthen the mind, as labor does the body".](http://www.quotationspage.com/quote/2287.html)
+<blockquote>Difficulties strengthen the mind, as labor does the body</blockquote>
 
 **Seneca (5 BC - 65 AD)**, Roman dramatist, philosopher and politician.

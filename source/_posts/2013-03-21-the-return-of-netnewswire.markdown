@@ -4,7 +4,7 @@ comments: false
 date: 2013-03-21 09:54:07+00:00
 layout: post
 slug: the-return-of-netnewswire
-title: The Return of NetNewsWire
+title: The Return of NetNewsWire | Black Pixel
 wordpress_id: 1637173361
 categories:
 - Apple
@@ -12,9 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://blackpixel.com/blog/2013/03/the-return-of-netnewswire.html
 ---
-
-[The Return of NetNewsWire | Black Pixel](http://blackpixel.com/blog/2013/03/the-return-of-netnewswire.html)
 
 This is great news for all RSS users out there (myself included), especially given [Google Reader's imminent demise](http://www.theverge.com/2013/3/13/4101144/google-shuts-down-reader-rss-aggregation-service).
 

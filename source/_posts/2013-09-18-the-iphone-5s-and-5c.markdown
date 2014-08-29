@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://daringfireball.net/2013/09/the_iphone_5s_and_5c
 ---
-
-[The iPhone 5S and 5C | Daring Fireball](http://daringfireball.net/2013/09/the_iphone_5s_and_5c)
 
 Great insight and very thorough analysis from Gruber, as usual. The whole article is great, absolutely worth reading in spite of its length. However, this bit really takes the cake. Just how fast is the iPhone 5S, really?
 

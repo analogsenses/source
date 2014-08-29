@@ -10,8 +10,7 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://static.squarespace.com/static/52ee71c7e4b02c6bcd87488a/t/53274dc4e4b0dea732eb371b/1395084740663/Rise%20of%20the%20Officebot.pdf
 ---
-
-[Rise of the Officebot, by Askerbirds](http://static.squarespace.com/static/52ee71c7e4b02c6bcd87488a/t/53274dc4e4b0dea732eb371b/1395084740663/Rise%20of%20the%20Officebot.pdf)
 
 So awesome.

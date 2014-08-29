@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.43folders.com/about
 ---
 
-[Productivity can be like sausage; no one likes seeing it discussed at length on the internet by middle-aged men."](http://www.43folders.com/about)
+<blockquote>Productivity can be like sausage; no one likes seeing it discussed at length on the internet by middle-aged men.</blockquote>
 
 **Merlin Mann, _43 Folders._**

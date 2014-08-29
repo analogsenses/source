@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://jeff-vogel.blogspot.com.es/2014/02/why-indie-developers-go-insane.html
 ---
-
-[Why Indie Developers Go Insane | The Bottom Feeder](http://jeff-vogel.blogspot.com.es/2014/02/why-indie-developers-go-insane.html)
 
 Jeff Vogel writes a great article on how hard success (and the subsequent fame it brings) can be on most indie developers:
 

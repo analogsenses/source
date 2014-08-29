@@ -4,15 +4,16 @@ comments: false
 date: 2014-02-21 12:05:35+00:00
 layout: post
 slug: what-should-the-speed-limit-be-for-cars-in-cities
-title: What should the speed limit be for cars in cities?
+title: What should the speed limit be for cars in cities? | TreeHugger
 wordpress_id: 1637173844
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.treehugger.com/cars/what-should-speed-limit-cars-cities.html
 ---
 
-[What should the speed limit be for cars in cities? | TreeHugger](http://www.treehugger.com/cars/what-should-speed-limit-cars-cities.html)
+[What should the speed limit be for cars in cities? | TreeHugger]()
 
 A simple and intuitive way to understand why lowering the speed limit in our cities is a must:
 

@@ -10,11 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://mediatemple.net/company/press/20131015.php
 ---
-
-[GoDaddy acquires (mt) Media Temple](http://mediatemple.net/company/press/20131015.php)
-
-
 
 <blockquote>SCOTTSDALE, Ariz. — October 15, 2013 — GoDaddy, the Web’s largest platform for small businesses, has acquired mt Media Temple, a Los Angeles-based Web hosting and cloud services company focused on the creative class of digital designers, developers, entrepreneurs and innovators.
 

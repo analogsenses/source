@@ -4,17 +4,14 @@ comments: false
 date: 2013-03-27 10:51:19+00:00
 layout: post
 slug: ships
-title: Ships
+title: Ships | What If by xkcd
 wordpress_id: 1637173366
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://what-if.xkcd.com/33/
 ---
-
-[Ships | What If? xkcd](http://what-if.xkcd.com/33/)
-
-
 
 <blockquote>Sea levels will likely rise a few feet by the year 2100. Current fish wet biomass is about 2 billion tons, so removing them won’t make a dent either. (Marine fish biomass dropped by 80% over the last century, which—taking into consideration the growth rate of the world’s shipping fleet—leads to an odd conclusion: Sometime in the last few years, we reached a point where there are, by weight, more ships in the ocean than fish.)</blockquote>
 

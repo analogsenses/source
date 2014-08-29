@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/31304.html
 ---
 
-[When the heart speaks, the mind finds it indecent to object."](http://www.quotationspage.com/quote/31304.html)
+<blockquote>When the heart speaks, the mind finds it indecent to object.</blockquote>
 
 **Milan Kundera (1929 - )**, _The Unbearable Lightness of Being._

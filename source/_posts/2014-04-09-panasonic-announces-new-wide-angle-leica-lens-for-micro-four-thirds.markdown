@@ -11,10 +11,10 @@ categories:
 - Photography
 post_format:
 - Link
+external-url: http://www.dpreview.com/news/2014/03/24/panasonic-announces-leica-dg-summilux-15mm-f1-7-and-gm1-kit
 ---
 
-[Panasonic announces new Leica 15mm f1.7 lens for Micro Four Thirds | DPReview](http://www.dpreview.com/news/2014/03/24/panasonic-announces-leica-dg-summilux-15mm-f1-7-and-gm1-kit)
-
+DPReview:
 
 
 <blockquote>Panasonic has officially announced the Leica DG Summilux 15mm F1.7 ASPH, a premium fast wideangle prime for Micro Four Thirds cameras. It offers an angle of view equivalent to 30mm on full frame, and features an aperture ring at the front of the barrel. It's also very small in diameter to match the tiny DMC-GM1 camera, with which it will be offered as a kit. It'll be available in black or silver from mid-June for $599/£549, with the GM1 kit costing £999.</blockquote>

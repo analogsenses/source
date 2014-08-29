@@ -11,8 +11,7 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://arstechnica.com/apple/2013/10/os-x-10-9/
 ---
-
-[John Siracusa reviews OS X Mavericks | Ars Technica](http://arstechnica.com/apple/2013/10/os-x-10-9/)
 
 Another year, another OS X release. And, of course, another epic review by John Siracusa. Enjoy.

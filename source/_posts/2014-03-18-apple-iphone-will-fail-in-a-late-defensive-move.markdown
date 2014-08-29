@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aRelVKWbMAv0&d=2007
 ---
-
-[Apple iPhone Will Fail in a Late, Defensive Move | Bloomberg](http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aRelVKWbMAv0&d=2007)
 
 Matthew Lynn, writing for Bloomberg back in January 2007:
 

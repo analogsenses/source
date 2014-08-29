@@ -10,10 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.bbc.co.uk/news/entertainment-arts-24372224
 ---
 
-[Jack Ryan author Tom Clancy dies | BBC News](http://www.bbc.co.uk/news/entertainment-arts-24372224)
-
+BBC News:
 
 
 <blockquote>Best-selling US author Tom Clancy known for Jack Ryan novels has died aged 66, his publishers say.</blockquote>

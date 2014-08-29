@@ -10,9 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://joelhousman.com/2011/12/19/this-week-in-douchebaggery-allthis-com/
 ---
 
-[This Week In Douchebaggery: AllThis | Joel Housman](http://joelhousman.com/2011/12/19/this-week-in-douchebaggery-allthis-com/)
+Joel Housman:
 
 
 <blockquote>Introducing, Allthis.com. They list themselves as being in “beta” on their website and claim to be “the ten-minute exchange”. Apparently users can bid on and purchase blocks of other users’ time! How exciting!</blockquote>

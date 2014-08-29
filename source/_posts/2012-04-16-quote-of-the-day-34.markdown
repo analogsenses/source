@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/31068.html
 ---
 
-[Dare to be yourself."](http://www.quotationspage.com/quote/31068.html)
+<blockquote>Dare to be yourself.</blockquote>
 
 **André Gide (1869 - 1951)**, French critic, essayist, & novelist.

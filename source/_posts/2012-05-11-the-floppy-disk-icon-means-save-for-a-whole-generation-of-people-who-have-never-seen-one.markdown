@@ -11,9 +11,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx
 ---
 
-[The Floppy Disk Icon means "save" for a whole generation of people who have never seen one | Scott Hanselman](http://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx)
+Scott Hanselman:
 
 Terrific overview of the many icons that are still around, depicting ancient objects that were replaced a long, long time ago. Great fun.
 

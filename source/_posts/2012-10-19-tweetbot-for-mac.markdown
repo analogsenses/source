@@ -4,17 +4,15 @@ comments: false
 date: 2012-10-19 11:13:24+00:00
 layout: post
 slug: tweetbot-for-mac
-title: Tweetbot for Mac
+title: Tweetbot for Mac is available on the Mac App Store | Tapbots
 wordpress_id: 1637173279
 categories:
 - Apple
 - Digital Life
 post_format:
 - Link
+external-url: http://tapbots.com/software/tweetbot/mac/
 ---
-
-[Tweetbot for Mac is available on the Mac App Store | Tapbots](http://tapbots.com/software/tweetbot/mac/)
-
 
 
 <blockquote>Tweetbot is a full-featured Twitter app for the Mac based on the award-winning apps for iPhone and iPad. With retina support, sync via iCloud, and multiple column views, Tweetbot is the premier Twitter app for the Mac.</blockquote>

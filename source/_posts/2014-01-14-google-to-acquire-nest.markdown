@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://investor.google.com/releases/2014/0113.html
 ---
-
-[Google to Acquire Nest](http://investor.google.com/releases/2014/0113.html)
 
 Well, this is awkward:
 

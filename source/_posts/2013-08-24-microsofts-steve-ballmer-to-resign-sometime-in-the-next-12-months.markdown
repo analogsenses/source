@@ -4,16 +4,14 @@ comments: false
 date: 2013-08-24 12:53:43+00:00
 layout: post
 slug: microsofts-steve-ballmer-to-resign-sometime-in-the-next-12-months
-title: Steve Ballmer to resign as CEO sometime in the next 12 months
+title: Steve Ballmer to resign as CEO sometime in the next 12 months | Microsoft.com
 wordpress_id: 1637173526
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.microsoft.com/en-us/news/press/2013/aug13/08-23StatementPR.aspx
 ---
-
-[Steve Ballmer to resign as CEO sometime in the next 12 months | Microsoft.com](http://www.microsoft.com/en-us/news/press/2013/aug13/08-23StatementPR.aspx)
-
 
 
 <blockquote>I am writing to let you know that I will retire as CEO of Microsoft within the next 12 months, after a successor is chosen. There is never a perfect time for this type of transition, but now is the right time.</blockquote>

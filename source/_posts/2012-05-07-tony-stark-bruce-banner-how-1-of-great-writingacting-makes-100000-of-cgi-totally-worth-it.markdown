@@ -12,11 +12,10 @@ categories:
 - Movies
 post_format:
 - Link
+external-url: http://areasofmyexpertise.com/post/22590229591/i-mentioned-this-tumbl-essay-on-twitter-last
 ---
 
-[Tony Stark / Bruce Banner: How $1 of great writing/acting makes $100,000 of CGI totally worth it | That is All](http://areasofmyexpertise.com/post/22590229591/i-mentioned-this-tumbl-essay-on-twitter-last)
-
-
+That is All:
 
 <blockquote>First of all, their parallels. Both geniuses, top of their field. Both suffered an accident that physically changed them, forever, and not in a wholesome Spider-Man kind of way. Both try to do what they can to help others despite their own issues; Banner heals people, Tony works on developing clean energy. And both struggle, in their own way, with duality; Tony and Iron Man, Bruce and the Hulk. Two identities, one body. Only difference is Iron Man’s bad side is Tony.</blockquote>
 

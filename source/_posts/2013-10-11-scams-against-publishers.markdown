@@ -10,10 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.marco.org/2013/10/10/tpm-scams-against-publishers
 ---
 
-[Scams Against Publishers | Marco.org](http://www.marco.org/2013/10/10/tpm-scams-against-publishers)
-
+Marco Arment:
 
 
 <blockquote>Josh’s position seems to be that for most publishers, permitting a news aggregator to reproduce their full-text feed is like a large-scale version of those “offers”. I’m inclined to believe him: navigationally and conceptually, people who browse in Flipboard are browsing Flipboard, not browsing the individual target sites within it. If you aren’t profiting directly from that browsing such as with sponsored links right in the feed or articles, I don’t see how you’ll ever see much of an upside.</blockquote>

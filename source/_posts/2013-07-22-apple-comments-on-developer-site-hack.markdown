@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.loopinsight.com/2013/07/21/apple-comments-on-developer-site-hack/
 ---
-
-[Apple comments on developer site hack | The Loop](http://www.loopinsight.com/2013/07/21/apple-comments-on-developer-site-hack/)
 
 Jim Dalrymple:
 

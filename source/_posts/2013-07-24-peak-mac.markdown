@@ -4,16 +4,15 @@ comments: false
 date: 2013-07-24 08:29:03+00:00
 layout: post
 slug: peak-mac
-title: Peak Mac?
+title: Peak Mac? | SplatF
 wordpress_id: 1637173484
 categories:
 - Apple
 - Digital Life
 post_format:
 - Link
+external-url: http://www.splatf.com/2013/01/peak-mac/
 ---
-
-[Peak Mac? | SplatF](http://www.splatf.com/2013/01/peak-mac/)
 
 Dan Frommer, back in January, arguing the case that Mac sales may have peaked for good. This is relevant in light of [Apple's Q3 results](http://www.apple.com/pr/library/2013/07/23Apple-Reports-Third-Quarter-Results.html), which show a significant decline in Mac sales compared to the year-ago quarter. An interesting thought:
 

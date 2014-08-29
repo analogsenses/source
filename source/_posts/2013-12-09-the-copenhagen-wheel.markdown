@@ -4,15 +4,14 @@ comments: false
 date: 2013-12-09 14:06:07+00:00
 layout: post
 slug: the-copenhagen-wheel
-title: The Copenhagen Wheel
+title: The Copenhagen Wheel | Superpedestrian
 wordpress_id: 1637173722
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: https://www.superpedestrian.com/
 ---
-
-[The Copenhagen Wheel | Superpedestrian](https://www.superpedestrian.com/)
 
 The Copenhagen Wheel basically substitutes your rear bicycle wheel and transforms any regular bicycle into an e-bike.
 

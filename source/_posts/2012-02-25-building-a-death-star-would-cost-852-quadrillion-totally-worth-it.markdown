@@ -10,10 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://deathstarpr.com/2012/02/building-a-death-star-would-cost-852-quadrillion-worth-it/
 ---
 
-[Building a Death Star Would Cost $852 Quadrillion. Totally Worth it. | Death Star PR](http://deathstarpr.com/2012/02/building-a-death-star-would-cost-852-quadrillion-worth-it/)
-
+Death Star PR:
 
 
 <blockquote>How could something that expensive possibly pay for itself?” we hear you ask. EASILY, that’s how, imaginary question-asker. Once you’ve built yourself a Death Star, you travel around the galaxy and point your $852 quadrillion megalaser at other people’s planets. You’ll be surprised how quickly and COMPLETELY OF THEIR OWN FREE WILL they offer to help cover your costs.</blockquote>
