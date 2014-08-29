@@ -15,6 +15,8 @@ post_format:
 external-url: http://www.vimeo.com/104509459
 ---
 
+<iframe src="//player.vimeo.com/video/104509459" width="570" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Play it on full-screen mode. What a gorgeous city. 
 
 Via [Coudal Partners](http://coudal.com/archives/2014/08/postcards_from_1.php).
