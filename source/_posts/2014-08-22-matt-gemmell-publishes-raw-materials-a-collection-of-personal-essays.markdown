@@ -18,7 +18,9 @@ external-url: http://mattgemmell.com/raw-materials-collected-essays/
 
 The collection is entitled Raw Materials, and includes revised and updated versions of each piece, with new author’s notes after each one, plus an exclusive extra essay written especially for the collection.</blockquote>
 
-It's great to have this selection available as a Kindle book. As much as I enjoy Matt's writing about technology, software development, productivity and the like, I believe his more personal pieces are when he is undoubtedly at his best.[footnote]I still don't know how his fiction writing is, but I can't wait to find out.[/footnote]
+It's great to have this selection available as a Kindle book. As much as I enjoy Matt's writing about technology, software development, productivity and the like, I believe his more personal pieces are when he is undoubtedly at his best.[^1]
+
+[^1]: I still don't know how his fiction writing is, but I can't wait to find out.
 
 To me, it's also interesting to find out which stories he chose to include in the book, because there's certainly no shortage of great material to choose from in his body of work. As usual, Matt doesn't disappoint here. 
 
