@@ -219,8 +219,10 @@ a.analog {
 
 #main {
   clear: both;
-  padding-left:90px;
-  padding-right:90px;
+  //padding-left:90px;
+  //padding-right:90px;
+  width:570px;
+  margin:auto;
 }
 
 aside,
@@ -417,7 +419,7 @@ body {
   // ----- blog header -----
   
   > header {
-  	background-image: url("/images/header_retina_short.png");
+  	background-image: url("/images/header_retina.png");
   	background-size: 750px 180px;
     background-repeat: no-repeat;
     background-position:right;
@@ -756,7 +758,7 @@ article {
     @extend .margin-bottom-large;
     text-align: left;
     //line-height:140%;
-    color:#333;
+    color:#000;
     
     a {
       text-decoration: underline;
@@ -950,20 +952,25 @@ article {
   html {
     font-size: 106%;
   }
+  
+  #main {
+  	clear: both;
+  	width:570px;
+  	margin:auto;
+  }
 
  a.analog{
  	font-size:120px;
  	margin:0px;
  	margin-left:80px;
  	padding:0px;
- 	}
- 	a.senses{
+ }
+ a.senses{
  	font-size:75px;
  	margin:0px;
  	margin-left:10px;
  	padding:0px;
-
- 	}
+ }
  
   body {
     width: 740px;;
@@ -974,12 +981,7 @@ article {
       }
   	}  
   }
-  #main {
-  clear: both;
-  padding-left:85px;
-  padding-right:85px;
-  }
-  
+ 
   nav{
   	ul{
   		li{
@@ -999,6 +1001,7 @@ article {
   
   #main {
   	clear: both;
+  	width:auto;
   	padding-left:30px;
   	padding-right:30px;
   }
@@ -1073,6 +1076,7 @@ article {
 @media screen and (max-width: 480px) {
 	#main {
   		clear: both;
+  		width:auto;
   		padding-left:10px;
   		padding-right:10px;
 	}
