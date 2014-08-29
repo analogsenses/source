@@ -11,8 +11,7 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.flickr.com/photos/analogsenses/5576806622/
 ---
-
-[Google's logo on the 200th anniversary of Robert Bunsen's birth](http://www.flickr.com/photos/analogsenses/5576806622/)
 
 Nice idea. Now, those of you who can actually read "Google" there, raise your hand.

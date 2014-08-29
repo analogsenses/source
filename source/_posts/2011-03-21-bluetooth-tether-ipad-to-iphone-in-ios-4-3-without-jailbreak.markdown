@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://swangle.blogspot.com/2011/03/bluetooth-tether-ipad-to-iphone-in-ios.html
 ---
-
-[Bluetooth tether iPad to iPhone in iOS 4.3 without jailbreak | Swangle](http://swangle.blogspot.com/2011/03/bluetooth-tether-ipad-to-iphone-in-ios.html)
-
 
 <blockquote>Came across this undocumented feature of the new iOS 4.3 update for iPad and iPhones and seems that now you can use the new Personal Hotspot feature in iOS 4.3 for iPhone 4 [Update: turns out it works with iPhone 3G and iPhone 3GS on iOS versions less than 4.3] to tether the iPad to the iPhone via Bluetooth for Internet connectivity.</blockquote>
 

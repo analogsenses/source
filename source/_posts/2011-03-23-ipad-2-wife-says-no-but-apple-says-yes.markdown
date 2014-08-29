@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.macrumors.com/2011/03/18/ipad-2-wife-says-no-but-apple-says-yes/
 ---
-
-[Apple said yes | MacRumors.com](http://www.macrumors.com/2011/03/18/ipad-2-wife-says-no-but-apple-says-yes/)
-
 
 <blockquote>[Apple's] focus this week has been to troubleshoot all the iPad 2s that customers are returning to the stores. One iPad came back with a post it note on it that said "Wife said no."</blockquote>
 

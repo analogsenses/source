@@ -11,9 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://adsoftheworld.com/media/print/mercedes_benz_left_brain_right_brain_passion?size=_original
 ---
-
-[Mercedes Benz Ad: Left Brain - Right Brain | Ads of the World](http://adsoftheworld.com/media/print/mercedes_benz_left_brain_right_brain_passion?size=_original)
 
 Amazing triad of ads from Mercedes-Benz: Passion, Paint and Music. Don't forget to click through on all three of them to watch them full-size.
 

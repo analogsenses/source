@@ -11,9 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.wired.com/gadgetlab/2011/04/predator-smart-camera-locks-on-tracks-anything-mercilessly/
 ---
 
-[When technology becomes so human that it's spooky | Wired.com](http://www.wired.com/gadgetlab/2011/04/predator-smart-camera-locks-on-tracks-anything-mercilessly/)
+Wired:
 
 This is amazing. Zdenek Kalal, a student at University of Surrey, England, has developed an object-tracking software named 'Predator'. It is uncanny. As a biomedical engineer, I am familiar with the development of these algorithms and the difficulties that they entail. Kalal's solution works flawlessly in a number of tricky scenarios that really show the power of his software:
 

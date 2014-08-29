@@ -4,15 +4,14 @@ comments: false
 date: 2014-05-17 11:41:40+00:00
 layout: post
 slug: stop-forcing-people-to-wear-bike-helmets
-title: Stop forcing people to wear bike helmets
+title: Stop forcing people to wear bike helmets | Vox
 wordpress_id: 1637174019
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.vox.com/2014/5/16/5720762/stop-forcing-people-to-wear-bike-helmets
 ---
-
-[Stop forcing people to wear bike helmets | Vox](http://www.vox.com/2014/5/16/5720762/stop-forcing-people-to-wear-bike-helmets)
 
 I was a bit surprised to see John Gruber's link to this article [on Daring Fireball](http://daringfireball.net/linked/2014/05/16/bike-helmets):
 

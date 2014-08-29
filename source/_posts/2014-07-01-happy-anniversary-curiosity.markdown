@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.nasa.gov/press/2014/june/nasa-s-mars-curiosity-rover-marks-first-martian-year-with-mission-successes/index.html
 ---
-
-[Happy Anniversary, Curiosity | NASA](http://www.nasa.gov/press/2014/june/nasa-s-mars-curiosity-rover-marks-first-martian-year-with-mission-successes/index.html#.U7KsohY-DyL)
 
 It's been exactly 687 Earth-days (one Martian year) since Curiosity landed on Mars:
 

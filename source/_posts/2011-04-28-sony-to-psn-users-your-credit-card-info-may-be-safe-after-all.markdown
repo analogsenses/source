@@ -11,9 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://blog.us.playstation.com/2011/04/27/qa-1-for-playstation-network-and-qriocity-services/
 ---
-
-[Sony to PSN users: your credit card info may be safe after all | PlayStation Blog](http://blog.us.playstation.com/2011/04/27/qa-1-for-playstation-network-and-qriocity-services/)
 
 Sony says that, though credit card info may not have been compromised, caution is still your best friend:
 

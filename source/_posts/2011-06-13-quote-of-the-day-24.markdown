@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/100.html
 ---
 
-[Never explain--your friends do not need it and your enemies will not believe you anyway."](http://www.quotationspage.com/quote/100.html)
+<blockquote>Never explain--your friends do not need it and your enemies will not believe you anyway.</blockquote>
 
 [](http://www.quotationspage.com/quote/100.html)**Elbert Hubbard (1856 - 1915)**, _US author._

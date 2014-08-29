@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/35657.html
 ---
 
-[Luck is what you have left over after you give 100 percent."](http://www.quotationspage.com/quote/35657.html)
+<blockquote>Luck is what you have left over after you give 100 percent.</blockquote>
 
 **Langston Coleman.**

@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.youtube.com/watch?v=nhOG25fM8so
 ---
-
-[Preparing for John Siracusa's Review of OS X Lion](http://www.youtube.com/watch?v=nhOG25fM8so)
 
 Best YouTube video EVER. I also can't wait to read John's review, as epic as it may be. Bring it!
 

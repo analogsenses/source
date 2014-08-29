@@ -11,10 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://daringfireball.net/2011/06/wwdc_2011_prelude
 ---
-
-[Daring Fireball's WWDC 2011 Prelude](http://daringfireball.net/2011/06/wwdc_2011_prelude)
-
 
 <blockquote>If I were to publish everything I know regarding tomorrow’s announcements, it would be a short and decidedly unsensational article. What I know are a handful of minor features at the edges. The big picture regarding iOS 5 and iCloud — and how the two interrelate — is an utter mystery to me. These things have been as well-kept secrets as any major projects from Apple in recent years.</blockquote>
 

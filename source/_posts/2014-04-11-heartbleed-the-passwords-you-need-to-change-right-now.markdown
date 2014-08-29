@@ -10,9 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/
 ---
 
-[Heartbleed: The Passwords You Need to Change Right Now | Mashable](http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/)
+[Heartbleed: The Passwords You Need to Change Right Now | Mashable]()
 
 
 

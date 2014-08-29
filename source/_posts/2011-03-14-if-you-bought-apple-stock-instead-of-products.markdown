@@ -12,9 +12,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://bits.blogs.nytimes.com/2011/03/10/if-you-bought-apple-stock-instead-of-products/?ref=technology
 ---
 
-[If You Bought Apple Stock Instead of Products | The New York Times](http://bits.blogs.nytimes.com/2011/03/10/if-you-bought-apple-stock-instead-of-products/?ref=technology)
+The New York Times:
 
 
 <blockquote>What would have happened if you had decided to purchase Apple stock, which is at around $350 a share Thursday, instead of buying the company’s products when they were announced?</blockquote>

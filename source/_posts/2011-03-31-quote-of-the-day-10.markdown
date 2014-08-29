@@ -11,8 +11,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/38514.html
 ---
 
-[Feel the fear and do it anyway."](http://www.quotationspage.com/quote/38514.html)
+<blockquote>Feel the fear and do it anyway.</blockquote>
 
 **Susan Jeffers**, _Feel the Fear and Do It Anyway_, 1988

@@ -10,9 +10,10 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.azlyrics.com/lyrics/jackjohnson/itsallunderstood.html
 ---
 
-[And fact is only what you believe
-And fact and fiction work as a team".](http://www.azlyrics.com/lyrics/jackjohnson/itsallunderstood.html)
+<blockquote>And fact is only what you believe
+And fact and fiction work as a team</blockquote>
 
 **Jack Johnson**, _It's All Understood (Brushfire Fairytales, 2001)._

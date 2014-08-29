@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://readandtrust.com
 ---
-
-[The Read & Trust newsletter starts on a high note | Read & Trust](http://readandtrust.com)
-
 
 <blockquote>Read & Trust is committed to gathering together the best independent writers available—the ones recommended by the writers you read and trust.</blockquote>
 

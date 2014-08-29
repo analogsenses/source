@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: https://twitter.com/billyd/status/51155972445581313
 ---
-
-[Best Color review so far: Billy Disney nails it](http://twitter.billyd.net/i-must-say-color-is-great-to-whip-out-at-a-pa)
-
 
 <blockquote>I must say, @color is great to whip out at a party if you want to feel like a real-life version of a New Yorker joke.</blockquote>
 

@@ -12,10 +12,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://arstechnica.com/apple/news/2011/04/adobe-throws-in-towel-adopts-http-live-streaming-for-ios.ars
 ---
 
-[Adobe throws in towel | Ars Technica](http://arstechnica.com/apple/news/2011/04/adobe-throws-in-towel-adopts-http-live-streaming-for-ios.ars)
-
+Ars Technica:
 
 <blockquote>Instead of getting Steve Jobs to relent on his "thoughts on Flash", however, Adobe is adding HTTP Live Streaming support to Flash Media Server.</blockquote>
 

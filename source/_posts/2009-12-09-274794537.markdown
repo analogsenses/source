@@ -13,8 +13,9 @@ post_format:
 - Quote
 tags:
 - Quote
+external-url: http://www.brainyquote.com/quotes/quotes/d/donmarquis107414.html
 ---
 
-[Procrastination is the art of keeping up with yesterday."](http://www.brainyquote.com/quotes/quotes/d/donmarquis107414.html)
+<blockquote>Procrastination is the art of keeping up with yesterday.</blockquote>
 
 **Don Marquis (1878 - 1937).**

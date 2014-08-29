@@ -12,8 +12,9 @@ post_format:
 - Quote
 tags:
 - Quote
+external-url: http://en.wikiquote.org/wiki/Californication_(TV_series)
 ---
 
-[That’s right. I said it, I meant it, I’m here to represent it."](http://en.wikiquote.org/wiki/Californication_(TV_series))
+<blockquote>That’s right. I said it, I meant it, I’m here to represent it.</blockquote>
 
 **Hank Moody, **_Californication (2007)._

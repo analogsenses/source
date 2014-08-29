@@ -12,9 +12,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://mediamemo.allthingsd.com/20110508/apple-brings-conde-nast-aboard-the-subscription-bandwagon-starting-with-the-new-yorker/
 ---
 
-[Conde Nast starts offering digital subscriptions in the New Yorker iPad app | AllThingsD](http://mediamemo.allthingsd.com/20110508/apple-brings-conde-nast-aboard-the-subscription-bandwagon-starting-with-the-new-yorker/)
+AllThingsD:
 
 
 <blockquote>An updated version of that magazine’s iPad app lets users subscribe to the weekly magazine for $5.99 a month, or the equivalent of a $1.50 an issue. That’s a steep discount from the app’s old model, which only sold individual issues for $4.99 a pop.</blockquote>

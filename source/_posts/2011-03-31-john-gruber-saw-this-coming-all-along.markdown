@@ -11,10 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://daringfireball.net/linked/2011/03/31/android-open
 ---
 
-[I Saw This Coming All Along | Daring Fireball](http://daringfireball.net/linked/2011/03/31/android-open)
-
+John Gruber:
 
 <blockquote>So here’s the Android bait-and-switch laid bare. Android was “open” only until it became popular and handset makers dependent upon it. Now that Google has the handset makers by the balls, Android is no longer open and Google starts asserting control. Andy Rubin, Vic Gundotra, all of them: shameless, lying hypocrites.</blockquote>
 

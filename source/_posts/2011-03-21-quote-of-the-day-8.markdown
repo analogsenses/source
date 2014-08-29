@@ -11,8 +11,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/qotd/previous.html
 ---
 
-[Sanity is a madness put to good use."](http://www.quotationspage.com/qotd/previous.html)
+<blockquote>Sanity is a madness put to good use.</blockquote>
 
 **George Santayana (1863 - 1952)**

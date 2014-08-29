@@ -11,9 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://i.imgur.com/SdLI2.jpg
 ---
-
-[Hipster Trap](http://i.imgur.com/SdLI2.jpg)
 
 So good.
 

@@ -11,9 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.marco.org/2011/04/13/blackberry-playbook-reviews
 ---
-
-[Marco Arment rounds up the first official BlackBerry PlayBook reviews | Marco.org](http://www.marco.org/2011/04/13/blackberry-playbook-reviews)
 
 The latest challenger to the "iPad killer" title is finally here. How does it stack up against the ruthless scrutiny of our favorite tech writers? Well, let's find out:
 

@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://daringfireball.net/2011/03/bending_over_backwards
 ---
-
-[Mossberg gets scolded by Gruber | Daring Fireball](http://daringfireball.net/2011/03/bending_over_backwards)
-
 
 <blockquote>Walt Mossberg has a 500-word section on “Drawbacks” in his review today of the iPad 2. The whole thing is a crock, an example of trying to be fair/balanced/objective by bending over backwards to find negative things to say about the device. No one is arguing that the iPad 2 is beyond criticism. But almost nothing in Mossberg’s list of drawbacks is valid.</blockquote>
 

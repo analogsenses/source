@@ -12,8 +12,7 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.theonion.com/articles/shocking-game-of-thrones-finale-concludes-with-arr,36286/
 ---
-
-[Shocking ‘Game Of Thrones’ Finale Concludes With Arrest Of 5 Million Viewers For Piracy | The Onion](http://www.theonion.com/articles/shocking-game-of-thrones-finale-concludes-with-arr,36286/)
 
 The Onion at its best.

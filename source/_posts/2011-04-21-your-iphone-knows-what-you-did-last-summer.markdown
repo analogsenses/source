@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://arstechnica.com/apple/news/2011/04/how-apple-tracks-your-location-without-your-consent-and-why-it-matters.ars
 ---
-
-[Your iPhone Knows What You Did Last Summer | Ars Technica](http://arstechnica.com/apple/news/2011/04/how-apple-tracks-your-location-without-your-consent-and-why-it-matters.ars)
-
 
 <blockquote>So your iPhone—and probably your computer—now both have a file that mirrors data that was previously limited to law enforcement, which itself was only able to obtain it from a court order. Without encrypted backups, someone who has access to your computer can see your whereabouts. "By passively logging your location without your permission, Apple have made it possible for anyone from a jealous spouse to a private investigator to get a detailed picture of your movements".</blockquote>
 

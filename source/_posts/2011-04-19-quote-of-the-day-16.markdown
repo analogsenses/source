@@ -11,9 +11,10 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/1243.html
 ---
 
-[If the world should blow itself up, the last audible voice would be that of an expert saying it can't be done".](http://www.quotationspage.com/quote/1243.html)
+<blockquote>If the world should blow itself up, the last audible voice would be that of an expert saying it can't be done</blockquote>
 
 [](http://www.quotationspage.com/quote/1243.html)**Peter Ustinov **(1921 - 2004), English actor & author .
 

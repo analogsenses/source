@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://tech.fortune.cnn.com/2011/08/16/a-peek-at-steve-jobs-book-jacket-front-and-back/
 ---
-
-[A peek at Steve Jobs' book jacket - front, back and spine | Apple 2.0](http://tech.fortune.cnn.com/2011/08/16/a-peek-at-steve-jobs-book-jacket-front-and-back/?iid=HP_LN?cnn=yes&hpt=hp_bn7)
 
 [![a peek at Steve Jobs' book jacket](http://fortunebrainstormtech.files.wordpress.com/2011/08/stevejobscovertiteled.png)](http://fortunebrainstormtech.files.wordpress.com/2011/08/stevejobscovertiteled.png)
 

@@ -11,10 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://gigaom.com/2011/05/09/why-microsoft-is-buying-skype-for-8-billion/
 ---
 
-[Microsoft Buys Skype for $8.5 Billion | Gigaom](http://gigaom.com/2011/05/09/why-microsoft-is-buying-skype-for-8-billion/)
-
+Gigaom:
 
 <blockquote>Updated at 12 midnight: Microsoft has bought Skype for $8.5 billion, in an all cash deal. The deal closed a few hours ago.</blockquote>
 

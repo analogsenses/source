@@ -4,16 +4,15 @@ comments: false
 date: 2011-12-12 12:25:45+00:00
 layout: post
 slug: a-man-and-his-music
-title: A man and his music
+title: A man and his music | Spotify
 wordpress_id: 1637173007
 categories:
 - Digital Life
 - Music
 post_format:
 - Link
+external-url: http://open.spotify.com/user/yasiesoya/playlist/4lQrC4uc2hibPRjrCSQnmt
 ---
-
-[A man and his music. A Frank Sinatra playlist | Spotify](http://open.spotify.com/user/yasiesoya/playlist/4lQrC4uc2hibPRjrCSQnmt)
 
 On a day much like today in 1915, Frank Sinatra was born. Here's a small playlist for today with my favorite songs. Play it to yourself, relax and enjoy his gentle, soothing voice. Play it at work, play it on your way home, or play it to your significant other. Better yet, to your future significant other. This is romance the way it should be. Simply put, nobody makes music like this anymore.
 

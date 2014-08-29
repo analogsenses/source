@@ -10,8 +10,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/26006.html
 ---
 
-[Careful. We don't want to learn from this."](http://www.quotationspage.com/quote/26006.html)
+<blockquote>Careful. We don't want to learn from this.</blockquote>
 
 **Bill Watterson (1958 - )**, _Calvin and Hobbes._

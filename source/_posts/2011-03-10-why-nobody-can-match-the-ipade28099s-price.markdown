@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.wired.com/gadgetlab/2011/02/ipad-price/
 ---
-
-[Why Nobody Can Match the iPad’s Price | Wired](http://www.wired.com/gadgetlab/2011/02/ipad-price/)
-
 
 <blockquote>Apple is the most vertically integrated company in the world. In addition to operating its own retail chains, all Apple hardware and software are designed in-house, and Apple also runs its own digital content store, iTunes.</blockquote>
 

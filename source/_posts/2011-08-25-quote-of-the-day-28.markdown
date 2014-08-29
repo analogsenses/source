@@ -8,9 +8,10 @@ title: Quote of the Day
 wordpress_id: 1637172818
 post_format:
 - Quote
+external-url: http://daringfireball.net/linked/2011/08/25/supply-our-own-light
 ---
 
-[However vast the darkness, we must supply our own light."](http://daringfireball.net/linked/2011/08/25/supply-our-own-light)
+<blockquote>However vast the darkness, we must supply our own light.</blockquote>
 
 **Stanley Kubrick (1928-1999), **American filmmaker.
 

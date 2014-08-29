@@ -4,16 +4,15 @@ comments: false
 date: 2014-05-14 15:36:40+00:00
 layout: post
 slug: five-ways-to-get-the-most-out-of-your-streaming-music-service
-title: Five Ways to Get the Most Out of Your Streaming Music Service
+title: Five Ways to Get the Most Out of Your Streaming Music Service | Re/code
 wordpress_id: 1637173999
 categories:
 - Digital Life
 - Music
 post_format:
 - Link
+external-url: http://recode.net/2014/05/12/five-ways-to-get-the-most-out-of-your-streaming-music-service/
 ---
-
-[Five Ways to Get the Most Out of Your Streaming Music Service | Re/code](http://recode.net/2014/05/12/five-ways-to-get-the-most-out-of-your-streaming-music-service/)
 
 Lauren Goode, writing for Re/code:
 

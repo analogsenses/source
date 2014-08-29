@@ -10,13 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://stephanpastis.wordpress.com/2014/06/07/ever-wished-that-calvin-and-hobbes-creator-bill-watterson-would-return-to-the-comics-page-well-he-just-did/
 ---
 
-[Bill Watterson Briefly Returns to the Comics Page | Pearls Before Swine](http://stephanpastis.wordpress.com/2014/06/07/ever-wished-that-calvin-and-hobbes-creator-bill-watterson-would-return-to-the-comics-page-well-he-just-did/)
-
 Wow. Bill Watterson, THE Bill Watterson, returned to the comics page for the first time in 19 years to ghost-write a few panels of Pearls Before Swine:
-
-
 
 <blockquote>Let me tell you. Just getting an email from Bill Watterson is one of the most mind-blowing, surreal experiences I have ever had. Bill Watterson really exists? And he sends email? And he’s communicating with me?
 

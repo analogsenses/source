@@ -10,10 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://techcrunch.com/2011/07/09/vesper/
 ---
 
-[How Apple Led The High-Stakes Patent Poker Win Against Google | TechCrunch](http://techcrunch.com/2011/07/09/vesper/)
-
+TechCrunch:
 
 <blockquote>If you’ve seen Casino Royale (the remake, not the original campy version), you’ll recall the scene where James Bond loses all his money attempting to call what he believes to be a Le Chiffre bluff. He is forced to exit the game, but then Felix Leiter, the CIA operative also in the game, tells Bond he’ll stake him since he’s clearly the stronger player. Again, that’s more or less what Apple did with this maneuver to Google’s Le Chiffre.</blockquote>
 

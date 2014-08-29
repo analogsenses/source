@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars
 ---
-
-[John Siracusa's Epic OS X Lion Review | Ars Technica](http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss)
 
 The favorite moment of every Mac geek has finally arrived: John Siracusa's Epic-length review of the next major version of Mac OS X is now up over at Ars Technica.
 

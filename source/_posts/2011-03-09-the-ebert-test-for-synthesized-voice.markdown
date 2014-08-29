@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://bits.blogs.nytimes.com/2011/03/07/roger-ebert-tests-his-vocal-cords-and-comedic-delivery/?ref=technology
 ---
-
-[The Roger Ebert Test for Synthesized Voice | The New York Times](http://bits.blogs.nytimes.com/2011/03/07/roger-ebert-tests-his-vocal-cords-and-comedic-delivery/?ref=technology)
-
 
 <blockquote>Last Friday Roger Ebert, the movie critic who lost his ability to speak several years ago after his lower jaw was removed, used a [computer-created voice](http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20100226/PEOPLE/100229986) to tell a joke to an audience of over 1,000 people at the TED conference in Long Beach, Calif.</blockquote>
 

@@ -12,9 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://daringfireball.net/2002/08/iphony
 ---
-
-[Oldie But Goodie iPhone speculation | Daring Fireball](http://daringfireball.net/2002/08/iphony)
 
 It's really striking how far back some Apple rumors extend. The tablet rumors were nearly constant for years, during which we didn't even get a glimpse of the actual device until just days before the iPad was officially presented on stage.
 

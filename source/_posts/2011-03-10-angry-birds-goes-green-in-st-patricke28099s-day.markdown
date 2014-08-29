@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+extarnal-url: http://www.9to5mac.com/55196/angry-birds-goes-green-with-15-new-levels-in-st-patricks-day-update/
 ---
-
-[Angry Birds goes green in St. Patrick’s Day update | 9 to 5 Mac](http://www.9to5mac.com/55196/angry-birds-goes-green-with-15-new-levels-in-st-patricks-day-update/)
-
 
 <blockquote>The game maker is promising hidden surprises and bonus content, in addition to 15 new levels and “fun in the spirit of St. Patrick’s Day.”</blockquote>
 

@@ -11,11 +11,10 @@ categories:
 - Writing
 post_format:
 - Link
+external-url: http://mattgemmell.com/letting-go/
 ---
 
-[Letting go | Matt Gemmell](http://mattgemmell.com/letting-go/)
-
-
+Matt Gemmell:
 
 <blockquote>You definitely can’t work effectively when you’re angry, or drained, or upset, or depressed. I don’t subscribe to the ‘acquired immunity’ theory of personal experience, where we must be endlessly tempered by disagreement and adversity; that’s another thing that we take too far. I don’t want to be exposed in the first place – because I’d rather be making something I truly care about.</blockquote>
 

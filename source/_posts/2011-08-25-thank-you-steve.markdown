@@ -11,10 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.apple.com/pr/library/2011/08/24Letter-from-Steve-Jobs.html
 ---
-
-[Thank You, Steve](http://www.apple.com/pr/library/2011/08/24Letter-from-Steve-Jobs.html)
-
 
 <blockquote>I hereby resign as CEO of Apple. I would like to serve, if the Board sees fit, as Chairman of the Board, director and Apple employee.</blockquote>
 

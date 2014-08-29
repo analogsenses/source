@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.lostinmobile.com/home/if-you-are-using-windows-8-i-feel-really-sorry-for-you
 ---
-
-[If you are using Windows 8, I feel sorry for you | Lost In Mobile](http://www.lostinmobile.com/home/if-you-are-using-windows-8-i-feel-really-sorry-for-you)
 
 Shaun McGill buys a Windows 8 laptop for his son and tries to set it up. After much suffering, his conclusion was this:
 

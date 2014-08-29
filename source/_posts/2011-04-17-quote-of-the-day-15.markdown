@@ -11,8 +11,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/38592.htmlhttp://www.quotationspage.com/quote/38592.html
 ---
 
-[There is an evil tendency underlying all our technology - the tendency to do what is reasonable even when it isn't any good".](http://www.quotationspage.com/quote/38592.html)
+<blockquote>There is an evil tendency underlying all our technology - the tendency to do what is reasonable even when it isn't any good</blockquote>
 
 **Robert Pirsig**, _Zen and the Art of Motorcycle Maintenance._

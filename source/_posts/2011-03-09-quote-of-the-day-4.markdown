@@ -10,8 +10,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/819.html
 ---
 
-[There it was, hidden in alphabetical order."](http://www.quotationspage.com/quote/819.html)
+<blockquote>There it was, hidden in alphabetical order.</blockquote>
 
 **Rita Holt (1948 - 2002)**

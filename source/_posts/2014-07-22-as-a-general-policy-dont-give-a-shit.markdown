@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.raptitude.com/2014/07/not-giving-a-shit/
 ---
-
-["As a general policy, don’t give a shit" | Raptitude](http://www.raptitude.com/2014/07/not-giving-a-shit/)
 
 David Cain:
 

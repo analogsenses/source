@@ -12,10 +12,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.9to5mac.com/54821/a5-powered-apple-tv-to-handle-1080p-video/
 ---
 
-[A5-powered Apple TV to handle 1080p video? | 9 to 5 Mac](http://www.9to5mac.com/54821/a5-powered-apple-tv-to-handle-1080p-video/)
-
+9to5 Mac:
 
 <blockquote>When the Apple TV undergoes an update later this year, most likely in September, we’ll most likely see it pack Apple’s new A5 chip, which will handle 1080p video with ease.</blockquote>
 

@@ -13,9 +13,8 @@ post_format:
 - Link
 tags:
 - links
+external-url: http://www.talklikeapirateday.com/
 ---
-
-[Today is International Talk Like a Pirate Day](http://www.talklikeapirateday.com/)
 
 Yes, it's true.
 

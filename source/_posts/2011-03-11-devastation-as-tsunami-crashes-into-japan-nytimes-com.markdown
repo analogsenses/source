@@ -4,16 +4,14 @@ comments: false
 date: 2011-03-11 19:51:49+00:00
 layout: post
 slug: devastation-as-tsunami-crashes-into-japan-nytimes-com
-title: Devastation as Tsunami Crashes Into Japan
+title: Devastation as Tsunami Crashes Into Japan | The New York Times
 wordpress_id: 1637171919
 categories:
 - Link
 post_format:
 - Link
+external-url: http://www.nytimes.com/2011/03/12/world/asia/12japan.html?_r=1&hp
 ---
-
-[Devastation as Tsunami Crashes Into Japan | The New York Times](http://www.nytimes.com/2011/03/12/world/asia/12japan.html?_r=1&hp)
-
 
 <blockquote>TOKYO — An 8.9-magnitude earthquake struck off the coast of Japan on Friday, the strongest ever recorded in the country and one of the largest anywhere in the last century. The quake churned up a devastating tsunami that swept over cities and farmland in the northern part of the country and set off warnings as far away as the West Coast of the United States and South America.</blockquote>
 

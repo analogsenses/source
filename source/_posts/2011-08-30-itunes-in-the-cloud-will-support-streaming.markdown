@@ -4,16 +4,15 @@ comments: false
 date: 2011-08-30 09:14:21+00:00
 layout: post
 slug: itunes-in-the-cloud-will-support-streaming
-title: iTunes in the Cloud will support streaming
+title: iTunes in the Cloud will support streaming | TechCrunch
 wordpress_id: 1637172841
 categories:
 - Apple
 - Digital Life
 post_format:
 - Link
+external-url: http://techcrunch.com/2011/08/30/itunes-in-the-cloud-streaming/
 ---
-
-[iTunes in the Cloud to offer music streaming | TechCrunch](http://techcrunch.com/2011/08/30/itunes-in-the-cloud-streaming/)
 
 It looks like Apple had a trick up its sleeve:
 

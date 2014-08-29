@@ -12,9 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.etsy.com/shop/InkedStudio?ref=seller_info
 ---
-
-[Vinyl MacBook Decals by InkedStudio | Etsy](http://www.etsy.com/shop/InkedStudio?ref=seller_info)
 
 These are so full of WIN. Especially [this one](http://www.etsy.com/listing/70395595/magritte-son-of-man-apple-macbook-decal). Not the nerdiest one, I'll admit. But then again, [The Son of Man](http://en.wikipedia.org/wiki/The_Son_of_Man_(Magritte)) by René Magritte is my favorite painting of all time.
 

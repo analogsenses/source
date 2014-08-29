@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/33818.html
 ---
 
-[Do what you love, love what you do, leave the world a better place and don't pick your nose."](http://www.quotationspage.com/quote/33818.html)
+<blockquote>Do what you love, love what you do, leave the world a better place and don't pick your nose.</blockquote>
 
 **Jeff Mallett, **Frazz, 08-03-04.

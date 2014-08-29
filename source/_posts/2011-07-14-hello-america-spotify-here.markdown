@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.spotify.com/us/hello-america/
 ---
-
-[Hello America. Spotify here.](http://www.spotify.com/us/hello-america/)
 
 Simple and effective webpage to announce Spotify's immediate availability in the US. From the video:
 

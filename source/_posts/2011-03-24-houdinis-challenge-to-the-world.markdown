@@ -10,10 +10,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://twitpic.com/4cq3ty
 ---
-
-[Houdini's Challenge to the World](http://twitpic.com/4cq3ty)
-
 
 <blockquote>Harry Houdini was born on this day in 1874. Here's his "challenge to any medium in the world"</blockquote>
 

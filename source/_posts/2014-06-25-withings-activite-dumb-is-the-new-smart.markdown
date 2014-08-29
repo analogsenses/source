@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.withings.com/activite/en-US
 ---
-
-[Withings Activité: Dumb is the new Smart](http://www.withings.com/activite/en-US)
 
 Interesting new smartwatch from Withings. To me, its main appeal is that it looks nothing like a typical smartwatch. Instead, it looks like a traditional, high-quality analog watch, and it does have a certain classic vibe to it. I wouldn't mind wearing one.
 

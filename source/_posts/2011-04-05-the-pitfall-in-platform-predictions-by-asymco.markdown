@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.asymco.com/2011/04/04/the-pitfall-in-platform-predictions/
 ---
-
-[The pitfall in platform predictions | asymco](http://www.asymco.com/2011/04/04/the-pitfall-in-platform-predictions/)
-
 
 <blockquote>However, the evidence has shown that no Goliath has ever stood for long against a suitably equipped David, especially in technology.</blockquote>
 

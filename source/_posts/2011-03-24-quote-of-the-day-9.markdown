@@ -11,8 +11,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/1947.html
 ---
 
-[The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it."](http://www.quotationspage.com/quote/1947.html)
+<blockquote>The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it.</blockquote>
 
 **Harry Emerson Fosdick (1878 - 1969)**

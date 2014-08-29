@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/38177.html
 ---
 
-[Make a decision, even if it's wrong."](http://www.quotationspage.com/quote/38177.html)
+<blockquote>Make a decision, even if it's wrong.</blockquote>
 
 **Jarvis Klem**

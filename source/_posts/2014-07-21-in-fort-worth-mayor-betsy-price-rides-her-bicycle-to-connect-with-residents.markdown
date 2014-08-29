@@ -10,12 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.nytimes.com/2014/07/21/us/politics/fort-worth-mayor-betsy-price-bikes-to-connect-with-residents.html
 ---
 
-[In Fort Worth, Mayor Betsy Price rides her bicycle to connect with residents | NYTimes.com](http://www.nytimes.com/2014/07/21/us/politics/fort-worth-mayor-betsy-price-bikes-to-connect-with-residents.html?ref=politics)
-
 Good for her:
-
 
 
 <blockquote>The mayor regularly swoops into the city’s disparate neighborhoods on her bike to conduct “rolling town-hall meetings,” taking City Hall to the people. Residents bike up next to her to discuss a variety of issues and grievances, like zoning, potholes and trash pickup.</blockquote>

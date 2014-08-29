@@ -11,10 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://mashable.com/2011/05/04/carriers-begin-blocking-android-tethering-apps/
 ---
 
-[U.S. Carriers Begin Blocking Android Tethering Apps | Mashable.com](http://mashable.com/2011/05/04/carriers-begin-blocking-android-tethering-apps/)
-
+Mashable:
 
 <blockquote>Google told ZDNet that it isn’t officially blocking tethering apps. However, Google does say that Android users on specific carriers may not be able to find the app in the Android Marketplace. In other words, Google isn’t denying that certain apps are being blocked by the carriers.</blockquote>
 

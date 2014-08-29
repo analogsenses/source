@@ -12,9 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://ihnatko.posterous.com/hard-times-yes-its-another-damn-ipad-2-garage
 ---
-
-["Hard Times" by Andy Ihnatko](http://ihnatko.posterous.com/hard-times-yes-its-another-damn-ipad-2-garage)
 
 Andy Ihnatko's next Big Hit, completely recorded and edited using GarageBand on an iPad 2.
 

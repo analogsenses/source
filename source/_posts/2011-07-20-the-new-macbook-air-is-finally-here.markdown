@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.apple.com/macbookair/
 ---
-
-[The New MacBook Air is finally here | Apple](http://www.apple.com/macbookair/)
 
 As widely anticipated, the new configurations are impressive, packing considerably more power while maintaining prices across the board. The Thunderbolt addition is also very much appreciated.
 

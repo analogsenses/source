@@ -12,10 +12,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://minimalmac.com/post/4615413105/the-future-is-now-a-backup-story
 ---
 
-[The Future is Now! | Minimal Mac](http://minimalmac.com/post/4615413105/the-future-is-now-a-backup-story)
-
+Minimal Mac:
 
 <blockquote>Then, a few minutes later he stated his desire to sign up and asked when we could set up a time.  “You have your laptop sitting there so how about right now?”, I asked.</blockquote>
 

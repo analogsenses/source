@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.apple.com/pr/library/2011/04/27location_qa.html
 ---
-
-[Apple Q&A on Location Data | Apple.com](http://www.apple.com/pr/library/2011/04/27location_qa.html)
-
 
 <blockquote>6. People have identified up to a year’s worth of location data being stored on the iPhone. Why does my iPhone need so much data in order to assist it in finding my location today?
 This data is not the iPhone’s location data—it is a subset (cache) of the crowd-sourced Wi-Fi hotspot and cell tower database which is downloaded from Apple into the iPhone to assist the iPhone in rapidly and accurately calculating location. The reason the iPhone stores so much data is a bug we uncovered and plan to fix shortly (see Software Update section below). We don’t think the iPhone needs to store more than seven days of this data.</blockquote>

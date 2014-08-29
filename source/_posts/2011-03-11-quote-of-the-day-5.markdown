@@ -10,8 +10,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/27094.html
 ---
 
-[Every child is an artist. The problem is how to remain an artist once he grows up."](http://www.quotationspage.com/quote/27094.html)
+<blockquote>Every child is an artist. The problem is how to remain an artist once he grows up.</blockquote>
 
 **Pablo Picasso (1881 - 1973)**.

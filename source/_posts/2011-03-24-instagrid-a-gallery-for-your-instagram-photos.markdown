@@ -11,9 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://instagrid.me/analogsenses/
 ---
-
-[Instagrid, a gallery for your Instagram photos](http://instagrid.me/analogsenses/)
 
 Great service. You only need to authenticate with your Instagram account, and Boom! You get a nice web gallery with all of your Instagram pictures.
 

@@ -12,9 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://en.wikipedia.org/wiki/Mac_OS_X
 ---
-
-[Today is the 10th Birthday of Mac OS X](http://en.wikipedia.org/wiki/Mac_OS_X)
 
 Wow. 10 years. 6 Big Cats, and counting ([Lion](http://www.apple.com/macosx/lion/) is right around the corner). It's been quite a ride so far. And the best is yet to come.
 

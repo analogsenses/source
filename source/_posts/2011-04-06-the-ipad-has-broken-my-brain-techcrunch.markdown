@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://techcrunch.com/2011/04/06/the-ipad-os-x-scrolling/
 ---
-
-[The iPad Has Broken My Brain | TechCrunch](http://techcrunch.com/2011/04/06/the-ipad-os-x-scrolling/)
-
 
 <blockquote>It’s like my brain is locked in. I’m someone who has had an iPad for a year, but I’ve never used it for days in a row without touching a computer like I just did this weekend. And it seems to have re-wired my brain.</blockquote>
 

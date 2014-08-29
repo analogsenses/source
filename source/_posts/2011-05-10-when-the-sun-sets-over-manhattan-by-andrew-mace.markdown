@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.flickr.com/photos/acmace/sets/72157622546326169/
 ---
-
-[When the Sun sets over Manhattan | Flickr](http://www.flickr.com/photos/acmace/sets/72157622546326169/)
 
 Amazing shots of The City from Andrew Mace's [Flickr stream](http://www.flickr.com/photos/acmace/).
 

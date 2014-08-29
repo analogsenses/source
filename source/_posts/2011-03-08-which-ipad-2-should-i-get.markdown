@@ -12,13 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.marco.org/3716727900
 ---
-
-<span style="font-family: monospace;"><a href="http://www.marco.org/3716727900" target="_blank" class="external-link" title="Via marco.org">Which iPad 2 should I get? | Marco.org</a>
-    </span>
-
-
-
 
 <blockquote>If you’re happy with your iPad, there’s not a huge reason to upgrade. Casual gadget customers who already own iPads are probably better off waiting for the next version.
 

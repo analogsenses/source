@@ -10,9 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.marco.org/2011/07/11/own-your-identity
 ---
 
-[Own your identity | Marco.org](http://www.marco.org/2011/07/11/own-your-identity)
+Marco Arment: 
 
 
 <blockquote>If you care about your online presence, you must own it. I do, and that’s why my email address has always been at my own domain, not the domain of any employer or webmail service.</blockquote>

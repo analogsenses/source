@@ -12,8 +12,9 @@ post_format:
 - Quote
 tags:
 - Quote
+external-url: http://www.quotationspage.com/quote/1433.html
 ---
 
-[The important thing is not to stop questioning."](http://www.quotationspage.com/quote/1433.html)
+<blockquote>The important thing is not to stop questioning.</blockquote>
 
 **Albert Einstein (1879-1955)**

@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.randsinrepose.com/archives/2011/04/04/a_hard_thing_is_done_by_figuring_out_how_to_start.html
 ---
-
-[The daunting task of getting started | Rands in Repose](http://www.randsinrepose.com/archives/2011/04/04/a_hard_thing_is_done_by_figuring_out_how_to_start.html)
-
 
 <blockquote>The fifth version of Rands in Repose has been a long time coming, but it’s close. The design is done and the migration of content is mostly complete. The process of learning an entirely new publishing platform is underway and mostly painless. What remains is an ever-growing list of details supplied by the act of starting.</blockquote>
 

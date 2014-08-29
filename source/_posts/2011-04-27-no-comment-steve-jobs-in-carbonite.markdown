@@ -12,9 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.tuaw.com/2011/04/25/no-comment-steve-jobs-in-carbonite/
 ---
-
-[No comment: Steve Jobs in Carbonite | TUAW](http://www.tuaw.com/2011/04/25/no-comment-steve-jobs-in-carbonite/)
 
 
 <blockquote>Did you ever wonder what happens when the reality distortion field meets Star Wars?</blockquote>

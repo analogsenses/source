@@ -11,10 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://articles.marco.org/268
 ---
 
-[Speaking of Standing Desks | Marco.org](http://articles.marco.org/268)
-
+Marco Arment:
 
 <blockquote>I got used to the standing desk after a few weeks. I don’t even notice it anymore. It’s easier to take coffee breaks because I’m already up — I just need to start walking. I burn more calories and strengthen my legs all day instead of sitting and getting fatter. No complaints on this one.</blockquote>
 

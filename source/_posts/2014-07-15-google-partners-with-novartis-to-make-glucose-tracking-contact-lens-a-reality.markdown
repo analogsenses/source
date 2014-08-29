@@ -10,11 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.theverge.com/2014/7/15/5900871/google-and-novartis-smart-contact-lens-partnership
 ---
-
-[Google partners with Novartis to make glucose-tracking contact lens a reality | The Verge](http://www.theverge.com/2014/7/15/5900871/google-and-novartis-smart-contact-lens-partnership)
-
-
 
 <blockquote>Google and Novartis have this morning announced an agreement to collaborate on the development of the smart contact lens that was unveiled by Google X in January. Using non-invasive sensors, the lens promises to analyze tear fluid in the eye to provide constant measurements of a person's blood glucose levels. Those can then be sent wirelessly to a mobile device and help diabetics manage their disease more easily.</blockquote>
 

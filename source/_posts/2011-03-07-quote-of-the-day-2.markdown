@@ -10,8 +10,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/40404.html
 ---
 
-[Not every story has explosions and car chases. That's why they have nudity and espionage."](http://www.quotationspage.com/quote/40404.html)
+<blockquote>Not every story has explosions and car chases. That's why they have nudity and espionage.</blockquote>
 
 **Bill Barnes and Gene Ambaum**, _Unshelved, 09-14-08_

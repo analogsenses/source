@@ -10,10 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.marco.org/2014/07/16/overcast
 ---
-
-[Marco Arment launches Overcast](http://www.marco.org/2014/07/16/overcast)
-
 
 
 <blockquote>It’s been a long road, but 1.0 is finally done. I’m proud of what I’m shipping today.

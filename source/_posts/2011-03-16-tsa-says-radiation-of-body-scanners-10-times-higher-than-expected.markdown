@@ -11,10 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://arstechnica.com/tech-policy/news/2011/03/tsa-admits-bungling-of-airport-body-scanner-radiation-tests.ars
 ---
 
-[TSA says radiation of body scanners 10 times higher than expected | Ars Technica](http://arstechnica.com/tech-policy/news/2011/03/tsa-admits-bungling-of-airport-body-scanner-radiation-tests.ars)
-
+Ars Technica:
 
 <blockquote>The Transportation Security Administration is reanalyzing the radiation levels of X-ray body scanners installed in airports nationwide, after testing produced dramatically higher-than-expected results.</blockquote>
 

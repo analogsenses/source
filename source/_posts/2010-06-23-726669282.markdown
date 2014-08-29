@@ -14,9 +14,8 @@ post_format:
 tags:
 - Rands
 - T-Shirt
+external-url: http://www.randsinrepose.com/archives/2010/06/22/chill.html
 ---
-
-[The second Rands in Repose benefit T-shirt is already available](http://www.randsinrepose.com/archives/2010/06/22/chill.html)
 
 Besides it being an incredibly cool T-shirt for every nerd out there (and most normal people too), it supports a great cause: “100% of the proceedings from each shirt go to [First Book](http://www.firstbook.org/site/c.lwKYJ8NVJvF/b.674095/k.CCA8/First_Book_Homepage.htm), a nonprofit organization with the  mission to give children from low-income families  the  opportunity to read and to own their first new books”.
 

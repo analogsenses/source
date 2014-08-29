@@ -14,8 +14,9 @@ post_format:
 tags:
 - movies
 - Quote
+external-url: http://www.imdb.com/title/tt0172495/quotes
 ---
 
-[What we do in life echoes in eternity."](http://www.imdb.com/title/tt0172495/quotes)
+<blockquote>What we do in life echoes in eternity.</blockquote>
 
 **Maximus Decimus Meridius**, _Gladiator (2000)._

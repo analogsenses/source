@@ -15,7 +15,7 @@ post_format:
 external-url: http://www.vimeo.com/104509459
 ---
 
-<iframe src="//player.vimeo.com/video/104509459" width="570" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{% vimeo 104509459 %}
 
 Play it on full-screen mode. What a gorgeous city. 
 

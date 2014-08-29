@@ -11,10 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://arstechnica.com/software/news/2011/03/twitter-tells-third-party-devs-to-stop-making-twitter-client-apps.ars
 ---
 
-[Twitter tells third-party devs to stop making Twitter client apps | Ars Technica](http://arstechnica.com/software/news/2011/03/twitter-tells-third-party-devs-to-stop-making-twitter-client-apps.ars)
-
+Ars Technica: 
 
 <blockquote>That's right, Twitter just told its third-party client application developer community that it is no longer wanted. Existing developers will face challenges going forward as Twitter takes back the platform. The company is adjusting the terms of service that govern its APIs in order to define stricter requirements for conforming with Twitter's expectations regarding how the service is presented.</blockquote>
 

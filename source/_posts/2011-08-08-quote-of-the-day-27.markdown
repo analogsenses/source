@@ -10,9 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/1174.html
 ---
 
-[The rule is perfect: in all matters of opinion our adversaries are insane."](http://www.quotationspage.com/quote/1174.html)
+<blockquote>The rule is perfect: in all matters of opinion our adversaries are insane.</blockquote>
 
 **Mark Twain (1835 - 1910)**, _in Christian Science._
 

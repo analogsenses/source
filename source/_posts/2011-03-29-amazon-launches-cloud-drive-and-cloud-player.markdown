@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://techcrunch.com/2011/03/28/amazon-cloud-drive-player/
 ---
-
-[Amazon launches Cloud Drive and Cloud Player, the first digital music locker in the cloud | TechCrunch](http://techcrunch.com/2011/03/28/amazon-cloud-drive-player/)
-
 
 <blockquote>Cloud Drive is the name Amazon is giving to its media storage space on their servers. They give you 5 GB of storage for free and allow you to access the media from any computer. Cloud Player is the name of yes, the actual player. And it comes in two flavors: a player for the web, and one for Android devices. You’ll note an absence of an iOS player…</blockquote>
 

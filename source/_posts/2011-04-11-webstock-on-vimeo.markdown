@@ -12,9 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://vimeo.com/user1374773
 ---
-
-[Webstock on Vimeo](http://vimeo.com/user1374773)
 
 The sessions from Webstock 2011 are finally up. You can watch every session, from John Gruber to Merlin Mann.
 

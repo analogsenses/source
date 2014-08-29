@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://blog.twitter.com/2011/03/so-bar-walks-into-app.html
 ---
-
-[So a bar walks into an app... | Twitter blog](http://blog.twitter.com/2011/03/so-bar-walks-into-app.html)
-
 
 <blockquote>After testing a feature and evaluating its merits, if we learn it doesn’t improve the user experience or serve our mission, we’ll remove that feature. Rather than continue to make changes to the QuickBar as it exists, we removed the bar from the update appearing in the App Store today.</blockquote>
 

@@ -11,8 +11,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/899.html
 ---
 
-[I'm all in favor of keeping dangerous weapons out of the hands of fools. Let's start with typewriters."](http://www.quotationspage.com/quote/899.html)
+<blockquote>I'm all in favor of keeping dangerous weapons out of the hands of fools. Let's start with typewriters.</blockquote>
 
 **Solomon Short (David Gerrold's Alter Ego)**

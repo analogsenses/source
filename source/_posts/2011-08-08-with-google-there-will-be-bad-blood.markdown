@@ -10,10 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://techcrunch.com/2011/08/06/ive-abandoned-my-boy/
 ---
 
-[With Google, There Will Be Bad Blood | TechCrunch](http://techcrunch.com/2011/08/06/ive-abandoned-my-boy/)
-
+TechCrunch:
 
 <blockquote>But why? Why is Google now a villain to many in the industry? I don’t believe it’s because they’re evil, I believe it simply relates to the Plainview quote. Increasingly, Google is trying to do everything. And they have the arrogance to think that they can. And it’s pissing people off.</blockquote>
 

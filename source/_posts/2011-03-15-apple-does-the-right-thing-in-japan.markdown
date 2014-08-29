@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://kevinrose.com/blogg/2011/3/14/apples-role-in-japan-during-the-tohoku-earthquake.html
 ---
-
-[Apple does the right thing in Japan | Kevin Rose](http://kevinrose.com/blogg/2011/3/14/apples-role-in-japan-during-the-tohoku-earthquake.html)
-
 
 <blockquote>The earthquake hit while I was working on the first floor of one of their stores.  As the entire building swayed, the staff calmly led people from the top 5 floors down to the first floor, and under the ridiculously strong wooden tables that hold up the display computers. 7 hours and 118 aftershocks later, the store was still open.  Why? Because with the phone and train lines down, taxis stopped, and millions of people stuck in the Tokyo shopping district scared, with no access to television, hundreds of people were swarming into Apple stores to watch the news on USTREAM and contact their families via Twitter, Facebook, and email.</blockquote>
 

@@ -11,9 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://purgingday.com/
 ---
-
-[March 20th: International Purging Day](http://purgingday.com/)
 
 Yes, it’s exactly what you think. And it’s awesome.
 

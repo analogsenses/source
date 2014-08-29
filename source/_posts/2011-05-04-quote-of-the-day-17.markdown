@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/39153.html
 ---
 
-[We cannot fail to win unless we fail to try."](http://www.quotationspage.com/quote/39153.html)
+<blockquote>We cannot fail to win unless we fail to try.</blockquote>
 
 **Tom Clancy (1947 - )**

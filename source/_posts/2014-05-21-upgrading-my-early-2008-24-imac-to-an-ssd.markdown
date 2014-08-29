@@ -15,7 +15,7 @@ categories:
 
 
 
-### Introduction
+## Introduction
 
 
 
@@ -23,7 +23,7 @@ A couple of weekends ago I finally had time for a project I’d been wanting to 
 
 
 
-### Why
+## Why
 
 
 
@@ -33,7 +33,7 @@ An SSD, on the other hand, has [no moving parts to spin](http://en.wikipedia.org
 
 
 
-### How
+## How
 
 
 
@@ -59,7 +59,7 @@ I was initially leaning towards [the 500 GB model](http://www.amazon.com/gp/prod
 
 
 
-### Getting my hands dirty
+## Getting my hands dirty
 
 
 
@@ -95,7 +95,7 @@ I do have a few comments that I thought were not sufficiently clear on the guide
 
 
 
-### Restoring the System
+## Restoring the System
 
 
 
@@ -105,7 +105,7 @@ The last part of the process is, of course, getting your new SSD up and running.
 
 
 
-### The Verdict
+## The Verdict
 
 
 

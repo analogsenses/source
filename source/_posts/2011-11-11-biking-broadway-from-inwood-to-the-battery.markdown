@@ -10,10 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.observer.com/2011/11/manhattan-in-five-minutes-biking-broadway-from-inwood-to-the-battery/
 ---
 
-[Biking Broadway from Inwood to the Battery | The New York Observer](http://www.observer.com/2011/11/manhattan-in-five-minutes-biking-broadway-from-inwood-to-the-battery/)
-
+The New York Observer:
 
 <blockquote>The 13-mile ride elapses in only five minutes, but it shows a huge swath of architectural and economic diversity.</blockquote>
 

@@ -12,9 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://minimalmac.com/post/927145531/year-one
 ---
-
-[Minimal Mac: Year One](http://minimalmac.com/post/927145531/year-one)
 
 Minimal Mac turns one.
 

@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://techpinions.com/microsoft-is-the-very-antithesis-of-strategy/32303
 ---
-
-[Microsoft Is The Very Antithesis Of Strategy | Tech.pinions](http://techpinions.com/microsoft-is-the-very-antithesis-of-strategy/32303)
 
 Excellent article by John Kirk on the strategic mistakes Microsoft keeps making in its repeated attempts to recover the dominant position they held during the 90's. Very appropriate in light of [Satya Nadella's recent public email](http://www.microsoft.com/en-us/news/ceo/index.html) about the future of the company:
 

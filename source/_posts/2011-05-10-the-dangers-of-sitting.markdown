@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.medicalbillingandcoding.org/sitting-kills/
 ---
-
-[The Dangers of Sitting | Medical Billing and Coding](http://www.medicalbillingandcoding.org/sitting-kills/)
 
 Fantastic, eerie-looking infographic about the dangers of sitting for over 8 hours a day. This has been reported as part of [an ongoing series](http://mashable.com/follow/topics/stand-up-desks/) of articles on Mashable.com. If you care about your health, you may want to spend a few minutes learning how you can change your habits for the better.
 

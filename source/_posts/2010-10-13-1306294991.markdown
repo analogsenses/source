@@ -10,9 +10,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.internationalsuitupday.com/
 ---
-
-[Today is International Suit Up Day](http://www.internationalsuitupday.com/)
 
 From the Web:
 
@@ -35,6 +34,4 @@ What are you waiting for? On your marks, ready, steady… SUIT UP!
 
 (via [@reniciodeltoro](http://www.twitter.com/reniciodeltoro))
 
-UPDATE: pictures added.
-
-[album id=2 template=extend]
+UPDATE: [pictures added](https://www.flickr.com/photos/analogsenses/sets/72157625158932180/).

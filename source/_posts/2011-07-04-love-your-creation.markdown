@@ -10,10 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://blog.joshlewis.org/2011/07/04/love-your-creation/
 ---
 
-[Love Your Creation | Josh Lewis](http://blog.joshlewis.org/2011/07/04/love-your-creation/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+joshlewis%2Fblog+%28Josh+Lewis%27s+Blog%29)
-
+Josh Lewis:
 
 <blockquote>We learn how to create by taking in the creations of others. We learn how to shape an experience for someone else by having experiences of our own. So, you want to know how to make someone weep for joy? Have someone make you weep for joy.</blockquote>
 

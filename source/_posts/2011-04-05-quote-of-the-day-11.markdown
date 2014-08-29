@@ -11,8 +11,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/38568.html
 ---
 
-[Anyone can be an idealist. Anyone can be a cynic. The hard part lies somewhere in the middle i.e. being human."](http://www.quotationspage.com/quote/38568.html)
+<blockquote>Anyone can be an idealist. Anyone can be a cynic. The hard part lies somewhere in the middle i.e. being human.</blockquote>
 
 **Hugh Macleod**, _How To Be Creative: 29_, 08-22-04

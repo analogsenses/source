@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.anandtech.com/show/4225/the-ipad-2-review
 ---
-
-[AnandTech thoroughly reviews the iPad 2 | AnandTech](http://www.anandtech.com/show/4225/the-ipad-2-review)
-
 
 <blockquote>As I mentioned in our review of the first iPad last year, this is a device that augments your existing setup - it replaces nothing. You'll still need a computer of some sort and you'll still need a phone, you just get to have another device that's more convenient than both of those occasionally.</blockquote>
 

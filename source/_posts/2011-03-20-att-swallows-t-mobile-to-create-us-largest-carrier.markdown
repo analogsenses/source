@@ -11,10 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://arstechnica.com/business/news/2011/03/att-swallows-t-mobile-to-create-us-largest-carrier.ars
 ---
 
-[AT&T swallows T-Mobile to create US' largest carrier | Ars Technica](http://arstechnica.com/business/news/2011/03/att-swallows-t-mobile-to-create-us-largest-carrier.ars)
-
+Ars Techica:
 
 <blockquote>Today, AT&T announced a $39 billion deal with T-Mobile's parent company, Deutsche Telekom, that will see T-Mobile's customers and infrastructure become part of AT&T, creating the US' largest cellular carrier, and the only one to offer GSM phones.</blockquote>
 

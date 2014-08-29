@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.next-gen.biz/opinion/opinion-digital-rights-minotaur
 ---
-
-[Unleash the fury of DRM on those dirty gamers | Edge](http://www.next-gen.biz/opinion/opinion-digital-rights-minotaur)
 
 I was skimming through my Twitter feed when I found [this gem](https://twitter.com/mattgemmell/status/144775455642370048) in Matt Gemmel's timeline. The developers of the shoot-em-up game Serious Sam 3 have embedded a great way to discourage piracy in the game: [a giant, immortal, pink scorpion](http://www.next-gen.biz/news/serious-sam-3s-drm-giant-invincible-scorpion) that relentlessly mauls you to death as soon as the game starts, but of course only on illegally obtained copies of the game.
 

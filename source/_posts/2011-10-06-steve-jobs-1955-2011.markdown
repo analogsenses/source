@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://apple.com/stevejobs
 ---
-
-[Steve Jobs (1955-2011)](http://apple.com/stevejobs)
 
 [![Steve Jobs (1955-2011)](http://farm7.static.flickr.com/6038/6216851936_0caf9de31e.jpg)](http://www.apple.com/stevejobs)
 

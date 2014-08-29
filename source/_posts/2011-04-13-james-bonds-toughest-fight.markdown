@@ -10,8 +10,7 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.youtube.com/watch?v=ZOsHuLfLUF8
 ---
-
-[James Bond's Toughest Fight | YouTube](http://www.youtube.com/watch?v=ZOsHuLfLUF8)
 
 Hilarious. Just watch it.

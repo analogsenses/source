@@ -11,11 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://techcrunch.com/2011/04/29/microsoft-internet-bloodbath/
 ---
-
-[When Will Microsoft’s Internet Bloodbath End? | TechCrunch](http://techcrunch.com/2011/04/29/microsoft-internet-bloodbath/)
-
-
 
 
 <blockquote>What they don’t bother to mention in the release, but they can’t hide in the actual numbers, is just how bad the quarter actually was for the division. While revenue may have grown a bit year over year, income — as in the money you actually get to keep — was an entirely different story. It was a bloodbath, really. Yes, again

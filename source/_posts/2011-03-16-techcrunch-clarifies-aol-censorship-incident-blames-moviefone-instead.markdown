@@ -11,9 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://techcrunch.com/2011/03/16/actually-aol-didnt-ask-us-to-tone-it-down-moviefone-did-and-their-editor-in-chief-should-be-fired-2/
 ---
-
-[TechCrunch clarifies AOL censorship incident, blames Moviefone instead | TechCrunch](http://techcrunch.com/2011/03/16/actually-aol-didnt-ask-us-to-tone-it-down-moviefone-did-and-their-editor-in-chief-should-be-fired-2/)
 
 Great article by Paul Carr on how AOL didn't actually ask TechCrunch to "tone down" [their post](http://techcrunch.com/2011/03/12/the-source-code/) about the marketing strategy behind the movie [Source Code](http://www.imdb.com/title/tt0945513/):
 

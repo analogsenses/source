@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://daringfireball.net/linked/2011/03/24/color
 ---
-
-[Color App not quite captivating Gruber | Daring Fireball](http://daringfireball.net/linked/2011/03/24/color)
-
 
 <blockquote>This thing looks like a turd to me. Now, maybe I’m the idiot and the joke’s on me and Color is going to be a huge hit. But my figurative money says that the investors who funded these guys just flushed $41 million in literal money down the toilet.</blockquote>
 

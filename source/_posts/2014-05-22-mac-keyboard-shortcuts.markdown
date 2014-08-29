@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://mattgemmell.com/mac-keyboard-shortcuts/
 ---
-
-[Mac keyboard shortcuts | Matt Gemmell](http://mattgemmell.com/mac-keyboard-shortcuts/)
 
 Excellent article by Matt Gemmell on how to master your Mac's keyboard shortcuts. A must-read:
 

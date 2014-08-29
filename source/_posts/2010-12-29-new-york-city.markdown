@@ -11,9 +11,7 @@ categories:
 - Post
 ---
 
-Next week I'll be heading over to New York City (if  weather conditions allow it) on vacation with my girlfriend. I've been trying to write something meaningful about this trip since the minute we bought the plane tickets, but so far I hadn't really been able to come up with anything. And then I looked at [this](http://www.flickr.com/photos/dcdead/5054152923/):
-
-[singlepic id=24 w=500]
+Next week I'll be heading over to New York City (if  weather conditions allow it) on vacation with my girlfriend. I've been trying to write something meaningful about this trip since the minute we bought the plane tickets, but so far I hadn't really been able to come up with anything. And then I looked at [this](http://www.flickr.com/photos/dcdead/5054152923/).
 
 It's hard to overstate how anxious and excited I am about this trip. New York City has always been the dream for me. I grew up in a small town, and moved to the biggest city in the country as soon as I could. I have always had that hunger inside me, that part of me that needs to conquer whatever challenges the world can throw at me. To be able to thrive in the greatest city in the world, get to know it and experience it running through my veins.
 

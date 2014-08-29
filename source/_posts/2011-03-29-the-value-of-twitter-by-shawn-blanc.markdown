@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://shawnblanc.net/2011/03/the-value-of-twitter/
 ---
-
-[The Value of Twitter | shawnblanc.net](http://shawnblanc.net/2011/03/the-value-of-twitter/)
-
 
 <blockquote>Twitter is not trying to answer the question of who would or would not stay and pay. They are trying to find a business model that will support those who cannot pay so even more of them will sign up.</blockquote>
 

@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://shawnblanc.net/2011/02/membership-drive-and-giveaway/
 ---
-
-[Shawn Blanc goes full-time | shawnblanc.net](http://shawnblanc.net/2011/02/membership-drive-and-giveaway/)
-
 
 <blockquote>It is hard to put into words just exactly how excited I am about the days ahead — I’m equal parts giddy and petrified over here. There’s that feeling of: I’m actually going to do this! Um, wait. I’m actually going to do this!?</blockquote>
 

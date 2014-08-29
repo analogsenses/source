@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://minimalmac.com/post/9113339945/disruptive
 ---
-
-[Disruptive | Minimal Mac](http://minimalmac.com/post/9113339945/disruptive)
 
 Speaking of Patrick and Minimal Mac, this is a great piece of advice to all the other companies hoping to compete with the iPad.
 

@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://emilycaldwell.tumblr.com/
 ---
-
-[Self-Remembering](http://emilycaldwell.tumblr.com/)
-
 
 <blockquote>From my experiencing self,  
 

@@ -13,9 +13,8 @@ post_format:
 tags:
 - links
 - Tennis
+external-url: http://tennisplanet.wordpress.com/2010/09/26/when-will-humans-learn-that-size-doesnt-matter/
 ---
-
-[When will humans learn that size doesn't matter?](http://tennisplanet.wordpress.com/2010/09/26/when-will-humans-learn-that-size-doesnt-matter/)
 
 Interesting analysis over at Tennis Planet, regarding the right use of power, size and strength in today’s tennis.
 

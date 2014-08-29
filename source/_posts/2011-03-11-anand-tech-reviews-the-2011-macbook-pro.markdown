@@ -12,9 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.anandtech.com/show/4205/the-macbook-pro-review-13-and-15-inch-2011-brings-sandy-bridge/21
 ---
-
-[Anand reviews the 2011 MacBook Pro | AnandTech](http://www.anandtech.com/show/4205/the-macbook-pro-review-13-and-15-inch-2011-brings-sandy-bridge/21)
 
 He likes them.
 

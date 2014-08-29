@@ -11,10 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://brooksreview.net/2011/03/fragility-free/
 ---
 
-[Fragility of Free | The Brooks Review](http://brooksreview.net/2011/03/fragility-free/)
-
+Ben Brooks:
 
 <blockquote>The fragility of free is a catchy term that describes what happens when the free money runs out. Or — perhaps more accurately — when the investors/founders/venture capitalists run out of cash, or patience, or both. Because at some point Twitter and all other companies have to make the move from ‘charity’ to ‘business’ — or, put another way, they have to make the move from spending tons of money to making slightly more money than they spend.</blockquote>
 

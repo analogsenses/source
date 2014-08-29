@@ -10,10 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/1993.html
 ---
 
-[To me, old age is always 15 years older than I am."](http://www.quotationspage.com/quote/1993.html)
+<blockquote>To me, old age is always 15 years older than I am.</blockquote>
 
-**Bernard M. Baruch (1870 - 1965)**, _US businessman & politician, _1940.
-
-_ _
+**Bernard M. Baruch (1870 - 1965)**, _US businessman & politician_, 1940.

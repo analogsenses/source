@@ -11,10 +11,10 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://daringfireball.net/2011/10/universe_dented_grass_underfoot
 ---
 
-[Universe Dented, Grass Underfoot | Daring Fireball](http://daringfireball.net/2011/10/universe_dented_grass_underfoot)
-
+John Gruber: 
 
 <blockquote>One of Jobs’s many gifts was that he knew what to give a shit about. He knew how to focus and prioritize his time and attention. Grass stains on his sneakers didn’t make the cut.</blockquote>
 

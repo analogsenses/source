@@ -11,9 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://packlite.tumblr.com/post/5331848342
 ---
-
-[My question gets answered | Pack Light. Go Fast.](http://packlite.tumblr.com/post/5331848342)
 
 OK, so first of all, thank you so much Uri for answering, and specially for doing it so soon (it's been only about three hours since I sent the question).
 

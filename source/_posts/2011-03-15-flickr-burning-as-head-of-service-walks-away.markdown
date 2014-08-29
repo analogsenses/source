@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://techcrunch.com/2011/03/14/flickr-head-out/
 ---
-
-[Flickr Burning as Head Of Service Walks Away | TechCrunch](http://techcrunch.com/2011/03/14/flickr-head-out/)
-
 
 <blockquote>Rothenberg is out as head of product for Flickr. He [tweeted](http://twitter.com/#!/mroth/status/47413775799812096) the news himself earlier today. He had been on the team for five years, dating back to when original co-founders Stewart Butterfield and Caterina Fake were still running the ship. They left long ago, but Rothenberg stuck around. And for the past two years, he’s been the guy in charge.</blockquote>
 

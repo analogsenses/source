@@ -24,7 +24,10 @@ to learn about modular scales.
 
 /* import typography */
 @import "typography.scss";
+/* import footnotes popover */
 @import "footnotes.scss";
+/* import responsive video embeds plugin */
+@import "custom/rve";
 
 
 // ------------------------------
@@ -49,8 +52,9 @@ $border-style: 2px solid $secondary-text-color;
 // ------------------------------
 
 .default-line-height {
-  line-height: 32.360px;
-  line-height: 1.618rem;
+  //line-height: 32.360px;
+  //line-height: 1.618rem;
+  line-height: 1.7rem;
 }
 
 .font-size-smallest {
@@ -64,8 +68,9 @@ $border-style: 2px solid $secondary-text-color;
 }
 
 .font-size-medium {
-  font-size: 19.359px;
-  font-size: 0.968rem; /* 0.732 + 0.236 */
+  //font-size: 19.359px;
+  //font-size: 0.968rem; /* 0.732 + 0.236 */
+  font-size: 18px;
 }
 
 .font-size-large {
@@ -146,8 +151,8 @@ $border-style: 2px solid $secondary-text-color;
 
 html {
   @extend .default-font;
+  @extend .font-size-medium;
   border-top: 8px solid $accent-color;
-  font-size: 106%;
   line-height: 1;
 }
 
@@ -167,11 +172,6 @@ img {
   max-width: 100%;
   border: 1px #4b4b4b solid;
 }
-
-iframe{
-	@extend .margin-bottom-large;
-	border: 1px #4b4b4b solid;	
- }
 
 h1, h2, h3, h4, h5, h6 {
   @extend .sans-serif-font-bold;
@@ -243,10 +243,11 @@ section {
 blockquote {
   @extend .block-padding;
   @extend .margin-bottom-large;
+  @extend .default-line-height; 
+  @extend .font-size-medium;
   border-left: $border-style;
   font-style: normal;
   color: #4b4b4b;
-  line-height:140%;
   
   p {
     margin: 0;
@@ -489,7 +490,7 @@ body {
   
   .pagination {
     @extend .sans-serif-font-bold;
-    font-size:23px;
+    font-size:25px;
     text-align:center;
     position:relative;
     padding: 23.683px 0;
@@ -761,8 +762,8 @@ article {
   p {
     @extend .default-line-height;
     @extend .margin-bottom-large;
+    @extend .font-size-medium;
     text-align: left;
-    //line-height:140%;
     color:#000;
     
     a {
@@ -864,7 +865,6 @@ article {
  	font-size:85px;
  }*/
  body {
-    //width: 65%;
     > header {
       h2{
       	font-size:16px;
@@ -933,7 +933,6 @@ article {
 
  	}*/
   body {
-    //width: 90%;
     > header {
       h2{
       	font-size:16px;

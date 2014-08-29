@@ -11,9 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://minimalmac.com/patronage
 ---
-
-[Become a Patron of Minimal Mac](http://minimalmac.com/patronage)
 
 I know I'm a bit late to the party on this one, but I wouldn't forgive myself if I missed it. As of a few days ago, you can become a patron of [Minimal Mac](http://minimalmac.com), and support the amazing work that [Patrick Rhone](http://patrickrhone.net) is doing over there.
 

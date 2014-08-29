@@ -11,8 +11,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.brainyquote.com/quotes/quotes/c/charliecha379755.html
 ---
 
-[We think too much and feel too little."](http://www.brainyquote.com/quotes/quotes/c/charliecha379755.html)
+<blockquote>We think too much and feel too little.</blockquote>
 
 **Charlie Chaplin** (1889-1977).

@@ -12,8 +12,9 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.brainyquote.com/quotes/authors/s/steve_jobs.html
 ---
 
-[Design is not just what it looks like and feels like. Design is how it works."](http://www.brainyquote.com/quotes/authors/s/steve_jobs.html)
+<blockquote>Design is not just what it looks like and feels like. Design is how it works.</blockquote>
 
 **Steve Jobs (1955 - )**

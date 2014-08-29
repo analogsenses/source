@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://mashable.com/2011/03/24/color-update/
 ---
-
-[Color already in line for first major update | Mashable.com](http://mashable.com/2011/03/24/color-update/)
-
 
 <blockquote>The app will feature two major changes when the next update ships: you won’t be able to use the app if nobody is nearby, and Color will be changing the distance required for somebody to be considered nearby.</blockquote>
 

@@ -10,9 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: https://medium.com/editors-picks/91cb6a257e4e
 ---
-
-[The Roast in the Fridge | Medium](https://medium.com/editors-picks/91cb6a257e4e)
 
 Erika Hall writes an amazing piece over at Medium:
 

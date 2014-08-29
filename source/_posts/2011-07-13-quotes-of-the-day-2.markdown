@@ -10,9 +10,10 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/35363.html
 ---
 
-[Whether you believe you can or believe you can't, you're right."](http://www.quotationspage.com/quote/35363.html)
+<blockquote>Whether you believe you can or believe you can't, you're right.</blockquote>
 
 **Henry Ford (1863 - 1947)**, US automobile industrialist.
 

@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/30694.html
 ---
 
-[Reading made Don Quixote a gentleman. Believing what he read made him mad."](http://www.quotationspage.com/quote/30694.html)
+<blockquote>Reading made Don Quixote a gentleman. Believing what he read made him mad.</blockquote>
 
 **George Bernard Shaw (1856 - 1950)**, Irish dramatist & socialist.

@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/31008.html
 ---
 
-[Blessed are those who can give without remembering, and take without forgetting."](http://www.quotationspage.com/quote/31008.html)
+<blockquote>Blessed are those who can give without remembering, and take without forgetting.</blockquote>
 
 **Princess Elizabeth Bibesco (1897-1945)**

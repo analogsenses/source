@@ -11,10 +11,10 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.loopinsight.com/2011/04/19/att-blocks-blackberry-bridge-from-playbook-users/
 ---
 
-[AT&T blocks BlackBerry Bridge from PlayBook users | The Loop](http://www.loopinsight.com/2011/04/19/att-blocks-blackberry-bridge-from-playbook-users/)
-
+The Loop: 
 
 <blockquote>What does this mean? Well, the PlayBook users on AT&T can’t check email at all.</blockquote>
 

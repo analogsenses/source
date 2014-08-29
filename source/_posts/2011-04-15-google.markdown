@@ -11,8 +11,7 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.google.com/
 ---
-
-[Google's Homage to Charlie Chaplin](http://www.google.com/)
 
 Beautiful tribute, on the 122th anniversary of his birth. [Here's](http://www.youtube.com/watch?v=StXBpRs5WRA) the video on YouTube if you're reading this after April 15th, 2011.

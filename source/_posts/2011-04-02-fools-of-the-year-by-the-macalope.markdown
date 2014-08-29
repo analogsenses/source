@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.macworld.com/article/158937/2011/04/fools_of_2011.html
 ---
-
-[Fools of the Year | The Macalope for Macworld](http://www.macworld.com/article/158937/2011/04/fools_of_2011.html)
-
 
 <blockquote>It’s that time of year again when we look back at those who inflicted mental cruelty and suffering on us over the last 12 months, shake our fists at the heavens, and cry “WHYYYYYYYYYYY?!”</blockquote>
 

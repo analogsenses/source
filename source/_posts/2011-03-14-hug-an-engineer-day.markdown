@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://www.facebook.com/event.php?eid=152395878144963
 ---
-
-[Hug an Engineer Day | facebook](http://www.facebook.com/event.php?eid=152395878144963)
-
 
 <blockquote>Go out and hug an engineer, maybe twice. You will be glad you did, I promise :)</blockquote>
 

@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/mqotd.html
 ---
 
-[Let us so live that when we come to die even the undertaker will be sorry."](http://www.quotationspage.com/mqotd.html)
+<blockquote>Let us so live that when we come to die even the undertaker will be sorry.</blockquote>
 
 **Mark Twain (1835 - 1910).**

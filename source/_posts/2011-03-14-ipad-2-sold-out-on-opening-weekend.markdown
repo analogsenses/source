@@ -12,10 +12,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://mashable.com/2011/03/14/ipad-2-sold-out/
 ---
-
-[iPad 2 Sold Out, 70% Went to New Buyers | Mashable.com](http://mashable.com/2011/03/14/ipad-2-sold-out/)
-
 
 <blockquote>Munster estimates Apple sold 400,000 to 500,000 iPad 2s, which would mean the device has fared better than the original iPad, 300,000 of which were sold in its opening weekend.</blockquote>
 

@@ -10,11 +10,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://arstechnica.com/tech-policy/2014/07/obama-administration-says-the-worlds-servers-are-ours/
 ---
-
-[Obama administration says the world’s servers are ours | Ars Technica](http://arstechnica.com/tech-policy/2014/07/obama-administration-says-the-worlds-servers-are-ours/)
-
-
 
 <blockquote>In essence, President Barack Obama's administration claims that any company with operations in the United States must comply with valid warrants for data, even if the content is stored overseas. It's a position Microsoft and companies like Apple say is wrong, arguing that the enforcement of US law stops at the border.</blockquote>
 

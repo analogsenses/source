@@ -10,9 +10,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://arstechnica.com/science/news/2011/04/japan-ups-the-fukushima-event-to-same-level-as-chernobyl.ars
 ---
-
-[Fukushima gets Chernobyl-level rating without Chernobyl-level badness | Ars Technica](http://arstechnica.com/science/news/2011/04/japan-ups-the-fukushima-event-to-same-level-as-chernobyl.ars)
 
 The accident has been given a Level 7 rating on the INES scale, the same as Chernobyl, the worst nuclear accident ever. Still, the situation in Fukushima is far from reaching those proportions:
 

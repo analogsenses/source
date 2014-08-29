@@ -10,8 +10,9 @@ categories:
 - Digital Life
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/1167.html
 ---
 
-[The average man, who does not know what to do with his life, wants another one which will last forever."](http://www.quotationspage.com/quote/1167.html)
+<blockquote>The average man, who does not know what to do with his life, wants another one which will last forever.</blockquote>
 
 **Anatole France (1844 - 1924), **French novelist.

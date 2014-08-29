@@ -11,10 +11,8 @@ categories:
 - Link
 post_format:
 - Link
+external-url: http://shawnblanc.net/2011/04/great-expectations/
 ---
-
-[Shawn Blanc's first post as a full-time writer | shawnblanc.net](http://shawnblanc.net/)
-
 
 <blockquote>Passion and emotion have always been my motivation for writing. I am a passionate person — we all are — and writing is one of the ways I’ve found to express those emotions. I’d like to get better at it, and slowly I am learning a little bit more every day.</blockquote>
 

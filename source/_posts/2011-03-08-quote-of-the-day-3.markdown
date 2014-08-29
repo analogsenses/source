@@ -10,9 +10,10 @@ categories:
 - Quote
 post_format:
 - Quote
+external-url: http://www.quotationspage.com/quote/1680.html
 ---
 
-[I can resist anything but temptation."](http://www.quotationspage.com/quote/1680.html)
+<blockquote>I can resist anything but temptation.</blockquote>
 
 **Oscar Wilde (1854 - 1900)**, _Lady Windermere's Fan (1892), Act I._
 

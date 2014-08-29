@@ -4,15 +4,14 @@ comments: false
 date: 2011-07-20 11:34:59+00:00
 layout: post
 slug: in-the-event-of-moon-disaster
-title: In the Event of Moon Disaster
+title: In the Event of Moon Disaster | Letters Of Note
 wordpress_id: 1637172755
 categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.lettersofnote.com/2010/11/in-event-of-moon-disaster.html
 ---
-
-[In Event of Moon Disaster | Letters Of Note](http://www.lettersofnote.com/2010/11/in-event-of-moon-disaster.html)
 
 Incredibly emotional memo prepared to be used in case the Apollo 11 didn't make it safely onto the Moon:
 

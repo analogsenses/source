@@ -11,10 +11,8 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://shawnblanc.net/2011/05/my-next-mac-will-be/
 ---
-
-[My Next Mac Will Be… | Shawn Blanc](http://shawnblanc.net/2011/05/my-next-mac-will-be/)
-
 
 <blockquote>The 13-inch MacBook Air has everything I do need, nothing that I don’t, and even a few additional features such as being light weight and having a thinner form factor. Which means that for me, going from a 15-inch MacBook Pro to a 13-inch MacBook Air will be an upgrade.</blockquote>
 

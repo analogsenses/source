@@ -10,8 +10,7 @@ categories:
 - Digital Life
 post_format:
 - Link
+external-url: http://www.nytimes.com/2011/05/02/world/asia/osama-bin-laden-is-killed.html?hp
 ---
-
-[U.S. forces kill Osama Bin Laden in Pakistan | NYTimes.com](http://www.nytimes.com/2011/05/02/world/asia/osama-bin-laden-is-killed.html?hp)
 
 Justice? Revenge? Whatever your opinion, this day is one for the history books.

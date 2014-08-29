@@ -12,6 +12,7 @@ categories:
 - Post
 tags:
 - Analog Life
+external-url: http://fieldnotes.com
 ---
 
 So true.

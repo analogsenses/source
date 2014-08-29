@@ -11,9 +11,8 @@ categories:
 - Tennis
 post_format:
 - Link
+external-url: http://www.wimbledon.com/en_GB/news/articles/2014-07-05/federer_previwe.html
 ---
-
-[Wimbledon 2014: Roger Federer vs Novak Djokovic](http://www.wimbledon.com/en_GB/news/articles/2014-07-05/federer_previwe.html)
 
 Today is the most special day of the year in men's tennis calendar: the day of the Wimbledon final. Roger Federer will try to win a unprecedented 8th Wimbledon title against Novak Djokovic, the 2011 champion:
 

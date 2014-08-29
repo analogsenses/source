@@ -13,9 +13,8 @@ post_format:
 - Link
 tags:
 - Life
+external-url: http://nineandlight.blogspot.com/
 ---
-
-[Counting from nine](http://nineandlight.blogspot.com/)
 
 A very interesting blog, for those of you navigating rough waters.
 
