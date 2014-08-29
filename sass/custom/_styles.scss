@@ -24,6 +24,7 @@ to learn about modular scales.
 
 /* import typography */
 @import "typography.scss";
+@import "footnotes.scss";
 
 
 // ------------------------------
@@ -1085,7 +1086,7 @@ article {
 			a.analog{
 				padding: 10px 0 10px 10px;
 		 		font-size:120px;
-		 		margin: 0px;
+		 		margin:0px;
 		 		text-align:center;
 		 	}
 		 	a.senses{
