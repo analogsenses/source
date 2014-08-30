@@ -709,11 +709,12 @@ article {
  }
   
   h1 {
+    @extend .margin-bottom-large;
     font-size: 39px;
     margin-top: 62.000px;
     margin-top: 3.1rem;
-    margin-bottom: 20px;
-    margin-bottom: 1rem;
+    //margin-bottom: 20px;
+    //margin-bottom: 1rem;
     text-shadow: white 0px 1px 0px;
   }
    

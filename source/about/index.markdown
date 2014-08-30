@@ -8,11 +8,7 @@ title: About
 wordpress_id: 2
 ---
 
-**Analog Senses** is an attempt to provide a human look at the tech world, featuring articles, links and quotes about the Digital Life and other interesting stuff currently happening on planet Earth. It is written and produced by **Álvaro Serrano**.
-
-You can find out more about me and why I started this site [here](http://analogsenses.com/2009/11/10/238565026/).
-
-Analog Senses was inspired by the work of some incredibly talented people. [Here's](http://analogsenses.com/2009/11/10/239397612/) a tribute to them, with my gratitude.
+**Analog Senses** is an attempt to provide a human look at the world in the Digital Age. It features articles and links about the concept of living a Digital Life, as well as other interesting and/or inspiring events currently happening on planet Earth. It is written and produced by **Álvaro Serrano**.
 
 
 
@@ -20,39 +16,49 @@ Analog Senses was inspired by the work of some incredibly talented people. [Here
 
 [![Profile](https://farm3.staticflickr.com/2934/14198005635_f72c094d0c_o.jpg)](https://www.flickr.com/photos/analogsenses/14198005635)
 
-I was born in 1983 in [Plasencia](http://en.wikipedia.org/wiki/Plasencia), a walled city in Western Spain, small in size but steeped in History. The time was 1:05 a.m., it was Summer and it also happened to be Tuesday. My dad would never admit it, but despite this being his second time having a son, he didn't really have a clue what to do. That's OK, I guess, after all neither did I.
+I was born in 1983 in [Plasencia](http://en.wikipedia.org/wiki/Plasencia), a walled city in Western Spain, small in size but steeped in History. The time was 1:05 a.m., it was Summer and it also happened to be Tuesday. 
 
-Flash-forward 30 years and change. I'm now a Telecommunication Engineer working at Technical University of Madrid (UPM). I work as a mobile app developer in Bioengineering and Telemedicine research projects, with both national and international scope. I'm also a self-proclaimed Nerd and Maker of Things, which means I'm constantly in need of a creative outlet. Hence, this website.
+Flash-forward 31 years and change. I'm now a Telecommunication Engineer, and for the past 6 years I used to work at a Bioengineering and Telemedicine research group at Technical University of Madrid (UPM). I worked there as a mobile app developer in several research projects, with both national and international scope. These days I'm trying to establish myself as an independent writer, developer and maker of cool things.
 
-My eyes are green, just like my mother's, and my favorite smell in the world is that of freshly brewed coffee, specially early in the morning. I like to keep a nice pen and a Moleskine notebook with me at all times, usually in the company of whatever book I'm reading. I love crime fiction and classic adventure stories, particularly if there's a cheeky, morally ambiguous character somewhere in them.
+My eyes are green, just like my mother's, and my favorite smell in the world is that of freshly brewed coffee, specially early in the morning. I like to keep a nice fountain pen and a Moleskine notebook with me at all times, usually in the company of whatever book I'm reading. I love crime fiction and classic adventure stories, but I enjoy reading all sorts of things, both fiction and non-fiction.
 
 As of mid-2014 I've been diagnosed with [Type-1 Diabetes](http://en.wikipedia.org/wiki/Diabetes_mellitus_type_1), which means my body cannot regulate my blood-sugar levels on its own.
 
-[alvaroserrano.com](http://alvaroserrano.com) is my rarely updated personal website, written in Spanish. You could think of it as a distant relative of Analog Senses. The basic premise is the same for both sites, but the content there is less focused on technology and the Digital Life, and more about personal stories, experiences and the like. If you understand Spanish, you may find something interesting over there.
+[alvaroserrano.com](http://alvaroserrano.com) is my rarely updated personal website, written in Spanish.
 
 
 
 # Colophon
 
-The site is hosted by [MediaTemple](http://mediatemple.net), and powered by the latest version of [Wordpress](http://wordpress.org).
+Analog Senses is powered by the wonderful [Octopress](http://www.octopress.org) and uses my customized version of the [Readify theme](https://github.com/vladigleba/readify) by [Vladi Gleba](http://vladigleba.com), which is available under [the MIT License](http://opensource.org/licenses/MIT). The site is hosted on [Github Pages](https://pages.github.com).
 
-Special fonts used throughout the site include [Lamplighter Script](http://www.myfonts.com/fonts/fontdiner/lamplighter-script/) and [Atrament Web](https://typekit.com/fonts/atrament-web). The body font is [Proxima Nova](https://typekit.com/fonts/proxima-nova), which should improve readability, especially on mobile devices.
+Special plugins used include [Footnotes Popover](https://github.com/mattgemmell/footnotes-popover) by [Matt Gemmell](http://mattgemmell.com), [Octopress Responsive Video Embed](https://github.com/optikfluffel/octopress-responsive-video-embed) by Udo Kramer, and [Octopress Spotify Play Button](https://github.com/mrcasals/octopress_spotify_play_plugin) by Marc Riera.
+
+Custom Web fonts used throughout the site include [Lamplighter Script](http://www.myfonts.com/fonts/fontdiner/lamplighter-script/) and [Atrament Web](https://typekit.com/fonts/atrament-web) in the site's header and also in the titles and headings. The body font is [Proxima Nova](https://typekit.com/fonts/proxima-nova), which should improve readability, especially on high-resolution (a.k.a. Retina) displays.
 
 Images are usually hosted on [Flickr!](http://www.flickr.com/photos/analogsenses/)
 
-On the software front, Analog Senses is written, produced and edited using [Transmit](http://itunes.apple.com/app/transmit/id403388562?mt=12), [Smultron](http://itunes.apple.com/us/app/smultron-4/id450194894?ls=1&mt=12), Dashcode and the Safari Web Browser on a Mac.
+The site's header features custom artwork by [David Lanham](http://dlanham.com).
 
-The header features custom artwork by [David Lanham](http://dlanham.com).
+On the software front, Analog Senses is written and produced using [Smultron](https://itunes.apple.com/app/smultron-6/id692204913?mt=12), [Git](http://git-scm.com), [GitHub](https://github.com), Terminal.app, and the Safari Web Browser on a Mac. Easy.
+
+
+
+# RSS Feed
+
+The standard RSS Feed for this site is: [http://analogsenses.com/feed](http://analogsenses.com/feed)
+
+Alternatively, there's also a dedicated Twitter feed: [@analogfeed](http://twitter.com/analogfeed)
 
 
 
 # Contact
 
-Analog Senses doesn't feature comments, but other forms of reader feedback are encouraged and appreciated. If you’d like to ask me anything, send comments, or make suggestions regarding this site, you can get in touch with me by email:
+Analog Senses doesn't feature comments, but other forms of reader feedback are encouraged and appreciated. If you’d like to ask me anything, send comments, or make suggestions regarding this site, you can reach me at:
 
 [contact@analogsenses.com](mailto:contact@analogsenses.com)
 
-If email is not your thing, you can also follow me on Twitter: [@analogsenses](http://twitter.com/analogsenses)
+You should also follow me on Twitter: [@analogsenses](http://twitter.com/analogsenses)
 
 Thank you!
 
