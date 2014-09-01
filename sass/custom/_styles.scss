@@ -215,12 +215,21 @@ a.analog {
 	text-transform: none;
 	text-shadow: white 0px 2px 1px;
   }
+
+  
   
   a img {
-  width: auto;
-  max-width: 100%;
-  border: 1px #4b4b4b solid;
-}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    max-width: 100%;
+  	border: 1px #4b4b4b solid;
+  }
+
+center{
+	@extend .margin-bottom-large;
+	}
 
 #main {
   clear: both;
@@ -707,6 +716,14 @@ article {
  .entry-content{
  	margin-bottom: 60px;
  }
+ 
+ .entry-content .footnotes {
+ 		margin-top: 40px;		
+ 	}
+ 
+ .entry-content .footnotes ol {
+ 		margin-top: 40px;		
+ 	}
   
   h1 {
     @extend .margin-bottom-large;
@@ -1036,6 +1053,7 @@ article {
   }
   
   nav {
+  	text-align: center;
     border-top: none;
     margin-bottom: 44.401px;
     margin-bottom: 2.618rem;
@@ -1071,6 +1089,19 @@ article {
   nav input.search,
   article > footer > a {
     width: 50%;
+  }
+  
+  .entry-content {
+   	 -ms-word-break: break-all;
+     word-break: break-all;
+
+     /* Non standard for webkit */
+     word-break: break-word;
+     
+	-webkit-hyphens: auto;
+   	-moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
   }
 }
 
@@ -1113,6 +1144,7 @@ article {
   nav {
     margin-bottom: 32.495px;
     margin-bottom: 1.916rem;
+    text-align: center;
     
     ul {
       padding: 12.415px 0;
@@ -1190,12 +1222,24 @@ article {
     }
     
     .entry-content {
+     -ms-word-break: break-all;
+     word-break: break-all;
+
+     /* Non standard for webkit */
+     word-break: break-word;
+     
+	-webkit-hyphens: auto;
+   	-moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    
       h1 {
         font-size: 26.559px;
         font-size: 1.566rem; /* 1.184 + 0.382 */
         line-height: 32.495px;
         line-height: 1.916rem;
-      }       
+      } 
+            
       h2 {
         font-size: 23.015px;
         font-size: 1.357rem; /* 1.184 + 0.173 */
