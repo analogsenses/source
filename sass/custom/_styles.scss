@@ -258,10 +258,6 @@ blockquote {
   font-style: normal;
   color: #4b4b4b;
   
-  p {
-    margin: 0;
-  }
-  
   footer {
     @extend .default-font;
     text-align: right;
@@ -270,6 +266,10 @@ blockquote {
       text-decoration: underline;
     }
   }
+}
+
+blockquote > :last-child { 
+	margin-bottom: 0 !important;
 }
 
 cite, em, i, dfn {
