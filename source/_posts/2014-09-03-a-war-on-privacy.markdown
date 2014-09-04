@@ -53,7 +53,7 @@ Sadly, regular people don't value their privacy nearly as much as we do.
 
 For example, my personal rules for interacting on social networks (actually, on all of the Internet) are simple:
 
-1. If I don't want everybody on the Internet to know about it, I do not share it.
+1. If I'm not comfortable with everybody on the Internet knowing about it, I do not share it.
 
 2. There's no step 2.
 
