@@ -168,9 +168,12 @@ body {
 }
 
 img {
-  width: auto;
-  max-width: 100%;
-  border: 1px #4b4b4b solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    max-width: 100%;
+  	border: 1px #4b4b4b solid;
 }
 
 h1, h2, h3, h4, h5, h6 {
