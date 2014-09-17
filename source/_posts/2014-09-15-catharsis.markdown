@@ -24,7 +24,7 @@ Except sometimes, there's no way out. Sometimes, things really are out of your c
 
 Sometimes, shit does indeed happen.
 
-There may come a day, and I hope it doesn't, but there may come a day when life smacks you in the head with absolute impunity, making you feel helpless, laughably small. Pitted against the universe with only your fragile ego to defend you. And in that moment a sudden realization will strike: deep down you'll know ⎯you'll _know_⎯ that you can try your best, you can give it all you've got, and you'll still fail.
+There may come a day, and I hope it doesn't, but there may come a day when life smacks you in the head with absolute impunity, making you feel helpless, laughably small. Pitted against the universe with only your fragile ego to defend you. And in that moment a sudden realization will strike: deep down you'll know —you'll _know_— that you can try your best, you can give it all you've got, and you'll still fail.
 
 For the first time in your life, you'll get to experience the absolute fear of _knowing_ that your best shot will not be enough. And then nothing will ever be the same.
 
@@ -40,7 +40,7 @@ I realize there's something odd about that. I don't want to say it's wrong, but 
 
 I like to think I know myself better than most people do. I'm intimately aware of my own emotions, and I don't hide from them. I usually have a clarity of thinking that helps me navigate my own life without doubt, or regret. I'm not one to dwell on the past, either.
 
-It is in part because I'm convinced I already know the answers that I'm reluctant to ask the questions. I'm wrong, of course. Terribly wrong, I know that ⎯see? I did it again⎯. However, I can't help it. It's just how my mind works. 
+It is in part because I'm convinced I already know the answers that I'm reluctant to ask the questions. I'm wrong, of course. Terribly wrong, I know that —see? I did it again—. However, I can't help it. It's just how my mind works. 
 
 Until it doesn't. 
 
@@ -48,7 +48,7 @@ Until I, too, find out that there are some things out there I can't control, and
 
 Six months ago my life was a lot simpler than it is today. Back then I used to work as a researcher and software developer at the [bioengineering and telemedicine research group](http://www.gbt.tfo.upm.es) in Technical University of Madrid. I was 30 years old, healthy, good at my job and everything seemed fine. It was in April, when the results of some routine blood tests came back, that I found out I have [type-1 diabetes](http://en.wikipedia.org/wiki/Diabetes_mellitus_type_1). That means my body can't regulate my blood sugar levels on its own, and I'll need to inject myself with insulin 4 times a day for the rest of my life to survive.
 
-It could have been a devastating discovery ⎯and it certainly wasn't easy⎯, but luckily it didn't come as a total surprise. It hardly could, considering that both my father and my older brother have been living with the same condition for years. There was always a chance that it could one day happen to me too, and I've been preparing for it for years.
+It could have been a devastating discovery —and it certainly wasn't easy—, but luckily it didn't come as a total surprise. It hardly could, considering that both my father and my older brother have been living with the same condition for years. There was always a chance that it could one day happen to me too, and I've been preparing for it for years.
 
 The fact that I have diabetes is not a secret. I've never tried to hide it, and I've even mentioned it here before, albeit only in passing. But the truth is, I've never really _talked_ about it with anyone. Today I've already shared more than ever before and like Myke, I'm not having a particularly fun time writing about it. I only do it because I know there are many people like me out there, and perhaps reading about my experience can help alleviate some of their own frustration.
 
@@ -78,7 +78,7 @@ That time is now.
 
 As of a couple of months ago, I'm no longer employed in the traditional sense of the term. I'm working harder than I ever have, only this time I'm doing it for me first. It's an incredible feeling, and I'm loving every minute of it.
 
-You'll have to forgive me, but I'm not quite ready to share much more about my plans, at least for now. Suffice it to say that Analog Senses is an essential piece of the puzzle, and that a sizable chunk of my efforts will be geared towards growing it and building it into a profitable business. If you've been a reader of this site for some time, you may have noticed that the frequency ⎯and hopefully, the quality⎯ of my writing has increased in the past couple of months. It is my hope that things will continue to get better around here in the upcoming weeks and months. These are really exciting times in my life, and I'd love to have you along for the ride.
+You'll have to forgive me, but I'm not quite ready to share much more about my plans, at least for now. Suffice it to say that Analog Senses is an essential piece of the puzzle, and that a sizable chunk of my efforts will be geared towards growing it and building it into a profitable business. If you've been a reader of this site for some time, you may have noticed that the frequency —and hopefully, the quality— of my writing has increased in the past couple of months. It is my hope that things will continue to get better around here in the upcoming weeks and months. These are really exciting times in my life, and I'd love to have you along for the ride.
 
 I'm aware that there are a million things out there I can't control, and I've made my peace with that. These days I often remember [this great quote](http://books.google.com/books?id=iOU9bIlnPHIC&lpg=PA73&dq=%22if%20life%20is%20so%20purposeless%2C%20do%20you%20feel%20that%20it's%20worth%20living%3F%22&pg=PA73#v=onepage&q=%22if%20life%20is%20so%20purposeless%2C%20do%20you%20feel%20that%20it's%20worth%20living%3F%22&f=false) by Stanley Kubrick:
 
