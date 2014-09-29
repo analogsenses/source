@@ -54,9 +54,7 @@ Alternatively, there's also a dedicated Twitter feed: [@analogfeed](http://twitt
 
 # Contact
 
-Analog Senses doesn't feature comments, but other forms of reader feedback are encouraged and appreciated. If you’d like to ask me anything, send comments, or make suggestions regarding this site, you can reach me at:
-
-[contact@analogsenses.com](mailto:contact@analogsenses.com)
+Analog Senses doesn't feature comments, but other forms of reader feedback are encouraged and appreciated. If you’d like to ask me anything, send comments, or just want to say hi, you can send me an email at "contact" @ this domain.
 
 You should also follow me on Twitter: [@analogsenses](http://twitter.com/analogsenses)
 
