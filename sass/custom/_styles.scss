@@ -758,10 +758,19 @@ article {
     text-align: left;
     margin-left: 20px;
     margin-left: 1rem;
+    color:#000;
     
+    li {
+    	margin-bottom:10px;
+    	}
+
     li p{
     	margin-bottom:10px;
     	}
+    	
+    li:last-child, ol:last-child { 
+      margin-bottom: 0; 
+    }	
     
     li:last-child p, ol:last-child p { 
       margin-bottom: 0; 
