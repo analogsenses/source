@@ -21,4 +21,4 @@ He's right on the money here, and it made me think of this wonderful [xkcd comic
 
 [![Is It Worth the Time?](http://imgs.xkcd.com/comics/is_it_worth_the_time.png)](http://xkcd.com/1205/)
 
-That could every well serve as a rough guideline, to keep things in perspective before you start going crazy with the automation scripts.
+That could very well serve as a rough guideline, to keep things in perspective before you start going crazy with the automation scripts.
