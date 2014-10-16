@@ -49,7 +49,7 @@ The Glenfiddich distillery [was founded](http://en.wikipedia.org/wiki/Glenfiddic
 
 [![The Glenfiddich Distillery by Karsten May, on Flickr](https://farm6.staticflickr.com/5030/5611140769_56ce4c6620_b.jpg)](https://www.flickr.com/photos/karstenmay/5611140769)
 
-<p class="photo-credit">(Photo credit: <a href="https://www.flickr.com/photos/karstenmay/">Karsten May</a>)</p>
+<p class="photo-credit">(Photo credit: <a href="http://www.facebook.com/mayphotos">Karsten May</a>)</p>
 
 Glenfiddich produces all of its whisky on site, using water from the Robbie Dhu springs, and it's the only distillery in the world that produces all of its whisky from a single source of fresh water.
 
