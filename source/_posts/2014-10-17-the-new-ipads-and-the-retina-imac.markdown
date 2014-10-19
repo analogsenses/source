@@ -56,7 +56,7 @@ Not much to say here, other than the obvious. The Mac mini got a decent upgrade 
 
 This is the computer we've all been waiting for ever since we saw our first Retina display. For some, that goes as back as the iPhone 4 — for me personally, it was the 4S. It's such a striking difference that you must see it with your own eyes to really believe it. However, even though Apple has been relentlessly pushing display technology forward for years, a true desktop Retina experience remained elusive, until now.
 
-![iMac with Retina 5K display](https://farm6.staticflickr.com/5602/15557182885_a1e7a8be91_o.png)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5602/15557182885_a1e7a8be91_o.png"/></p>
 
 <p class="photo-credit">(iMac with Retina 5K display. Photo: <a href="http://www.apple.com/imac-with-retina/">Apple</a>)</p>
 
