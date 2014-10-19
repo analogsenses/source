@@ -20,8 +20,7 @@ Last year, Apple upgraded the iPad mini and gave it the same internals as the th
 
 This time around, though, things have changed.
 
-
-![iPad Air 2 and iPad mini 3](https://farm4.staticflickr.com/3931/15371042348_d767eea2d7_o.png)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3931/15371042348_d767eea2d7_o.png"/></p>
 
 <p class="photo-credit">(iPad Air 2 and iPad mini 3. Photo: <a href="http://www.apple.com/ipad/compare/">Apple</a>)</p>
 
@@ -44,7 +43,7 @@ Oh, and Apple also decided to keep the original iPad mini and sell it for $249. 
 If you're a fan of the iPad mini form factor, the worst part of yesterday's event is that Apple all but confirmed its role as a second-class citizen in the iPad lineup. Last year's refresh now seems like a fluke, and we are left to think that the mini will probably remain one generation behind the Air for the foreseeable future.
 
 
-## The upgraded Mac Mini
+## The upgraded Mac Mini
 
 Not much to say here, other than the obvious. The Mac mini got a decent upgrade with faster processors and a new starting price of $499. After two years without being upgraded, the smallest member of the Mac family is once again an attractive entry-level option into the OS X ecosystem. Not bad.
 

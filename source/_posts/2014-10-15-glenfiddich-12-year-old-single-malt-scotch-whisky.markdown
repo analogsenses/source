@@ -20,7 +20,7 @@ Luckily, the fine folks at Master of Malt solved all of these issues with ease. 
 
 I received my order in only two working days, neatly packaged in three separate cardboard containers:
 
-![Drinks by the Dram](https://farm6.staticflickr.com/5603/14921739523_1e896c0a73_b.jpg)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5603/14921739523_1e896c0a73_b.jpg"/></p>
 
 Inside each container there's room for up to five drams. Since I had ordered eleven drams, they came divided in groups of four, four and three.
 
