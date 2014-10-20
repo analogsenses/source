@@ -14,7 +14,7 @@ wordpress_id: 2
 
 # Álvaro Serrano
 
-[![Profile](https://farm3.staticflickr.com/2934/14198005635_f72c094d0c_o.jpg)](https://www.flickr.com/photos/analogsenses/14198005635)
+<p class="extra-width"><img class="extra-width" src="https://farm3.staticflickr.com/2913/14195435122_d25eee4994_h.jpg"/></p>
 
 I was born in 1983 in [Plasencia](http://en.wikipedia.org/wiki/Plasencia), a walled city in Western Spain, small in size but steeped in History. The time was 1:05 a.m., it was Summer and it also happened to be Tuesday. 
 
