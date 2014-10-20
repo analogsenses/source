@@ -25,17 +25,19 @@ When it comes to sweating the details in the bicycle world, there's a name that'
 
 It should then come as no surprise that when I decided to buy my first nice bicycle, I chose a Bianchi: 
 
-[![Bianchi Pista Steel 2011](https://farm4.staticflickr.com/3901/14951346628_46e3088eae_o.jpg)](https://www.flickr.com/photos/analogsenses/14951274710/)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3920/14951274710_ec8308e509_h.jpg"/></p>
 
 It's a beautiful Bianchi Pista Steel from 2011, and it was the first bicycle I ever bought for myself. Today I own four different bicycles, but the Bianchi remains the only one I have purchased new from a local bike store. It's gorgeous.[^3]
 
 [^3]: There's something special about restoring an old object and giving it new life. That's why I always prefer restoring old bicycles as opposed to buying new ones, with the Bianchi as the sole exception.
 
-[![Bianchi Pista Steel 2011](https://farm6.staticflickr.com/5573/14951345868_39efa8fd62_o.jpg)](https://www.flickr.com/photos/analogsenses/14951248399/)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5560/14951248399_46690d28aa_h.jpg"/></p>
 
 The craftsmanship and attention to detail are evident anywhere you look. In the time that I've had it, I've replaced and upgraded many of its components, but its essence remains intact: that beautiful piece of chrome-finished steel with Bianchi decals on it. The frame is the true soul of a bicycle, and mine's is a stunner.
 
-[![Bianchi Pista Steel 2011](https://farm4.staticflickr.com/3892/14951349757_eb64cf7c58_o.jpg)](hhttps://www.flickr.com/photos/analogsenses/15114972096/)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3890/15137580392_a4dbb170e1_h.jpg"/></p>
+
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3905/15114972096_424778868a_h.jpg"/></p>
 
 Riding it is also one hell of an experience. Fixed-gear bicycles are so much fun. I hadn't enjoyed myself so much on a bike since I was 10 years old. I feel very fortunate to own this bicycle, because it is exactly the one I wanted.
 
@@ -57,7 +59,7 @@ If you take your time, it's pretty easy to find an old bicycle in reasonably goo
 
 [^5]: You should always ask for proof of ownership when dealing with used items on the Internet. Otherwise you risk ending up with a stolen bike. If no proof of ownership exists, my advice is to pass on it. Or at the very least, use this [sample contract](http://www.findforms.com/single_example.php/example/396/Free_Basic_Sale_of_Goods_Contract). It's a good way to protect yourself against any possible theft claims that could come your way in the future. 
 
-[![Peugeot Eton 21 1990](https://farm6.staticflickr.com/5582/15117364626_0da854b9eb_o.jpg)](https://www.flickr.com/photos/analogsenses/14953854637/)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5553/14953854637_861eee80fe_h.jpg"/></p>
 
 Sure, it's no head-turner: it's old, the frame is rusty in places and it has a certain utilitarian look to it, but that's precisely the point. It blends right in. So much so, in fact, that last week I forgot to remove my LED lights and left them on the bike over the weekend and when I came back, after a full 72 hours on the street, the lights were still there. Nobody had even looked at the bike twice. That's peace of mind that money can't buy.
 

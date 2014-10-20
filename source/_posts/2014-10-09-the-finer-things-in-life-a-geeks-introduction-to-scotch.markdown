@@ -38,7 +38,7 @@ The world of single malt Scotch whisky is deeply fascinating, full of heritage a
 
 _DISCLAIMER: Although this section is meant only as a starting point, it should be readily apparent that I'm by no means an expert on the subject. If you spot any inaccuracies, omissions or glaring mistakes, please let me know._
 
-![Glenfiddich 12 Year Old](https://farm4.staticflickr.com/3954/15485657672_77a68298cc_o.jpg)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3954/15485657672_77a68298cc_o.jpg"/></p>
 
 Whisky is a distilled alcoholic beverage made from fermented grain mash, usually malted barley, although other grains may be used. For a whisky to be labeled as _Scotch_ whisky it must be produced entirely in Scotland and aged in oak casks for a minimum of 3 years prior to bottling. Finally, a _single malt_ Scotch whisky must be made only from water and malted barley, _and_ must be produced in a single distillery in Scotland.
 
@@ -100,7 +100,7 @@ Unfortunately, The Laddie Ten is very difficult to procure these days. According
 
 A second recommendation was the popular [Glenfiddich 12 Year Old](http://www.allthingswhisky.com/?p=1030). This Speyside Scotch whisky is actually the world's best selling single malt, and is recommended by many as an ideal starter whisky. Sounds good to me. In fact, I've already purchased my first bottle and so far we seem to be getting along pretty well. 
 
-![Glenfiddich 12 Year Old](https://farm3.staticflickr.com/2948/15462910266_e2828b7b63_o.jpg)
+<p class="extra-width"><img class="extra-width" src="https://farm3.staticflickr.com/2948/15462910266_e2828b7b63_o.jpg"/></p>
 
 But that was only the beginning, of course. After a few more hours of research, this is what the first few stages of my travel itinerary looked like:
 

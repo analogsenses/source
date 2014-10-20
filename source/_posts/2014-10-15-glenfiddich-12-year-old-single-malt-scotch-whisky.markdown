@@ -20,7 +20,7 @@ Luckily, the fine folks at Master of Malt solved all of these issues with ease. 
 
 I received my order in only two working days, neatly packaged in three separate cardboard containers:
 
-<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5603/14921739523_1e896c0a73_b.jpg"/></p>
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5603/14921739523_77e10d387a_h.jpg"/></p>
 
 Inside each container there's room for up to five drams. Since I had ordered eleven drams, they came divided in groups of four, four and three.
 
@@ -55,7 +55,7 @@ Glenfiddich produces all of its whisky on site, using water from the Robbie Dhu 
 
 The iconic triangular bottle, designed by Hans Schleger, has been associated with the Glenfiddich brand ever since its introduction in 1957.
 
-<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5603/15299367188_19b5d78b22_o.jpg"/></p>
+![Glenfiddich 12](https://farm6.staticflickr.com/5603/15299367188_19b5d78b22_o.jpg)
 
 
 ## Glenfiddich 12 Year Old

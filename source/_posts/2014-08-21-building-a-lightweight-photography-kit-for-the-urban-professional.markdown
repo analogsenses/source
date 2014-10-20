@@ -12,7 +12,7 @@ categories:
 - Photography
 ---
 
-[![Messenger Pannier by Anhaica Bags](https://farm4.staticflickr.com/3926/14793131809_3d1eeef07d_b.jpg)](https://www.flickr.com/photos/analogsenses/14793131809)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3926/14793131809_a336b97fbc_h.jpg"/></p>
 
 Every day, thousands of people in cities all over the world take pictures as part of their job. You may not have noticed them, but they’re out there: reporters, journalists, writers for online publications and of course, professional photographers. For these people, taking a picture is often only the beginning, as some critical post-processing work needs to be done before the images are ready for publication. And then there’s the publication itself, which may include several more steps. Sometimes there’s not enough time to go back to the studio and everything needs to be done quickly in a mobile environment. This is why so many graphic professionals are used to carrying everything they need with them.
 
@@ -21,10 +21,7 @@ When you look at the whole process, the amount of tools and gear that are needed
 [^1]: Throughout this article I will assume that you’re shooting with a mirrorless camera. If you’re concerned with keeping things light, chances are that’s probably what you’re using. These days mirrorless cameras are great, and provide more than enough quality for practically any type of photographic work. Of course, there are several areas such as high-ISO performance and shallow depth of field effects where full-frame DSLRs will always be better. For the purposes of this article, however, achieving a great balance between quality and portability is more important.
 
 
-
 ## The bag
-
-
 
 It all starts with choosing the right bag for your needs. It’s tempting to go big, I know, after all you never know when you may need some extra space, but in my experience the smaller the bag, the better. Having a small bag forces you to be more carefully selective about your gear, and I’ve found that to be a good thing. Self-imposed restrictions are often a great way to boost creativity and in photography, creativity is paramount. Every decision you can make to help yourself become a better photographer is absolutely worth it. If you only have one lens, for example, your compositional skills will necessarily evolve and adapt, forcing you to learn more than if you could just pick a different one. Having excessive gear can make you lazy as a photographer, so be ruthless about the items you decide to take with you.
 
@@ -32,37 +29,34 @@ It’s also easy to be tempted by highly-specialized camera bags. You know, thos
 
 The bag I chose is a custom-made, waxed-canvas [messenger bag and pannier](http://anhaicabagworks.com/shop/166620474#) by Anhaica Bag Works. I usually move around the city on my bicycle, so I needed a bag that I could clip onto the rack of my bike and use as a pannier. This way I can relieve my back of the weight, which makes it much easier to carry on the bike and has the added benefit of keeping me dry, especially my back. If you’ve ever carried a backpack on your bike on a hot summer day, you know what I mean.
 
-[![Messenger Pannier by Anhaica Bags](https://farm6.staticflickr.com/5595/14976743631_c788040e45_b.jpg)](https://www.flickr.com/photos/analogsenses/14976743631)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5595/14976743631_5d2054ff5b_h.jpg"/></p>
 
-[![Messenger Pannier by Anhaica Bags](https://farm4.staticflickr.com/3908/14976764531_5b21f7ea1d_b.jpg)](https://www.flickr.com/photos/analogsenses/14976764531)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3908/14976764531_1ff62b03e9_h.jpg"/></p>
 
-[![Messenger Pannier by Anhaica Bags](https://farm4.staticflickr.com/3870/14793214519_1493bd1d2b_b.jpg)](https://www.flickr.com/photos/analogsenses/14793214519)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3870/14793214519_1944056d28_h.jpg"/></p>
 
 The messenger pannier comes in a variety of colors, but I like the standard brown. Since they are made-to-order, you can request a wide range of customizations to be made, including size, color, etc.
 
-[![Flap cover](https://farm6.staticflickr.com/5569/14793377707_1ecac234e3_b.jpg)](https://www.flickr.com/photos/analogsenses/14793377707)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5569/14793377707_622d61e26e_h.jpg"/></p>
 
 The back of the bag has a flap cover that hides the bike rack clips when they're not needed. It's a nice little design touch that makes the bag more comfortable to carry over your shoulders. You can just pull the cover and clip the pannier onto your bike rack, as you would any other pannier.
 
-[![Flap cover](https://farm6.staticflickr.com/5554/14793362848_d4719f0638_b.jpg)](https://www.flickr.com/photos/analogsenses/14793362848)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5554/14793362848_268fec3924_h.jpg"/></p>
 
 The last thing you need when you're cycling through town is to keep worrying about your bag falling off your bike. Fortunately, all Anhaica bags use MEC clips, which are easy to clip on and off the bike and make the bag stay firmly in place. Plus, they're durable: I have used them for over a year, and I am yet to see any wear signs from them.
 
-[![MEC clips](https://farm4.staticflickr.com/3910/14793433797_b71e1d0707_b.jpg)](https://www.flickr.com/photos/analogsenses/14793433797)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3910/14793433797_9c57c17a3d_h.jpg"/></p>
 
-[![Flap cover](https://farm6.staticflickr.com/5560/14976916611_0fe94d3b88_b.jpg)](https://www.flickr.com/photos/analogsenses/14976916611)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5560/14976916611_908f033abc_h.jpg"/></p>
 
 Besides the main compartment, the bag has a sleeve compartment in the front, as well as two secondary pockets. Having these extra options makes it easy to keep all your stuff organized.
 
-[![Secondary pockets](https://farm4.staticflickr.com/3913/14957061166_080918341d_b.jpg)](https://www.flickr.com/photos/analogsenses/14957061166)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3913/14957061166_71da8d18a8_h.jpg"/></p>
 
 All in all, this is a really nice bag but, alas, it’s not perfect: since it has a flap cover, it will not keep your stuff safe from the rain, as water will leak through the sides. Luckily, we don’t get much rain in Madrid these days, and I can use it throughout most of the summer season without any problems. However, if you live in a rainy area I wouldn't recommend it. Don't worry though, any similarly sized messenger bag will work great. Personally, during the rainy season I prefer to use a backpack anyway, since by then it’s usually a bit cooler and sweat is not so much of a problem. The [GORUCK GR Echo](http://www.goruck.com/en/gr-echo), for example, is a great choice and it's what I use. But more on that later.
  
 
-
 ## The gear
-
-
 
 Like I said before, I believe limiting the amount of gear that you take with you can be an effective way to boost your creativity. However, you should still be careful and make sure you pack everything you’ll need. I like to carry my camera and at most two lenses, one for portraits and another for wider shots. 
 
@@ -93,33 +87,26 @@ I carry my lenses, along with the E-M10, inside of a [GORUCK RR Field Pocket](ht
 
 Most days I take only one lens with me: the Panasonic Leica 25mm. This is an amazing lens, and its 50mm-equivalent focal length makes it perfect for many different situations. Besides, the color rendering and the character of this lens are already legendary in the Micro Four Thirds world, and with good reason. It really is an incredible lens to shoot with.
 
-[![GORUCK RR Field Pocket](https://farm4.staticflickr.com/3875/14980056892_e2ac7d6ae1_b.jpg)](https://www.flickr.com/photos/analogsenses/14980056892)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3875/14980056892_ea56fad4b2_h.jpg"/></p>
 
-[![GORUCK RR Field Pocket](https://farm6.staticflickr.com/5592/14957435506_a02ebab7df_b.jpg)](https://www.flickr.com/photos/analogsenses/14957435506)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5592/14957435506_f41897cc35_h.jpg"/></p>
 
 Some days, though, I choose to take the other two primes instead. The 45mm is perfect if I want to shoot a portrait, for example, of if I’m planning to shoot urban landscapes. And the pancake easily fits with it in the field pocket, so it usually ends up coming along for the ride in case I need something wider to shoot with. The combination of these two lenses is obviously more versatile than the 25mm, but the color rendering and character of the Leica are so unique that it’s difficult to leave it at home. 
 
-[![GORUCK RR Field Pocket](https://farm4.staticflickr.com/3886/14793858237_ff608717d6_b.jpg)](https://www.flickr.com/photos/analogsenses/14793858237)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3886/14793858237_a6a7dfeb53_h.jpg"/></p>
 
-[![GORUCK RR Field Pocket](https://farm6.staticflickr.com/5580/14980443765_d4c2d9a025_b.jpg)](https://www.flickr.com/photos/analogsenses/14980443765)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5580/14980443765_04cdb8d911_h.jpg"/></p>
 
 If there’s not a clear need for one particular lens or another, I’ll usually make the choice depending on my mood and what I feel like shooting with on that particular day.
 
-[![GORUCK RR Field Pocket](https://farm4.staticflickr.com/3869/14980455305_ffcb3287e9_b.jpg)](https://www.flickr.com/photos/analogsenses/14980455305)
-
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3869/14980455305_2d5594f8b1_h.jpg"/></p>
 
 
 ## The other stuff
 
-
-
 Besides the camera and the lenses, there are several other items that every photographer needs in order to get the job done. This is what the rest of my kit looks like, but of course your mileage may vary:
 
-[![The whole kit](https://farm4.staticflickr.com/3854/14980384205_fa688f74cf_b.jpg)](https://www.flickr.com/photos/analogsenses/14980384205)
-
-
-
-
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3854/14980384205_a67bea5f67_h.jpg"/></p>
 
   * 13” non-Retina MacBook Pro (Mid-2010). It’s an old machine and I’ve been drooling over the newer Retina MBP’s for quite some time, but it’s still in perfect working order and it does everything I need, so I haven’t been able to rationalize replacing it yet. A few months ago I upgraded its hard drive with an SSD, which made everything considerably snappier. All things considered, I’m pretty happy with it.
 
@@ -169,51 +156,48 @@ Putting everything in the right place is often underestimated, but I believe it�
 
 The items I carry in the main compartment of the bag are the MacBook Pro, the RR Field Pocket (with camera and lenses inside), the headphones, the glucose meter pouch, the insulin pens and the sunglasses. 
 
-[![Main kit](https://farm4.staticflickr.com/3907/14979769082_700cb082cf_b.jpg)](https://www.flickr.com/photos/analogsenses/14979769082)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3907/14979769082_a8d27f89b5_h.jpg"/></p>
 
-[![Main Compartment](https://farm6.staticflickr.com/5575/14980073965_39e4e9f1aa_b.jpg)](https://www.flickr.com/photos/analogsenses/14980073965)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5575/14980073965_017e999e46_h.jpg"/></p>
 
 The Field Notes notebook and my Kindle Paperwhite are in the secondary sleeve compartment.
 
-[![Sleeve Pocket](https://farm6.staticflickr.com/5559/14793580247_30cea2f872_b.jpg)](https://www.flickr.com/photos/analogsenses/14793580247)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5559/14793580247_67ab5af30e_h.jpg"/></p>
 
 Finally, the rest of my stuff is in the secondary pockets: glucose packs, pens, LED lights and occasionally, the lens hood of the Leica.
 
-[![Secondary pockets](https://farm6.staticflickr.com/5571/14980312195_1bf6c6c8c1_b.jpg)](https://www.flickr.com/photos/analogsenses/14980312195)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5571/14980312195_6a3ed07a35_h.jpg"/></p>
 
-[![Secondary pockets](https://farm6.staticflickr.com/5572/14979992162_279078f536_b.jpg)](https://www.flickr.com/photos/analogsenses/14979992162)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5572/14979992162_f744940f62_h.jpg"/></p>
 
 With this organization, things fit nicely in their proper place and they don’t move around too much, even when I’m pedaling my way across the city. Knowing that my gear is safe gives me peace of mind so I can focus on getting from point A to point B without distractions. Besides, the bag has a nice, stylish look that I really like; I feel that I can take it with me anywhere without looking too out of place or drawing too much attention to myself. That’s also important sometimes.
 
-[![A stylish messenger bag](https://farm4.staticflickr.com/3905/14793923167_8b30a049c0_h.jpg)](https://www.flickr.com/photos/analogsenses/14793923167)
-
+![A stylish messenger bag](https://farm4.staticflickr.com/3905/14793923167_8b30a049c0_h.jpg)
 
 
 ## An alternative: the GORUCK GR Echo
 
-
-
 On some occasions, like when it's raining, or on those days when I know I'm not going to use the bike, I usually ditch the messenger altogether and use a backpack instead. My backpack of choice is the [GORUCK GR Echo](http://www.goruck.com/en/gr-echo), and it's a fantastic bag. This section is meant to show you that my way of doing things doesn't necessarily have to be what's best for you. There's ample room for customization here; you should take some time to figure out what you want from your bag, and choose accordingly.
 
-[![The GORUCK GR Echo](https://farm6.staticflickr.com/5577/14988493285_3d25206f1f_h.jpg)](https://www.flickr.com/photos/analogsenses/14988493285)
+![The GORUCK GR Echo](https://farm6.staticflickr.com/5577/14988493285_3d25206f1f_h.jpg)
 
 Much has been said about the GORUCK rucks and, as far as I can tell, most of it is true. These bags are amazing. The build quality is second to none, and they're guaranteed for life. One of my favorite design features, especially in combination with the Field Pocket pouches, is the MOLLE webbing. It's designed to easily and securely attach so that your gear stays where you put it, no matter what. 
 
-[![MOLLE Webbing](https://farm6.staticflickr.com/5573/14988263985_c221f2ddc1_b.jpg)](https://www.flickr.com/photos/analogsenses/14988263985)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5573/14988263985_b2559df4c0_h.jpg"/></p>
 
-[![RR Field Pocket](https://farm4.staticflickr.com/3889/14801730177_10cbb3417c_b.jpg)](https://www.flickr.com/photos/analogsenses/14801730177)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3889/14801730177_2b8058d82e_h.jpg"/></p>
 
-[![The RR Field Pocket](https://farm4.staticflickr.com/3924/14801633928_aa8984bc7c_b.jpg)](https://www.flickr.com/photos/analogsenses/14801633928)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3924/14801633928_db84bfef15_h.jpg"/></p>
 
 I own a GR Echo and [a GR 2](http://www.goruck.com/en/gr2), and attaching the field pocket to any of them instantly turns them into fantastic camera bags. This is a great example of GORUCK's design philosophy: it’s the gear that adapts to you, if you take the time to experiment and make it yours. If you appreciate good quality and craftsmanship, I highly recommend them.
 
 Another great thing about the GORUCK rucks is that they open completely flat. This is a huge feature to have when you're carrying a bunch of stuff inside, because it allows you to find anything almost instantly. No need to hunt for things inside the bag anymore.
 
-[![Open flat](https://farm4.staticflickr.com/3917/14801568469_cc8fdc6351_b.jpg)](https://www.flickr.com/photos/analogsenses/14801568469)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3917/14801568469_486c044ef2_h.jpg"/></p>
 
 The Echo is great little bag that looks deceptively small, but is capable of carrying plenty of gear. Here's how it looks when holding all of my kit:
 
-[![GORUCK GR Echo](https://farm4.staticflickr.com/3871/14988294255_98f3d7d1ff_h.jpg)](https://www.flickr.com/photos/analogsenses/14988294255)  
+![GORUCK GR Echo](https://farm4.staticflickr.com/3871/14988294255_98f3d7d1ff_h.jpg)
 
 You could be forgiven for thinking it's empty. It's actually fully loaded with everything you saw before, but it's still got plenty of space left. Light and fast. That's how you want your bag to look like.
 
@@ -221,17 +205,17 @@ The MacBook Pro sits comfortably in its own padded compartment, tough enough to 
 
 [^5]: PLEASE don't try this at home.
 
-[![Laptop Compartment](https://farm6.staticflickr.com/5576/14988314855_fb80f79f62_b.jpg)](https://www.flickr.com/photos/analogsenses/14988314855)
+<p class="extra-width"><img class="extra-width" src="https://farm6.staticflickr.com/5576/14988314855_9cf5adbbf8_h.jpg"/></p>
 
 One of my favorite things about this system is that your camera and lenses will always be easily accessible from the top of the ruck: just unzip the main compartment and the Field Pocket and you're good to go. 
 
-[![Easy Access](https://farm4.staticflickr.com/3861/14801754987_8d9b66a46b_b.jpg)](https://www.flickr.com/photos/analogsenses/14801754987)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3861/14801754987_49a197b292_h.jpg"/></p>
 
 So there you have it, another great way to carry your photography gear across town. The GR Echo is slim and discreet, and you can take it with you almost anywhere without arousing suspicion. That's what I really like about using a regular bag instead of a dedicated camera bag: sometimes you don't want the whole world to know you have a really nice camera in your bag.
 
-[![Discreet](https://farm4.staticflickr.com/3879/14988144262_36561483cc_b.jpg)](https://www.flickr.com/photos/analogsenses/14988144262)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3879/14988144262_0c08a1bac7_h.jpg"/></p>
 
-[![Discreet](https://farm4.staticflickr.com/3883/14801905518_835d0e9422_h.jpg)](https://www.flickr.com/photos/analogsenses/14801905518)
+![Discreet](https://farm4.staticflickr.com/3883/14801905518_835d0e9422_h.jpg)
 
 
 ## Update (September 19th, 2014): Going Old School
@@ -242,7 +226,7 @@ Lately I've been experimenting with an old analog SLR that belonged to my father
 
 Fortunately, this camera also fits inside the RR Field Pocket without any issues, maybe even better than the E-M10. Despite being a 35mm film SLR — this sensor size is what we'd call "full-frame" in the digital world — the body of the AE-1 Program is remarkably compact. As for the lens, I've been shooting with the kit lens, a [Canon FDn 50mm f/1.8](http://camerapedia.wikia.com/wiki/Canon_FD_50mm_f/1.8), which is pretty good, giving sharp images and decent bokeh. I also recently purchased a used [Canon FDn 35mm f/2.0 lens](http://en.wikipedia.org/wiki/Canon_FD_35mm_f/2) on ebay, which is fantastic for street photography. It's the fastest Canon FD lens in this focal length, but it's even smaller — although a bit heavier — than the Panasonic Leica 25mm f1.4 for Micro Four Thirds
 
-[![Goruck RR Field Pocket with Canon AE-1 Program and Canon FDn 35mm f/2.0 lens](https://farm4.staticflickr.com/3845/15283275121_77eaa29a10_h.jpg)](https://www.flickr.com/photos/analogsenses/15283275121)
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3845/15283275121_77eaa29a10_h.jpg"/></p>
 
 Shooting with this camera is awesome. It's manual-zoom only, and it supports full manual operation as well as full auto-exposure and shutter-priority modes. I love it. I usually shoot in shutter-priority mode. I'll probably end up going full manual, but in the meantime, having these extra modes is certainly helpful.
 
