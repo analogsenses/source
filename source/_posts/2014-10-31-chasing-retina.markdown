@@ -20,9 +20,13 @@ This is sound logic. If you're spending most of your time at your desk, the Reti
 
 Unlike Shawn, however, I use an iMac + MacBook Pro setup and frankly, as much as I love my iMac and as much as I'm lusting after the Retina iMac, I just can't see myself giving up the MacBook Pro to go desktop-only. The problem is, my iMac is already _6 and a half years old_ and my MacBook Pro is _4 and a half years old._ Yikes. Even though both are still performing admirably for their age, it's been long enough that upgrading either of them would clearly make a huge difference.  
 
-Having a laptop is a necessity for me, because I do most of my work away from my home office. Changing places every now and then helps me stay fresh and motivated, and I vastly prefer it to being chained to my desk at home all the time. I'm actually typing these words on my MacBook Pro while sitting in [La Bicicleta Café](http://www.labicicletacafe.com/index-en.html), a Cycling Café and Workplace that I frequently use as a remote office. As a bicycle nut, this is pretty much the perfect place for me to work.
+Having a laptop is a necessity for me, because I do most of my work away from my home office. Changing places every now and then helps me stay fresh and motivated, and I vastly prefer it to being chained to my desk at home all the time. I'm actually typing these words on my MacBook Pro while sitting in [La Bicicleta Café](http://www.labicicletacafe.com/index-en.html), a Cycling Café and Workplace that I frequently use as a remote office. As a bicycle nut, this is pretty much the perfect place for me to work at.
 
-An additional consideration is that in order to fund the upgrade I must first sell what I already have, so at least one of the two computers I own has to go. If going desktop-only is not an option, then what is the right way for me to go Retina? Because let's face it, I won't be buying a non-retina Mac ever again. I'd much rather wait until I can afford to upgrade properly, even if it takes another year.
+<p class="extra-width"><img class="extra-width" src="https://farm3.staticflickr.com/2945/15367241461_aedebc71e5_h.jpg"/></p>
+
+<p class="photo-credit">La Bicicleta Cycling Café & Workplace</p>
+
+An additional consideration is that in order to fund the upgrade I must first sell part of my current setup, which means at least one of the two computers I own has to go. If going desktop-only is not an option, then what is the right way for me to go Retina? Because let's face it, I won't be buying a non-retina Mac ever again. I'd much rather wait until I can afford to upgrade properly, even if it takes another year.
 
 With that in mind, I can see four distinct upgrade paths:
 
