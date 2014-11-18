@@ -5,6 +5,7 @@ date: 2014-11-17 10:54:00 +0100
 comments: true
 categories: 
 - Photography
+description: "The newest Leica-branded lens from Panasonic looks like a winner, but there's more to it than that"
 ---
 
 Today I read [The Phoblographer's review](http://www.thephoblographer.com/2014/11/17/review-panasonic-15mm-f1-7-micro-four-thirds/) of the [Panasonic Leica DG Summilux 15mm f/1.7](http://www.amazon.com/gp/product/B00J8HV6DG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00J8HV6DG&linkCode=as2&tag=analogsens-20&linkId=RVRSVJPCIX5WV7RR) lens for Micro Four Thirds. It's a nice review as usual, and I quite enjoyed it. They really liked the lens too, and they even gave it an Editor's Choice Award. If you're in the market for a wide-angle lens for the MFT system, it sure seems like a no-brainer. However, upon further consideration, there's a little bit more to it than that. 
