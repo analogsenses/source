@@ -8,7 +8,7 @@ title: About
 wordpress_id: 2
 ---
 
-**Analog Senses** is an attempt to provide a human look at the world in the Digital Age. It features articles and links about the concept of living a Digital Life, as well as other interesting and/or inspiring events currently happening on planet Earth. It is written and produced by **Álvaro Serrano**.
+**Analog Senses** is a website about the human side of technology, featuring links and articles on design, photography, Apple and the tech industry in general, as well as other interesting things currently happening on planet Earth. It is written and produced by **Álvaro Serrano**.
 
 
 
@@ -37,8 +37,6 @@ Special plugins used include [Footnotes Popover](https://github.com/mattgemmell/
 Custom Web fonts used throughout the site include [Lamplighter Script](http://www.myfonts.com/fonts/fontdiner/lamplighter-script/) and [Atrament Web](https://typekit.com/fonts/atrament-web) in the site's header and also in the titles and headings. The body font is [Proxima Nova](https://typekit.com/fonts/proxima-nova), which should improve readability, especially on high-resolution (a.k.a. Retina) displays.
 
 Images are usually hosted on [Flickr!](http://www.flickr.com/photos/analogsenses/)
-
-The site's header features custom artwork by [David Lanham](http://dlanham.com).
 
 On the software front, Analog Senses is written and produced using [Smultron](https://itunes.apple.com/app/smultron-6/id692204913?mt=12), [Git](http://git-scm.com), [GitHub](https://github.com), Terminal.app, and the Safari Web Browser on a Mac. Easy.
 
