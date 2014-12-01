@@ -20,7 +20,7 @@ These are good times for photography enthusiasts. We've had a few exceptionally 
 
 <p class="extra-width"><a href="https://www.flickr.com/photos/kentkc/14149050797" title="Olympus OM-D E-M1 by Kent, on Flickr"><img src="https://farm3.staticflickr.com/2919/14149050797_f53b24a482_h.jpg" alt="Olympus OM-D E-M1"></a></p>
 
-<p class="photo-credit">The Olympus OM-D E-M10. Photo credit: <a href="https://www.flickr.com/photos/kentkc/">Kent</a></p>
+<p class="photo-credit">The Olympus OM-D E-M1. Photo credit: <a href="https://www.flickr.com/photos/kentkc/">Kent</a></p>
 
 Such is the case of the excellent [Olympus OM-D E-M1 Micro Four Thirds camera](http://www.amazon.com/gp/product/B00NGSLTBC/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00NGSLTBC&linkCode=as2&tag=analogsens-20&linkId=AYILEIZGZDYF3JMB), for example. Released in September of 2013, it was a truly revolutionary product that put Micro Four Thirds cameras in the same league as high-end DSLR's in terms of build quality and features for the first time. In fact, the E-M1 was the first camera that persuaded many professional photographers to give the Micro Four Thirds system a serious shot at becoming their preferred setup for high-paying jobs like weddings, product shots, travel photography, etc.
 
