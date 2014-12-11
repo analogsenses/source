@@ -18,3 +18,9 @@ Rich McCormick, The Verge:
 > _TorrentFreak_ says The Pirate Bay might not be the only casualty of this most recent crackdown on the sharing of copyrighted material. The torrent portal's forum, Suprbay, and a number of other torrent-related sites have also gone down, including EZTV, Zoink, and Torrage.
 
 It always amazes me how sites like The Pirate Bay manage to keep going after being raided by the police. It's impressive.
+
+**UPDATE:** [According to TorrentFreak](http://torrentfreak.com/the-pirate-bay-has-not-been-resurrected-yet-141210/), reports of TPB's resurrection may have been greatly exaggerated:
+
+> Only adding to the excitement (or perhaps causing it), plenty of posts appeared on Reddit trumpeting this domain as the site’s new home. Sadly, however, these reports are wide of [sic] the mark.
+
+> ThePirateBay.cr is a Pirate Bay proxy/mirror service ([it’s listed by Proxybay](https://proxybay.info/list.txt)) and as such relies entirely on The Pirate Bay for its torrent content. Currently it has none. The site appears to be operating out of the Netherlands and only became widely available in October.
