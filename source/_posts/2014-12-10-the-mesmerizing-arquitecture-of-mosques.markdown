@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Mesmerizing Arquitecture of Mosques"
+title: "The Mesmerizing Architecture of Mosques"
 date: 2014-12-10 15:06:58 +0100
 comments: true
 categories: 

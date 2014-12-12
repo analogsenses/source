@@ -69,7 +69,7 @@ I can't speak for you, but my brain is particularly tricky when I'm zeroing in o
 
 Obviously, that's bullshit.
 
-No matter how great a deal it may seem, if you managed to come across it in just a couple days of casual online research, chances are you'll find it again. Or maybe you'll find an even better deal. On an intellectual, rational level, I know that. I know the rush I feel it's bullshit. But the funny thing is, it never feels like bullshit at the time.
+No matter how great a deal it may seem, if you managed to come across it in just a couple days of casual online research, chances are you'll find it again. Or maybe you'll find an even better deal. On an intellectual, rational level, I know that. I know the rush I feel is bullshit. But the funny thing is, it never feels like bullshit at the time.
 
 I still struggle to pass the two-week test. Every. Single. Time. I've gotten better at it with the years, but it would be a stretch to say I've mastered my geeky impulses. Like most of you out there, I still have a pretty long way to go.
 
