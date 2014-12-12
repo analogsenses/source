@@ -38,15 +38,15 @@ Time may be the single most valuable resource we have, and yet we carelessly giv
 
 ##A geek and his toys
 
-As a geek, I sometimes struggle to embrace a lifestyle of minimalism. I like minimalism on its face, both as a philosophy and as an aesthetic style, but the compromises it demands of me are sometimes overwhelming because as a geek, I have a tendency to love shiny gadgets and an insatiable passion for discovering new things.
+As a geek, I sometimes struggle to embrace a lifestyle of minimalism. I like minimalism on its face, both as a philosophy and as an aesthetic style, but the compromises it demands of me are sometimes overwhelming, because I have a natural tendency to love shiny gadgets and an insatiable passion for discovering new things.
 
 It's taken me a few years to find an acceptable balance between sobriety and minimalism as an ideal, and a practical approach capable of informing my everyday decisions without requiring me to become a monk. This balance, I have found, adds tremendous value to my life and enhances the role of everything and everyone in it, because everything becomes a conscious choice born of intentionality, instead of it being a random accident or a superfluous craving. It feels like being in control of my own life, and if there's one thing geeks love more than toys is being in control.
 
-My general approach when it comes to purchasing stuff or incorporating new things into my life comes down to a very simple question: Does it provide long-lasting value or is it a spur-of-the-moment, impulsive decision?
+My general approach when it comes to purchasing stuff or incorporating new things into my life comes down to a very simple question: does it provide long-lasting value or is it a spur-of-the-moment, impulsive decision?
 
 It seems like a pretty easy question, but if you're anything like me, you know answering it correctly can be surprisingly tricky.
 
-Another character trait most geeks share is our ability to become extremely excited when we desire something. We now call it _being passionate_ as if it's a good thing, but make no mistake, there's nothing noble about it. Desire is an incredibly powerful emotion, but it has the unfortunate side-effect of skewing perspective. As a geek, when I want something — really _want_ it — I will go to great lengths to justify my intention to buy it. Sometimes, this rationalization happens without my even noticing, and that's when I know I'm in trouble. That's when I know it's time to take a couple steps back.
+Another character trait most of us share is our ability to become extremely excited when we desire something. We now call it _being passionate_ as if it's a good thing, but make no mistake, there's nothing noble about it. Desire is an incredibly powerful emotion, but it has the unfortunate side-effect of skewing perspective. When I want something — really _want_ it — I will go to great lengths to justify my intention to buy it. Sometimes, this rationalization happens without my even noticing, and that's when I know I'm in trouble. That's when I know it's time to take a couple steps back.
 
 Who hasn't spent _days_ researching a new gadget or whatever, only to find it extremely lacking and disappointing when the initial excitement wears off? If you were to look back through the whole process, more often than not you'd find out it was _you_ who deliberately tricked yourself into believing you needed it in the first place. All along, it was _you_ who planted the idea in your head, and it was _you_ who let it grow until it became so powerful that the only way to silence it was to give in to it.
 
@@ -61,7 +61,7 @@ Whenever I'm faced with a new purchasing decision, I apply what I call the two-w
 
 What the test consists of is this: once I'm done with all my research and I've isolated the item I want to buy, I just sit on it for two full weeks before buying it. That's it. It really is that simple.
 
-I have found that two weeks is just about enough time for the typical geeky passion to dissipate. Surely in that time, a new interest is bound to cross my mind, and that's exactly how I test the merit of the original idea. If after those two weeks of competing with other interests the original idea still makes sense, then I go ahead and buy it without remorse.
+I have found that two weeks is just about the time it takes for a fleeting passion to dissipate. Surely in that time, a new interest is bound to cross my mind, and that's exactly how I test the merit of the original idea. If after those two weeks of competing with other interests the original idea still makes sense, then I go ahead and buy it without remorse.
 
 Now, the key thing here is that when I say sit on it for two weeks, what I really mean is, _completely forget about it for two weeks_. No more research, no more reading about it, nothing. Which, of course, is easier said than done.
 
@@ -126,7 +126,7 @@ It's been a few days since I received it and so far I'm incredibly happy with my
 
 ##Home is now behind you, the world is ahead
 
-This experiment has reinforced my belief in the two-week test, and strengthened my determination to lead an intentional life and be a responsible consumer whenever possible. Like Mujica, I believe our time is too important to spend it on disposable stuff that doesn't add any value to our lives. 
+This experiment has reinforced my belief in the two-week test, and strengthened my determination to lead an intentional life and be a responsible consumer whenever possible. Like Mujica, I believe our time is too important to spend on disposable stuff that doesn't add any value to our lives. 
 
 On a personal level, this is deeply satisfying. On a more immediate level, it also means I will never need to buy another razor. With proper care and maintenance, this one will easily outlive me. 
 
