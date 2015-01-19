@@ -54,7 +54,7 @@ These are all excellent cameras with plenty of high-end features but to me, the 
 
 <p class="extra-width"><img src="https://farm9.staticflickr.com/8589/16240485586_e1b422bd2d_o.jpg" title="Fujifilm X100T"></a></p>
 
-<p class="photo-credit">The Fujifilm X100T is the most interesting fixed lens camera available right now. Photo Credit: <a href="https://www.flickr.com/photos/danielygo/15813645596">Daniel Go</a>.</p>
+<p class="photo-credit">The Fujifilm X100T is the most interesting fixed-lens camera available right now. Photo Credit: <a href="https://www.flickr.com/photos/danielygo/15813645596">Daniel Go</a>.</p>
 
 This camera has the same APS-C image sensor found in its more expensive interchangeable-lens sibling, the X-T1, and many of the characteristic features Fuji fans love, like dedicated exposure compensation and shutter speed dials on the body, as well as an aperture ring on its built-in 23mm f/2 lens, which is equivalent to a 35mm full-frame focal length. This lens is tack sharp, fast and it’s capable of taking some really awesome pictures. Unlike the others though, the Fuji X100T has no optical zoom, so you’ll really need to get used to the 35mm equivalent focal length (which is awesome, but more on that later).
 
@@ -67,7 +67,7 @@ Many of these comparisons also apply to the full-frame world. Indeed, the [Sony 
 
 All of these are terrific cameras, but they’re significantly more expensive: the Sony RX1R costs about $2,800, while the current-generation [Sony A7 Mk II](http://www.amazon.com/gp/product/B00PX8CHO6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00PX8CHO6&linkCode=as2&tag=analogsens-20&linkId=B23UMA5F7VC2C63T) with a [55mm prime lens](http://www.amazon.com/gp/product/B00FSB799Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FSB799Q&linkCode=as2&tag=analogsens-20&linkId=GKZ54HMFSY5KERQJ) will run you a cool $2,700. And Leica is... well, [Leica](http://www.amazon.com/gp/product/B009FQSXYA/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009FQSXYA&linkCode=as2&tag=analogsens-20&linkId=GIRNMOGO5M3FGG4M). These cameras are clearly not aimed at typical shooters and are more oriented towards the very high-end enthusiast and pro markets. At this point though, they’re also competing with full-blown DSLRs from Canon and Nikon and, while the gap is narrowing quickly, those are still preferred by many professional photographers, particularly for their superior ability to capture fast action shots, sports, etc.
 
-Don’t get me wrong, I’m absolutely convinced that mirrorless is the future of photography, and that DSLRs will slowly continue to lose appeal for the vast majority of shooters. If I were a professional photographer today, I’d be _extremely_ tempted to get the Sony A7 Mk II, and I’m willing to bet in just a few years, DSLRs will be relegated to a very small niche of professional shooters for whom nothing else will do, and even they will be conquered eventually. It’s clearly just a matter of time, but unfortunately we’re not quite there yet.
+Don’t get me wrong, I’m absolutely convinced that mirrorless is the future of photography, and that DSLRs will slowly continue to lose appeal for the vast majority of shooters. If I were a professional photographer today, I’d be _extremely_ tempted to get the Sony A7 Mk II, and I’m willing to bet in just a few years, DSLRs will be relegated to a very small niche of professional shooters for whom nothing else will do — and even they will be conquered eventually. It’s clearly just a matter of time, but unfortunately we’re not quite there yet.
  
 
 ##Choose your poison
@@ -84,11 +84,11 @@ The X100T has a lot going for it, starting with its choice of focal length. The 
 
 <p class="photo-credit">You can take pretty cool pictures with a 35mm lens where you get to show a bit more of the scene, along with your subject. All pictures: Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film.</p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7520/15644996853_ebf6e65ee9_o.jpg" title="Almudena Cathedral, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="https://farm8.staticflickr.com/7520/15644996853_beec8a7337_o.jpg" title="Almudena Cathedral, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
 
 <p class="extra-width"><img src="https://farm8.staticflickr.com/7532/16077522940_01073496e2_o.jpg" title="Royal Palace of Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7552/16079023827_597e5d858f_o.jpg" title="Capitol Building and Gran Vía, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="https://farm8.staticflickr.com/7552/16079023827_0c5d434087_o.jpg" title="Capitol Building and Gran Vía, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
 
 <p class="photo-credit">The 35mm perspective is perfect for capturing city landmarks, which wouldn’t fit in the frame with longer — and therefore, narrower — lenses. All pictures: Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film.</p>
 
@@ -119,7 +119,9 @@ When you give a shit, you wonder about your composition, and about the light. Yo
 
 <p class="extra-width"><img src="https://farm9.staticflickr.com/8655/16263069881_61d9343881_o.jpg" title="Agus and Ren at Park of Juan Carlos I. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
 
-<p class="photo-credit">When your subjects are relaxed it’s a lot easier to capture fun or spontaneous moments. Both pictures: Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film.</p>
+<p class="extra-width"><img src="https://farm8.staticflickr.com/7521/15649644294_9e41cd0dce_o.jpg" title="Ren and Pedro at Park of Juan Carlos I. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
+
+<p class="photo-credit">When your subjects are relaxed it’s a lot easier to capture fun or spontaneous moments. All pictures: Canon AE-1 Program with Canon FDn 35mm f/2 lens. Top two: Kodak Portra 400 film. Bottom: Fuji Superia 400 film.</p>
 
 By doing this, you’ll be able to get amazing shots with almost any camera, and any lens. You’ll be able to adapt your technique to the lens you’re using, and you’ll learn to use the lens up to its full potential.
 
@@ -140,7 +142,7 @@ The amount and quality of bokeh depends on several elements like sensor size, le
 
 <p class="photo-credit">This is about as much bokeh as you can realistically expect from the 35mm focal length. It’s not bad by any means, but it’s not spectacular either. Canon AE-1 Program with Canon FDn 35mm f/2 lens at f/2 and Kodak Portra 400 film</p>
 
-Another issue with short focal lengths — 35mm or less — is perspective distortion. A very common expression in favor of fixed lens cameras is to say that you can always “zoom with your feet”: by stepping closer to your subject you can reduce the amount of scene that will fit in the frame, and the effect is similar than if you had taken the shot with a longer lens. This approach usually works, but is somewhat limited. As you step closer and closer to your subject, perspective distortion starts being noticeable, and it’s more pronounced the closer you are to your subject and the shorter and wider the lens is. Another way to achieve a similar effect is by using a wider lens and then simply cropping to reduce the field of view.
+Another issue with short focal lengths — 35mm or less — is perspective distortion. A very common expression in favor of fixed-lens cameras is to say that you can always “zoom with your feet”. By stepping closer to your subject you can reduce the amount of scene that will fit in the frame, and the effect is similar than if you had taken the shot with a longer lens. This approach usually works, but is somewhat limited. As you step closer and closer to your subject, perspective distortion starts being noticeable, and it’s more pronounced the closer you are to your subject and the shorter and wider the lens is. Another way to achieve a similar effect is by using a wider lens and then simply cropping to reduce the field of view.
 
 You can reasonably mimic a 50mm field of view with a 35mm lens by cropping or stepping closer to the scene, mainly because there’s not much difference between the two to begin with. However, mimicking a longer lens becomes more difficult due to perspective distortion.
 
@@ -156,7 +158,7 @@ You can reasonably mimic a 50mm field of view with a 35mm lens by cropping or st
 
 <p class="extra-width"><img src="https://farm8.staticflickr.com/7559/16264893335_46123438b0_o.jpg" title="Orient Square, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens at f/2 and Fuji Superia 400 film"></a></p>
 
-<p class="photo-credit">The difference between the field of view of a 50mm and a 35mm lens is small, but it’s enough to make a difference when shooting city landmarks. Both images: Canon AE-1 Program and Fuji Superia 400 film. Top: Canon FDn 50mm f/1.8 lens at f/8. Bottom: Canon FDn 35mm f/2 lens at f/8.</p>
+<p class="photo-credit">The difference between the field of view of a 50mm and a 35mm lens is small, but it’s enough to matter when shooting city landmarks. Both images: Canon AE-1 Program and Fuji Superia 400 film. Top: Canon FDn 50mm f/1.8 lens at f/8. Bottom: Canon FDn 35mm f/2 lens at f/8.</p>
 
 Portrait lenses are usually long because with the longer focal lengths, perspective distortion is barely noticeable and people look more natural. By comparison, a close-up portrait shot with a wide-angle lens looks weird and the results are often not very flattering. Also, it’s much easier to achieve subject separation and bokeh with a long lens, which is a great way to make your subject “pop” from the background. In my mind, the minimum acceptable length for portraits is 50mm, and the sweetspot is in the 85mm-150mm range.
 
