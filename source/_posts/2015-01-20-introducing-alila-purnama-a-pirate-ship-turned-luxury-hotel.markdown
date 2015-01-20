@@ -12,4 +12,4 @@ Messy Nessy:
 
 > I would probably walk the plank if it meant getting myself aboard _Alila Purnama._ Fortunately, aboard this handcrafted ship, entertainment is less about sword fights and more about mojitos served with a view of the Indian Ocean. Puff Daddy can have his shiny show-off yacht, I want to travel the seas like Francis Drake (or at least like Francis Drake in retirement).
 
-Couldn't have said better myself.
+Couldn't have said it better myself.
