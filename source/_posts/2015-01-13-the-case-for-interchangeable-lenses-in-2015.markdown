@@ -80,7 +80,7 @@ The X100T has a lot going for it, starting with its choice of focal length. The 
 
 <p class="extra-width"><img src="https://farm8.staticflickr.com/7461/16077356978_dcd5f528bb_o.jpg" title="Park of Juan Carlos I, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7511/15644163454_a7d96861ec_o.jpg" title="Saxophone player in Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
+<p class="extra-width"><img src="https://farm8.staticflickr.com/7542/16341951252_038f3f2ff7_o.jpg" title="Saxophone player in Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
 
 <p class="photo-credit">You can take pretty cool pictures with a 35mm lens where you get to show a bit more of the scene, along with your subject. All pictures: Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film.</p>
 
@@ -88,7 +88,7 @@ The X100T has a lot going for it, starting with its choice of focal length. The 
 
 <p class="extra-width"><img src="https://farm8.staticflickr.com/7532/16077522940_01073496e2_o.jpg" title="Royal Palace of Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7552/16079023827_0c5d434087_o.jpg" title="Capitol Building and Gran Vía, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="https://farm9.staticflickr.com/8618/16156920589_6a47c4bf49_o.jpg" title="Capitol Building and Gran Vía, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
 
 <p class="photo-credit">The 35mm perspective is perfect for capturing city landmarks, which wouldn’t fit in the frame with longer — and therefore, narrower — lenses. All pictures: Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film.</p>
 
@@ -138,7 +138,7 @@ One of the most sought-after effects in modern digital photography is the shallo
 
 The amount and quality of bokeh depends on several elements like sensor size, lens speed and yes, focal length. Getting tons of bokeh with a 35mm lens is pretty difficult, particularly with a crop sensor camera like the Fuji X100T. That’s just how optics work, and there’s no way around it. Of course, this is not an absolute statement: you _can_ create some amount of bokeh with the X100T, and it will look fine. If that’s enough for you then awesome, but if you really want to achieve subject separation with lots of gorgeous, creamy bokeh, your best bet is to go with a long, fast lens and ideally, a full-frame sensor.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7463/15646800353_46955522c1_o.jpg" title="Miriam at Paseo de la Castellana, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
+<p class="extra-width"><img src="https://farm9.staticflickr.com/8635/16156619767_12ea1698fb_o.jpg" title="Miriam at Paseo de la Castellana, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
 
 <p class="photo-credit">This is about as much bokeh as you can realistically expect from the 35mm focal length. It’s not bad by any means, but it’s not spectacular either. Canon AE-1 Program with Canon FDn 35mm f/2 lens at f/2 and Kodak Portra 400 film</p>
 
@@ -189,6 +189,6 @@ I know I’m making it sound difficult but trust me, you really wouldn’t want 
 
 Because, after all, that’s where all the fun is.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8592/15643446634_31d54cf054_o.jpg" title="Me. Canon AE-1 Program with Canon FDn 50mm f/1.8 lens and Kodak Tri-X 400 film"></a></p>
+<p class="extra-width"><img src="https://farm8.staticflickr.com/7496/16154917518_5f641df931_o.jpg" title="Me. Canon AE-1 Program with Canon FDn 50mm f/1.8 lens and Kodak Tri-X 400 film"></a></p>
 
 <p class="photo-credit">This is me. Hi. Canon AE-1 Program film SLR with Canon FDn 50mm f/1.8 lens and Kodak Tri-X 400 black and white film.</p>

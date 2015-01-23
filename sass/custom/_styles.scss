@@ -783,6 +783,10 @@ article {
   ol {
     list-style-type: decimal;
   }
+  
+  blockquote ul, ol {
+    padding-left: 10px;
+  }	
     
   p {
     @extend .default-line-height;
@@ -810,7 +814,8 @@ article {
   	margin-top:10px;
   	font-style: italic;
   	}
-  
+  	
+
   // ----- post's footer -----
   
   footer {
