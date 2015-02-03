@@ -16,4 +16,4 @@ Interesting piece by Nathan Mattise at Ars Technica:
 
 > What changed?
 
-I still have an iTunes playlist called "Apple Music", which is comprised solely of artists whose music I discovered thanks to Apple events and TV ads. Now that I think of it, it's true that I haven't added any new albums to that list in a pretty long time.
+I still have an iTunes playlist called "Apple Music", which includes only artists whose music I discovered thanks to Apple events and TV ads. Now that I think of it, it's true that I haven't added any new albums to that list in a pretty long time.
