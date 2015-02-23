@@ -206,7 +206,7 @@ I’m by no means a film expert — I’m not even sure I qualify as a beginner
 
 The Canon AE-1 Program is a technical marvel of simplicity, ergonomics, functionality and yes, charm. I truly enjoy using this camera and, despite not offering all the latest and greatest features, it has everything I need to create the images I want. Most importantly, it always leaves me wanting to come back for more, and inspires me to try new things and get out of my comfort zone. It’s everything a great camera should be.
 
-I’ve recently purchased a Canon EOS 3 film SLR, which is one of the latest high-end film cameras that Canon made. Obviously, the EOS 3 offers many more features and better performance than the AE-1 Program but to me, the AE-1 Program has something else that EOS 3 will never have. It’s an amazing tool that lets you see the world in a whole different way, and I love it.
+I’ve recently purchased a Canon EOS 3 film SLR, which is one of the latest high-end film cameras that Canon made. Obviously, the EOS 3 offers many more features and better performance than the AE-1 Program but to me, the AE-1 Program has something else that the EOS 3 will never have. It’s an amazing tool that lets you see the world in a whole different way, and I love it.
 
 <p class="extra-width"><img src="https://farm9.staticflickr.com/8633/15965059993_8a3c0891b1_o.jpg" title="Casa de Bicis"/></p>
 
