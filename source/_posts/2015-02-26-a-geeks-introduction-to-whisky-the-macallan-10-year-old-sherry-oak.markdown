@@ -92,7 +92,7 @@ It’s very pleasant, but a bit shorter than I’d like. The same wonderful hone
 
 ##Perfect for
 
-It really is too bad Macallan decided to discontinue the 10 Year Old Sherry Oak, because this wonderful single malt punches well above its weight. Normally, younger whiskies like this one are preferred in socially relaxed atmospheres like pubs, but The Macallan follows its own set of rules. This single malt would feel right at home in the most select venues, be it in the Casino in Monte Carlo or in Piazza San marco in Venice, but it also makes for the perfect evening sipper on a nice spring day in your local watering hole. Perhaps that’s the key to The Macallan’s success: attainable luxury with impeccable credentials and flawless execution for the discerning customer. Sounds like a winner to me.
+It really is too bad Macallan decided to discontinue the 10 Year Old Sherry Oak, because this wonderful single malt punches well above its weight. Normally, younger whiskies like this one are preferred in socially relaxed atmospheres like pubs, but The Macallan follows its own set of rules. This single malt would feel right at home in the most select venues, be it in the Casino in Monte Carlo or in Piazza San Marco in Venice, but it also makes for the perfect evening sipper on a nice spring day in your local watering hole. Perhaps that’s the key to The Macallan’s success: attainable luxury with impeccable credentials and flawless execution for the discerning customer. Sounds like a winner to me.
 
 <p class="extra-width"><img src="https://farm9.staticflickr.com/8652/16469044670_95b0f6f569_o.jpg" title="The Macallan 10 Year Old Sherry Oak"/></p>
 
