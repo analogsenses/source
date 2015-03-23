@@ -79,11 +79,11 @@ This selection of pictures provides a very small sample of the types of people y
 
 ##The fashion
 
-Another striking thing about Madrid is how stylish and trendy many of its people are, particularly in certain neighborhoods like Malasaña or Chueca. All it takes is a brief walk around these places to witness a never-ending parade of beautiful people that are always up to speed with the latest fashion arrangements.
+Another striking thing about Madrid is how stylish and trendy many of its people are, particularly in certain neighborhoods like Malasaña or Chueca. All it takes is a brief walk around these places to witness an endless stream of beautiful people that are always up to speed with the latest fashion trends.
 
 <p class="extra-width"><img src="https://farm9.staticflickr.com/8724/16786815655_1b0106ccfa_o.jpg"/></p>
 
-<p class="photo-credit">Calle Fuencarral is located right in the middle of one of the main shopping areas and as such, it’s often populated by beautiful trendy youngsters like this girl.</p>
+<p class="photo-credit">Calle Fuencarral is located right in the middle of one of the main shopping areas and as such, it’s often populated by beautiful trendy people like this girl.</p>
 
 <p class="extra-width"><img src="https://farm8.staticflickr.com/7286/16751776876_d102fbf7d4_o.jpg"/></p>
 
