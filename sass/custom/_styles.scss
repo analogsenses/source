@@ -784,7 +784,7 @@ article {
     list-style-type: decimal;
   }
   
-  blockquote ul, ol {
+  blockquote ul, blockquote ol {
     padding-left: 10px;
   }	
     
@@ -1011,7 +1011,7 @@ img.borderless {
   article ul, article ol {
   padding-left:10px;	
   }
-  
+
   .entry-content {
    	 -ms-word-break: break-all;
      word-break: break-all;
