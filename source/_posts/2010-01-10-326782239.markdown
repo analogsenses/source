@@ -1,0 +1,20 @@
+---
+author: alvaroserrano
+comments: false
+date: 2010-01-10 19:40:22+00:00
+layout: post
+slug: '326782239'
+title: Quote of the Day
+wordpress_id: 326782239
+categories:
+- Quote
+post_format:
+- Quote
+tags:
+- Quote
+external-url: http://www.quotationspage.com/quote/1433.html
+---
+
+<blockquote>The important thing is not to stop questioning.</blockquote>
+
+**Albert Einstein (1879-1955)**
