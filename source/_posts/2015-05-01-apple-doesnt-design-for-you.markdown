@@ -50,7 +50,7 @@ Apple products have always been sharply criticized by some people in the nerd co
 
 When you complain that your iPad doesn’t let you upload an article directly to your website’s custom CMS, or that it doesn’t handle your camera’s RAW files, don’t follow that train of thought all the way to the end and conclude that the iPad is a mediocre device that will never replace laptops for most people. Instead, take a look out the window and watch how regular people are using them all the time. See how grandparents are using them to videoconference with their grandkids, and how moms can see the pictures of their kids’ vacation. That’s what the iPad is for, and that’s who’s really using it, and loving it.
 
-And guess what? Moms don’t need a new iPad every year. So, when you read in the tech press that iPad sales are down, don’t immediately jump to the conclusion that the iPad is doomed, or that it was a mirage. The iPad is real, and it is a success story in every way. It just may not be for you, that’s all.
+And guess what? Grandparents don’t need a new iPad every year. So, when you read in the tech press that iPad sales are down, don’t immediately jump to the conclusion that the iPad is doomed, or that it was a mirage. The iPad is real, and it is a success story in every way. It just may not be for you, that’s all.
 
 The same goes for the new MacBook. “_Who in their right mind would want to buy a laptop with just one port?_”
 
