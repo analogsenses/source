@@ -56,31 +56,18 @@ Picture in Picture is one of the coolest new features in iOS 9. It allows you to
 
 The rest of the features are also nice, but perhaps less radical improvements. Things like the more intelligent Search, the new Notes features and better Maps with transit information are the same as in OS X, and the new QuickType keyboard seems cool. The proactive behavior is also pretty cool, and if you’re a creature of habit it will definitely make your life easier.
 
-Finally, the addition of a new Low Power mode promises to squeeze up to one additional hour of battery life when you turn it on. This is fine, I guess, but it doesn’t make up for the fact that for the past few years, Apple has been cutting it extremely close when it comes to battery life in order to preserve thinness and lightness at all costs. Personally, I’d like to see slightly chubbier devices across the lineup with actual, all-day battery life. That would greatly improve the experience of using these devices and would make this Low Power gimmick largely unnecessary.
+Finally, iOS 9 boasts improved power efficiency that will allow users to get up to one additional hour of battery life with typical use. But beyond that, Apple included a new Low Power mode in iOS 9 that promises to squeeze up to _three_ additional hours of battery life on top of that additional hour when you turn it on. This is fine, I guess, but it doesn’t make up for the fact that for the past few years, Apple has been cutting it extremely close when it comes to battery life. Personally, we’ve reached a point where I’d much prefer to see slightly chubbier devices across the lineup with actual, all-day battery life instead of the current situation. My iPhone 5S, for example, barely lasts into the afternoon without a mid-day top-up charge anymore. This is simply unacceptable. 
 
-However, to me the most interesting iOS-related announcement by far was the addition of the News app.
+Eight years after the original iPhone’s introduction, iOS devices should get true all-day battery life with all their features enabled, instead of requiring users to cripple their devices in order to make their batteries last a little longer. If Apple hadn’t repeatedly made the very deliberate choice to sacrifice battery life in their relentless pursuit of thinness and lightness, this Low Power gimmick would be largely unnecessary today.
+
+Having said all that, to me the most interesting iOS-related announcement by far was the addition of the News app.
 
 
 ##Apple News
 
-News is a new app built into iOS 9 that is very similar to Pinterest in nature, but it’s so much more than that. It’s also a publishing platform for creators of content and digital publications big and small alike. With beautiful typography, an attractive layout and gorgeous image galleries, Apple is promising publishers that they’ll be able to create much better experiences for their readers.
+News is a new app built into iOS 9 that is very similar to Flipboard in nature, but it’s so much more than that. It’s also a publishing platform for creators of content and digital publications big and small alike. With beautiful typography, an attractive layout and gorgeous image galleries, Apple is promising publishers that they’ll be able to create much better experiences for their readers.
 
 Apple is yet to release a News Format guide to creating content for the new app, so it’s clearly still early to know how well the new publishing service will work. There are many unanswered questions for readers and publishers, but it definitely looks promising. Personally, I’m really excited about it and I’ve already signed up to become a publisher. If everything goes smoothly, you’ll soon be able to follow Analog Senses in the News app if you so desire.
-
-
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/512/18025943084_a6de79ed38_o.jpg" title="Apple Music"/></p>
-
-##Apple Music
-
-Apple Music is a new music service by Apple that effectively combines the iTunes Music Store and the Beats Music service into what they called “a complete thought around music”. If you’d been wondering how cool it would be if Apple were to add a Spotify-like streaming service to the iTunes Store, well, now you don’t have to wonder anymore.
- 
-This was billed as a “One more thing...” in the keynote, much to the delight of the crowd, but it actually turned out to be the worst part of the event for me. 
-
-The funny thing about that is, it wasn’t the product’s fault, but rather the unnecessarily long demo and the poorly scripted presentation in general that left more questions than answers, really. I don’t know who approved the script, but it was clearly one of the weakest Apple keynote segments in recent memory. It wasn’t Eddy Cue’s fault — well, at least not _only_ his fault — Jimmy Iovine also did a pretty poor job of injecting enthusiasm and communicating the potential of this new service for improving the music industry as a whole.
-
-The good news is, presentation problems aside, Apple Music looks like an extremely attractive new service. I’m currently a Spotify Premium subscriber and have been for years, and I’m also an iTunes Match user, but if the new Music service works as advertised I may switch to it entirely. Don’t get me wrong, I like Spotify a lot, but I’m not crazy about having my music split across two different services operated by two different companies.
-
-I just hope the entire iTunes Store catalog is available to stream as part of the new Music service, because Apple has been conspicuously ambiguous about that.
 
 
 <p class="extra-width"><img src="https://c1.staticflickr.com/1/532/18027959153_5dcd2bea81_o.jpg" title="watchOS 2"/></p>
@@ -98,30 +85,45 @@ But the really interesting announcement related to the Apple Watch was, of cours
 
 This was clearly the most expected announcement of the day. Although many thought it was still early for it, Apple did announce the native SDK for the Apple Watch, and it had some interesting things to tease the eager developer audience with.
 
-With ClockKit and the new Time Travel feature, developers can now create 3rd-party complications that update in real time, but that can also look into ahead in time and display future information like the weather later today, for example. I don’t know how convenient this will be to use on an Apple Watch, considering everything is controlled via the Digital Crown, but I’m curious to see it in action.
+With ClockKit and the new Time Travel feature, developers can now create 3rd-party complications that update in real time, but that can also look ahead in time and display future information like the weather later today, for example. I don’t know how convenient this will be to use on an Apple Watch, considering everything is controlled via the Digital Crown, but I’m curious to see it in action.
 
-Another cool feature of the SDK is that Apple Watch will be able to talk directly to known WiFi networks, so apps will be able to update their data even if the watch is outside the range of the user’s iPhone.
+Another cool feature of the SDK is that Apple Watch will be able to talk directly to known WiFi hotspots, so apps will be able to update their data even if the watch is outside the range of the user’s iPhone.
 
-WatchKit for watch OS 2 also gives developers access to HealthKit data, including real-time heart rate streaming for fitness apps. This is going to be pretty cool once developers start creating more serious hear rate monitoring and fitness apps. One of the problems the Apple Watch currently has is its lack of accuracy in estimating caloric consumption. This problem is caused by the lack of calibration, and it’s entirely solvable via software. By allowing users to specify their VO2Max and their resting heart rate, apps can provide much more accurate estimations and I’m eager to see what some of the more experienced fitness-oriented developers like Polar and Garmin will do with it.[^WWDC3]
+WatchKit for watchOS 2 also gives developers access to HealthKit data, including real-time heart rate streaming for fitness apps. This is going to be pretty cool once developers start creating more serious hear rate monitoring and fitness apps. One of the problems the Apple Watch currently has is its lack of accuracy in estimating caloric consumption. This problem is caused by the lack of calibration, and it’s entirely solvable via software. By allowing users to specify their VO2Max and their resting heart rate and using those parameters together with the hear rate data, apps could provide much more accurate estimations. I’m definitely eager to see what some of the more experienced fitness-oriented developers like Polar and Garmin will do with it.[^WWDC3]
  
 [^WWDC3]: On the other hand, with these new capabilities the Apple Watch could very well suck the air out of the hear rate monitor market and leave these companies in the dust, so I’d understand if they’re not overly enthusiastic about developing apps for it. It’s not like they have much of a choice though, because if they’re not the ones to do it somebody else will. And they know it.
 
-Other than that, WatchKit allows developers to use Bluetooth to communicate with wireless headphones and stream both short and long-form audio, which will be perfect for apps like podcast clients. I can’t wait to see what Marco Arment does with this in the new version of [Overcast](https://overcast.fm/) for the Apple Watch, which he’s surely already building by now.
+Other than that, the new WatchKit will allow developers to use Bluetooth to communicate with wireless headphones and stream both short and long-form audio, which will be perfect for apps like podcast clients. I can’t wait to see what Marco Arment does with this in the new version of [Overcast](https://overcast.fm/) for the Apple Watch, which he’s surely already building by now.
 
-All in all, the native SDK for the Apple Watch will provide many interesting new opportunities for 3rd-party developers, which is great for everyone.
+All in all, the native SDK for the Apple Watch will provide many interesting new opportunities for 3rd-party developers, and that is great news for everyone.
+
+
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/512/18025943084_a6de79ed38_o.jpg" title="Apple Music"/></p>
+
+##Apple Music
+
+Apple Music is a new music service by Apple that effectively combines the iTunes Music Store and the Beats Music service into what they called “a complete thought around music”. If you’d been wondering how cool it would be if Apple were to add a Spotify-like streaming service to the iTunes Store, well, now you don’t have to wonder anymore.
+ 
+This was billed as a “One more thing...” in the keynote, much to the delight of the crowd, but it actually turned out to be the worst part of the event for me. 
+
+The funny thing about that is, it wasn’t the product’s fault, but rather the unnecessarily long demo and the poorly scripted presentation in general that left more questions than answers, really. I don’t know who approved the script, but it was clearly one of the weakest Apple keynote segments in recent memory. It wasn’t Eddy Cue’s fault — well, at least not _only_ his fault — Jimmy Iovine also did a pretty poor job of injecting enthusiasm and communicating the potential of this new service for improving the music industry as a whole.
+
+The good news is, presentation problems aside, Apple Music looks like an extremely attractive new service. I’m currently a Spotify Premium subscriber and have been for years, and I’m also an iTunes Match user, but if the new Music service works as advertised I may switch to it entirely. Don’t get me wrong, I like Spotify a lot, but I’m not crazy about having my music split across two different services operated by two different companies.
+
+I just hope the entire iTunes Store catalog is available to stream as part of the new Music service, because Apple has been conspicuously ambiguous about that.
 
 
 ##Other miscellaneous thoughts
 
-Besides the main announcements, there were plenty of interesting bits to comment, as with any Apple keynote. Here are the points that caught my interest from yesterday’s two hour and a half presentation:
+Besides the main announcements, there were plenty of interesting bits to comment on, as with any Apple keynote. Here are the other points that caught my interest from yesterday’s two hour and a half presentation:
 
 * Apple released Swift 2 with several new improvements, but the big Swift-related announcement of the day was that they’re making it Open Source. At this point in the keynote, pretty much the entire Moscone West exploded in applause and roaring cheers from the crowd actually made it impossible to hear what Federighi was saying. This is no doubt excellent news, I just hope they _really_ make it Open Source this time, not like when Steve Jobs promised to make FaceTime and open standard.
 
-* Apple also unified the iOS, Mac and Safari Developer Programs into one unique program, adding support for the newly released watchOS to the mix as well. You’ll now need to pay a unique fee of $99/year for your membership and you’ll get access to the full range of tools, so it’s a substantial reduction in price: if you were enrolled in both the iOS and Mac programs, the price has been effectively cut in half.
+* Apple also unified the iOS, Mac and Safari Developer Programs into one unique program — called simply Apple Developer Program — adding support for the newly released watchOS to the mix as well. You’ll now need to pay a unique fee of $99/year for your membership and you’ll get access to the full range of tools, so it’ll be a substantial reduction in price for many developers: if you were enrolled in both the iOS and Mac programs, the price of your membership has been effectively cut in half.
 
 * Presenter-wise, this was a special keynote. For the first time we had women on stage at a WWDC keynote, with both Jennifer Bailey and Susan Prescott making an appearance to present changes in Apple Pay and the News app, respectively. It’s kind of sad that this is newsworthy and Apple still needs to do a lot more work on this front, but at least it was a start.
 
-* Speaking of presenters, Craig Federighi was once again the undisputed star of the show. He connects very easily with Apple’s developer community, and he knows it. What I particularly like about him — and I’m clearly not the only one — is that he’s not above taking small jabs at Apple’s own products occasionally. Yesterday he made several lighthearted puns about Apple’s use of transparency or an annoying dialog asking for Location Accuracy, for example, that provided some comedic relief and gave the impression that Apple knows they still have their work cut out for them. Compare that with Steve Jobs’s keynotes, where he projected a flawless illusion of a perfect world that catered to users but not so much to developers, and it’s easy to understand why developers have grown to love Federighi so much in such a short period of time.
+* Speaking of presenters, Craig Federighi was once again the undisputed star of the show. He connects very easily with Apple’s developer community, and he knows it. What I particularly like about him — and I’m clearly not the only one — is that he’s not above taking small jabs at Apple’s own products occasionally. Yesterday he made several lighthearted puns about Apple’s use of transparency or an annoying dialog asking for Location Accuracy, for example, that provided some comedic relief and gave the impression that despite their success, Apple knows they still have their work cut out for them. Compare that with Steve Jobs’s keynotes, where he projected a flawless illusion of a perfect world that catered to users but not so much to developers, and it’s easy to understand why developers have grown to love Federighi so much in such a short period of time.
 
 * I didn’t much care for the presence of Jimmy Iovine or Drake on stage during the Music segment. Or Eddy Cue, for that matter. I think they failed to bring anything interesting to the table and I very much would have preferred to have seen Tim Cook, Phil Schiller or even Federighi himself take care of that part of the presentation as well.
 
