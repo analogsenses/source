@@ -5,7 +5,7 @@ date: 2015-06-06 21:55:54 +0200
 comments: true
 categories: 
 - Digital Life
-- Weekly Edition
+- Weekly Linkage
 description: "Introducing “Morning Coffee”, a weekly roundup of interesting writing"
 ---
 
