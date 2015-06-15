@@ -73,35 +73,55 @@ Anyway, that’s entirely too much blogging about blogging for one day, so witho
 
 ##Issue #1: Emotional literacy, Apple Watch, photography and the defense of personal freedom
 
-[**The Four Stages of Life | Mark Manson**](http://markmanson.net/four-stages-of-life/)  
+###[The Four Stages of Life | Mark Manson →](http://markmanson.net/four-stages-of-life/)  
 What an eye-opening article by Mark Manson. As someone who is slowly coming to terms with the transition from stage two to stage three, this was incredibly helpful to read.
 
-[**A basic skill we should have learned as kids | David Cain**](http://www.raptitude.com/2015/05/basic-skill/)  
+<center>♤</center>
+
+###[A basic skill we should have learned as kids | David Cain →](http://www.raptitude.com/2015/05/basic-skill/)  
 David Cain’s writing is always top notch, and this week’s article is no exception. The ability to understand our own emotions and how they alter the shape of everything that happens in our lives is an essential tool we should all have in our toolbox. I also love the expression “emotional literacy”. It’s perfect.
 
-[**Building an app from start to finish | “Underscore” David Smith**](https://www.youtube.com/watch?v=rEkuRFO6xTw)  
+<center>♧</center>
+
+###[Building an app from start to finish | “Underscore” David Smith →](https://www.youtube.com/watch?v=rEkuRFO6xTw)  
 This one is technically not a piece of writing, but I’m including it anyway. Mr. Underscore had an idea for an Apple Watch app and in this brief YouTube video, he shows you how he built it. _Literally_.
 
-[**The Apple Watch | Ben Brooks**](https://brooksreview.net/2015/06/the-apple-watch/)  
+<center>♡</center>
+
+###[The Apple Watch | Ben Brooks →](https://brooksreview.net/2015/06/the-apple-watch/)  
 I had been waiting for Ben to publish his thoughts on the Apple Watch, and I’m happy to say he didn’t disappoint. Ben is one of the very few writers I trust when it comes to product reviews for one simple reason: he gives a shit about being fair, and he takes his time to form a coherent opinion before reviewing anything. I’ve publicly stated before how I think it’s way too early to be making claims about the future of the Apple Watch, and Ben deftly stays clear of making any such claims. Great stuff.
 
-[**Apple Watch Sport Band | Mike Bates**](http://www.mbs-p-b.com/mbs-p-b/2015/5/25/apple-watch-sport-band)  
+<center>♢</center>
+
+###[Apple Watch Sport Band | Mike Bates →](http://www.mbs-p-b.com/mbs-p-b/2015/5/25/apple-watch-sport-band)  
 Lovely piece by Mike Bates. I really like his photographic style and he makes some very interesting observations about Apple’s most affordable band option for the Apple Watch. If you want a white Sport band but are worried it might not age gracefully, this article is for you.
 
-[**Beyond Scotland: hot climate whiskies to know | Mark Bylok**](http://www.eater.com/drinks/2015/5/29/8677117/other-world-whisky-hot-climate-whisky)  
+<center>♤</center>
+
+###[Beyond Scotland: hot climate whiskies to know | Mark Bylok →](http://www.eater.com/drinks/2015/5/29/8677117/other-world-whisky-hot-climate-whisky)  
 Mark sent me a link to this article earlier today, after [I asked him](https://twitter.com/analogsenses/status/607193214601334784) about [Nomad](https://www.masterofmalt.com/whiskies/gonzalez-byass/nomad-outland-whisky/), a very particular whisky I tried recently that is aged in Scotland but then finished in Spain. As such, it cannot be labeled as Scotch whisky, which is why they promote it as “outland whisky”. Go figure. The good news is, it was delicious. The better news, however, is that there are plenty of fantastic whiskies being made outside of the Scottish borders, and Mark’s article is an excellent way to get acquainted with them.
 
-[**The unacceptably high cost of labor - how a deeper dive into Patagonia’s supply chain led to a new Migrant Worker Standard**](http://www.thecleanestline.com/2015/06/the-unacceptably-high-cost-of-labor-a-new-migrant-worker-standard-from-patagonia.html)  
+<center>♧</center>
+
+###[The unacceptably high cost of labor - how a deeper dive into Patagonia’s supply chain led to a new Migrant Worker Standard →](http://www.thecleanestline.com/2015/06/the-unacceptably-high-cost-of-labor-a-new-migrant-worker-standard-from-patagonia.html)  
 It’s good to see that some companies care about more than just making money. Human exploitation is a very real problem, and we need many more companies like Patagonia taking a stand and doing what’s right. Kudos to them.
 
-[**Patagonia’s Anti-growth strategy | The New Yorker**](http://www.newyorker.com/business/currency/patagonias-anti-growth-strategy)  
+<center>♡</center>
+
+###[Patagonia’s Anti-growth strategy | The New Yorker →](http://www.newyorker.com/business/currency/patagonias-anti-growth-strategy)  
 Another great piece focused on Patagonia, this time by J. B. Mackinnon for _The New Yorker_. Apparently, the company’s commitment to being environmentally and socially responsible even at the cost of potential growth is having quite an unexpected effect on their sales figures. Once again, good for them.
 
-[**How to capture iPhone photos of wiggly kids | Erin Brooks**](http://erinbrooks.me/2015/06/how-to-capture-iphone-photos-of-wiggly-kids/)  
+<center>♢</center>
+
+###[How to capture iPhone photos of wiggly kids | Erin Brooks →](http://erinbrooks.me/2015/06/how-to-capture-iphone-photos-of-wiggly-kids/)  
 Erin Brooks has been on fire lately and her pictures are jaw-droppingly beautiful. Keep them coming, Erin!
 
-[**The world says No to surveillance | Edward Snowden**](http://www.nytimes.com/2015/06/05/opinion/edward-snowden-the-world-says-no-to-surveillance.html)  
+<center>♤</center>
+
+###[The world says No to surveillance | Edward Snowden →](http://www.nytimes.com/2015/06/05/opinion/edward-snowden-the-world-says-no-to-surveillance.html)  
 Edward Snowden’s take on the recent decision by the U.S. Congress to stop the N.S.A.’s massive collection of information gives us reason to hope this may be the first step on the road towards a better future. I, for one, certainly hope he’s right.
+
+<center>♧</center>
 
 
 ##Afterword

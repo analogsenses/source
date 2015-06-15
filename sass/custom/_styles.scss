@@ -162,12 +162,20 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 30px;
     max-width: 100%;
   	border: 1px #4b4b4b solid;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h4, h5, h6 {
   @extend .sans-serif-font-bold;
+  text-rendering: optimizeLegibility;
+}
+
+h3 {
+  @extend .sans-serif-font;
+  @extend .default-line-height;
   text-rendering: optimizeLegibility;
 }
 
@@ -736,8 +744,21 @@ article {
     font-size: 30.56px;
     font-size: 1.528rem; /* 1.618 - 0.09 */
     text-transform: none;
-    margin-top: 45px;
+    margin-top: 40px;
     margin-bottom:20px;
+    text-shadow: white 0px 1px 0px;
+    margin-left:90px;
+    margin-right:90px;
+
+  }
+  
+    h3 {
+    font-size: 18px;
+    //font-size: 1.528rem; /* 1.618 - 0.09 */
+    text-transform: none;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom:10px;
     text-shadow: white 0px 1px 0px;
     margin-left:90px;
     margin-right:90px;
@@ -1003,7 +1024,7 @@ img.borderless {
     width: 50%;
   }
   
-  article header h1, article header h2, article header p.meta, article h1, article h2, article p, blockquote {
+  article header h1, article header h2, article header p.meta, article h1, article h2, article h3, article p, blockquote {
   margin-left:0;
   margin-right:0;	 
   }

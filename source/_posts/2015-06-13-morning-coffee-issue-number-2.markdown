@@ -29,17 +29,17 @@ Now let’s move on to some of this week’s most interesting pieces of writing.
 
 Naturally, a number of links in this week’s issue are WWDC related, but there’s also plenty of great stuff about photography, tennis, travel, politics and more. Let’s get to it.
 
-[**Live with Phil | Marco Arment**](http://www.marco.org/2015/06/11/live-with-phil)  
+###[Live with Phil | Marco Arment →](http://www.marco.org/2015/06/11/live-with-phil)  
 Marco pens a great analysis on Schiller’s appearance on _The Talk Show_. I pretty much agree with everything he said in this piece, and I envy him for having the opportunity to shoot some awesome pictures of the event. Definitely worth a read.
 
 <center>♤</center>
 
-[**Initial thoughts on iOS 9’s iPad multitasking: a deep transformation | Federico Viticci**](http://www.macstories.net/stories/initial-thoughts-on-ios-9s-ipad-multitasking-a-deep-transformation/)  
+###[Initial thoughts on iOS 9’s iPad multitasking: a deep transformation | Federico Viticci →](http://www.macstories.net/stories/initial-thoughts-on-ios-9s-ipad-multitasking-a-deep-transformation/)  
 When Apple announced the new multitasking features for iPad on iOS 9, pretty much everyone on my Twitter timeline went crazy — myself included — and we all thought of the same man: Federico Viticci. He’s been asking for serious productivity features for the iPad for nearly as long as the iPad has existed and in this week’s keynote, he finally got his wish. Here are his initial thoughts on these much-awaited features.
 
 <center>♧</center>
 
-[**How to launch a top 20 podcast | Aaron Mahnke**](http://aaronmahnke.com/how-to-launch-a-top-20-podcast/)  
+###[How to launch a top 20 podcast | Aaron Mahnke →](http://aaronmahnke.com/how-to-launch-a-top-20-podcast/)  
 Aaron Mahnke shares the secrets that took his [_Lore_](http://www.lorepodcast.com/) podcast to the 11th spot overall on iTunes, which is just ridiculously huge:
 
 > I use a condenser mic, which is apparently not a good thing. $99 microphones cannot create popular podcasts (*snicker, snicker*). Until last week, that mic sat on a cardboard box on my desk, with no shock mount or boom arm. Like a cave man. I use GarageBand to edit the episodes because Logic seems to be developed by a team of NASA engineers and cryptozoologists. Plus it’s expensive. I have zero “acoustic treatments” in my office, which is shaped roughly the same as the Great Pyramid of Giza and contains nothing but hard surfaces.
@@ -48,46 +48,46 @@ Aaron Mahnke shares the secrets that took his [_Lore_](http://www.lorepodcast.co
 
 <center>♡</center>
 
-[**The triumph of Occupy Wall Street | Michael Levitin**](http://www.theatlantic.com/politics/archive/2015/06/the-triumph-of-occupy-wall-street/395408/)  
+###[The triumph of Occupy Wall Street | Michael Levitin →](http://www.theatlantic.com/politics/archive/2015/06/the-triumph-of-occupy-wall-street/395408/)  
 Terrific piece for _The Atlantic_ on the Occupy Wall Street movement and the work they’ve done on income inequality, environmentalism, student debt and more. Their potential impact on the 2016 Presidential elections should not be underestimated.
 
 <center>♢</center>
 
-[**How to build a meaningful career | Amy Gallo**](https://hbr.org/2015/02/how-to-build-a-meaningful-career)  
+###[How to build a meaningful career | Amy Gallo →](https://hbr.org/2015/02/how-to-build-a-meaningful-career)  
 Solid career-building advice over at _Harvard Business Review_. I don’t usually go in for these pieces, but I admit this one was full of interesting information and sound advice from beginning to end. If you’re going through a coasting period in your career or if you’re trying to find your true call, you may want to check it out.
 
 <center>♤</center>
 
-[**Stan Wawrinka: tennis’s unlikely, deserving champion | Kevin Craft**](http://www.theatlantic.com/entertainment/archive/2015/06/stan-wawrinka-tennis-unlikely-deserving-champion/395207/)  
+###[Stan Wawrinka: tennis’s unlikely, deserving champion | Kevin Craft →](http://www.theatlantic.com/entertainment/archive/2015/06/stan-wawrinka-tennis-unlikely-deserving-champion/395207/)  
 Last Sunday, Stanislas Wawrinka shocked the tennis world by winning his first French Open title at Roland Garros over Novak Djokovic, the overwhelming favorite and current World No. 1. Earlier in the tournament, Djokovic had beaten 9-time champion Rafael Nadal, claiming his first win over the Spaniard on the red clay of Paris in seven attempts. After that milestone win, Djokovic seemed poised to complete the Career Grand Slam by winning Roland Garros, the only major tournament he hasn’t won yet, but Wawrinka had different plans. Having beaten World No. 2 Roger Federer himself in the quarterfinals, Wawrinka was not about to give up without a fight. In fact, he fought so hard that he basically overpowered the World No. 1 from every angle, clinching the title in a shockingly comfortable 4-set victory.
 
 This piece for _The Atlantic_ is a wonderful profile on the unassuming nature of Stan Wawrinka and why, although his triumph caught so many by surprise, those of us who really love tennis knew better. I was so happy to see him lifting the trophy, and I’m glad the tennis world is finally giving him the respect he always deserved. A true champion on and off the court, now with a trophy cabinet to match.
 
 <center>♧</center>
 
-[**Every Serena Williams win comes with a side of disgusting racism and sexism | Jenée Desmond-Harris**](http://www.vox.com/2015/3/11/8189679/serena-williams-indian-wells-racism)  
+###[Every Serena Williams win comes with a side of disgusting racism and sexism | Jenée Desmond-Harris →](http://www.vox.com/2015/3/11/8189679/serena-williams-indian-wells-racism)  
 On the other side of the coin, Serena Williams’s victory in the French Open final caught exactly no one by surprise. But what is surprising to me is that, no matter how many tournaments she manages to win, some people just can’t get over the need to belittle, insult and harass her on social media. In this piece for _Vox_, Jenée Desmond-Harris goes over this hard reality that has accompanied Serena during her entire career.
 
 Serena Williams is an amazing athlete, and quite possibly the best tennis player of all time. She’s strong, she’s black, and she’s a total badass, too. If you have a problem with that, it’s time for you to grow up.
 
 <center>♡</center>
 
-[**This is your brain on writing | Carl Zimmer**](http://www.nytimes.com/2014/06/19/science/researching-the-brain-of-writers.html)  
+###[This is your brain on writing | Carl Zimmer →](http://www.nytimes.com/2014/06/19/science/researching-the-brain-of-writers.html)  
 Great article from last year, but I only discovered it this week. Carl Zimmer writes about a study on the human brain led by Martin Lotze of the University of Greifswald in Germany. The study attempted to decipher the physiological reactions of people engaging in creative writing vs other forms of writing, and also between professionally trained writers and people with no previous writing experience. Fascinating.
 
 <center>♢</center>
 
-[**The beginner’s guide to film photography | I Still Shoot Film**](http://istillshootfilm.org/beginners-guide-film-photography)  
+###[The beginner’s guide to film photography | I Still Shoot Film →](http://istillshootfilm.org/beginners-guide-film-photography)  
 Incredibly useful and comprehensive resource for all film photography lovers out there. If I were you I’d start with this excellent essay by Nathan Jones: [_Why Film Matters_](http://nathanjones.com/articles/why-film-matters).
 
 <center>♤</center>
 
-[**12 films worth shooting with before they’re gone | Stan Horaczek**](http://www.popphoto.com/gear/2013/07/12-films-worth-shooting-theyre-gone)  
+###[12 films worth shooting with before they’re gone | Stan Horaczek →](http://www.popphoto.com/gear/2013/07/12-films-worth-shooting-theyre-gone)  
 Another oldie but goodie over at _Popular Photography_. I’ve shot with most of Horaczek’s selected films, and they’re all amazing.
 
 <center>♧</center>
 
-[**The couple who went on holiday for a week - and didn’t come back for 16 years | Wales Online**](http://www.walesonline.co.uk/news/wales-news/couple-who-went-holiday-week-7605533)  
+###[The couple who went on holiday for a week - and didn’t come back for 16 years | Wales Online →](http://www.walesonline.co.uk/news/wales-news/couple-who-went-holiday-week-7605533)  
 The amazing story of a couple who spent 16 years (!) circumnavigating the world on a 35-foot yatch with a budget of £130 a week. Unreal.
 
 <center>♡</center>
