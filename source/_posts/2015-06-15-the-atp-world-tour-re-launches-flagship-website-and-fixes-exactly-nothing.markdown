@@ -67,4 +67,4 @@ The ATP World Tour’s official website has a long, sad history of being atrocio
 
 All this goes to show is there are no shortcuts to doing great work. Responsive design is hard, but the ATP has no excuse. This is not a couple guys in a basement we’re talking about, it’s a major conglomerate that moves hundreds of millions of dollars around every year. They can afford it. This half-assed attempt is embarrassing to watch, and all the PR-speak in the world won’t fix it.
 
-That, in 2015, a major sports website can’t even get the basics of responsive design right is appalling. That it comes right on the heels of a major redesign is quite simply inexcusable.
+That, in 2015, a major sport’s website can’t even get the basics of responsive design right is appalling. That it comes right on the heels of a major redesign is quite simply inexcusable.
