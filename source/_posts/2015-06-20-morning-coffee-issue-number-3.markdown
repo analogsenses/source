@@ -26,7 +26,7 @@ And of course, Donald Trump once again said he’s [running for President](http:
 Anyway, another week, another issue of Morning Coffee, and we’re on to the third one. Time seems to be flying these days.
 
 
-##Issue #3: on bad faith, politics in the face of terror, sex and violence in movies, Federer’s greatness, and personal writing
+##Issue #3: on bad faith, politics in the face of terror, sexism and violence in movies, Federer’s greatness, and personal writing
 
 Get ready for some deeply personal pieces this week, which I just love. These are not a product of the ever turning wheel of news, but are instead born of reflection and self-discovery. These are the meaningful pieces we should all be trying to write, and I look forward to them every week.
 
@@ -48,7 +48,7 @@ As a general rule, I try to use my gear until it breaks or it’s not really usa
 
 I don’t like to upgrade my devices if there’s not a compelling reason to do so. And no, “the new one is cooler” doesn’t really count.
 
-That said, there always comes a time where upgrading becomes a necessity rather than a luxury, and these rules by Adrian Kingsley-Hughes provide a useful reference to help identify those times. I may not personally adhere to all of Adrian’s rules, but they’re a good place to start.
+That said, there always comes a time when upgrading becomes a necessity rather than a luxury, and these rules by Adrian Kingsley-Hughes provide a useful reference to help identify those times. I may not personally adhere to all of Adrian’s rules, but they’re a good place to start.
 
 <center>♡</center>
 
@@ -139,10 +139,10 @@ I’m also looking forward to next week. Right now I’m hard at work on finishi
 
 Since it’s a portrait lens, I arranged a session with Sara, one of the models from my photography course, to illustrate the review. I’m really happy with how it went, and I can’t wait to show you the end result. For now, I’ll just leave you with a small sample from the session. Consider it a teaser for Tuesday.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/365/18987266315_156139334e_o.jpg" title="Olympus 45mm f/1.8 lens review for Tools & Toys"/></p>
+<p class="extra-width"><img src="https://c2.staticflickr.com/4/3696/18806317358_bf43153dd7_o.jpg" title="Olympus 45mm f/1.8 lens review for Tools & Toys"/></p>
 
 Now, If you’ll excuse me, I must get back to work and yes, you guessed it: that’s what the coffee is for.
 
 Have a great weekend.
 
-<img src="https://c1.staticflickr.com/1/313/18364702344_a148d84a12_o.jpg" title="Olympus 45mm f/1.8 lens review for Tools & Toys"></a>
+<img src="https://c1.staticflickr.com/1/437/18810200138_b8f2f88d4f_o.jpg" title="Olympus 45mm f/1.8 lens review for Tools & Toys"></a>
