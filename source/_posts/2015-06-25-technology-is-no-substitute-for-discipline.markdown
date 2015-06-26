@@ -25,7 +25,7 @@ Take the latest example in the photography world: the introduction of the new an
 
 [^Photo1]: I won’t be using product links in this piece, affiliate or otherwise, because it would run contrary to the point I’m trying to make.
 
-I say supposedly because the truth is, nothing is truly revolutionary in the photography industry anymore. Nothing can really be revolutionary in a discipline we mastered quite a few _decades_ ago, unless we suddenly discover some new laws of physics I’m not aware of.
+I say supposedly because the truth is, nothing is truly revolutionary in the photography industry anymore. Nothing can really be revolutionary in a discipline we mastered quite a few _decades_ ago, unless we recently discovered some new laws of Physics I’m not aware of.
 
 At the end of the day, the primary purpose of a camera is taking pictures — with the exception of videographers, but that’s a different story altogether. Anything that isn’t essential to the mission of taking pictures falls squarely within the “bells and whistles” category as far as I’m concerned.
 
@@ -39,7 +39,7 @@ I’m making it sound terrible, but this is actually great news. It means your e
 
 Next time you get gear anxiety, think of it like this: people have been complaining about their photography gear for ages, and will remain doing so forever. And yet, people have also been taking _breathtaking_ pictures for ages, and will remain doing so forever.
 
-A vast majority of the greatest, most iconic images in history were captured by cameras with laughable specs by today’s standards, and you know what? Nobody cares. I’m yet to meet a person that looks at Ernesto Che Guevara’s iconic portrait and complains because it isn’t sharp enough.
+A vast majority of the greatest, most iconic images in history were captured by cameras with laughable specs by today’s standards, and you know what? Nobody cares. I’m yet to meet a person that looks at [Ernesto Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara)’s iconic portrait and complains because it isn’t sharp enough.
 
 <p class="extra-width"><img src="https://c1.staticflickr.com/1/332/19144491375_998342c406_o.jpg" title="Guerrillero Heroico. Photo by Alberto Korda, 1960."/></p>
 
@@ -79,33 +79,33 @@ Worst of all, technology can _cheapen_ the end result. If all it takes to captur
 
 When you let the machine do the work for you, you’re giving up before the struggle’s even begun.
 
-That’s not to say that you should never use technology in your creative work, of course. Many photographers would kill to have Live Composite Mode in their cameras, but the difference is they already know how to work without it. They have the discipline to know when to use it, and more importantly, when not to.
+That’s not to say that you should _never_ use technology in your creative work, of course. Many photographers would kill to have Live Composite Mode in their cameras, but the difference is they already know how to work without it. They have the discipline to know when to use it, and more importantly, when not to.
 
 In the words of everyone’s favorite mathematician and chaos theorist, [Dr. Ian Malcolm](http://www.stjohns-chs.org/english/Seventeenth/jur.html):
 
 > Most kinds of power require a substantial sacrifice by whoever wants the power. There is an apprenticeship, a discipline lasting many years. Whatever kind of power you want. President of the company. Black belt in karate. Spiritual guru. Whatever it is you seek, you have to put in the time, the practice, the effort. You must give up a lot to get it. It has to be very important to you. And once you have attained it, it’s your power. It can’t be given away: it resides in you. It is literally the result of your discipline.
 
-> Now what is interesting about this process is that, by the time someone has acquired the ability to kill with his bare hands, he has also matured to the point where he won’t use it unwisely. So that kind of power has a built-in control. The discipline of getting the you so that you won’t abuse it.
+> Now what is interesting about this process is that, by the time someone has acquired the ability to kill with his bare hands, he has also matured to the point where he won’t use it unwisely. So that kind of power has a built-in control. The discipline of getting the power changes you so that you won’t abuse it.
 
-That is _exactly_ my point. Technology can be a powerful enabler, as it allows people to attain knowledge without discipline. Sometimes that’s great, but sometimes it’s unfortunate. You can _definitely_ use technology as aid to experience, but not as a substitute.
+That is _exactly_ my point. Technology can be a powerful enabler, as it allows people to attain knowledge without discipline. Sometimes that’s great, but sometimes it’s unfortunate. You should _definitely_ use technology as an aid, but not as a substitute for experience.
 
 <p class="extra-width"><img src="https://c4.staticflickr.com/4/3856/18958867690_2145a86a93_o.jpg" title="Dr. Ian Malcolm as portrayed by actor Jeff Goldblum in the film Jurassic Park, 1993."></a>
 
 <p class="photo-credit">Dr. Ian Malcolm as portrayed by actor Jeff Goldblum in the film <a href="http://www.imdb.com/title/tt0107290/">Jurassic Park</a>, 1993.</p>
 
-Now, it’s not all grim, of course. Sometimes technology enables us to achieve things that were previously impossible and in those cases, by all means, go ahead and use it. Go nuts. But even then, I suspect it’ll be the people with previously attained knowledge and discipline who will be the most apt at exploiting it to its full potential.
+Now, it’s not all bad, of course. Sometimes technology enables us to achieve things that were previously impossible and in those cases, by all means, go ahead and use it. Go nuts. But even then, I suspect it’ll be the people with previously attained knowledge and discipline who will be the most apt at exploiting it to its full potential.
 
 Simply put, there’s no substitute for doing the work. 
 
 
 ##Taking the long road
 
-Despite what many will tell you, technology can’t make you better at anything if you refuse do the work. You can buy Roger Federer’s racquet, but that won’t make you any more of a tennis player. You can buy the Sony A7R II, but that won’t make you a better photographer.
+Despite what many will tell you, technology can’t make you better at anything if you refuse to do the work. You can buy Roger Federer’s racquet, but that won’t make you any more of a tennis player. You can buy the Sony A7R II, but that won’t make you a better photographer.
 
 Chances are, the tools you currently own are far more capable than you are to produce great work. By refusing to earn the discipline it takes to explore them to their full potential, you’re only keeping yourself from growing as a creative person.
 
 Stop making excuses. Stop acting as though the lackluster quality of your work is the world’s fault. “If only I had a better camera” only fools yourself.
 
-Experience needs to be earned, and technology is a poor substitute for it. It’ll take discipline, hard work and yes, time, but if you’re determined to do it, half the battle is already won.
+Experience needs to be earned, and technology is no substitute for it. It’ll take discipline, hard work and yes, time, but if you’re determined to do it, half the battle is already won.
 
 The other half is up to you.
