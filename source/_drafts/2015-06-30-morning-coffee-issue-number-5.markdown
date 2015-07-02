@@ -47,6 +47,42 @@ Pete Sampras, who was widely regarded as the best male tennis player of all time
 
 <center>♤</center>
 
+###[At the heart of the Wimbledon tennis championships lies the IBM bunker | Sebastian Anthony →](http://arstechnica.co.uk/information-technology/2015/07/exploring-the-ibm-bunker-the-brain-of-wimbledon/)
+
+I really enjoyed Anthony’s peek into the brains of Wimbledon for _Ars Technica_. Organizing a Grand Slam event, like any major sports tournament in the world, takes a huge amount of effort, coordination, and technological prowess. This is how the magic happens.
+
+<center>♧</center>
+
 ###[Losing weight with Apple Watch | Matt Gemmell →](http://mattgemmell.com/losing-weight-with-apple-watch/)
 
 This is a fantastic, in-depth analysis on how it's entirely possible to lose weight without making huge sacrifices, or changes to your life. A little effort every day, coupled with a bit of intelligent planning and a sound strategy goes a long way. And as as Matt notes, a tech gadget like the Apple Watch can be useful to track your progress and give you an extra bit of motivation, but it's very much not required.
+
+<center>♡</center>
+
+###[Love | Brent Simmons →](http://inessential.com/2015/06/30/love)
+
+Brent Simmons, the former lead developer of [Vesper](http://vesperapp.co), shares his thoughts on the current state of the indie app development industry:
+
+> Yes, there are strategies for making a living, and nobody’s entitled to _anything_. But it’s also true that the economics of a thing may be generally favorable or generally unfavorable — and the iOS App Store is, to understate the case, generally unfavorable. Indies don’t have a fighting chance.
+
+Brent's piece has been shared to death over the past few days, so you may have seen it already. The explanation for that is very simple: He's absolutely right. As much as it pains me to say it, the App Store’s promise of a sustainable ecosystem for indie developers to thrive in remains largely unfulfilled. There was a brief period in the beginning when things really were awesome. Then, after the initial gold rush subsided, things were still good. Now they just are. There are people like Marco Arment still manage to find success, but by and large, the expectations for aspiring indies in today's App Store are pretty bleak. 
+
+Clearly Apple has some of the responsibility here. Their actions as steward of the platform haven't been focused on protecting indies and encouraging they can create sustainable businesses, and that's unfortunate.
+
+<center>♢</center>
+
+###[Airbnb and the Internet revolution | Ben Thompson →](https://stratechery.com/2015/airbnb-and-the-internet-revolution/)
+
+Great piece by Ben Thompson, as usual. Businesses like Uber and Airbnb are great examples of the endless possibilities for disruption enabled by the sharing economy, but they're also shady enterprises at their best, with many gray areas in the way they operate:
+
+> I increasingly believe that it is the sharing economy that is beginning to reveal the answer: a world of commodified trust has significantly less need for much of the infrastructure of modern society, including inefficient sectors like hotels whose primary differentiator is trust, along with the regulatory state dedicated to enforcing that trust. On the other hand, this brave new world has brand new holes through which people can fall: those who have lost trust, or do not have the means to build it.
+
+<center>♤</center>
+
+###[The real voice of Siri explains the art of voiceover | Phil Edwards →](http://www.vox.com/2015/6/23/8831131/siri-voiceover-susan-bennett)
+
+I love these behind-the-scenes stories. Voice acting is a pretty well-established industry in Spain, where people have been watching mostly dubbed movies and TV shows for decades. The situation is starting to change over the past few years, as many people — especially younger people — start consuming more and more of their content through the Internet in its original form. Who would have thought that it'd take massively successful TV shows like [_Lost_](http://www.imdb.com/title/tt0411008/) and [_Game of Thrones_](http://www.imdb.com/title/tt0944947/) for people to get serious about their English?
+
+Anyway, this piece is a great look at some of the intricacies of voice acting, and who better to guide us through the process than Susan Bennett, the actress behind Siri’s original voice. A very entertaining read indeed.
+
+<center>♧</center>
