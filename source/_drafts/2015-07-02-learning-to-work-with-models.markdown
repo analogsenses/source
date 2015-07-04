@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning to work with models"
+title: "Learning to work with models in photography"
 date: 2015-07-02 11:41:05 +0200
 comments: true
 categories: 
@@ -66,7 +66,7 @@ Before even meeting the model, both of you should have a clear idea of what to e
 
 **Establish trust from the get go, and don't break it.** If you haven't talked about nude shots before, don't bring it up during the shoot, no matter how easy-going or open-minded the model may seem. You can absolutely ruin the mood of the entire session by creating an uncomfortable moment like that. And worse of all, the model may feel coerced into doing something that wasn't previously discussed. You don't want that. There's always another day, so don't rush things.
 
-**Give the model the option to bring someone along for the shoot.** This will help ensure your model feels safe, which will in turn make it a lot easier to work on creating compelling images. Plus, you may find yourself with two models to work with instead of just one.
+**Give the model the option to bring someone along for the shoot.** This will help ensure your model feels safe, which will in turn make it a lot easier to work on creating compelling images together. Plus, you may even find yourself with two models to work with instead of just one.
 
 
 ##Directing the shoot
@@ -77,7 +77,7 @@ First up, introduce yourself, and ask a couple generic questions to break the ic
 
 Also, be respectful. If you don't think you can pull off being respectful _and_ nice, go for respectful first. Keep in mind that the model doesn't know you and doesn't know what kind of person you are, so don't go for weird inside jokes that only your friends would understand. Similarly, don't insist on making small talk if the model doesn't want to. At the end of the day you're both there to work. Getting along is preferred, but it's not indispensable.
 
-That said, keep in mind that good models are usually comfortable with following directions — so give them. They actually _need_ directions to do their work properly, and most of them understand that their physical appearance is important and relevant to the shoot, so they'll take comments pretty professionally. Don't be shy about saying what you need them to do in order for the shot to work. You can, for example, say that you like their hair better this way, or that you want them to stand up to emphasize the length of their legs. Try to be positive and encouraging with your comments, give them an idea of what you want to achieve in the shot and they'll get involved and help you. Have it be a collaborative effort, but always maintain control of the session yourself. You goal is to get the shots _you_ want, so act accordingly.[^Models1]
+That said, keep in mind that good models are comfortable with following directions — so give them. They actually _need_ directions to do their work properly. Don't be shy about saying what you need them to do in order for the shot to work. You can, for example, say that you like their hair better this way, or that you want them to stand up to emphasize the length of their legs. Try to be positive and encouraging with your comments, give them an idea of what you want to achieve in the shot and they'll get involved and help you. Have it be a collaborative effort, but always maintain control of the session yourself. You goal is to get the shots _you_ want, so act accordingly.[^Models1]
 
 [^Models1]: Unless it's a work-for-hire situation where the model is paying you to take their picture. In that case, obviously, having them provide directions is fine, but you should still have a few ideas of your own in case they don't know what to ask for.
 
@@ -86,14 +86,13 @@ That said, keep in mind that good models are usually comfortable with following 
 
 If you're working in a studio, measuring the different light sources is critical to achieve the desired effect. It's easy to forget about this when you start taking pictures, but it's essential to keep it in mind at all times.
 
-The tricky thing to keep in mind here is that cameras don't see light the same way we do. Even an apparently minor change in the scene can have major consequences. Whenever you change the scene, even if it's just by having the model take half a step forward, the entire lighting scheme changes. That means you should take new measurements to make sure your calculations are valid.
+The best way to do this is with a dedicated light meter. These do not come cheap, but provide more flexibility over your camera's built-in light meter. By placing the meter on the model's skin, facing towards the light source, you're measuring incident light directly, which means the resulting parameters will be correct regardless of the photographer's shooting distance from the model. Also, it's the best way to guarantee that you won't overexpose the skin to the point of blowing your highlights.
 
-Failing to do this can result in very poor results that are way beyond saving in post production. Don't assume you can just fix everything later in Lightroom. Being careful before pressing the shutter pays off later when you don't have to fix the same error in several hundred images.
+Once you've got everything set up the way you like it, start shooting, but don't forget to redo all your measurements whenever there's a change in the scene. The tricky thing to remember here is that cameras don't see the same way we do. Even an apparently insignificant change can have major consequences in the final picture. Whenever you alter the scene, even if it's just by having the model take half a step forward, the entire lighting scheme changes.
 
+Failing to adjust for these variations can result in very poor images that are way beyond saving in post production. Don't assume you can just fix everything later in Lightroom. Being careful before releasing the shutter pays off later when you don't have to correct the same mistake over and over again.
 
-
- 
-
+And of course, if you're shooting film, following a proper metering routine becomes even more of a necessity, since you won't be able to review your images during the shoot.
 
 
 ##Review your images
@@ -104,28 +103,38 @@ Finally, another hugely important thing to keep in mind — always, but even mor
 
 * Is the exposure correct?
 
-* Is the subject properly illuminated?
+* Is the subject properly lit? What about the background?
 
-* Is the lighting correct or are the highlights blown? 
+* Are the highlights blown? What about the shadows?
 
 * Is the framing what you were looking for? Are any parts of the model’s body — hands, waist, feet, etc. — being cut out of the frame? If so, was that intentional or an accident?
 
-* Is there sweat on the model's skin? It's especially important to keep an eye on this when using high-powered studio lighting setups, because they emit a considerable amount of heat. You may not immediately see it in camera, but tiny sweat drops will appear as blown highlights in the final images and you'll lose the texture of the skin in those areas. The histogram will tell you if there are any blown highlights to look for. Be sure to keep a towel or a tissue box handy just in case.
+* Is there sweat on the model's skin? It's especially important to keep an eye on this when using high-powered studio lighting setups, because they emit a considerable amount of heat and can cause the model's skin to perspire a little. You may not immediately notice it through your viewfinder, but tiny sweat drops will appear as blown highlights in the final images and even after correcting it in post productions, you'll lose the texture of the skin in those areas. The histogram will tell you if there are any blown highlights to look for. Be sure to keep a towel or a tissue box handy just in case.
 
-* Is the background properly lit?
+These are questions that can make or break an image, and once the session ends there's no going back. You don't need to check _every single image_ — a bad habit that is commonly referred to as “chimping” — but keep an eye on them from time to time, just to be safe. At the very least, review your images before changing the model's posture or switching to a different scene and make sure you have at least one or two images you like before moving on. I find that's a good compromise that works well for me.
 
-These are questions that can make or break an image, and once the session ends there's no going back. You don't need to check _every single image_ — that's commonly referred to as “chimping”, and it's a huge turn-off — but keep an eye on them from time to time, just to be safe. At the very least, review your images before changing the model's posture or switching to a different scene and make sure you have at least one or two images you like before moving on. I find that's a good compromise that works well for me.
-
-
-##Shooting nudes
-
-Every type of shoot has its own particular 
+Following these precautions will ensure you keep most things under control during your session. Now, not all types of shoots are the same, of course. Some of them are particularly sensitive and require special care. A good example of this are nude shoots.
 
 
+##Shooting nudes (slightly NSFW)
+
+Shooting nudes is one of the best creative and technical exercises in photography. Fine art nude photography is all about mastering the lighting, and playing with shadows to emphasize your model's body lines. It's almost like sculpting light and very much requires you to bring your A-game to the shoot.
+
+This is not a moment for improvising. When a model is trusting you enough to get undressed, keeping things serious and professional becomes even more important. 
+
+You should have a specific plan in mind for every shoot, but even more so for nude shoots. Do a bit of research and try to come up with a few poses you'd like to attempt. Also, work out the necessary lighting scheme in advance and try to have everything in place by the time the model arrives. You'll still need to measure, but the less time the model needs to stand there waiting for you to get your act together, the better.
+
+Another thing to keep in mind is that nude pictures can vary a lot depending on your model's complexion. Some body types are better suited for direct, harsh lighting, while others look better with a more diffuse light. If you've met your model before, try to think of their complexion when you're researching, and choose poses and lighting schemes that will go well with their particular body type.
+
+If possible, try to have a separated area where the model can have some privacy to get changed. You should also bring a robe or something along those lines in case the model prefers to cover in between shots. Again, they may not actually end up using it, but merely knowing it's there sends the right message and helps establish trust between the two of you. And if there's one thing that's absolutely indispensable for shooting nudes, it's trust.
+
+It's also super important to act naturally. You'll probably be nervous on your first few times, that's perfectly normal. Don't fight it. Try not to behave like you were just caught skipping class by your mom, and you'll be fine. If it helps, remind yourself that we're all naked below our clothes. It really is no big deal. Be aware that you'll need to look at your model's body to work the scene. That's also ok. Don't feel bad for looking, it's part of your work. Just don't stare. There's a difference.
+
+Finally, the most important thing when you're shooting nudes is giving clear, precise directions to the models. This will serve two purposes: one, it will help them do their job better and you get the results you want, and two, it will convey to the models an all-important piece of information: that you actually know what you're doing.
 
 
+##Final words: practice makes perfect
 
+Working with models can be a challenging experience. There are many different elements to watch out for, and it takes a fair amount of work to do right. That said, it's also one of the most satisfying experiences in photography, and one of the best ways to learn new tricks and take a couple steps out of your comfort zone.
 
-
-
-
+As with everything in life, ultimately the key to doing it well is doing it often. Try getting the same shots with different models to get a better idea of the differences. Each person is unique and working with lots of different people is by far the best way to improve your skills. 
