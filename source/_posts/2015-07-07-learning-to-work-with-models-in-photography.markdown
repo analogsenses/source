@@ -129,7 +129,7 @@ Before even meeting the model, both of you should have a clear idea of what to e
 
 Once you’ve prepared everything you’ll need and worked out the details with your model, it’s time to meet. This goes without saying, but: be on time. There’s nothing worse than arriving late to your own shoot. If you’re not able to show enough respect for the model to be on time, you’re already starting off on the wrong foot.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/480/19487696392_d8dc632f6d_o.jpg" title="Sara"/></p>
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/380/19487701262_c5fa1b0477_o.jpg" title="Clarice"/></p>
 
 First up, introduce yourself and ask a couple generic questions to break the ice. A smile goes a long way towards getting people to feel comfortable, so be nice.
 
@@ -200,7 +200,7 @@ These are questions that can make or break an image, and once the session ends t
 Following these precautions will ensure you keep most things under control during your session. Now, not all types of shoots are the same, of course. Some of them are particularly sensitive and require special care. A good example of this are nude shoots.
 
 
-##Shooting nudes (slightly NSFW)
+##Shooting nudes (NSFW)
 
 Shooting nudes is one of the best creative and technical exercises in photography. Fine art nude photography is all about mastering the lighting, and playing with shadows to emphasize your model’s body lines. It’s almost like sculpting with light and it very much requires you to bring your A-game to the shoot.
 
