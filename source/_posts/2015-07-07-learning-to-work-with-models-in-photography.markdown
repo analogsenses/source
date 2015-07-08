@@ -9,7 +9,7 @@ categories:
 description: "Working with models can be intimidating, but with the right preparation it’s something you can control."
 ---
 
-It’s no secret that working with models in photography can be challenging. One of the best parts of the photography course I took over the past few months was the chance to work with experienced models in a controlled environment. That was a great way to learn how to interact with them in a professional way and, more importantly, how to take the reins of a shoot in order to direct the session and get the results _you_ want.
+It’s no secret that working with models in photography can be challenging. One of the most interesting aspects of the photography course I took over the past few months was the chance to work with experienced models in a controlled environment. That was a great way to learn how to interact with them in a professional way and, more importantly, how to take the reins of a shoot in order to direct the session and get the results _you_ want.
 
 In this piece I’ll share a bit of my own experience during the course, as well as out there shooting in the real world. Hopefully that’ll give you an opportunity to learn from my mistakes and save yourself an awkward moment or two.
 
@@ -137,7 +137,7 @@ Also, be respectful. If you don’t think you can pull off being respectful _and
 
 <p class="extra-width"><img src="https://c1.staticflickr.com/1/425/19487681862_d8b55b8055_o.jpg" title="Neus and the GR Echo"/></p>
 
-That said, keep in mind that good models are comfortable with following directions — so give them. They actually _need_ directions to do their work properly. Don’t be shy about saying what you need them to do in order for the shot to work. You can, for example, say that you like their hair better this way, or that you want them to stand up to emphasize the length of their legs. 
+That said, remember that good models are comfortable with following directions — so give them. They actually _need_ directions to do their work properly. Don’t be shy about saying what you need them to do in order for the shot to work. You can, for example, say that you like their hair better this way, or that you want them to stand up to emphasize the length of their legs. 
 
 Try to be positive and encouraging with your comments, give them an idea of what you want to achieve in the shot and they’ll get involved and help you. Have it be a collaborative effort, but always maintain control of the session yourself. Your goal is to get the shots _you_ want, so act accordingly.[^Model1]
 
@@ -150,7 +150,7 @@ Try to be positive and encouraging with your comments, give them an idea of what
 
 If you’re working in a studio, measuring the different light sources is critical to achieve the desired effect. It’s easy to forget about this when you start taking pictures, but it’s essential to keep it in mind at all times.
 
-The best way to do this is with a dedicated [light meter](https://en.wikipedia.org/wiki/Light_meter). These do not come cheap, but provide more flexibility over your camera’s built-in light meter. By placing the meter on the model’s skin, facing towards the light source, you’re measuring incident light directly, which means the resulting parameters will be correct regardless of the photographer’s shooting distance from the model. Also, it’s the best way to guarantee that you won’t overexpose the skin to the point of blowing your highlights.
+The best way to do this is with a dedicated [light meter](https://en.wikipedia.org/wiki/Light_meter). These do not come cheap, but provide more flexibility over your camera’s built-in light meter. By placing the meter on the model’s skin, facing towards the light source, you’re measuring incident light directly, which means the resulting parameters will be correct regardless of the photographer’s shooting distance from the model. Also, it’ll guarantee that you won’t overexpose the skin to the point of blowing your highlights.
 
 <p class="extra-width"><img src="https://c1.staticflickr.com/1/349/19494082185_207e9ebe4a_o.jpg"  title="Sara"/></p>
 
@@ -191,7 +191,7 @@ Don’t forget to check your exposures every now and then to confirm things are 
 
 <p class="extra-width"><img src="https://c2.staticflickr.com/4/3807/19498465751_ca113e2c47_o.jpg"  title="Clarice van Manen"/></p>
 
-**Is there sweat on the model’s skin?** It’s especially important to keep an eye on this when using high-powered studio lights, because they emit a considerable amount of heat and can cause the model’s skin to perspire a little. You may not immediately notice it through your viewfinder, but tiny sweat drops will appear as blown highlights in the final images and even after correcting it in post productions, you’ll lose the texture of the skin in those areas. The histogram will tell you if there are any blown highlights to look for. Be sure to keep a towel or a tissue box handy just in case.
+**Is there sweat on the model’s skin?** It’s especially important to keep an eye on this when using high-powered studio lights, because they emit a considerable amount of heat and can cause the model’s skin to perspire a little. You may not immediately notice it through your viewfinder, but tiny sweat drops will appear as blown highlights in the final images and even after correcting it in post production, you’ll lose the texture of the skin in those areas. The histogram will tell you if there are any blown highlights to look for. Be sure to keep a towel or a tissue box handy just in case.
 
 These are questions that can make or break an image, and once the session ends there’s no going back. You don’t need to check _every single image_ — a bad habit that is commonly referred to as “chimping” — but keep an eye on them from time to time, just to be safe. At the very least, review your images before changing the model’s posture or switching to a different scene and make sure you have at least one or two images you like before moving on. I find that’s a good compromise that works well for me.
 
@@ -235,7 +235,7 @@ To circle back to the beginning, working with models can be a challenging experi
 
 As with everything in life, ultimately the key to doing it well is doing it often. Try getting the same shots with different models to get a better sense of what stays the same and what needs changing. Each person is unique and working with lots of different people is by far the best way to improve your skills.
 
-In any case, the best possible way to go about this is to keep things small at the beginning, and try new things as your confidence level rises. Don’t put too much pressure on yourself, try to enjoy the process and you’ll get the hang of it soon enough.
+In any case, it’s always better to keep things small at the beginning, and try new things as your confidence level rises. Don’t put too much pressure on yourself, try to enjoy the process and you’ll get the hang of it soon enough.
 
 Just be prepared, because that’s when the real fun begins.
 
