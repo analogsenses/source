@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Learning to work with models in photography"
-date: 2015-07-07 16:15:05 +0200
+date: 2015-07-07 19:15:05 +0200
 comments: true
 categories: 
 - Digital Life
 - Photography
-description: "Working with models can be intimidating, but with the right preparation it’s something you can control."
+description: "UPDATED 07/08. Working with models can be intimidating, but with the right preparation it’s something you can control."
 ---
 
 It’s no secret that working with models in photography can be challenging. One of the most interesting aspects of the photography course I took over the past few months was the chance to work with experienced models in a controlled environment. That was a great way to learn how to interact with them in a professional way and, more importantly, how to take the reins of a shoot in order to direct the session and get the results _you_ want.
@@ -45,7 +45,47 @@ However, I think that would be the wrong way to go about this. I recommend simpl
 This is where being well prepared ahead of your shoot can prove to be life-saving. If you have a well-defined action plan, chances are you’ll be able to work your way through it despite some initial awkwardness. Soon the technical nature of the work will take over and you’ll start to relax. There’s nothing worse than having a model ask you for directions and not knowing what to say, so be sure to always have a couple ideas you can turn to whenever inspiration runs dry.
 
 
-##Preparing for a shoot
+##Finding a model to work with
+
+If you don’t already know any models you’d like to work with, either in person or through mutual friends, take a look at some of the online photography networks that provide a way for models and photographers to meet. Sites like [Model Mayhem](http://www.modelmayhem.com) — and [Litmind](https://www.litmind.com) in Europe — are very popular and you’ll probably be able to find a nearby model that meets your requirements.
+
+<p class="extra-width"><img src="https://farm4.staticflickr.com/3675/19306520148_9c10293a47_o.jpg" title="Neus and the GR Echo"/></p>
+
+These websites are a great place to start, since they offer pretty good search engines that allow you to filter results by gender, age or any other physical attributes — hair and eye color, for example. If you can’t afford to pay the model, you can also filter the search results to show only models that are open to a [time-for-prints](https://en.wikipedia.org/wiki/Time_for_print) arrangement.
+
+This goes without saying but, should you decide to contact a model through one of these websites, be honest and upfront about what you’re looking for. Online services like these are entirely based on the honor system; they only work when the relationship is mutually beneficial. If you’re not really interested in working together, don’t contact a model. You wouldn’t do it in real life, so don’t do it online. And don’t back away from an already established deal unless you have a pretty good reason to do so.
+
+<p class="extra-width"><img src="https://farm1.staticflickr.com/403/19487690952_3bf5a41f98_o.jpg" title="Neus and the GR Echo"/></p>
+
+Also, don’t forget that, despite having tons of beautiful people on them, these are _not_ dating websites. Everything you do as an individual user affects the rest of the community, so don’t be a jerk. Seriously.
+
+
+##Managing expectations
+
+Before even meeting the model, both of you should have a clear idea of what to expect from the shoot. Will it be paid work or a time-for-prints arrangement? Who keeps the rights to the final images? These are potentially thorny issues, and you need to sort them out long before pressing the shutter release.
+
+**If it’s a time-for-prints arrangement**, state clearly and unequivocally whether you’ll be providing prints, digital copies of the images, or both. Also, reach an agreement on whether you’ll be providing the original, unedited shots or only your final edited selections, as well as how much post-processing work is to be expected in the final images. If you have a problem with giving the model your RAW files, say so explicitly. Personally, I’m not comfortable with giving models unedited shots or RAW files, because in my mind, I’m still responsible for the final quality of those images, which are essentially unfinished at that point. Having someone else make the edits seems wrong to me, but your mileage may vary. It also depends on how important each particular shoot is to you, personally.
+
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/409/18871605084_123054edd3_o.jpg"  title="Sara on Film"/></p>
+
+**If it’s paid work**, make it perfectly clear who will be getting paid, and how much. Also, reach an agreement on when payment will be made. Typically you have three choices: before the shoot, after the shoot and upon delivery of the final images. You can fraction payment between two or more of those moments if you’re feeling unsure. Don’t let yourself be cornered into a situation you’re not comfortable with. If a model is not happy with your conditions — provided they’re reasonable, that is — it’s better to try and find another one. 
+
+**Sign a standard release contract.** Regardless of whether it’s a time-for-prints arrangement or paid work, it can also be a good idea for both of you to sign a standard release contract in order to avoid any potential legal issues in the future. There are [many templates](https://lessaccounting.com/blog/free-photography-contracts/) on the Internet you can use for that purpose. Nothing has to go wrong but if you’re concerned about this, better safe than sorry.
+
+<p class="extra-width"><img src="https://c2.staticflickr.com/4/3767/19494083625_aa8d772421_o.jpg" title"Clarice"/></p>
+
+**Explain what you’re trying to achieve.** If the shoot is intended to promote or review a product, say it. If you’re not going for flattering shots, tell the model in advance. And obviously, if you expect to take some nude shots, ask your model before. There’s nothing wrong with either of those things, but make sure the model knows about it and set expectations accordingly.
+
+**Once the shoot is done**, explain clearly what usage rights you’re granting for your images, and whether you require attribution upon further use. If you’re not ok with seeing your pictures popping up on the Web without attribution, try to explain your point of view to the model, as well as why this is important.
+
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/394/19307972009_7bfdf94f84_o.jpg"  title="Neus and the GR Echo"/></p>
+
+**Establish trust from the get go, and don’t break it.** Never force a situation beyond the existing understanding. If you haven’t talked about nude shots before, don’t bring it up during the shoot, no matter how easy-going or open-minded the model may seem. You can absolutely ruin the mood of the entire session by creating an uncomfortable moment like that. And worst of all, the model may feel coerced into doing something that wasn’t previously discussed. You don’t want that. There’s always another day, so don’t rush things.
+
+**Give the model the option to bring someone along for the shoot.** This will help ensure your model feels safe, which will in turn make it a lot easier to work on creating compelling images together. Plus, you may even find yourself with two models to work with instead of just one.
+
+
+##Preparing for the shoot
 
 We’ve already talked about how preparing for a shoot is essential to keep thing things productive and professional, but how does one do that, exactly? Here are a few of the elements you should consider.
 
@@ -85,7 +125,7 @@ Conversely, if it’s going to be an outdoors shoot using mostly natural light, 
 
 <p class="extra-width"><img src="https://c1.staticflickr.com/1/296/19468040416_7513a1af43_o.jpg" title="A storm approaches"/></p>
 
-**What’s the weather going to be like?** It goes without saying, but scheduling a bikini shoot in the middle of Winter might not be the best idea. Keeping the model comfortable goes a long way towards ensuring a productive session. Similarly, having a shoot interrupted by rain is something that should be avoided. If there’s a high probability of rain around the time of your shoot, try to reschedule or have a secondary location in mind, just in case. Ideally, your secondary location should have a roof, or a protected area where rain will not be a problem.
+**What’s the weather going to be like?** It goes without saying, but scheduling a bikini shoot in the middle of winter might not be the best idea. Keeping the model comfortable goes a long way towards ensuring a productive session. Similarly, having a shoot interrupted by rain is something that should be avoided. If there’s a high probability of rain around the time of your shoot, try to reschedule or have a secondary location in mind, just in case. Ideally, your secondary location should have a roof, or a protected area where rain will not be a problem.
 
 <p class="extra-width"><img src="https://c1.staticflickr.com/1/353/19495668265_bf124a0bfb_o.jpg"  title="Chilly day"/></p>
 
@@ -98,31 +138,6 @@ Conversely, if it’s going to be an outdoors shoot using mostly natural light, 
 <p class="extra-width"><img src="https://c1.staticflickr.com/1/360/19306522108_88492a469f_o.jpg" title="Neus and the GR Echo"/></p>
 
 There are, of course, many more questions to be asked, but these should at least give you a reasonable starting point. Be sure to make a list of everything you’ll need, and go over that list before making the final date with the model.
-
-
-##Managing expectations
-
-Before even meeting the model, both of you should have a clear idea of what to expect from the shoot. Will it be paid work or a time-for-prints arrangement? Who keeps the rights to the final images? These are potentially thorny issues, and you need to sort them out long before pressing the shutter release.
-
-**If it’s a time-for-prints arrangement**, state clearly and unequivocally whether you’ll be providing prints, digital copies of the images, or both. Also, reach an agreement on whether you’ll be providing the original, unedited shots or only your final edited selections, as well as how much post-processing work is to be expected in the final images. If you have a problem with giving the model your RAW files, say so explicitly. Personally, I’m not comfortable with giving models unedited shots or RAW files, because in my mind, I’m still responsible for the final quality of those images, which are essentially unfinished at that point. Having someone else make the edits seems wrong to me, but your mileage may vary. It also depends on how important each particular shoot is to you, personally.
-
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/409/18871605084_123054edd3_o.jpg"  title="Sara on Film"/></p>
-
-**If it’s paid work**, make it perfectly clear who will be getting paid, and how much. Also, reach an agreement on when payment will be made. Typically you have three choices: before the shoot, after the shoot and upon delivery of the final images. You can fraction payment between two or more of those moments if you’re feeling unsure. Don’t let yourself be cornered into a situation you’re not comfortable with. If a model is not happy with your conditions — provided they’re reasonable, that is — it’s better to try and find another one. 
-
-**Sign a standard release contract.** Regardless of whether it’s a time-for-prints arrangement or paid work, it can also be a good idea for both of you to sign a standard release contract in order to avoid any potential legal issues in the future. There are [many templates](https://lessaccounting.com/blog/free-photography-contracts/) on the Internet you can use for that purpose. Nothing has to go wrong but if you’re concerned about this, better safe than sorry.
-
-<p class="extra-width"><img src="https://c2.staticflickr.com/4/3767/19494083625_aa8d772421_o.jpg" title"Clarice"/></p>
-
-**Explain what you’re trying to achieve.** If the shoot is intended to promote or review a product, say it. If you’re not going for flattering shots, tell the model in advance. And obviously, if you expect to take some nude shots, ask your model before. There’s nothing wrong with either of those things, but make sure the model knows about it and set expectations accordingly.
-
-**Once the shoot is done**, explain clearly what usage rights you’re granting for your images, and whether you require attribution upon further use. If you’re not ok with seeing your pictures popping up on the Web without attribution, try to explain your point of view to the model, as well as why this is important.
-
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/394/19307972009_7bfdf94f84_o.jpg"  title="Neus and the GR Echo"/></p>
-
-**Establish trust from the get go, and don’t break it.** Never force a situation beyond the existing understanding. If you haven’t talked about nude shots before, don’t bring it up during the shoot, no matter how easy-going or open-minded the model may seem. You can absolutely ruin the mood of the entire session by creating an uncomfortable moment like that. And worst of all, the model may feel coerced into doing something that wasn’t previously discussed. You don’t want that. There’s always another day, so don’t rush things.
-
-**Give the model the option to bring someone along for the shoot.** This will help ensure your model feels safe, which will in turn make it a lot easier to work on creating compelling images together. Plus, you may even find yourself with two models to work with instead of just one.
 
 
 ##Directing the shoot
