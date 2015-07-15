@@ -13,7 +13,7 @@ My first week as a 32-year-old has been pretty intense as far as worldwide polit
 
 However, Tsipras was forced to give up many of his previously non-negotiable items, like cutting pensions and raising taxes. In exchange for those concessions, he did get a far better deal though, so this is another classic political scenario where everyone gets to go home a winner. Unless you’re a member of the opposition, that is.
 
-To me, the greatest losers in this whole affair was, ironically, Germany. They may have gotten what they wanted from the negotiations, but I suspect the deplorable behavior displayed by Angela Merkel throughout this whole deal, exemplified more than anything by her absolute refusal to grant Greece some form of debt relief, will take its toll on the country as a whole sooner or later. Germany may be the de-facto leader of the Eurozone today, but they would do well to remember that what goes around comes around.
+To me, the greatest loser in this whole affair was, ironically, Germany. They may have gotten what they wanted from the negotiations, but I suspect the deplorable behavior displayed by Angela Merkel throughout this whole deal, exemplified more than anything by her absolute refusal to grant Greece some form of debt relief, will take its toll on the country as a whole sooner or later. Germany may be the de-facto leader of the Eurozone today, but they would do well to remember that what goes around comes around.
 
 <center>♤</center>
 
@@ -29,9 +29,9 @@ In the absence of any other Earth-shattering news over the past seven days, ther
 
 Lots of interesting pieces were published during these past seven days. From the political turmoil in Europe to the debate about calories, with a brief stop on the green lawns of Wimbledon along the way, this issue of Morning Coffee is sure to entertain all readers. Enjoy.
 
-###[Behind Germany’s refusal to grant Greece debt relief | Yanos Varoufakis →](http://yanisvaroufakis.eu/2015/07/11/behind-germanys-refusal-to-grant-greece-debt-relief-op-ed-in-the-guardian/)
+###[Behind Germany’s refusal to grant Greece debt relief | Yanis Varoufakis →](http://yanisvaroufakis.eu/2015/07/11/behind-germanys-refusal-to-grant-greece-debt-relief-op-ed-in-the-guardian/)
 
-Former Greek finance minister Yanos Varoufakis wrote a fascinating op-ed for _The Guardian_ this morning:
+Former Greek finance minister Yanis Varoufakis wrote a fascinating op-ed for _The Guardian_ this morning:
 
 > And there’s the rub. After the crisis of 2008/9, Europe didn’t know how to respond. Should it prepare the ground for at least one expulsion (that is, Grexit) to strengthen discipline? Or move to a federation? So far it has done neither, its existentialist angst forever rising. Schäuble is convinced that as things stand, he needs a Grexit to clear the air, one way or another. Suddenly, a permanently unsustainable Greek public debt, without which the risk of Grexit would fade, has acquired a new usefulness for Schauble.
 
