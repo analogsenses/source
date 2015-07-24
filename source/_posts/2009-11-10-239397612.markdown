@@ -1,0 +1,40 @@
+---
+author: alvaroserrano
+comments: false
+date: 2009-11-10 19:54:00+00:00
+layout: post
+slug: '239397612'
+title: Paying Tribute
+wordpress_id: 239397612
+categories:
+- Post
+tags:
+- links
+- Tribute
+---
+
+The first thing I would like to do before actually starting to post real stuff here is acknowledge those people who have influenced me and inspired me to start this project. I don’t have the privilege of knowing them personally, but I absolutely feel like they deserve credit for the amazing work they put in their respective sites. To them, my sincere gratitude. I owe you big time.
+
+**DISCLAIMER:** Even though I admire all of them greatly, they have no affiliation with me, nor my opinion regarding any of the posts in this blog. There is no association whatsoever between this blog and any of the others I mention here. Guys, If you feel that my mentioning you here doesn’t do you justice, please buzz me and let me know.
+
+First, I want to mention [Patrick Rhone](http://patrickrhone.com) from [Minimal Mac](http://minimalmac.com). I don’t think I have ever been so blown away by a weblog before. The first time I saw it was during this summer, right after he started posting, and I instantly fell in love with the idea. I check it every day ever since. Patrick is a Technology Consultant, Mac Geek, Productivity Nerd and Blogger, and also happens to be a terrific guy. Besides Minimal Mac, he is involved in a series of other projects, including a fearless Mac tech-support program via Twitter for free ([@machinemethods](http://twitter.com/machinemethods)). Way to go Patrick, and thanks for the inspiration.
+
+There is also Berto Pena from [Think Wasabi](http://thinkwasabi.com/), a Spanish weblog about productivity on the Mac. Berto is a productivity expert, writer, blogger and a black-belt-ninja-master of Evernote. Among other really interesting things on his site you will find a series of articles named: “101 uses for Evernote”. He is also an advocate of the GTD way, and gives priceless advice frequently on how to put it to good use. He recently wrote a book called _Gestiona Mejor Tu Vida (Manage Your Life Better)_ in Spanish, which is [available online](http://www.miebook.com/es_libros_detalle.html?Cat=26&Id=6396) and must be selling like hotcakes. And, having read it, I’m not the least bit surprised why.
+
+Next up is Rands, from [Rands in Repose](http://www.randsinrepose.com/). Though Rands is not his real name, his voice couldn’t be more real. His posts are crafted with a skill and expertise that you will rarely see anywhere else on the Internet. He works as a senior engineering manager and in his weblog he gives advice on how to manage teams and reflects on the technology world in general. If you read one of his posts you will be instantly hooked. Guaranteed. He is also the author of [_Managing Humans_](http://www.managinghumans.com/), a great book where you can learn about his experiences as a software engineering manager.
+
+And of course, David Lanham, a terrific, terrific artist that is currently working at The Iconfactory, designing awesome icons for the Mac. If you have a minute, go pay him a visit at [his website](http://dlanham.com/), where you will find a great collection of some of his incredibly talented work, in both digital and traditional formats (or, for the purpose of this blog, analog).
+
+These are the big four places I go to every time I have a moment to spare. Among other sources of great inspiration are:
+
+Merlin Mann from [43 Folders](http://www.43folders.com/). In his own words: “43 Folders is Merlin Mann’s website about ﬁnding the time and attention to do your best creative work.” Good, good stuff here.
+
+Leo Babauta from [Zen Habits](http://zenhabits.net/). Also, he is the author of [_The Power of Less_,](http://www.amazon.com/gp/product/1401309704?ie=UTF8&tag=zenhab-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1401309704) an awesome book that will teach you how to eliminate the clutter in your life and focus on what’s really important. Do more, by doing less.
+
+That’s it, I believe. I’m sure I will be adding to this list very soon, but for now I guess this is a fairly accurate collection of the online places I find inspiring, interesting and/or amusing. If, with time, I can produce something that is anywhere near close to what these incredibly talented people are up to every day, I will be proud and consider myself extremely satisfied.
+
+And if I can add some value to you, and make the time that you are spending here useful, my mission will be complete.
+
+And now, without further ado, let’s get started.
+
+Welcome.

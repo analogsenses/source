@@ -1,0 +1,49 @@
+---
+layout: post
+title: "AirParrot 2"
+date: 2014-11-21 18:48:05 +0100
+comments: true
+categories: 
+- Digital Life
+- Apple
+description: "AirParrot 2 is a huge update that introduces great new features like Media Streaming."
+---
+
+Today Squirrels introduced [AirParrot 2](http://www.airsquirrels.com/airparrot/), the next major version of their excellent screen-mirroring app for OS X (and Windows).
+
+[AirPlay](http://en.wikipedia.org/wiki/AirPlay) is an Apple technology that Macs and iOS devices use to stream audio and video to the Apple TV, among other things. It works great and it's the perfect way to watch all of your iTunes movies and TV shows on your big-screen TV instead of on your device. However, as with most Apple technologies, there are several areas where AirPlay falls short.
+
+For instance, AirPlay doesn't support audio or video transcoding, so you can only play iTunes-compatible media from your Mac to your Apple TV. But what about all those MKV and AVI files you've collected over the years? With AirPlay, you're out of luck.
+
+Newer Macs (from 2011 on) can find a way around this by screen-mirroring their desktops to the Apple TV using AirPlay. Screen-mirroring works great for sharing your desktop or giving a presentation but in my experience, it's really not ideal for watching video. It doesn't create a buffer, which makes it extremely prone to jittering issues, and it doesn't allow you to control playback with an Apple remote, which makes it a lot less convenient to use. And if your Mac is more than three years old, screen-mirroring is probably not supported to begin with.
+
+AirParrot 2 can solve all of these problems. It's a small app that lets you do screen-mirroring from any decently-specced Mac: it only requires a Mac with an Intel Core 2 Duo processor and 1 GB of RAM. If you're running Yosemite, chances are your Mac will be more than capable to handle it. AirParrot 2 also allows you to customize the audio and video transcoding quality to fine-tune performance for every Mac. This enables older Macs to enjoy the same features as the newer machines.
+
+<p><img class="borderless" src="https://farm8.staticflickr.com/7468/15226133183_b3ccd2bf50_o.png" title="AirParrot 2 - Mirroring Preferences"/><p>
+<p class="photo-credit">The Mirroring Preferences tab allows you to fine-tune performance for your particular machine</p>
+
+That's already pretty sweet, but there's more. AirParrot 2 introduces a new feature called Media Streaming that allows you to directly play media files on your Apple TV — or any other compatible receiver. This is a fantastic feature that essentially allows you to enjoy all the benefits of AirPlay with non-iTunes compatible files: you get buttery-smooth playback, playback control via Apple remote, lossless 5.1 surround sound, etc. It's amazing.
+
+<p><img class="borderless" src="https://farm8.staticflickr.com/7519/15845155652_a40997cc1b_o.png" title="AirParrot 2 - Media Preferences"/><p>
+
+<p class="photo-credit">You can adjust video transcoding quality in the Media Streaming Preferences tab</p>
+
+Now, in my experience, there were still a few bugs when using Media Streaming. This is completely normal in a major new version of any app, and it's nothing critical. MKV files in particular were a little finicky to play and would cause the occasional crash. Then again, MKV files were always finicky to begin with, so I'm not sure how much AirParrot is to blame here. In any case, the app works great with AVI and other file types that I've tried, and I wouldn't consider these issues a serious problem.
+
+Besides, there's a full-featured 7-day trial that you can download and install to make sure it works well on your Mac and with your own media files before committing to a purchase.
+
+<p><img src="https://farm8.staticflickr.com/7496/15845155622_9abfaffb43_o.png" title="AirParrot 2 - Control Panel"/><p>
+
+<p class="photo-credit">AirParrot 2's Control Panel displays everything you need to use the app</p>
+
+AirParrot 2 is also remarkably easy to use. The control panel is accessed via its menu bar icon, and displays everything you need:
+
+* In the FROM section, you can select which streaming mode you want to use: sharing your own display, an extended desktop mode, sharing windows from a specific app, sharing only audio or streaming media.
+
+* In the TO section, you can select your destination device. AirParrot 2 is compatible with the second and third-generation Apple TV's, but also with Chromecast devices, as well as AirPlay-compatible audio receivers. Just pick your device from the list — it should appear automatically — and you're set. 
+
+In the case of Media Streaming, you can even drag your media file and drop it into AirParrot 2's menu bar icon, and it will automatically pick it up and send it to your selected destination. I find this is a much more convenient way to open files and it makes me want to use the app more.
+
+AirParrot is one of my favorite apps, and I use it almost every day. AirParrot 2 is a huge update, and it's [available today](http://www.airsquirrels.com/airparrot/pricing/). You can purchase a single-computer license for $14.99, or a 5-computer license for $62.99. There's also a special discount for owners of the previous version.
+
+If you ask me, the Media Streaming feature alone is more than worth the price of admission. If you own a slightly older Mac and want to enjoy non-iTunes compatible media on your Apple TV, it really is a no-brainer.
