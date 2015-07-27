@@ -34,13 +34,13 @@ This week I stray a bit from the usual topics on _Analog Senses_, but hopefully 
 
 The Nose is perhaps the most iconic rock climbing route in the entire world. It’s 1,000 feet high and usually takes multiple days to ascend. Matt and Joanne Stamplis attempted the climb back in 2009, and they took some pretty incredible pictures along the way. I was getting goosebumps just by looking at the images, but the actual narration is just as great. It took them four days and seven gallons of water to climb The Nose, but climb it they did. What an awesome story.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Climb Yosemite’s El Capitan Like a Rock Star—From Your Computer | Andrew Bisharat →](http://adventureblog.nationalgeographic.com/2015/06/24/yosemite-climbing-google-maps-street-view/)
 
 Speaking of El Capitan, it is now possible to experience the adventure from the comfort and safety of your home. Google has digitally mapped the entire route using the same technology they use in Street View, and [the result is incredibly cool](http://www.google.com/maps/about/behind-the-scenes/streetview/treks/yosemite/). This is a great way to complement Matt and Joanne’s story.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[The tragedy of small expectations (and the trap of false dreams) | Seth Godin →](http://sethgodin.typepad.com/seths_blog/2015/06/the-tragedy-of-small-expectations.html)
 
@@ -50,19 +50,19 @@ Seth Godin makes an astute point, as usual:
 
 Transforming the possible into the likely is a pretty substantial leap. Successfully making that leap depends on the culture around us, which is why doing everything we can to dispel myths about what can’t be done is so important.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[How Math’s most famous proof nearly broke | Peter Brown →](http://nautil.us/issue/24/error/how-maths-most-famous-proof-nearly-broke)
 
 I love tales of scientific discovery, and this one’s as good as it gets. Via _[Tools & Toys](http://toolsandtoys.net/editorials/perpetual-oceans-black-hole-hunters-and-why-we-explore/)_.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[Essentials | Matt Gemmell →](http://mattgemmell.com/essentials/)
 
 I really enjoyed Matt’s answer to the old question: “What would you take with you to a desert island?”. Or, to put it another way, what is _really_ essential to you? There’s nothing like packing for an upcoming trip to ponder these questions. I have my list, and no doubt you have yours. In my own case, much like in Matt’s, I’ve found that as I go through life, the list not only keeps changing, it also keeps getting _shorter_.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[How Arthur Ashe became the only black man to win the Wimbledon title | Aimee Lewis →](http://www.bbc.com/sport/0/tennis/33228456)
 
@@ -70,7 +70,7 @@ Wimbledon, the most prestigious tournament in the tennis world, in finally upon 
 
 The 1975 Wimbledon men’s final pitted two American players against each other: Jimmy Connors and Arthur Ashe. Ostensibly, these two characters didn’t get along at all, which is why on the day of the match, tension was running high. In the end, the match not only lived up to the expectations, but instantly became one of the all-time classics on the green lawns of the All England Club.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[35 facts that prove Roger Federer is the greatest tennis player ever | Chris Chase →](http://ftw.usatoday.com/2015/06/roger-federer-stats-best-tennis-player-ever-goat-wimbledon-us-open-stats)
 
@@ -78,13 +78,13 @@ Continuing with the Wimbledon theme, there’s no other player whose game is bet
 
 Still, Federer has made a hell of a case for himself, and this piece by Chris Chase shows you why. Some of the numbers in Federer’s career are absolutely staggering, like the fact that he contested 23 straight Grand Slam semifinals, or 18 out 19 straight finals. These numbers are unreal, but perhaps the greatest thing about him is the fact that he’s not done yet.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[The original hope | A Demon’s Voice →](http://ademonsvoice.blogspot.com.es/2015/06/the-original-hope.html)
 
 My favorite Internet demon reviews one of the greatest films of all time, [Star Wars: Episode IV - A New Hope](http://www.imdb.com/title/tt0076759/). Warning: strong language is frequently used throughout this review.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[The long history of the fight against Uber | Om Malik →](http://www.newyorker.com/tech/elements/the-long-history-of-the-fight-against-uber)
 
@@ -92,19 +92,19 @@ Fantastic piece by Om Malik for _The New Yorker_. Technology enables change to o
 
 Being a conscious consumer goes a long way towards finding a balance, because the truth is, protecting and supporting our local businesses is incredibly important, perhaps now more than ever. I may have a bit of a Luddite in me, but I can’t help but prefer buying my meat in the small shop around the corner, where Luis the butcher greets me by my first name every day. He also keeps a watchful eye on my bike, which is parked right by his shop’s door. Those little things are important to me, even if buying my meat at a supermarket would probably be a bit cheaper.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[iOS 9 and Safari View Controller: The future of Web views | Federico Viticci →](http://www.macstories.net/stories/ios-9-and-safari-view-controller-the-future-of-web-views/)
 
 Another great in-depth look at a new technology in iOS 9 by Federico Viticci. The new Safari View Controller technology has the potential to vastly improve the experience of using in-app browsers, which are some of the most annoying things left in iOS.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[Panasonic Lumix 42.5mm f/1.7 review and comparison with Olympus 45mm f/1.8 vs Nocticron 42.5mm f/1.2 | Mathieu Gasquet →](http://www.mirrorlessons.com/2015/06/25/panasonic-lumix-42-5mm-f1-7-review-and-comparison-panasonic-42-5mm-f1-7-vs-olympus-45mm-f1-8-vs-nocticron-42-5mm-f1-2/)
 
 Just two days after [my review](http://toolsandtoys.net/reviews/the-olympus-m-zuiko-45mm-f1-8-micro-four-thirds-lens-review/) of the Olympus 45mm f/1.8 lens for _Tools & Toys_, Mathieu from MirrorLessons put its main competitor to the test. His results all but confirmed my initial impressions: that despite being four years newer, the Panasonic lens doesn’t provide any meaningful optical improvements over the Olympus. Still, it’s an excellent lens in its own right, and perhaps the better choice for owners of Panasonic bodies due to the built-in optical image stabilization, so go check it out.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 
 ##Afterword

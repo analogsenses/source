@@ -29,13 +29,13 @@ Every article in Stammy’s website is an instant bookmark. There’s always so 
 
 This time around, he goes in painstaking detail over his new NAS setup, which he uses for local storage of his pictures, backups and other media-related uses. If you’re running short on storage space for your media collection — and who isn’t these days — this article could be a life saver.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Who’s actually buying iPods these days? | Matt Birchler →](http://www.birchtree.me/blog/who-buys-ipods)
 
 This piece has been doing the rounds on the Internet for the past few days, so you may have seen it elsewhere. I found several things on this article to be very surprising, like the fact that the iPod nano is most popular among older people. 
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[A former engineer says Intel has a ‘meritocracy’ problem | Selena Larson →](http://www.dailydot.com/technology/intel-meritocracy-layoffs/)
 
@@ -47,7 +47,7 @@ Great piece over at the _Daily Dot_:
 
 Ouch. Considering Intel has been in trouble this week for their own admission that [they can no longer keep up](http://arstechnica.com/gadgets/2015/07/intel-confirms-tick-tock-shattering-kaby-lake-processor-as-moores-law-falters/) with their famous “tick-tock” release cycle, this article is all the more damning.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[The mobile web sucks | Nilay Patel →](http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks)
 
@@ -59,25 +59,25 @@ For more commentary on this topic, check out these two excellent pieces:
 
 * [The Verge’s web sucks](http://blog.lmorchard.com/2015/07/22/the-verge-web-sucks/) by Les Orchard. Via [Marco Arment](http://www.marco.org/2015/07/24/the-verges-web-sucks).
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[The Force Touch trackpad | Fraser Speirs →](http://www.speirs.org/blog/2015/7/23/the-force-touch-trackpad)
 
 Fraser Speirs has a really positive take on Apple’s new Force Touch trackpad. I still haven’t tried one in person, but I like what I’m reading so far.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[A watch, water and workouts | Craig Hockenberry →](http://furbo.org/2015/07/14/a-watch-water-and-workouts/)
 
 Impressively detailed piece on how water affects electronics in general, and the Apple Watch in particular, by Craig Hockenberry. Lots of interesting tidbits in this one.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[How much do electric cars actually pollute? | Jonathan M. Gitlin →](http://arstechnica.com/cars/2015/07/how-much-do-electric-cars-actually-pollute/)
 
 More than we thought, apparently.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[The earthquake that will devastate Seattle | Kathryn Schulz →](http://www.newyorker.com/magazine/2015/07/20/the-really-big-one)
 
@@ -85,13 +85,13 @@ Absolutely terrifying piece on the earthquake that in all likelihood will destro
 
 > In the Pacific Northwest, the area of impact will cover some hundred and forty thousand square miles, including Seattle, Tacoma, Portland, Eugene, Salem (the capital city of Oregon), Olympia (the capital of Washington), and some seven million people. When the next full-margin rupture happens, that region will suffer the worst natural disaster in the history of North America. Roughly three thousand people died in San Francisco’s 1906 earthquake. Almost two thousand died in Hurricane Katrina. Almost three hundred died in Hurricane Sandy. FEMA projects that nearly thirteen thousand people will die in the Cascadia earthquake and tsunami. Another twenty-seven thousand will be injured, and the agency expects that it will need to provide shelter for a million displaced people, and food and water for another two and a half million. “This is one time that I’m hoping all the science is wrong, and it won’t happen for another thousand years,” Murphy says.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[The best country in the world for food | Ben Groundwater →](http://www.traveller.com.au/the-best-country-in-the-world-for-food-gihsmi)
 
 It’s Spain, of course, in case you were wondering.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[When You Give a Tree an Email Address | Adrienne Lafrance →](http://www.theatlantic.com/technology/archive/2015/07/when-you-give-a-tree-an-email-address/398210/)
 
@@ -101,7 +101,7 @@ I love these stories:
 
 So great.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[The best Micro 4/3 lenses (in my opinion) | Josh Ginter →](http://thenewsprint.co/2015/07/24/the-best-micro-43-lenses-in-my-opinion/)
 
@@ -111,13 +111,13 @@ If anything, I’d add the [Olympus 60mm f/2.8 Macro](http://www.amazon.com/gp/p
 
 Other than that, if you’re on the lookout for your next lens for the MFT system, be sure to check out Josh’s excellent roundup.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[What children think of models in fashion campaigns | Messy Nessy →](http://www.messynessychic.com/2015/07/24/what-children-think-of-models-in-fashion-campaigns/)
 
 Children are experts in giving 100%-honest, no-bullshit opinions on anything. When they say female models look like they’re sick and male models look like superheroes, you know the entire fashion industry has a big problem.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[Lisbon | Sam Burton →](http://samburtonphoto.com/blog/2015/7/15/lisbon)
 
@@ -125,7 +125,7 @@ Gorgeous travel photography. This piece had me wanting to purchase a Leica film 
 
 Via [Josh Ginter](http://thenewsprint.co/2015/07/19/the-sunday-edition/).
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Tennis’s top women balance body image with ambition | Ben Rothenberg →](http://www.nytimes.com/2015/07/11/sports/tennis/tenniss-top-women-balance-body-image-with-quest-for-success.html)
 
@@ -137,19 +137,19 @@ You can certainly see it in the women’s game, too. Steffi Graf and Martina Nav
 
 The fact that Serena has been able to translate her physical gifts into a super successful career doesn’t mean hers is the only viable approach today, and trying to imply otherwise does a huge disservice to the sport as a whole.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[Dear Mr. Trump: I’m Worth $10 Billion, Too |  Timothy L. O’Brien →](http://www.bloombergview.com/articles/2015-07-21/dear-mr-trump-i-m-worth-10-billion-too-)
 
 Hilarious piece by Timothy L. O’Brien for _Bloomberg View_. Next time you read that a media mogul or a successful entrepreneur is worth X billion dollars, keep this in mind.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[The Kaweco Liliput Fountain Pen | Mike Bates →](http://toolsandtoys.net/reviews/the-kaweco-liliput-fountain-pen/)
 
 I loved this piece by Mike Bates for _Tools & Toys_. I’ve always had a soft spot for fountain pens, and Mike’s beautiful photography and clear, precise writing in this piece made me incredibly curious to try the Kaweco Liliput.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 
 ##Afterword
@@ -178,7 +178,7 @@ Luckily, we befriended a couple on the beach who were kind enough to give us a r
 
 Lesson learned: _Always_ check the map. Obsessively and compulsively so, if you must. Also: whatever the amount of beer you think you could possibly drink on the trip, bring more.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 Looking ahead to what comes next, I’ve been working on two pieces on film photography that I hope to be able to finish and share with you soon. 
 
@@ -186,7 +186,7 @@ One of them is a review of my [Canon EOS 3](http://www.usa.canon.com/cusa/suppor
 
 The other piece is an overview of my color film processing workflow, from scanning all the way to the final editing touches. This is a work in progress, mainly because I’m still fine-tuning the inversion process, but I have a feeling I’m getting closer to figuring it out. Stay tuned for more.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 We are now reaching the end of this issue, I’m afraid. But first, I have a confession to make: I’m writing these words on Friday evening, so technically I’m cheating a little bit. You’ll have to forgive me for that. The reason for that is that tomorrow morning we’re taking an early train to [Mérida](https://en.wikipedia.org/wiki/Mérida,_Spain), where the first son of one of my best friends is being baptized on Sunday. I’m so happy for him and I still can’t believe he’s already a dad. Life goes on and time keeps accelerating, it seems, so we better make the most of it while we can.
 
@@ -196,7 +196,7 @@ Other than that, Mérida is a gorgeous city and I definitely plan on enjoying th
 
 <p class="photo-credit">Roman theater, Mérida. Image source: <a href="https://en.wikipedia.org/wiki/File:Merida_Roman_Theatre1.jpg">Wikimedia Commons</a>.</p> 
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 That’s it for this week’s Morning Coffee. After the much-needed rest and mental recharge, I’m very much looking forward to things returning to normal starting next week, and exploring the many exciting ideas I have in mind for the coming weeks. 
 

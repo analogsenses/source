@@ -15,7 +15,7 @@ Understandably, the Charleston tragedy has influenced much of this week’s writ
 
 I realize this is a deeply sensitive matter, so I’ll leave it at that out of respect for the victims, their families and all the American people. Like I said, my thoughts are with all of you. I hope you find the courage to rise again, stronger, better and more united than ever.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 On a much brighter note, there were plenty of interesting things to talk and write about this week. One such thing was of course [the E3 expo](http://www.e3expo.com/takeover), which was jam-packed with cool announcements this year, including several much-awaited releases and some [very surprising](http://arstechnica.com/gaming/2015/06/everything-old-is-new-again-at-a-nostalgia-filled-e3-2015/) new ones. The gaming industry is thriving, despite the damage [a few misguided individuals](https://en.wikipedia.org/wiki/Gamergate_controversy) keep inflicting upon it.
 
@@ -34,13 +34,13 @@ Get ready for some deeply personal pieces this week, which I just love. These ar
 
 Nick Arnott tells you everything you need to know about the recently discovered vulnerabilities in iOS and OS X. Nick really outdid himself here, as did the entire iMore team during the week. Kudos to them on a terrific job.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Apple Watch: My most personal review ever | Jim Dalrymple →](http://www.loopinsight.com/2015/06/16/apple-watch-my-most-personal-review-ever/)
 
 Just like it says on the tin. I love Jim’s reviews, but it’s true that he rarely ever delves into personal territory. This time around though, he did it big time. Jim’s been taking better care of himself and, thanks to the Health app and the Apple Watch, he’s managed to lose over 40 pounds over the past 10 months. That’s an incredible achievement and I’m really glad he decided to share the experience with us, because it will surely help many others who are still struggling to adopt a healthier lifestyle. More like this, please.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[The seven "Prime Directives" of repairing and upgrading tech | Adrian Kingsley-Hughes →](http://www.zdnet.com/article/the-seven-prime-directives-of-repairing-and-upgrading-tech/)
 
@@ -50,13 +50,13 @@ I don’t like to upgrade my devices if there’s not a compelling reason to do 
 
 That said, there always comes a time when upgrading becomes a necessity rather than a luxury, and these rules by Adrian Kingsley-Hughes provide a useful reference to help identify those times. I may not personally adhere to all of Adrian’s rules, but they’re a good place to start.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[Charleston and the age of Obama | David Remnick →](http://www.newyorker.com/news/daily-comment/charleston-and-the-age-of-obama)
 
 David Remnick, writing for _The New Yorker_, provides some context on the Charleston massacre and its relation to America’s history of racial violence. A must-read.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[You are free, like it or not | David Cain →](http://www.raptitude.com/2015/06/you-are-free-like-it-or-not/)
 
@@ -66,13 +66,13 @@ David Cain does it again:
 
 Personal freedom can be downright terrifying, and that’s why we make excuses. Being aware of the process is the first step towards finding a way out.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Why freelancers are so depressed | Anya Kamenetz →](http://www.fastcompany.com/3006208/why-freelancers-are-so-depressed)
 
 Great piece over at _Fast Company_ on the unique challenges of self-employment. Food for thought.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[People power: the secret to Montreal’s success as a bike-friendly city | Peter Walker →](http://www.theguardian.com/cities/2015/jun/17/people-power-montreal-north-america-cycle-city)
 
@@ -80,7 +80,7 @@ Over at _The Guardian_, Peter Walker tells the fascinating story of how Montreal
 
 > Now 81, he was among the founding members of [Le Monde à Bicyclette](http://www.lemab.ca/) in 1975, a loose collection of mainly artists, activists and anarchists who, styling themselves the “poetic velo-rutionary tendency”, pioneered many of the direct action tactics common to modern protest movements.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[_Jurassic World_’s mother of a problem | Lesley Coffin →](http://www.themarysue.com/jurassic-worlds-mother-of-a-problem/)
 
@@ -88,43 +88,43 @@ I quite enjoyed _Jurassic World_ when I saw it on Tuesday, although admittedly I
 
 Apart from several dumb plot choices that I was happy to rationalize within the context of the film — any excuse to see raptors hunting, really — there’s a big sexism problem going on here, and it’s especially unfortunate in a franchise that has always featured strong female characters that often kicked as much ass — if not more — than their male counterparts. Lesley Coffin does a great job of calling the makers of _Jurassic World_ out on this specific issue, and it’s a sobering piece that adds some much-needed perspective for those who, like myself, sometimes fail to notice these problems in movies.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[Scorsese’s achievement with “GoodFellas” | Richard Brody →](http://www.newyorker.com/culture/richard-brody/scorseses-achievement-with-goodfellas)
 
 Violence has been one of the most important themes throughout Martin Scorsese’s entire career as a director. In this piece for _The New Yorker_, Richard Brody analyzes the filmmaker’s take on violence through the lens of one of his most acclaimed films, “GoodFellas”. It’s probably not what you expect.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Team Federer: How the tennis ace became the world’s pre-eminent athlete | Richard Evans →](http://europe.newsweek.com/team-federer-how-tennis-ace-became-worlds-pre-eminent-athlete-328918)
 
 Probably one of the best pieces I’ve read on Federer’s stature and relevance in the sporting world beyond tennis. And I’ve read _a lot_.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[On writing | Ben Brooks →](https://brooksreview.net/2015/06/on_writing/)
 
 This is a fantastic article, and a very useful resource for anyone who writes, either as a hobby or for a living. Read the whole thing, give it some time to sink in, then read it again. So great.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[Esplanade Riel and The Forks | Josh Ginter →](http://thenewsprint.co/2015/06/16/esplanade-riel-and-the-forks/)
 	
 Have you ever wondered how your city is perceived by tourists? Do you know all there is to know about the place you live in, and its history? Josh Ginter takes a stroll around Winnipeg and reflects on his province and the people who live in it. I really enjoyed this honest, personal piece.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[Flying with my dad | Jason Kottke →](http://kottke.org/15/06/flying-with-my-dad)
 
 I love Jason’s take on life and parenthood. What a beautiful story.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[A journey through darkness into moments of bliss | Erin Brooks →](http://erinbrooks.me/2015/06/a-journey-through-darkness-into-moments-of-bliss/)
 
 In another deeply personal article, Erin Brooks shows us a very different — but similarly authentic — take on parenthood. It takes a huge amount of courage to write something like this, so I won’t spoil it for you. Thanks for sharing, Erin.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 
 ##Afterword

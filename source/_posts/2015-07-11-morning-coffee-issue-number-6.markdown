@@ -15,7 +15,7 @@ However, Tsipras was forced to give up many of his previously non-negotiable ite
 
 To me, the greatest loser in this whole affair was, ironically, Germany. They may have gotten what they wanted from the negotiations, but I suspect the deplorable behavior displayed by Angela Merkel throughout this whole deal, exemplified more than anything by her absolute refusal to grant Greece some form of debt relief, will take its toll on the country as a whole sooner or later. Germany may be the de-facto leader of the Eurozone today, but they would do well to remember that what goes around comes around.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 Another hotly-debated topic on the Internet this week was, of course, the matter of advertising on the Web and the rise of ad-blocking technology. But more on that later.
 
@@ -39,19 +39,19 @@ Former Greek finance minister Yanis Varoufakis wrote a fascinating op-ed for _Th
 
 Ouch. Think what you will about Varoufakis, but once thing is clear: he does not mince words.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Content blockers, bad ads, and what we’re doing about it | Rene Ritchie →](http://www.imore.com/content-blockers-bad-ads-and-what-were-doing-about-it)
 
 At the heart of the ad-crisis this week was one site: iMore. Shortly after [this bomb](http://daringfireball.net/2015/07/safari_content_blocker_imore) exploded in their face, Rene Ritchie did an admirable job of taking it on the chin with an honest, open and respectful explanation of why things are the way they are, and more importantly, how they’re planning to fix them. Definitely a good read.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[Private I: Firefox and others deal with unwanted trackers, whether ads or malicious | Glenn Fleishman →](http://www.macworld.com/article/2945007/private-i-firefox-and-others-deal-with-unwanted-trackers-whether-ads-or-malicious.html)
 
 In this piece for _Macworld_, Glenn Fleishman goes over the real implications behind Do Not Track technology. Apparently, despite all major browsers implementing the Do Not Track feature, the advertising industry is under no obligation to honor the setting, which has prompted Firefox to come up with their own, more aggressive way of protecting their users’ privacy. There are lots of useful bits of information here about how tracking technology works and what it means for users, so be sure to check it out.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[Facebook’s piracy problem | Will Oremus →](http://www.slate.com/articles/technology/technology/2015/07/freebooting_stolen_youtube_videos_going_viral_on_facebook.html)
 
@@ -61,25 +61,25 @@ Eye-opening piece on how Facebook enables — maybe even encourages — users 
 
 I _hate_ autoplaying videos on the Web, especially on Facebook. To be honest, this doesn’t surprise me in the least.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[When woman is boss: Nikola Tesla on gender equality and how technology will unleash women’s true potential | Maria Popova →](http://www.brainpickings.org/2015/07/10/nikola-tesla-when-woman-is-boss/)
 
 Yesterday was the 159th anniversary of Nikola Tesla’s birthday, and this is yet another fascinating anecdote about one of the smartest men the world has ever seen.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[‘Orange Is the New Black’ is the only TV show that understands rape | Jada Yuan →](http://www.vulture.com/2015/07/orange-is-the-new-black-is-the-only-tv-show-that-understands-rape.html)
 
 **Spoiler Alert**. If you’re not caught up with _Orange is the New Black_, you may want to skip this one. Much has been written about the poor way TV shows generally depict rape — most notably, _Game of Thrones_. As a society, we can’t afford to become desensitized about such a cruel act, which is why sometimes we need to endure the real horror behind it. Kudos to the show’s makers for not shying away from this.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[Social Issues: a woman in uniform →](http://grey-magazine.com/social-issues-a-woman-in-uniform)
 
 Another eye-opening piece by an anonymous NYPD officer. I don’t want to spoil this one, so I won’t quote any excerpts here. Just go read it.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[In the Persian world of ’ta’arof,’ they make offers that will be refused | Sarah Parvini →](http://www.latimes.com/local/great-reads/la-me-c1-tarof-20150706-story.html)
 
@@ -89,13 +89,13 @@ This sounds vaguely familiar:
 
 We Spaniards are very similar when it comes to social etiquette. We often insist on paying for a meal, or a round of drinks, particularly when there are foreigners among us. If you have friends in Spain, you could go out for dinner and drinks and come back home three hours later, drunk and completely stuffed, all without having been given a single chance to pay for anything. This cultural heritage has deep roots, and is shared across many different nations. It’s simply in our blood. If you don’t believe me, come to Spain and see for yourself.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[Nick Kyrgios is a pantomime villain without a cause | Oliver Brown →](http://www.telegraph.co.uk/sport/11727585/Wimbledon-2015-Nick-Kyrgios-is-a-pantomime-villain-without-a-cause.html)
 
 In this super-harsh — but pretty spot-on — criticism of Nick Kyrgios following his elimination at Wimbledon, Oliver Brown makes a good case that fame and recognition in sports need to be backed up by results on the court, and Kyrgios so far has failed to live up to the hype. The young Australian player shows promise, no doubt, but truly great players let their racquets do the talking.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Wimbledon Centre Court mesmerised by enduring wonder of Roger Federer | Owen Gibson →](http://www.theguardian.com/sport/blog/2015/jul/10/andy-murray-roger-federer-centre-court-wimbledon)
 
@@ -103,7 +103,7 @@ Tomorrow, Roger Federer will contest an unprecedented 10th Wimbledon final in hi
 
 Whatever happens tomorrow vs World No. 1 Novak Djokovic, the legend of Roger Federer keeps getting bigger.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[The problem with “calories” | Conor McClure →](http://conormcclure.net/2015/7/the-problem-with-calories/)
 
@@ -115,13 +115,13 @@ He’s right about the way insulin works, but clearly there’s another way for 
 
 All in all, Conor’s piece was excellent and his reasoning solid. I also agree that counting calories tends to create habits designed to achieve short-term goals that are not sustainable in the long run. Instead, we should look at the bigger picture and make lifestyle choices that will pay off in the long term by resulting in longer, healthier lives. 
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[The Fuji X100T review | Marius Masalar →](http://toolsandtoys.net/reviews/the-fuji-x100t/)
 
 Another great review over at _Tools & Toys_. I’ve always been curious about the Fuji X100 series of cameras. They’re not only small and inconspicuous, but they appeal to the romantic side of photography, which is something I deeply enjoy. This amazing review by Marius Masalar makes a great case for the Fuji X100T as a tool for people that aren’t interested in owing the latest and greatest gear, but in taking better photographs. It’s hard to argue with that.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 
 ##Afterword

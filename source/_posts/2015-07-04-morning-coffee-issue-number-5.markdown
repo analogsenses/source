@@ -34,7 +34,7 @@ This issue includes several very interesting pieces indeed. From a deeply person
 
 Great piece for _The New York Times_ on how recent immigration policy amendments made by several European countries are threatening refugees’ right to asylum. Immigration is a very real problem in Europe, and the current situation is unsustainable. Sadly, in dealing with that problem, some governments appear to have forgotten the very principles of equality and solidarity the Union was founded upon.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Life is easier when you take the stairs | David Cain →](http://www.raptitude.com/2015/06/take-the-stairs/)
 
@@ -46,37 +46,37 @@ Another week, another winner by David Cain. I don’t know how he keeps doing it
 
 Spot on, as usual. Beyond the quoted excerpt above, this particular phrase stands out: “_Fears tend to stay down once you walk over them once_”.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[Run to the Devil: The Ghosts and the Grace of Nina Simone | Brian Phillips →](http://grantland.com/hollywood-prospectus/run-to-the-devil-the-ghosts-and-the-grace-of-nina-simone/)
 
 Brian Phillips has been on fire lately. Just days before penning [one of the best articles](/2015/06/29/the-sun-never-sets-on-roger-federer/) on Roger Federer in recent memory, he published this incredible piece on the troubled life of Eunice Waymon, the incredibly talented girl who would grow up to become one of the most influential musicians of all time: Miss Nina Simone.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[Letter to my younger self | Pete Sampras →](http://www.theplayerstribune.com/pete-sampras-letter-to-my-younger-self/)
 
 Pete Sampras, who was widely regarded as the best male tennis player of all time until a fella named Roger Federer started winning majors left, right and center, writes a letter to his 16-year-old self, when he was about to join the professional ATP circuit. Amazing.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[At the heart of the Wimbledon tennis championships lies the IBM bunker | Sebastian Anthony →](http://arstechnica.co.uk/information-technology/2015/07/exploring-the-ibm-bunker-the-brain-of-wimbledon/)
 
 I really enjoyed Anthony’s peek into the brains of Wimbledon for _Ars Technica_. Organizing a Grand Slam event, like any major sports tournament in the world, takes a huge amount of effort, coordination, and technological prowess. This is how the magic happens.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Seven years on, a MacBook Pro prepares for El Capitan | Chip Sudderth →](http://sixcolors.com/post/2015/06/seven-years-on-a-macbook-pro-prepares-for-el-capitan/)
 
 Apple hasn’t increased the basic requirements for running new OS X versions for a few years now, which is great news for those of us who [still own and use old Macs](/2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/) every day. Basically, if your Mac is 64-bit capable, you’re good to go. And since El Capitan is ostensibly optimized to increase performance and battery life on older Macs, upgrading this time around really does seem like a no-brainer.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[Losing weight with Apple Watch | Matt Gemmell →](http://mattgemmell.com/losing-weight-with-apple-watch/)
 
 This is a fantastic, in-depth analysis on how it’s entirely possible to lose weight without making huge sacrifices, or changes to your life. A little effort every day, coupled with a bit of intelligent planning and a sound strategy goes a long way. And as as Matt notes, a tech gadget like the Apple Watch can be useful to track your progress and give you an extra bit of motivation, but it’s very much not required.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[Love | Brent Simmons →](http://inessential.com/2015/06/30/love)
 
@@ -88,7 +88,7 @@ Brent’s piece has been shared to death over the past few days, so you may have
 
 Clearly Apple has some of the responsibility here. Their actions as steward of the platform haven’t been focused on protecting indies and encouraging they can create sustainable businesses, and that’s unfortunate.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[Disconnect | Dave Wiskus →](http://betterelevation.com/disconnect/)
 
@@ -96,7 +96,7 @@ Dave takes a look at some of the things that are broken in Apple’s new Connect
 
 > These are early days, and there’s hope. I don’t like complain-y posts where designers pick something apart and either offer no meaningful ideas or, worse, presumptuously redesign someone else’s work. So instead I’m going to break the fourth wall and make a simple suggestion to Apple: consult with independent musicians. Talk to bands who have succeeded on social media and see what worked for them. Talk to bands who have made great YouTube videos and find out how they get their audience to share stuff. Talk to bands who haven’t made it yet and ask what tools they might need to get there.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[Airbnb and the Internet revolution | Ben Thompson →](https://stratechery.com/2015/airbnb-and-the-internet-revolution/)
 
@@ -104,7 +104,7 @@ Great piece by Ben Thompson, as usual. Businesses like Uber and Airbnb are great
 
 > I increasingly believe that it is the sharing economy that is beginning to reveal the answer: a world of commodified trust has significantly less need for much of the infrastructure of modern society, including inefficient sectors like hotels whose primary differentiator is trust, along with the regulatory state dedicated to enforcing that trust. On the other hand, this brave new world has brand new holes through which people can fall: those who have lost trust, or do not have the means to build it.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 ###[The real voice of Siri explains the art of voiceover | Phil Edwards →](http://www.vox.com/2015/6/23/8831131/siri-voiceover-susan-bennett)
 
@@ -112,13 +112,13 @@ I love these behind-the-scenes stories. Voice acting is a pretty well-establishe
 
 Anyway, this piece is a great look at some of the intricacies of voice acting, and who better to guide us through the process than Susan Bennett, the actress behind Siri’s original voice. A very entertaining read indeed.
 
-<center>♡</center>
+<p class="card-separator">♡</p>
 
 ###[Switzerland on film | Bijan Sabet →](http://bijansabet.com/post/122242970128/switzerland-on-film-part-i-photographs-from-our)
 
 Fantastic collection of pictures taken on medium format film. Switzerland is a beautiful country, and I love how the rich colors of its landscapes are captured by films such as Kodak Portra. There are plenty of good reasons in this post to go buy a plane ticket.
 
-<center>♢</center>
+<p class="card-separator">♢</p>
 
 ###[How to flirt and make friends at a nude beach | Maureen O’Connor →](http://nymag.com/thecut/2015/07/how-to-flirt-and-make-friends-at-a-nude-beach.html)
 
@@ -130,13 +130,13 @@ This makes so much sense. I’ve never been to a nude beach, but I did spend a y
 
 When everyone is naked in a non-sexualized environment, things have a way of working out that is more relaxed, and more civilized. Sauna soon became one of my preferred activities in Finland, and still today I miss it dearly.
 
-<center>♤</center>
+<p class="card-separator">♤</p>
 
 ###[The Lamy 2000 fountain pen | Josh Ginter →](http://toolsandtoys.net/reviews/the-lamy-2000-fountain-pen/)
 
 I love fountain pens, but I must confess I had no idea this one even existed. I guess it goes to show just how deep certain rabbit holes go. Apparently the Lamy 2000 is a legendary pen that enjoys cult status among pen enthusiasts everywhere. Indeed, going by Josh’s amazing photography alone, it’s easy to see why. It doesn’t exactly come cheap — although there are definitely much more expensive pens around — but it looks to be worth every penny. If you love pens or simply appreciate nice things, take a good look at Josh’s fantastic review.
 
-<center>♧</center>
+<p class="card-separator">♧</p>
 
 
 ##Afterword
