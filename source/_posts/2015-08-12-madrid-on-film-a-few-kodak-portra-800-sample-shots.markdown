@@ -10,9 +10,9 @@ external-url: https://www.flickr.com/photos/analogsenses/sets/72157657076912151
 
 Here are a few images from a roll of Kodak Portra 800 I shot on Sunday, to give you an idea of how well [Michael Fraser’s previously-linked workflow](http://mfphotography.ca/blog/2015/8/11/colour-film-scanning-revisited-part-3) for scanning color negative film works. Follow the title link to see these pictures — and a few more — at their original resolution on Flickr. I will continue to add images to the album as I scan more.
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5772/19898516604_3937d41f1f_o.jpg"/></p>
+<p class="full-width"><img src="https://farm6.staticflickr.com/5783/20360890139_c613afae04_o.jpg"/></p>
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5824/20494921786_c28ac1fa22_o.jpg"/></p>
+<p class="full-width"><img src="https://farm6.staticflickr.com/5758/20359563180_074eaedef0_o.jpg"/></p>
 
 Instead of a DSLR, I scanned these images using a dedicated 35mm film scanner. Following Michael’s advice, I scanned them as gamma-encoded TIFF files instead of linear RAW files. The rest of the process is exactly as described in Michael’s original post.
 
