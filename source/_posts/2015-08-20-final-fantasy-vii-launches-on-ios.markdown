@@ -10,4 +10,4 @@ external-url: http://bit.ly/ffviimobile
 
 18 years after its original release, my all-time favorite video game is [now available](http://bit.ly/ffviimobile) on iOS. Crazy.
 
-{% youtube 10Xdbr60wcg %}
+{% youtube DASvfqwFYb0 %}
