@@ -14,7 +14,7 @@ Another week goes by and we’re getting closer to September, when the Internet 
 That said, if you’re still trying to relax and enjoy the last few weeks of Summer, fear not, because I’ve got just the thing.
 
 
-##Issue \#10: Relay FM’s first birthday, a life on the run, Amazon and the “New Economy”, and Curiosity’s selfies on Mars 
+##Issue \#11: Relay FM’s first birthday, a life on the run, Amazon and the “New Economy”, and Curiosity’s selfies on Mars 
 
 This week’s issue contains slightly fewer links than past issues, but each piece is absolutely killer. Enjoy.
 
