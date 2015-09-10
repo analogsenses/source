@@ -47,7 +47,7 @@ Now, _this_ is the sort of piece that belongs in _The New York Times_.
 
 ###[Every thing you own is a relationship you’re in | David Cain →](http://www.raptitude.com/2015/08/konmari/)
 
-Your obligatory weekly dosage of David Cain’s brilliance. Great stuff, as usual.
+Your obligatory weekly dose of David Cain’s brilliance. Great stuff, as usual.
 
 <p class="card-separator">♡</p>
 
