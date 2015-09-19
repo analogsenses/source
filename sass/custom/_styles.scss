@@ -125,15 +125,15 @@ $border-style: 2px solid $secondary-text-color;
 }
 
 .sans-serif-font-bold {
-  font-family: "atrament-web", "Helvetica Neue", Arial, sans-serif;
+  font-family: "atrament-web", "Arial Narrow", "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .sans-serif-font {
-  font-family: "proxima-nova", "Helvetica Neue", Arial, sans-serif;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .default-font {
-  font-family: "futura-pt", Georgia, Times, "Times New Roman", serif;
+  font-family: "futura-pt", "Helvetica Neue", Helvetica, sans-serif;
 }
 
 
@@ -204,7 +204,7 @@ a.analog, a.analog:visited {
 	color: #4b4b4b;
 	//margin-left:80px;
 	padding-top:10px;
-	font-family: "LamplighterScript", Georgia, serif;
+	font-family: "LamplighterScript", "Arial Narrow", "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 125px;
 	font-style: normal;
 	font-variant: normal;
