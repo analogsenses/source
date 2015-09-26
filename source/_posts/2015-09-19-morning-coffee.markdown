@@ -192,7 +192,7 @@ The way I see it, the burden falls squarely on publishers to defend their reader
 
 If there is a way out of this ad-blocking conundrum it has to start by making online ads relevant and valuable again. And the only way that’s going to happen is if publishers start working directly with advertisers again to create actually relevant and useful ads for their readers, much like podcasting ads and native sponsored posts have been doing for years.
 
-Just like Gruber has long had individually-booked sponsors for Daring Fireball and The Talk Show, which he either books himself or has someone else book for him, it is now time for Web ads to be individually booked and self hosted, as well. If this proves to be an ultimately unsuccessful attempt to breathe life back into a long-doomed business model — and that may well be the case — then so be it.
+Just like Gruber has long had individually-booked sponsorship slots for Daring Fireball and The Talk Show, which he either sells himself or has someone else — an actual person — sell for him, it is now time for Web ads to be individually sold and self hosted, as well. If this proves to be an ultimately unsuccessful attempt to breathe life back into a long-doomed business model — and that may well be the case — then so be it.
 
 If publishers, big and small alike, don’t start to genuinely respect their readers’ time and attention — as opposed to merely pretending to and offloading the actual work to a 3rd party — the only people responsible for their downfall will be themselves.
 

@@ -180,7 +180,7 @@ h1, h2, h4, h5, h6 {
 }
 
 h3 {
-  @extend .sans-serif-font;
+  @extend .sans-serif-font-bold;
   @extend .default-line-height;
   text-rendering: optimizeLegibility;
 }
@@ -277,6 +277,10 @@ blockquote {
     }
   }
 }
+
+blockquote blockquote {
+	margin-left: 0px;
+	}
 
 blockquote > :last-child { 
 	margin-bottom: 0 !important;
@@ -529,7 +533,7 @@ body {
   	max-width: 700px;
   	margin:auto;
     @extend .sans-serif-font-bold;
-    font-size:25px;
+    font-size: 32px;
     text-align:center;
     position:relative;
     padding: 23.683px 0;
@@ -562,12 +566,11 @@ body {
     text-shadow: white 0px 1px 0px;
     
     p {
-      font-size:14px;
+      font-size: 14px;
       @extend .sans-serif-font;
       color: $secondary-text-color;
-      line-height: 20px;
-      line-height: 1rem;
-      text-aling:center;
+      line-height: 28px;
+      text-align:center;
       
       a {
         text-decoration: underline;
@@ -592,16 +595,14 @@ body {
   	margin-left: 0px;
     @extend .sans-serif-font-bold;
     color: $secondary-text-color;
-    font-size: 50.22px;
-    font-size: 2.511rem; /* 2.618 - 0.107 */
+    font-size: 34px;
   }
   
   article {
     margin-bottom: 60px;
     
     h1 {
-      font-size: 38.319px;
-      font-size: 1.916rem;
+      font-size: 42px;
       line-height: 44px;
       line-height: 2.2rem;
       padding-bottom: 4.722px;
@@ -609,11 +610,11 @@ body {
       margin:65px 0 10px 0;
       
       a{
-      	font-size:38px;
+      	font-size:42px;
       	}
     
    	  a.external-url{
-    	font-size:28px;
+    	font-size: 34px;
     	}
     }    
   }
@@ -623,6 +624,7 @@ body {
     @extend .sans-serif-font;
     color: $secondary-text-color;
     display: inline;
+    line-height: 24px;
   }
   
   time:after {
@@ -672,8 +674,6 @@ article {
     @extend .margin-bottom-large;
     
     h1 {
-      font-size: 45.959px;
-      font-size: 2.298rem; /* 1.916 + 0.382 */
       margin-bottom:10px;
       margin-left:200px;
       margin-right:200px;
@@ -692,14 +692,14 @@ article {
     
     h1.external-title{
     margin-bottom:5px;
-  	font-size:30px;
+  	font-size: 34px;
   		a{
-  		font-size:30px;
+  		font-size: 34px;
   		}
   	}
     
     a.external-permalink{
-    	font-size:120%;
+    	font-size: 120%;
     	text-decoration:none;
     }
     
@@ -745,7 +745,7 @@ article {
   
   h1 {
     @extend .margin-bottom-large;
-    font-size: 39px;
+    font-size: 42px;
     margin-top: 65.000px;
     margin-left:200px;
     margin-right:200px;
@@ -753,8 +753,7 @@ article {
   }
    
   h2 {
-    font-size: 30.56px;
-    font-size: 1.528rem; /* 1.618 - 0.09 */
+    font-size: 34px;
     text-transform: none;
     margin-top: 40px;
     margin-bottom:20px;
@@ -766,26 +765,44 @@ article {
   }
   
     h3 {
-    font-size: 18px;
-    //font-size: 1.528rem; /* 1.618 - 0.09 */
+	font-size: 28px;
     text-transform: none;
-    font-weight: bold;
-    margin-top: 25px;
-    margin-bottom:10px;
+    margin-top: 40px;
+    margin-bottom:20px;
     text-shadow: white 0px 1px 0px;
     margin-left:200px;
     margin-right:200px;
-
+    line-height:1.4;
+    
+  }
+  
+    p {
+    @extend .default-line-height;
+    @extend .margin-bottom-large;
+    @extend .font-size-medium;
+    margin-left:200px;
+    margin-right:200px;
+    text-align: left;
+    color:#000;
+    
+    a {
+      text-decoration: underline;
+    }
+  }
+  
+  p > code, li code {
+    @extend .code-keywords;
+    @extend .code-font;
+    font-size: 17.56px;
+    font-size: 0.878rem; /* 0.732 + 0.146 */
   }
   
   ul, ol {
     @extend .block-padding;
     @extend .default-line-height;
+    width:540px;
+    margin:auto;
     margin-bottom: 30px;
-    padding-left: 210px;
-    text-align: left;
-    margin-left: 20px;
-    margin-left: 1rem;
     color:#000;
     
     li {
@@ -819,29 +836,28 @@ article {
   }
   
   blockquote ul, blockquote ol {
-    padding-left: 10px;
-  }	
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 0px;
+    margin-right:25px;
     
-  p {
-    @extend .default-line-height;
-    @extend .margin-bottom-large;
-    @extend .font-size-medium;
-    margin-left:200px;
-    margin-right:200px;
-    text-align: left;
-    color:#000;
-    
-    a {
-      text-decoration: underline;
+        li {
+    	margin-bottom:10px;
+    	}
+
+    li p{
+    	margin-bottom:10px;
+    	margin-right:25px;    	
     }
-  }
-  
-  p > code, li code {
-    @extend .code-keywords;
-    @extend .code-font;
-    font-size: 17.56px;
-    font-size: 0.878rem; /* 0.732 + 0.146 */
-  }
+    	
+    li:last-child, ol:last-child { 
+      margin-bottom: 0; 
+    }	
+    
+    li:last-child p, ol:last-child p { 
+      margin-bottom: 0; 
+    }
+  }	
   
   p.photo-credit{
   	text-align:center;
@@ -980,7 +996,9 @@ img.borderless {
  
    .entry-content .footnotes ol {
  		padding-left:20px;		
-	 	padding-right:20px;		
+	 	padding-right:20px;
+	 	margin-left:20px;		
+	 	margin-right:20px;	
  	}
  	
    .entry-content .footnotes ol p{
@@ -1059,10 +1077,9 @@ img.borderless {
   	}
   	
 article blockquote {
-  	margin: auto;
   	width: 540px;
+  	margin:auto;
   	margin-bottom: 30px;
-
   }
 
 article blockquote p{
@@ -1085,10 +1102,28 @@ article ul p, article ol p {
   }
   
 
- article .entry-content .footnotes {
- 		margin: auto;
- 		width: 600px;		
+article .entry-content .footnotes {
+ 	width:600px;
+ 	margin:auto;
+ 	margin-top:40px;	
  	}
+ 
+ article .entry-content .footnotes ol {
+ 		width: 90%;
+		margin-left: 20px;
+ 		margin-right: 20px;
+ 		padding-left: 20px;
+ 		padding-right: 20px;
+
+ 		p{
+ 			margin-left: 20px;
+ 			margin-right: 20px;
+ 			padding-left: 0px;
+ 			padding-right: 0px;
+ 		}
+ 	}
+ 	
+
 
 article #blog-archives {
 	h2 {
@@ -1111,6 +1146,19 @@ article #blog-archives {
   	margin-bottom: 30px;
   	
   	}
+  	
+  article p {
+  	margin-bottom: 25px;
+  }
+  
+  article h1 {
+  	margin-bottom: 25px;
+	margin-top: 40px;
+  }
+  
+  article h3 {
+  	margin-bottom: 20px;
+  }
 
 }
 
@@ -1196,21 +1244,10 @@ article #blog-archives {
   }
   
   article blockquote {
-  	//margin: auto;
   	width: 90%;
-  	margin-left: 30px;
   	padding-left: 0px;
+  	margin-left: 5%;
   	margin-bottom: 30px;
-
-  }
-  
-  article ul, article ol {
-    //margin: auto;
-  	width: 90%;
-  	//margin-bottom: 20px;
-  	margin-left: 50px;
-    padding-left: 0px;
-    margin-bottom: 30px;
   }
   
   article blockquote p{
@@ -1218,11 +1255,19 @@ article #blog-archives {
   	margin: auto;
   }
   
+  
+  article ul, article ol {
+  	width: 90%;
+  	margin-left: 50px;
+    padding-left: 0px;
+    margin-bottom: 30px;
+  }
+  
   article ul p, article ol p {
   	width: 90%;
   	margin: auto;
-  	padding-left:0px;
-  }
+  	padding-left: 0px;
+  }	
   
   article header p.meta{
 	margin-top: 10px;	
@@ -1249,10 +1294,21 @@ article #blog-archives {
 
   	}
 
- article .entry-content .footnotes {
- 	margin: auto;
- 	width: 90%;
+   article .entry-content .footnotes ol {
+ 		
+ 		margin-left: 10px;
+ 		margin-right: 10px;
+ 		
+ 		p{
+ 			margin-left: 10px;
+ 			margin-right: 10px;
+ 		}
  	}
+ 	
+ 	article .entry-content .footnotes {
+ 		width:90%;
+ 		margin:auto;	
+ 	} 	
 
 article #blog-archives {
     width: 90%;
@@ -1276,11 +1332,57 @@ article #blog-archives {
   	margin-left:0;
   	margin-right:0;
   	}
+  	
+  article p {
+  	margin-bottom: 25px;
+  }
+  
+  article h1 {
+  	margin-bottom: 25px;
+	margin-top: 40px;
+  }
+  
+  article h3 {
+  	margin-bottom: 20px;
+  }
+  
+  footer {
+  	width: 100%;
+  	margin: auto;
+  	margin-bottom: 60px !important;
+  	
+  	p {
+  	 line-height: 170%;
+  	}
+  	
+  }
+  
+  footer[role=contentinfo]{
+  	width:70%;
+  	margin:auto;
+  	}
+  	
+ article blockquote ul, article blockquote ol {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+  	
+  article blockquote ul li p, article blockquote ol li p{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  	
+  	
 }
 
 // ------------------------------
 
 @media screen and (max-width: 480px) {
+	
 	#main {
   		clear: both;
   		width:auto;
@@ -1348,12 +1450,6 @@ article #blog-archives {
     width: 90%;
     margin: auto;
     
-    h2 {
-      margin-top: 40px;
-      font-size: 40.161px;
-      font-size: 2.368rem;
-    }
-    
     article {
     margin-left: 0;
     margin-right:0;
@@ -1381,17 +1477,19 @@ article #blog-archives {
   }
   
   article {
+  	width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+  	
     header {
       h1 {
-        font-size: 35.495px;
-        font-size: 1.916rem;
-        line-height: 37.244px;
-        line-height: 2.196rem; /* 1.916 + 0.28 */
+        font-size: 38px;
+        line-height: 46px;
       }
        h1.external-title{
-       	font-size: 28px;
+       	font-size: 32px;
         a{
-        	font-size: 28px;		
+        	font-size: 32px;		
         }      	
        }
     }
@@ -1412,38 +1510,90 @@ article #blog-archives {
    	-moz-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto;
-    
-      h1 {
-        font-size: 26.559px;
-        font-size: 1.566rem; /* 1.184 + 0.382 */
-        line-height: 32.495px;
-        line-height: 1.916rem;
-      } 
-            
-      h2 {
-        font-size: 23.015px;
-        font-size: 1.357rem; /* 1.184 + 0.173 */
-      }
+      
     }
-   article .entry-content .footnotes {
- 		margin-left:0;
- 		margin-right:0;		
- 	} 
+
   }
+
+   article .entry-content .footnotes ol {
+ 		
+ 		margin-left: 10px;
+ 		margin-right: 10px;
+ 		
+ 		p{
+ 			margin-left: 10px;
+ 			margin-right: 10px;
+ 		}
+ 	}
+ 	
+  	article .entry-content .footnotes {
+ 		width:90%;
+ 		margin:auto;	
+ 	}
+ 	
   
   .blog-index .pagination{
-  	margin-left:0;
+  	margin-left: 0;
   	margin-right:0;
+  	font-size: 28px;
   	}
   	
-  footer{
-  	width: 80%;
+  footer {
+  	width: 100%;
   	margin: auto;
+  	margin-bottom: 60px !important;
   	
   	p {
   	 line-height: 170%;
   	}
   	
+  }
+  
+  footer[role=contentinfo]{
+  	width:70%;
+  	margin:auto;
+  	}
+  
+    article p {
+  	margin-bottom: 25px;
+  }
+  
+  article .entry-content ul, article .entry-content ol {
+  	width: 90%;
+  	margin-left: 20px;
+  	margin-right: 0px;
+  	margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 0px;
+  }
+  
+  article ul p, article ol p {
+  	width: 90%;
+  	margin: auto;
+  	padding-left: 0px;
+  }	
+
+  
+  article h1 {
+  	margin-bottom: 25px;
+	margin-top: 40px;
+  }
+  article h2{
+  	font-size: 32px;
+  	}
+  
+  article h3 {
+  	font-size: 26px;
+  	margin-bottom: 20px;
+  }
+  
+   article blockquote {
+  	width: 90%;
+  	margin-left: 20px;
+  	margin-right: 20px;
+  	margin-bottom: 30px;
+  	padding-left:0px;
+  	padding-right: 0px;
   }
   
 }

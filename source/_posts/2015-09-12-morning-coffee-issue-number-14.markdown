@@ -49,7 +49,7 @@ The future of the company is tied to its ability to create a cohesive ecosystem 
 
 <p class="card-separator">♡</p>
 
-##[Initial thoughts on iPad Pro | Fraser Speirs →](http://www.speirs.org/blog/2015/9/11/initial-thoughts-on-ipad-pro)
+###[Initial thoughts on iPad Pro | Fraser Speirs →](http://www.speirs.org/blog/2015/9/11/initial-thoughts-on-ipad-pro)
 
 Fraser Speirs also shared some very interesting thoughts on the iPad Pro this week. I particularly liked a section he aptly titled “The Microsoft Angle”:
 
