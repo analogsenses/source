@@ -87,7 +87,7 @@ I’m among those who made the comparison, and I’m glad to see I was wrong.
 
 Quite comprehensive comparison between the most popular 35mm lenses available for the Sony E-mount. As I suspected, the [35mm f/1.4 Distagon](http://www.amazon.com/gp/product/B00U29GNBO/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00U29GNBO&linkCode=as2&tag=analogsens-20&linkId=BTCZRSCWMWCIQI46) comes out on top in most cases, but man, that thing is _huge_.
 
-As a 35mm lover, I have to say, I’m really looking forward to owning one of this lenses in the future. If I had to choose right now, my money would probably go to the Distagon despite the size and weight. I’m a sucker for fast aperture lenses, but it appears there’s really no wrong choice here, which is awesome. 
+As a 35mm lover, I have to say, I’m really looking forward to owning one of these lenses in the future. If I had to choose right now, my money would probably go to the Distagon despite the size and weight. I’m a sucker for fast aperture lenses, but it appears there’s really no wrong choice here, which is awesome. 
 
 As a side note, it’s worth mentioning that one of the Sony E-mount system’s greatest strengths is precisely the thing that used to bother me the most about the Micro Four Thirds system: there’s an incredible wealth of excellent 35mm lenses in all shapes, speeds and price points for the Sony system, something the MFT system can’t even begin to touch.
 
