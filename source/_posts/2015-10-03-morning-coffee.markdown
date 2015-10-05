@@ -202,6 +202,6 @@ Time will tell if it becomes one of my go-to lenses, but so far I have to say th
 
 The week is almost over, and now there’s just the rest of the weekend to enjoy, relax, and recharge our batteries. We’re entertaining a visit from a good friend and former roommate of mine, and I’m really looking forward to spending some time with him after not having seen each other for a while. He used to say that recovery is a fundamental part of training, and I couldn’t agree more.
 
-On that note, the reminder of the weekend will probably be spent in interesting conversation, reminiscing about times past with a good drink in hand. After all, that’s what autumn is for.
+On that note, the remainder of the weekend will probably be spent in interesting conversation, reminiscing about times past with a good drink in hand. After all, that’s what autumn is for.
 
 Thanks for reading, and have a wonderful weekend.

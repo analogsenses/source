@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Tesla Model X: This is it"
-date: 2015-10-03 12:35:32 +0200
+date: 2015-10-05 18:05:32 +0200
 comments: true
 categories: 
 - Digital Life
 external-url: http://truckyeah.jalopnik.com/tesla-model-x-this-is-it-1733682873
 ---
 
-The latest electric car from Tesla is finally out:
+The latest electric car from Tesla is out. Andrew P. Collins, writing for _Truck Yeah!_:[^Tesla1]
+
+[^Tesla1]: This piece is from last week. I originally meant to include it in [Saturday’s Morning Coffee](/2015/10/03/morning-coffee/), but I took it out at the last minute because I felt it didn't quite match the general tone of the other pieces.
 
 > Walk toward the car and it will paint you with powerful magic Tesla calls “ultrasonics,” which assess your trajectory, and open the door for you when you want to get in. Sit your butt down, apply brake, and the door will shut without any further input.
 
