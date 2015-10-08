@@ -8,7 +8,7 @@ categories:
 external-url: http://www.theverge.com/2015/10/6/9464449/microsoft-surface-book-pro-4-beautiful
 ---
 
-Vlad Savov, writing for _The Verge:
+Vlad Savov, writing for _The Verge_:
 
 > The very concept of a Microsoft _hardware_ event still feels weird to me. Software constitutes half of Microsoft’s name and most of its DNA, and yet today we were treated to a 110-minute presentation showing off Microsoft’s hardware-engineering acumen. And the whole thing was so breathlessly exciting that it felt more like 110 seconds. The most inspiring, intriguing, and frankly irresistible new hardware today is coming from Microsoft.
 
