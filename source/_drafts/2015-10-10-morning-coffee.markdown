@@ -8,9 +8,23 @@ categories:
 description: "A weekly roundup of interesting writing." 
 ---
 
+Well, what do you know. It's been almost a month since iOS 9 arrived — and content blockers with it — and the sky still hasn't fallen on the heads of all those poor web publishers. Of course, that hasn't stopped anyone from talking and writing about it _ad infinitum_, and the trend continues this week.
 
+This tendency to over-analyze and dissect everything is clearly present in much of the writing that goes up online these days, particularly in the tech community.[^Coffee1] At the end of the day, though, life goes on, and regular people simply don't care much about these things, if at all. 
 
-##Issue \#18:
+[^Coffee1]: Of course, I'm as guilty of this as the next web... see what I did [there](http://thenextweb.com)?
+
+We'll see what the real damage that can be attributed to ad blockers is when the dust settles but for now, in the absence of real, verifiable data from publishers or advertisers, the whole debate has reached a sort of standoff: both sides have clearly made their argument, and now it's up for regular people at large to decide whether ad blockers are worth using or not.
+
+Now, for a more enjoyable time, let's move on to some of this week's most interesting pieces of writing.
+
+##Issue \#18: Life with a Plus-sized iPhone, diversity in tech, gender stereotypes, and apps vs Starbucks
+
+This issue comes packed with cool pieces of writing, as usual. 
+
+First up there are a couple user reports on the iPhone 6S Plus, with different but equally valid and interesting observations. Then we move on to a couple tech-related pieces, including a very controversial one that was taken down by Forbes, and we take a look at gender stereotypes and how they can go both ways. Then it's time for a few photography-related articles and finally, we round out the issue with a few more light-hearted and hopefully fun to read pieces.
+
+Enjoy.
 
 <p class="card-separator">♤</p>
 
@@ -131,6 +145,16 @@ I really can't think of a better piece to close this issue:
 > I know what you’re thinking: this movie has already been made. Why make it again? But hear me out. I really think I could make it better. For one, we could have it be a bit more gritty and realistic. So, instead of the snakes—which, I admit, are a fun touch, if a bit far-fetched—it’d be a normal American Airlines flight, and the fantastical element is introduced when the plane’s just sitting on the tarmac for two hours and forty-five minutes. Yes, that’s right, _just sitting there_. No, the audience doesn’t know the reason; neither do the characters. Instead of dramatic irony, it’s, like, the audience and the characters are bound together by American Airlines in their powerlessness.
 
 Sounds horrifying.
+
+<p class="card-separator">♢</p>
+
+###[Stop comparing app prices to cups of Starbucks | Ben Brooks →](https://brooksreview.net/2015/10/im-really-not-serious/)
+
+Nope, I was wrong. This article from late last night is the perfect way to close the issue. Ben Brooks lists all the reasons why a cup of Starbucks is actually a better value than most apps:
+
+> 4. There was actual work put into this “latte”, and I know the because I saw them do it. Look, my nephew makes “apps” in his basement and I think it’s not very hard because he’s just not very smart. He can’t even carry a conversation — like _at all_. I think he mostly just watches porn down there, but that’s pure speculation as I am far too engaged in my social graph to go check.
+
+The entire piece is full of awesome.
 
 <p class="card-separator">♢</p>
 
