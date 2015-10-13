@@ -60,13 +60,13 @@ I’m nowhere near as optimistic, but I hope Ben is right. The world is clearly 
 
 <p class="card-separator">♢</p>
 
-###[The article on diversity on Twitter that Forbes took down | Brian S. Hall →](https://www.brianshall.com/2015/10/07/the-article-on-diversity-in-tech-that-forbes-took-down/)
+###[The article on diversity in tech that Forbes took down | Brian S. Hall →](https://www.brianshall.com/2015/10/07/the-article-on-diversity-in-tech-that-forbes-took-down/)
 
 Brian S. Hall hit a nerve earlier in the week with a piece that was published on Forbes, provocatively titled _“there is no diversity crisis in tech”_. In it, he argued that Silicon Valley is first and foremost a meritocracy, and that the so-called diversity crisis in tech amounts to little more than people making excuses and not working hard enough to get what they want.
 
-Understandably, the criticism the piece — and Hall himself — garnered was so brutal that Forbes ended up taking the piece down, but not until more than 24 hours had passed and the article had generated tens of thousands of pageviews, which is certainly a bit hypocritical on their part.
+Unsurprisingly, the criticism the piece — and Hall himself — garnered was so brutal that Forbes ended up taking the piece down, but not until more than 24 hours had passed and the article had generated tens of thousands of pageviews, which is certainly a bit hypocritical on their part.
 
-Hall has now reposted the piece on his own site for all the world to see, and he’s standing behind it despite all the controversy.
+Hall has now republished the piece on his own site for all the world to see, and he’s standing behind it despite all the controversy.
 
 Now, I don’t agree with Hall’s point, and I’m convinced the diversity crisis in tech is a very real, very serious problem.
 

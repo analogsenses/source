@@ -244,7 +244,7 @@ Finally, the most important thing when you’re shooting nudes is giving clear, 
 
 ##Final words: practice makes perfect
 
-To circle back to the beginning, working with models can be a challenging experience. As you’ve seen in this piece, there are many different elements to watch out for, and it takes a fair amount of work to do right. That said, it’s also one of the most satisfying experiences in photography, and one of the best ways to learn new tricks and take a couple steps out of your comfort zone.
+To circle back to the beginning, working with models can be a challenging experience. As you’ve seen in this piece, there are many different elements to watch out for, and it takes a fair amount of work to do it right. That said, it’s also one of the most satisfying experiences in photography, and one of the best ways to learn new tricks and take a couple steps out of your comfort zone.
 
 <p class="extra-width"><img src="https://c2.staticflickr.com/4/3692/18873456313_90427beae0_o.jpg" title="Sara"/></p>
 
