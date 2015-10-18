@@ -9,10 +9,6 @@ categories:
 external-url: https://medium.com/backchannel/exclusive-why-apple-is-still-sweating-the-details-on-imac-531a95e50c91
 ---
 
-Great piece by Stephen Levi over at _Backchannel_:
 
-> There are many reasons why Apple is the world’s most valuable company. Tim Cook is celebrated as a supply chain Maester who has internalized the focus on innovation that his predecessor inculcated in the culture. Jony Ive has drawn global raves for making Apple a design icon. Its marketing and branding practices set industry standards. But a visit to the lab where its legacy products — computers — are made suggests another reason.
-
-> Sweating the details.
 
 Via [Daring Fireball](http://daringfireball.net/linked/2015/10/13/levy-apple-behind-the-scenes).
