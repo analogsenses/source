@@ -23,7 +23,7 @@ Some might say those are the words of a smart businessman doing what he needs to
 
 Other people, however, might argue that Marco’s piece is uncharacteristically defensive and somehow feels off right from the start. They would be right, too. 
 
-Both groups have a point, but admittedly I’m leaning more towards the latter. I can’t help but feel that Marco’s second post was unnecessary, mostly because he had already explained his reasons for the change when he announced Overcast 2.0, back on October 9th. This is what he wrote then (emphasis his):
+Both groups have a point, but admittedly I’m leaning more towards the latter. I can’t help but feel that Marco’s second post was unnecessary, mostly because he had already explained his reasons for the change when he announced Overcast 2.0, back on [October 9th](http://www.marco.org/2015/10/09/overcast2). This is what he wrote then (emphasis his):
 
 > **80% of my customers were using an inferior app.** The limited, locked version of Overcast without the purchase sure wasn’t the version I used, it wasn’t a great experience, and it wasn’t my best work.
 
