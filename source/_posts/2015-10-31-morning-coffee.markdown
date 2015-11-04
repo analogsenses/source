@@ -17,7 +17,7 @@ Lucky for you, I happen to have just the thing.
 
 ##Issue \#21: Making a digital scale, the ethics of ad blocking, and the rise of the writer’s space
 
-This week’s issue includes some of the usual nerdy stuff — like how to turn your iPhone into a digital scale — some of the usual important stuff - like why CEOs should fight patent trolls and why online abuse matters — and some of the usual photography stuff — like camera and lens comparisons, packing for Fashion Week, and shooting in New York City.
+This week’s issue includes some of the usual nerdy stuff — like how to turn your iPhone into a digital scale — some of the usual important stuff — like why CEOs should fight patent trolls and why online abuse matters — and some of the usual photography stuff — like camera and lens comparisons, packing for Fashion Week, and shooting in New York City.
 
 Enjoy.
 
@@ -59,7 +59,7 @@ Exactly. You need to read this piece right now.
 
 Richard J. Anderson:
 
-But let’s bring this discussion back down from the cosmic level. In the last year or so, online harassment and abuse has become a major issue, in no small part because of organized campaigns like GamerGate. Despite this, the attitude remains among people who should know better, that online harassment and abuse is less than real and worthy of their time. The idea that a harassed person can just turn off their phone, unplug their computer, and go about their life, blissfully free from the virtual slings and digital arrows of outrageous fortune is a myth. It has been for over a decade. The Internet is real life, not some sort of magical cyberspace that we can slip into and out of at will. It a part of nearly everything we do, and the people who are decidedly not connected to it are a shrinking minority.
+> But let’s bring this discussion back down from the cosmic level. In the last year or so, online harassment and abuse has become a major issue, in no small part because of organized campaigns like GamerGate. Despite this, the attitude remains among people who should know better, that online harassment and abuse is less than real and worthy of their time. The idea that a harassed person can just turn off their phone, unplug their computer, and go about their life, blissfully free from the virtual slings and digital arrows of outrageous fortune is a myth. It has been for over a decade. The Internet is real life, not some sort of magical cyberspace that we can slip into and out of at will. It a part of nearly everything we do, and the people who are decidedly not connected to it are a shrinking minority.
 
 Well said.
 
@@ -142,7 +142,7 @@ That’s not to say it won’t be better than the current version because in fac
 
 In the grand scheme of things, I’m a bit concerned that Apple seems to believe that the answer to all their long-term problems lies in more platforms, more OSs, more App Stores. In less than a year, they’ve added two new OSs to the ecosystem, and if the car rumors are true, we may even see a third one soon.
 
-The potential for innovation that those new platforms create is great, but Apple needs to remember that building new platforms is not about making them popular for a month, or a year but about making them _sustainable_. Apple has never had any problems with popularity, but we’re still not sure how good they are at sustainability.
+The potential for innovation that those new platforms create is great, but Apple needs to remember that building new platforms is not about making them popular for a month, or a year, but about making them _sustainable_. Apple has never had any problems with popularity, but we’re still not sure how good they are at sustainability.
 
 The new Apple TV will probably be OK — people, after all, love on-demand entertainment — but Apple’s relentless drive to build new platforms capable of running 3rd-party apps may end up hurting them in the long run. 
 
@@ -150,9 +150,9 @@ One of the reasons 3rd-party apps for the iPhone were so successful was that bac
 
 Is it really wise to direct so much attention towards a brand-new platform, when the Apple Watch is heading into its first holiday quarter? All those new SDKs inevitably compete for the attention and finite resources of 3rd-party developers, and the lack of focus could well end up being worse than the lack of options.
 
-It’s easy to be bullish on Apple — they are, after all, the most profitable company on the planet — but let’s not forget that so far they haven’t managed to replicate the original App Store success story on any other platforms: the iPad was built largely on the back of the iPhone and is already rapidly losing steam, the Mac App Store is far from a resounding success, and it’s still way too soon to tell 3rd-party if Apple Watch apps will be successful enough to create a sustainable market.
+It’s easy to be bullish on Apple — they are, after all, the most profitable company on the planet — but let’s not forget that so far they haven’t managed to replicate the original App Store success story on any other platforms: the iPad was built largely on the back of the iPhone and is already rapidly losing steam, the Mac App Store is far from a resounding success, and it’s still way too soon to tell if 3rd-party Apple Watch apps will be successful enough to create a sustainable market.
 
-Apple is great at creating platforms and tools for developers to work with, but in their ambition, they may end up overwhelming those developers instead of helping them focus, and that may end up coming back to bite them.
+Apple is great at creating platforms and tools for developers to work with, but in their ambition, it's possible they may be overwhelming those developers instead of helping them focus, and that may end up coming back to bite them.
 
 <p class="card-separator">♢</p>
 
