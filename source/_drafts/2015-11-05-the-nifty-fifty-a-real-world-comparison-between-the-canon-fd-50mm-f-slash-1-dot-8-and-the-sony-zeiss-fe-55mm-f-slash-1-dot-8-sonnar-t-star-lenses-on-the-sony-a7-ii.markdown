@@ -30,6 +30,3 @@ If you can get your hands on the 50mm f/1.4 lens, that's the one I'd recommend g
 
 However, the f/1.8 version was by far the most popular of them all — if you own any FD lenses already, there's a pretty good chance you own it — so that's the one I'll be using in this comparison. 
 
-
-
-
