@@ -3,6 +3,7 @@ layout: post
 title: "Happy Holidays"
 date: 2014-12-24 13:04:06 +0100
 comments: true
+sharing: true
 categories: 
 - Digital Life
 ---

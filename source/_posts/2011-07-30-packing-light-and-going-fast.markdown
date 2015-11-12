@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-07-30 18:09:01+00:00
 layout: post
+sharing: true
 slug: packing-light-and-going-fast
 title: Packing Light and Going Fast
 wordpress_id: 1637172773

@@ -3,6 +3,7 @@ layout: post
 title: "The new iPads and the Retina iMac"
 date: 2014-10-17 18:26:27 +0200
 comments: true
+sharing: true
 categories: 
 - Apple
 description: "Here are my first thoughts on the event held on October 16, 2014, where Apple introduced the new Retina iMac, the iPad Air 2, the iPad mini 3, and upgraded the Mac mini"

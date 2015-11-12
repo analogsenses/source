@@ -3,6 +3,7 @@ layout: post
 title: "Catharsis"
 date: 2014-09-15 16:33:55 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 description: "An article about the act of sharing, dealing with our emotions, facing our fears, and moving on."

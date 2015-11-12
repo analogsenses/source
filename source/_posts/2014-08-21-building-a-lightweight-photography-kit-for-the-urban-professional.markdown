@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2014-08-21 14:16:57+00:00
 layout: post
+sharing: true
 slug: building-a-lightweight-photography-kit-for-the-urban-professional
 title: Building a lightweight photography kit for the urban professional
 wordpress_id: 1637174267

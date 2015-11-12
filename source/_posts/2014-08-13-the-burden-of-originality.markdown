@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2014-08-13 16:50:31+00:00
 layout: post
+sharing: true
 slug: the-burden-of-originality
 title: The burden of originality
 wordpress_id: 1637174213

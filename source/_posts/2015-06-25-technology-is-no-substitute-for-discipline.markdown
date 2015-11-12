@@ -3,6 +3,7 @@ layout: post
 title: "Technology is no substitute for discipline"
 date: 2015-06-25 15:50:12 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Photography

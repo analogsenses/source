@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2010-07-03 21:55:00+00:00
 layout: post
+sharing: true
 slug: '765525210'
 title: 'Review: Moshi iVisor AG - a matte screen protector for the 13" MacBook Pro'
 wordpress_id: 765525210

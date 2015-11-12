@@ -3,6 +3,7 @@ layout: post
 title: "A Geek’s Introduction to Whisky: The Macallan 10 Year Old Sherry Oak"
 date: 2015-02-26 23:05:28 +0100
 comments: true
+sharing: true
 categories: 
 - Whisky
 description: "The youngest denomination from the mythical Macallan distillery lives up to its ambitious name and provides plenty of enjoyment — if you can still find it."

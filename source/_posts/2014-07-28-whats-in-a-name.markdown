@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2014-07-28 08:57:11+00:00
 layout: post
+sharing: true
 slug: whats-in-a-name
 title: What's in a name?
 wordpress_id: 1637174172
@@ -14,22 +15,13 @@ The other day I read a very interesting article by C.A. Pinkham: [The Gratuitous
 
 It starts with these words by William Scott: 
 
-
-
-<blockquote>"Unless a waiter can be a gentleman, democracy is a failure. If any form of service is menial, democracy is a failure. Those Americans who dislike self-respect in servants are undesirable citizens; they belong in an aristocracy."
-</blockquote>
-
-
+> “Unless a waiter can be a gentleman, democracy is a failure. If any form of service is menial, democracy is a failure. Those Americans who dislike self-respect in servants are undesirable citizens; they belong in an aristocracy."
 
 There are few things in this world that upset me more than seeing someone being a jerk to a waiter, or a hotel concierge. Unfortunately, on some occasions the American tipping system actually reinforces this behavior.
 
+> Less than 100 years ago, people genuinely believed that there was no such thing as “menial service” to an American, that waiters could be gentlemen, and that service didn't mean servitude. They believed the idea of tipping was a fundamentally demeaning and classist notion of which they wanted no part. Since then, we appear to have come a long way down a road paved with good intentions.
 
-
-<blockquote>Less than 100 years ago, people genuinely believed that there was no such thing as "menial service" to an American, that waiters could be gentlemen, and that service didn't mean servitude. They believed the idea of tipping was a fundamentally demeaning and classist notion of which they wanted no part. Since then, we appear to have come a long way down a road paved with good intentions.
-
-What the hell went wrong?</blockquote>
-
-
+> What the hell went wrong?
 
 I've always found the act of tipping to be inherently disrespectful. A culture that perpetuates this practice, in my opinion, is one lacking empathy at the most basic of levels. I'm glad to see I'm not the only one with similar thoughts on the matter.
 

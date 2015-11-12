@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2013-10-23 13:40:36+00:00
 layout: post
+sharing: true
 slug: when-you-strike-at-a-king-you-must-kill-him
 title: When you strike at a king, you must kill him
 wordpress_id: 1637173670

@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2010-09-09 21:48:27+00:00
 layout: post
+sharing: true
 slug: '1091677683'
 title: Exciting news
 wordpress_id: 1091677683

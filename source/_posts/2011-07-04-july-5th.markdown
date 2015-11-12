@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-07-04 23:07:54+00:00
 layout: post
+sharing: true
 slug: july-5th
 title: July 5th
 wordpress_id: 1637172694

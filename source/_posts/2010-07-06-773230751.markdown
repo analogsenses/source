@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2010-07-06 00:23:49+00:00
 layout: post
+sharing: true
 slug: '773230751'
 title: 27 years. 9862 days of 100% pure Awesome.
 wordpress_id: 773230751

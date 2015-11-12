@@ -165,7 +165,7 @@ img {
     margin-top: 35px;
     margin-bottom: 35px;
     max-width: 100%;
-  	border: 1px #4b4b4b solid;
+  	border: 1px $text-color solid;
 }
 
 img.screenshot {
@@ -186,7 +186,7 @@ h3 {
 }
 
 a {
-  color: #4b4b4b;
+  color: $text-color;
   text-decoration: none;
   outline: none;
   @include transition(color 0.3s ease 0s);
@@ -201,7 +201,7 @@ a:visited, a.visited {
 
 a.analog, a.analog:visited {
 	display:inline-block;
-	color: #4b4b4b;
+	color: $text-color;
 	//margin-left:80px;
 	padding-top:10px;
 	font-family: "LamplighterScript", "Arial Narrow", "Helvetica Neue", Helvetica, sans-serif;
@@ -217,7 +217,7 @@ a.analog, a.analog:visited {
   
   a.senses, a.senses:visited{
   	display:inline-block;
-    color: #4b4b4b;
+    color: $text-color;
 	font-size: 77px;
 	font-style: normal;
 	font-variant: normal;
@@ -235,7 +235,7 @@ a.analog, a.analog:visited {
     margin-right: auto;
     //width: auto;
     max-width: 100%;
-  	border: 1px #4b4b4b solid;
+  	border: 1px $text-color solid;
   }
 
 center{
@@ -266,7 +266,7 @@ blockquote {
   margin-left:200px;
   border-left: $border-style;
   font-style: normal;
-  color: #4b4b4b;
+  color: $text-color;
   
   footer {
     @extend .default-font;
@@ -402,6 +402,7 @@ nav {
     float: right;
     
     input.search {
+      @extend .default-font;
       @extend .font-size-smallest;
       border: none;
       background-color: #f2f2f2;
@@ -439,7 +440,7 @@ nav {
 
 /*
 nav a, .meta a, h1 a, .copyright a, nav a:visited, .meta a:visited, h1 a:visited, .copyright a:visited {
-  	color:#4b4b4b;
+  	color:$text-color;
 }
 
 nav a:hover, .meta a:hover, h1 a:hover {
@@ -486,7 +487,7 @@ body {
 		    //display:none;
 		    //@extend .default-font;
 		    padding-top:12px;
-		    color: #4B4B4B; 
+		    color: $text-color; 
 		    font-size: 16px;
 			//font-style: normal;
 			font-variant: medium;
@@ -519,6 +520,7 @@ body {
     margin-right: auto;	
     text-align:center;
     margin-bottom:60px;
+    color: $secondary-text-color;
     text-shadow: white 0px 1px 0px;
 
   }
@@ -536,9 +538,8 @@ body {
     font-size: 32px;
     text-align:center;
     position:relative;
-    padding: 23.683px 0;
-    padding: 1.184rem 0;
-    margin-bottom: 30px;
+  	margin-bottom: 50px;
+  	padding-top: 50px;
     border-top: $border-style;
     
     a.prev{
@@ -560,16 +561,17 @@ body {
   // ----- blog footer -----
   
   > footer {
-    @extend .margin-bottom-larger;
+    margin-top: 100px;
+    margin-bottom: 50px;
     clear: both;
     text-align:center;
     text-shadow: white 0px 1px 0px;
     
     p {
-      font-size: 14px;
-      @extend .sans-serif-font;
+      @extend .default-font;
+      font-size: 18px;
       color: $secondary-text-color;
-      line-height: 28px;
+      line-height: 170%;
       text-align:center;
       
       a {
@@ -603,8 +605,7 @@ body {
     
     h1 {
       font-size: 42px;
-      line-height: 44px;
-      line-height: 2.2rem;
+      line-height: 120%;
       padding-bottom: 4.722px;
       padding-bottom: 0.236rem;
       margin:65px 0 10px 0;
@@ -615,6 +616,7 @@ body {
     
    	  a.external-url{
     	font-size: 34px;
+    	line-height: 100%;
     	}
     }    
   }
@@ -706,7 +708,7 @@ article {
     
     p.meta {
       @extend .font-size-medium;
-      @extend .sans-serif-font;
+      @extend .default-font;
       margin-left:200px;
       margin-right:200px;
       color: $secondary-text-color;
@@ -872,6 +874,7 @@ article {
   	text-align:center;
   	margin-top: 50px;
   	margin-bottom: 50px;
+  	color: $secondary-text-color;
   	}
   	
 
@@ -895,11 +898,11 @@ article {
       padding-bottom: 1.916rem;
             
       &:first-child {
-      	@extend .sans-serif-font;
-        font-size:14px;
+      	@extend .default-font;
+        font-size:18px;
         @extend .margin-bottom-large;
-        padding-bottom: 14.637px;
-        padding-bottom: 0.732rem;
+        //padding-bottom: 14.637px;
+        padding-bottom: 20px;
         border-bottom: $border-style;
         
         time:after, span.author:after {
@@ -908,6 +911,23 @@ article {
           padding: 0 0.3rem 0 0.5rem; /* not from scale */
         }
       }
+    }
+    
+    > .sharing {
+    	margin-top: 60px;
+    	margin-bottom: 60px;
+    	text-align: center;
+    	p{
+    	@extend .default-font;
+    	text-align: center;
+    	font-size: 20px;
+    	margin-bottom: 0px;
+    	color: $secondary-text-color;
+    	}
+    	h3{
+    	margin-top: 0px;
+    	}
+    		
     }
     
     a.basic-alignment {
@@ -1016,7 +1036,8 @@ img.borderless {
  		max-width: 700px;
  		margin: auto;
  		}
- 	
+ 
+ 
  	 	
 
 // ------------------------------
@@ -1148,7 +1169,8 @@ article #blog-archives {
   .blog-index .pagination{
   	max-width: 700px;
   	margin: auto;
-  	margin-bottom: 30px;
+  	margin-bottom: 50px;
+  	magrin-top: 50px;
   	
   	}
   	
@@ -1502,6 +1524,10 @@ article #blog-archives {
     footer > p.meta {
       font-size: 16.417px;
       font-size: 0.968rem; /* 0.732 + 0.236 */
+      
+      a.basic-alignment {
+      font-size: 20px;
+      }
     }
     
     .entry-content {

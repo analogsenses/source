@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-07-14 08:30:38+00:00
 layout: post
+sharing: true
 slug: us-labels-finally-embrace-music-streaming
 title: US labels finally embrace music streaming
 wordpress_id: 1637172741

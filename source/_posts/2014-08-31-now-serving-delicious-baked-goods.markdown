@@ -3,6 +3,7 @@ layout: post
 title: "Now serving delicious baked goods"
 date: 2014-08-31 12:59:01 +0200
 comments: true
+sharing: true
 categories:
 - Digital Life
 - Development 

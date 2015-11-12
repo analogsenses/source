@@ -3,6 +3,7 @@ layout: post
 title: "The ATP World Tour re-launches flagship website — and fixes exactly nothing"
 date: 2015-06-15 15:16:05 +0200
 comments: true
+sharing: true
 categories: 
 - Tennis
 - Digital Life

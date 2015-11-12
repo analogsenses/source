@@ -3,6 +3,7 @@ layout: post
 title: "First contact: a walk around Plasencia with the Sony A7 Mark II"
 date: 2015-08-18 18:37:19 +0200
 comments: true
+sharing: true
 categories: 
 - Photography
 - Digital Life

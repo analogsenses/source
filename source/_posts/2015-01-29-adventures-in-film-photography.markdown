@@ -3,6 +3,7 @@ layout: post
 title: "Adventures in Film Photography"
 date: 2015-01-29 18:55:54 +0100
 comments: true
+sharing: true
 categories: 
 - Photography
 description: "In this new article series on Analog Senses I explore the journey of learning to shoot film, the many ways in which I prefer it to digital photography, and the different approach and mindset it requires."

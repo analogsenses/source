@@ -3,6 +3,7 @@ layout: post
 title: "The Apple Watch as a remote for Apple TV"
 date: 2014-11-26 11:29:32 +0100
 comments: true
+sharing: true
 categories: 
 - Apple
 ---

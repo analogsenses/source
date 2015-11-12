@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2015-01-19 23:40:42 +0100
 layout: post
+sharing: true
 permalink: /2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/
 title: Upgrading my Early-2008, 24-inch iMac with an SSD
 wordpress_id: 1637174036

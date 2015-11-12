@@ -3,6 +3,7 @@ layout: post
 title: "Faster horses"
 date: 2014-10-02 17:01:07 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Apple

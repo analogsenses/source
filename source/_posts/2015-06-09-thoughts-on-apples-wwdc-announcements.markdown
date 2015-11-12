@@ -3,6 +3,7 @@ layout: post
 title: "Thoughts on Apple’s WWDC announcements"
 date: 2015-06-09 16:31:59 +0200
 comments: true
+sharing: true
 categories: 
 - Apple
 description: "Apple’s WWDC keynote was jam-packed with new announcements. Let’s take a closer look at what’s coming."

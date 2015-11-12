@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-10-05 11:17:30+00:00
 layout: post
+sharing: true
 slug: s-stands-for-siri
 title: '"S" stands for "Siri"'
 wordpress_id: 1637172892

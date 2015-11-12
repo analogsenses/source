@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2013-10-07 16:53:24+00:00
 layout: post
+sharing: true
 slug: understanding-apple-john-grubers-review-of-the-iphone-3g-revisited-5-years-later
 title: 'Understanding Apple: John Gruber''s review of the iPhone 3G revisited 5 years
   later'

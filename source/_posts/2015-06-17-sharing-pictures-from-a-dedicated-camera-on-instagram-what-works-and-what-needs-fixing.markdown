@@ -3,6 +3,7 @@ layout: post
 title: "Sharing pictures from a dedicated camera on Instagram: what works and what needs fixing"
 date: 2015-06-17 20:01:33 +0200
 comments: true
+sharing: true
 categories: 
 - Photography
 - Digital Life

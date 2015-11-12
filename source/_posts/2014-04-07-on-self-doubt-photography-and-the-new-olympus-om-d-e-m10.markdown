@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2014-04-07 22:24:32+00:00
 layout: post
+sharing: true
 slug: on-self-doubt-photography-and-the-new-olympus-om-d-e-m10
 title: On self-doubt, photography and the new Olympus OM-D E-M10
 wordpress_id: 1637173931

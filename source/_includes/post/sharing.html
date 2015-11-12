@@ -1,11 +1,16 @@
 <div class="sharing">
+  <p>Share this article:</p>
   {% if site.twitter_tweet_button %}
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ page.url }}" data-via="{{ site.twitter_user }}" data-counturl="{{ site.url }}{{ page.url }}" >Tweet</a>
-  {% endif %}
-  {% if site.google_plus_one %}
-  <div class="g-plusone" data-size="{{ site.google_plus_one_size }}"></div>
+<h3><a class="sharing-twitter-link" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text=“{{ page.title }}”%20by%20@analogsenses" title="Share on Twitter">Twitter</a>
   {% endif %}
   {% if site.facebook_like %}
-    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+ | <a class="sharing-facebook-link" href="https://www.facebook.com/dialog/share?app_id= 132875883452395&display=popup&href={{ site.url }}{{ page.url }}&redirect_uri={{ site.url }}{{ page.url }}" title="Share on Facebook" target="_blank">Facebook</a>
   {% endif %}
+  {% if site.google_plus_one %}
+ | <a class="sharing-googleplus-link" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" target="_blank">Google+</a>
+  {% endif %}
+  {% if site.email_sharing %}
+ | <a class="sharing-email-link" href="mailto:?subject={{ page.title }}%20by%20Álvaro%20Serrano&body={{ site.url }}{{ page.url }}" title="Share via email" target="_blank">Email</a>
+  {% endif %}
+  </h3>
 </div>

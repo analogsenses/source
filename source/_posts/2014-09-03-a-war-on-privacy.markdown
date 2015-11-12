@@ -3,6 +3,7 @@ layout: post
 title: "A war on privacy"
 date: 2014-09-03 18:44:10 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 ---

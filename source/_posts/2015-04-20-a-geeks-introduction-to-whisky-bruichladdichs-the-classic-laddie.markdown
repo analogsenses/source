@@ -3,6 +3,7 @@ layout: post
 title: "A Geek’s Introduction to Whisky: Bruichladdich’s The Classic Laddie"
 date: 2015-04-20 17:09:00 +0200
 comments: true
+sharing: true
 categories: 
 - Whisky
 description: "Jam-packed with the salty scent of the Islay coast, this wonderful single malt will no doubt send you on an unforgettable trip down memory lane."

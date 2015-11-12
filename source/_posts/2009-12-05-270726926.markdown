@@ -3,6 +3,8 @@ author: alvaroserrano
 comments: false
 date: 2009-12-05 21:03:20+00:00
 layout: post
+sharing: true
+sharing: true
 slug: '270726926'
 title: You are not done yet
 wordpress_id: 270726926

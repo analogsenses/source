@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2010-01-05 02:37:33+00:00
 layout: post
+sharing: true
 slug: '316635109'
 title: How To Survive a Creativity Storm
 wordpress_id: 316635109

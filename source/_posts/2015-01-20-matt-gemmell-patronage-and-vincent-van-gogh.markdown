@@ -3,6 +3,7 @@ layout: post
 title: "Matt Gemmell, patronage, and Vincent Van Gogh"
 date: 2015-01-20 23:37:39 +0100
 comments: true
+sharing: true
 categories: 
 - Digital Life
 ---

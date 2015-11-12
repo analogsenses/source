@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2010-11-21 22:39:00+00:00
 layout: post
+sharing: true
 slug: '1637171357'
 title: Álvaro Serrano, by David Lanham
 wordpress_id: 1637171357

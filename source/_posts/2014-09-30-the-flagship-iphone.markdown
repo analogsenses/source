@@ -3,6 +3,7 @@ layout: post
 title: "The flagship iPhone"
 date: 2014-09-30 14:26:01 +0200
 comments: true
+sharing: true
 categories: 
 - Tech
 - Apple

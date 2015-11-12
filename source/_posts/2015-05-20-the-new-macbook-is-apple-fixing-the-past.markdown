@@ -3,6 +3,7 @@ layout: post
 title: "The new MacBook is Apple fixing the past"
 date: 2015-05-20 16:00:03 +0200
 comments: true
+sharing: true
 categories: 
 - Apple
 description: "Seven years later, Apple is doubling down on the vision that drove them to create the original MacBook Air in 2008."

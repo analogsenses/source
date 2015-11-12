@@ -3,6 +3,7 @@ layout: post
 title: "Five Years Old"
 date: 2014-11-10 13:35:56 +0100
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Writing

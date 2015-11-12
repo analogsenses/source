@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2010-12-29 17:58:18+00:00
 layout: post
+sharing: true
 slug: new-york-city
 title: New York City
 wordpress_id: 1637171611

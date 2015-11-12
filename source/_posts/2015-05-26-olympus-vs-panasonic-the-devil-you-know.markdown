@@ -3,6 +3,7 @@ layout: post
 title: "Olympus vs Panasonic: the devil you know"
 date: 2015-05-26 16:30:03 +0200
 comments: true
+sharing: true
 categories: 
 - Photography
 description: "Olympus cameras work better with Olympus lenses and Panasonic cameras work better with Panasonic lenses. Or do they?"

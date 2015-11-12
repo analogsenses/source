@@ -3,6 +3,7 @@ layout: post
 title: "José Mujica, sobriety and the two-week test"
 date: 2014-12-12 00:05:34 +0100
 comments: true
+sharing: true
 categories: 
 - Digital Life
 description: "Sobriety as a lifestyle is difficult, and being responsible consumers sometimes requires a bit of help."

@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2013-05-21 09:12:24+00:00
 layout: post
+sharing: true
 slug: the-new-flickr
 title: The new Flickr
 wordpress_id: 1637173407

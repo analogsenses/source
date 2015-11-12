@@ -3,6 +3,7 @@ layout: post
 title: "On bias, dishonesty, and native advertising"
 date: 2015-09-24 15:14:21 +0200
 comments: true
+sharing: true
 categories: 
 - Advertising
 - Digital Life

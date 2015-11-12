@@ -3,6 +3,7 @@ layout: post
 title: "Product photography on the cheap: creating a studio-like environment at home"
 date: 2015-08-07 12:36:01 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Photography

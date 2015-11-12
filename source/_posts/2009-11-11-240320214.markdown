@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2009-11-11 14:47:00+00:00
 layout: post
+sharing: true
 slug: '240320214'
 title: The old and the new
 wordpress_id: 240320214

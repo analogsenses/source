@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2013-09-25 08:45:42+00:00
 layout: post
+sharing: true
 slug: the-myth-of-steve-jobs-constant-breakthroughs
 title: The Myth of Steve Jobs’ Constant Breakthroughs | TIME
 wordpress_id: 1637173592

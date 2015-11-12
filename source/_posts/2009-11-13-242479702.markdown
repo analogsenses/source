@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2009-11-13 11:33:00+00:00
 layout: post
+sharing: true
 slug: '242479702'
 title: Experimenting a bit
 wordpress_id: 242479702

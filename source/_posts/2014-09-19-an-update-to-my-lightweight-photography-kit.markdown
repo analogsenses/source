@@ -3,6 +3,7 @@ layout: post
 title: "An update to my lightweight photography kit"
 date: 2014-09-19 15:43:52 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Photography

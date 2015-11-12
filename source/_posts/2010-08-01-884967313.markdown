@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2010-08-01 01:28:50+00:00
 layout: post
+sharing: true
 slug: '884967313'
 title: A really bad case of Gadget Lust
 wordpress_id: 884967313

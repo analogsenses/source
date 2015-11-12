@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-02-28 00:51:05+00:00
 layout: post
+sharing: true
 slug: coffee-backups-and-one-really-bad-morning
 title: Coffee, backups and one *really* bad morning
 wordpress_id: 1637171644

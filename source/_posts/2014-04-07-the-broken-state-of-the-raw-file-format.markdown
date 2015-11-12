@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2014-04-07 22:25:05+00:00
 layout: post
+sharing: true
 slug: the-broken-state-of-the-raw-file-format
 title: The broken state of the RAW file format
 wordpress_id: 1637173947

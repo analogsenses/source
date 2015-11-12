@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-08-27 19:41:35+00:00
 layout: post
+sharing: true
 slug: beginnings
 title: Beginnings
 wordpress_id: 1637172823

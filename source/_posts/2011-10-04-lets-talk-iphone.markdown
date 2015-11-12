@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-10-04 13:33:57+00:00
 layout: post
+sharing: true
 slug: lets-talk-iphone
 title: '"Let''s talk iPhone"'
 wordpress_id: 1637172857

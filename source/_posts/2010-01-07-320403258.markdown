@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2010-01-07 06:37:00+00:00
 layout: post
+sharing: true
 slug: '320403258'
 title: Enter The Kingdom of HOLY SHIT
 wordpress_id: 320403258

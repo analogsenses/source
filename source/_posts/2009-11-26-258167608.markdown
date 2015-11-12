@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2009-11-26 11:43:11+00:00
 layout: post
+sharing: true
 slug: '258167608'
 title: London, Baby!!
 wordpress_id: 258167608

@@ -3,6 +3,7 @@ layout: post
 title: "The problem with High Frame Rate (HFR) films"
 date: 2014-12-04 18:20:45 +0100
 comments: true
+sharing: true
 categories: 
 - Movies
 description: "High Frame Rate (HFR) films don't look real, and more importantly, they don't feel real."

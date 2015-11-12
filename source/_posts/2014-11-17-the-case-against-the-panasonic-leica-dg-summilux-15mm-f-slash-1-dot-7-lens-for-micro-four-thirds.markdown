@@ -3,6 +3,7 @@ layout: post
 title: "The case against the Panasonic Leica DG Summilux 15mm f/1.7 lens for Micro Four Thirds"
 date: 2014-11-17 10:54:00 +0100
 comments: true
+sharing: true
 categories: 
 - Photography
 description: "The newest Leica-branded lens from Panasonic looks like a winner, but there's more to it than that"

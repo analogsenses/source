@@ -3,6 +3,7 @@ layout: post
 title: "On cameras, smartphones, smug superiority and the geek’s pissing contest"
 date: 2015-04-09 16:13:59 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Photography

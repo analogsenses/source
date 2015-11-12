@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2012-07-12 11:44:26+00:00
 layout: post
+sharing: true
 slug: on-the-new-business-model-of-the-brooks-review
 title: On the new business model of The Brooks Review
 wordpress_id: 1637173199

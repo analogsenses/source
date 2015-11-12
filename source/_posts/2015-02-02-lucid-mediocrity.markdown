@@ -3,6 +3,7 @@ layout: post
 title: "Lucid Mediocrity"
 date: 2015-02-02 12:17:12 +0100
 comments: true
+sharing: true
 categories: 
 - Digital Life
 description: "Your inability to produce great creative work is probably not due to a lack of talent on your part, but you need to give yourself permission to suck."

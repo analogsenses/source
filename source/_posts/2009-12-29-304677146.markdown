@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2009-12-29 01:48:55+00:00
 layout: post
+sharing: true
 slug: '304677146'
 title: 2010 Checklist
 wordpress_id: 304677146

@@ -3,6 +3,7 @@ layout: post
 title: "Thoughts on the iPhone 6, 6 Plus, Apple Pay and the Apple Watch"
 date: 2014-09-10 12:13:59 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Apple

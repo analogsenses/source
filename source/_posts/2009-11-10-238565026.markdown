@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2009-11-10 00:38:00+00:00
 layout: post
+sharing: true
 slug: '238565026'
 title: First Post - The Manifesto
 wordpress_id: 238565026

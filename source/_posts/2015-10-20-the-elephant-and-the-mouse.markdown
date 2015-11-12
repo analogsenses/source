@@ -3,6 +3,7 @@ layout: post
 title: "The elephant and the mouse"
 date: 2015-10-20 20:41:55 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 ---

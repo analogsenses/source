@@ -3,6 +3,7 @@ layout: post
 title: "Thoughts On Twitter"
 date: 2014-10-22 12:47:13 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 description: "After they announced a new developer platform, it's time to think about Twitter the service vs Twitter the company"

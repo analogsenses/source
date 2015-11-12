@@ -3,6 +3,7 @@ layout: post
 title: "Apple doesn’t design for you"
 date: 2015-05-01 18:04:01 +0200
 comments: true
+sharing: true
 categories: 
 - Apple
 description: "Tech nerds are increasingly unable to understand Apple’s products and design decisions, because they’re no longer Apple’s core audience."

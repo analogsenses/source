@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2012-07-05 10:54:12+00:00
 layout: post
+sharing: true
 slug: 29-and-counting
 title: 29 and counting...
 wordpress_id: 1637173189

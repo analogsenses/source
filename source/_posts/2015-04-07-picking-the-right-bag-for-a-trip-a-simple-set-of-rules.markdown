@@ -3,6 +3,7 @@ layout: post
 title: "Picking the right bag for a trip: a simple set of rules"
 date: 2015-04-07 21:00:35 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Travel

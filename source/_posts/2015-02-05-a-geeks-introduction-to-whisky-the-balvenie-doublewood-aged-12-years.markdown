@@ -3,6 +3,7 @@ layout: post
 title: "A Geek’s Introduction to Whisky: The Balvenie DoubleWood Aged 12 Years"
 date: 2015-02-05 13:17:48 +0100
 comments: true
+sharing: true
 categories: 
 - Whisky
 description: "After spending some quality time with The Balvenie DoubleWood Aged 12 Years, I have found my new social drink of choice."

@@ -3,6 +3,7 @@ layout: post
 title: "A website for tinkerers"
 date: 2015-03-18 21:00:12 +0100
 comments: true
+sharing: true
 categories: 
 - Digital Life
 description: "I may never figure out what Analog Senses is about, but at least I know who it’s for."

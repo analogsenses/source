@@ -3,6 +3,7 @@ layout: post
 title: "The Arrival of Spring: Street Photography in Madrid with the Olympus 17mm f/1.8 lens"
 date: 2015-03-12 01:14:24 +0100
 comments: true
+sharing: true
 categories: 
 - Photography
 description: "I finally own a 35mm (FF equivalent) lens for my E-M10, and what better way to get to know it than by shooting with it in the streets of Madrid during the first few warm days of the year."

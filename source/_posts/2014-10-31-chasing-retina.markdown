@@ -3,6 +3,7 @@ layout: post
 title: "Chasing Retina"
 date: 2014-10-31 11:24:45 +0100
 comments: true
+sharing: true
 categories: 
 - Apple
 description: "The Retina iMac is gorgeous but, is it for you?"

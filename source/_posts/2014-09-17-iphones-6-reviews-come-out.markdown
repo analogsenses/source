@@ -3,6 +3,7 @@ layout: post
 title: "The reviews of the iPhones 6 are out"
 date: 2014-09-17 14:02:56 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Apple

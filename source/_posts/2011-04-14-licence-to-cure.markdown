@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-04-14 14:16:02+00:00
 layout: post
+sharing: true
 slug: licence-to-cure
 title: Licence to Cure
 wordpress_id: 1637172273

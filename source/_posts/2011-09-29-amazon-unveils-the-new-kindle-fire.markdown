@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-09-29 16:46:46+00:00
 layout: post
+sharing: true
 slug: amazon-unveils-the-new-kindle-fire
 title: Amazon unveils the new Kindle Fire
 wordpress_id: 1637172846

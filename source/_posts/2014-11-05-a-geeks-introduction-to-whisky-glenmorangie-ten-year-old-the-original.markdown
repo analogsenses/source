@@ -3,6 +3,7 @@ layout: post
 title: "A Geek's Introduction to Whisky: Glenmorangie Ten Year Old - The Original"
 date: 2014-11-05 19:08:41 +0100
 comments: true
+sharing: true
 categories: 
 - Whisky
 description: "The first truly enjoyable single malt that I've tried. Soft, sweet and mellow, it practically drinks itself."

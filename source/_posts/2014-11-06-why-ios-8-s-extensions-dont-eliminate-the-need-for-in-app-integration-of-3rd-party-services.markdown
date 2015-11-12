@@ -3,6 +3,7 @@ layout: post
 title: "Why iOS 8's Extensions don't eliminate the need for in-app integration of 3rd-party services"
 date: 2014-11-06 12:45:32 +0100
 comments: true
+sharing: true
 categories: 
 - Apple
 ---

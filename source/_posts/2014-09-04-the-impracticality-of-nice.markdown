@@ -3,6 +3,7 @@ layout: post
 title: "The impracticality of nice"
 date: 2014-09-04 22:15:45 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 ---

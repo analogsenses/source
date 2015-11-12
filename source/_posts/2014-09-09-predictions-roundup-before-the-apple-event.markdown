@@ -3,6 +3,7 @@ layout: post
 title: "Predictions roundup before the Apple event"
 date: 2014-09-09 11:40:25 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Apple

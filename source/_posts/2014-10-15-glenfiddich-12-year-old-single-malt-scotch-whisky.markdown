@@ -3,6 +3,7 @@ layout: post
 title: "A Geek's Introduction to Whisky: Glenfiddich 12 Year Old"
 date: 2014-10-15 18:21:27 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Whisky

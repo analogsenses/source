@@ -3,6 +3,7 @@ layout: post
 title: "On craftsmanship, consumerism and zombie iPads"
 date: 2014-10-28 22:00:35 +0100
 comments: true
+sharing: true
 categories:
 - Digital Life
 description: "To buy cheap is to buy often, but quality items endure."

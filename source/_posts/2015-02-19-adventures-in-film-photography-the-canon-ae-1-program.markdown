@@ -3,6 +3,7 @@ layout: post
 title: "Adventures in Film Photography: The Canon AE-1 Program"
 date: 2015-02-19 23:50:56 +0100
 comments: true
+sharing: true
 categories: 
 - Photography
 description: "The Canon AE-1 Program is manual photography at its finest, and may very well be the perfect camera to get started with shooting film."

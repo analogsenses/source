@@ -3,6 +3,7 @@ layout: post
 title: "Apple featured in today’s ludicrous patent infringement case"
 date: 2015-02-25 15:06:17 +0100
 comments: true
+sharing: true
 categories: 
 - Apple
 ---

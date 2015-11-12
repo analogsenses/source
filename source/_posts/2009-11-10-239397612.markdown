@@ -4,6 +4,7 @@ comments: false
 date: 2009-11-10 19:54:00+00:00
 layout: post
 slug: '239397612'
+sharing: true
 title: Paying Tribute
 wordpress_id: 239397612
 categories:

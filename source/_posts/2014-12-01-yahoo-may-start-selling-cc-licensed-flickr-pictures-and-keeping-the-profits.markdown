@@ -3,6 +3,7 @@ layout: post
 title: "Yahoo may start selling Creative Commons-licensed Flickr pictures — and keeping the profits"
 date: 2014-12-01 15:04:16 +0100
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Photography

@@ -3,6 +3,7 @@ layout: post
 title: "Not-so-brief thoughts on Apple’s ‘Hey, Siri’ event"
 date: 2015-09-10 23:08:00 +0200
 comments: true
+sharing: true
 categories: 
 - Apple
 - Digital Life

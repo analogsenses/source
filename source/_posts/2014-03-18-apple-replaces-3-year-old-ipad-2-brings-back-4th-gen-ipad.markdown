@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2014-03-18 12:41:24+00:00
 layout: post
+sharing: true
 slug: apple-replaces-3-year-old-ipad-2-brings-back-4th-gen-ipad
 title: Apple replaces 3-year-old iPad 2, brings back 4th-gen iPad
 wordpress_id: 1637173864

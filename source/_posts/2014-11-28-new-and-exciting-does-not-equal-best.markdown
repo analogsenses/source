@@ -3,6 +3,7 @@ layout: post
 title: "New and exciting does not equal best"
 date: 2014-11-28 13:09:12 +0100
 comments: true
+sharing: true
 categories: 
 - Photography
 description: "In photography, as in many things, newer products are not always better."

@@ -3,6 +3,7 @@ layout: post
 title: "Morning Coffee"
 date: 2015-10-24 11:16:22 +0200
 comments: true
+sharing: true
 categories: 
 - Weekly Linkage
 description: "A weekly roundup of interesting writing." 

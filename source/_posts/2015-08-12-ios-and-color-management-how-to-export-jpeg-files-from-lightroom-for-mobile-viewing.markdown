@@ -3,6 +3,7 @@ layout: post
 title: "iOS and color management: why your pictures sometimes look weird on mobile devices (and how to fix them)"
 date: 2015-08-12 19:20:50 +0200
 comments: true
+sharing: true
 categories: 
 - Photography
 description: "iOS is very particular when it comes to color management, which is why some of your pictures look weird when viewed on mobile devices. Here’s what you need to do to avoid that."

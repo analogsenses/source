@@ -3,6 +3,7 @@ layout: post
 title: "Morning Coffee, issue #3"
 date: 2015-06-20 11:19:37 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Weekly Linkage

@@ -3,6 +3,7 @@ layout: post
 title: "The reviews of the new iPads are out"
 date: 2014-10-22 11:51:54 +0200
 comments: true
+sharing: true
 categories: 
 - Apple
 ---

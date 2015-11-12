@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2012-02-27 14:15:53+00:00
 layout: post
+sharing: true
 slug: my-name-is-alvaro-and-i-am-an-addict
 title: My name is Álvaro, and I am an addict
 wordpress_id: 1637173076

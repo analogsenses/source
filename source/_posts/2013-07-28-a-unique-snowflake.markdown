@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2013-07-28 17:57:47+00:00
 layout: post
+sharing: true
 slug: a-unique-snowflake
 title: A unique snowflake
 wordpress_id: 1637173493

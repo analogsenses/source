@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2010-06-07 18:35:00+00:00
 layout: post
+sharing: true
 slug: '672728059'
 title: You have a mission
 wordpress_id: 672728059

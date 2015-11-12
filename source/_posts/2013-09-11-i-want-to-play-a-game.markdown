@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2013-09-11 14:03:26+00:00
 layout: post
+sharing: true
 slug: i-want-to-play-a-game
 title: I want to play a game...
 wordpress_id: 1637173541

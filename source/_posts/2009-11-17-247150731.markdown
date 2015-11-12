@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2009-11-17 11:35:19+00:00
 layout: post
+sharing: true
 slug: '247150731'
 title: Scattered Thoughts
 wordpress_id: 247150731

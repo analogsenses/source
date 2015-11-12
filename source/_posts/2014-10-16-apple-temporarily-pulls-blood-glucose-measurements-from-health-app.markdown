@@ -3,6 +3,7 @@ layout: post
 title: "Apple temporarily pulls blood glucose measurements from Health app"
 date: 2014-10-16 14:37:33 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Apple

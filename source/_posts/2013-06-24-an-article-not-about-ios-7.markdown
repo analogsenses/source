@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2013-06-24 16:38:37+00:00
 layout: post
+sharing: true
 slug: an-article-not-about-ios-7
 title: An article not about iOS 7
 wordpress_id: 1637173449

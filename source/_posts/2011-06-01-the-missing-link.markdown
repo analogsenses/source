@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-06-01 10:40:21+00:00
 layout: post
+sharing: true
 slug: the-missing-link
 title: The missing link
 wordpress_id: 1637172643

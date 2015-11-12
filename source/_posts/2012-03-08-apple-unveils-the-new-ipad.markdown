@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2012-03-08 11:32:29+00:00
 layout: post
+sharing: true
 slug: apple-unveils-the-new-ipad
 title: Apple Unveils The New iPad
 wordpress_id: 1637173097

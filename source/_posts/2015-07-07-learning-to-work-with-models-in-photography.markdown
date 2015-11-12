@@ -3,6 +3,7 @@ layout: post
 title: "Learning to work with models in photography"
 date: 2015-07-07 19:15:05 +0200
 comments: true
+sharing: true
 categories: 
 - Digital Life
 - Photography

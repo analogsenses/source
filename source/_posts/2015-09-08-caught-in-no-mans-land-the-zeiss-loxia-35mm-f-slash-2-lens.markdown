@@ -3,6 +3,7 @@ layout: post
 title: "Caught in no-man’s land: the Zeiss Loxia 35mm f/2 lens"
 date: 2015-09-08 17:54:22 +0200
 comments: true
+sharing: true
 categories: 
 - Photography
 description: "The Zeiss Loxia seems to be an excellent lens, just not a lens anyone should buy."

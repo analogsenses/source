@@ -3,6 +3,7 @@ layout: post
 title: "A Geek's Introduction to Whisky: Glenmorangie 12 Year Old - The Quinta Ruban"
 date: 2014-12-16 11:44:33 +0100
 comments: true
+sharing: true
 categories: 
 - Whisky
 description: "More aromatic, stronger in flavor and bolder in character than The Original, The Quinta Ruban somehow falls short of the overall charm of its younger sibling."

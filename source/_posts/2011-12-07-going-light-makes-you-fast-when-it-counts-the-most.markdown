@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: true
 date: 2011-12-07 18:37:27+00:00
 layout: post
+sharing: true
 slug: going-light-makes-you-fast-when-it-counts-the-most
 title: Going light makes you fast (when it matters)
 wordpress_id: 1637172990

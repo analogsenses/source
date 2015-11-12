@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-10-06 08:50:55+00:00
 layout: post
+sharing: true
 slug: heres-to-the-crazy-ones
 title: Here's to the crazy ones
 wordpress_id: 1637172919

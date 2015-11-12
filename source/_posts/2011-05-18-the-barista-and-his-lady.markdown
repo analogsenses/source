@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-05-18 22:03:42+00:00
 layout: post
+sharing: true
 slug: the-barista-and-his-lady
 title: The barista and his lady
 wordpress_id: 1637172569

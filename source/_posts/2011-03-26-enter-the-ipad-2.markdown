@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2011-03-26 01:14:19+00:00
 layout: post
+sharing: true
 slug: enter-the-ipad-2
 title: Enter the iPad 2
 wordpress_id: 1637172065

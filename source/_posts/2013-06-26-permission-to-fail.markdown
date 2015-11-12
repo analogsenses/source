@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2013-06-26 09:36:17+00:00
 layout: post
+sharing: true
 slug: permission-to-fail
 title: Permission to fail
 wordpress_id: 1637173461

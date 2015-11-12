@@ -3,6 +3,7 @@ author: alvaroserrano
 comments: false
 date: 2010-02-21 19:51:31+00:00
 layout: post
+sharing: true
 slug: '402507814'
 title: On Evasion and Sanity
 wordpress_id: 402507814

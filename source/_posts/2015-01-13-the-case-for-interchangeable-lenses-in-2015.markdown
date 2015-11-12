@@ -3,6 +3,7 @@ layout: post
 title: "The case for interchangeable lenses in 2015"
 date: 2015-01-13 01:30:27 +0100
 comments: true
+sharing: true
 categories: 
 - Photography
 description: "Fixed-lens compact digital cameras are now better than ever but, for some uses, interchangeable lenses are still the best way to go."
