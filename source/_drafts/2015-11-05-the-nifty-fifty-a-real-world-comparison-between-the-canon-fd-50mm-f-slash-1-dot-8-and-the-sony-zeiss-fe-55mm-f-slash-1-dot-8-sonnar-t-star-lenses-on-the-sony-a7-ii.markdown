@@ -45,15 +45,28 @@ Now, since the Canon lens doesn't have electrical contacts to relay information 
 
 ##Image quality
 
-This is a real-world comparison, so I'm not going to be micro analyzing every small aspect of image quality or showing any sharpness charts. If that's what you're after, let me make things simple for you: the Sony lens is better. Like, _way_ better. It outperforms the Canon on every single metric. That's not the question here.
+This is a real-world comparison, so I won't be micro analyzing every small aspect of image quality or showing any sharpness charts. If that's what you're after, let me make things simple for you: the Sony lens is better. Like, _way_ better. It outperforms the Canon on every single metric. That's not the point of this article.
 
-The question is, is the Sony better _in ways that matter to you?_ 
+The point is, _is the Sony lens better in ways that actually matter to you?_ 
 
-If all you want is to shoot nice pictures to put on Facebook, or on your website, chances are they'll be considerably downsized and severely compressed as JPEGs. In that case, is the difference between the two lenses really that noticeable? 
+If all you want is to shoot nice pictures to put up online, chances are they'll be considerably downsized and suffer from severe JPEG compression. In that case, is the difference between the two lenses really that noticeable? 
 
 Let's take a look.
 
+On Analog Senses, images are resized to be 2,000 pixels wide, and file sizes are typically kept under 250 KB. They are then displayed at 50% size to account for Retina displays. This is what that looks like:
 
+
+That doesn't look too bad, and I'd even argue that these parameters are conservative for most sites — I see plenty of websites with much smaller and more compressed images, and nobody seems to have a problem with that.
+
+Now, at this size it's virtually impossible to distinguish any sharpness differences between both lenses. You may be able to tell them apart by looking at their bokeh or their distortion, but for all intents and purposes, while the Sony lens is clearly much sharper, all that extra sharpness just doesn't seem to matter much in the end.
+
+As for bokeh and general rendering, this is obviously a subjective area, but I'll say this: doing a blind-test where I was shown ten different images shot with both lenses, I did pick the images shot with the Sony lens as my favorite more often than not, but not _always_. In 7 out of 10 images I picked the Sony, but there were still three times when I actually preferred the Canon's rendering. Again, things are not as clear-cut as the price difference between the two lenses would imply.
+
+Finally, as for ease of use, I have to give it to the Sony lens. While manually focusing with the Canon is a very pleasant experience, it still can't compete with a full-on autofocusing lens. Even if we purposefully limited the Sony to manual focus-only, the overall user experience would still be better than the Canon thanks to features like magnification engaging automatically, as well as the ability to shoot in shutter priority mode.
+
+
+
+As we can see, both lenses do a perfectly good job when viewing images at typical web sizes.
 
 
 
