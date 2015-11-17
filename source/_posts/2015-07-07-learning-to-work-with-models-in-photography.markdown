@@ -14,9 +14,7 @@ It’s no secret that working with models in photography can be challenging. One
 
 In this piece I’ll share a bit of my own experience during the course, as well as out there shooting in the real world. Hopefully that’ll give you an opportunity to learn from my mistakes and save yourself an awkward moment or two.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/491/18871607424_a633b32525_o.jpg" title="Clarice in flight"/></p>
-
-<p class="photo-credit">Model: <a href="http://www.claricevanmanen.nl">Clarice van Manen</a>.</p>
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/491/18871607424_a633b32525_o.jpg"/></p>
 
 
 ##Before your first time
@@ -73,7 +71,7 @@ Before even meeting the model, both of you should have a clear idea of what to e
 
 **Sign a standard release contract.** Regardless of whether it’s a time-for-prints arrangement or paid work, it can also be a good idea for both of you to sign a standard release contract in order to avoid any potential legal issues in the future. There are [many templates](https://lessaccounting.com/blog/free-photography-contracts/) on the Internet you can use for that purpose. Nothing has to go wrong but if you’re concerned about this, better safe than sorry.
 
-<p class="extra-width"><img src="https://c2.staticflickr.com/4/3767/19494083625_aa8d772421_o.jpg" title"Clarice"/></p>
+<p class="extra-width"><img src="https://c2.staticflickr.com/4/3767/19494083625_aa8d772421_o.jpg"/></p>
 
 **Explain what you’re trying to achieve.** If the shoot is intended to promote or review a product, say it. If you’re not going for flattering shots, tell the model in advance. And obviously, if you expect to take some nude shots, ask your model before. There’s nothing wrong with either of those things, but make sure the model knows about it and set expectations accordingly.
 
@@ -145,7 +143,7 @@ There are, of course, many more questions to be asked, but these should at least
 
 Once you’ve prepared everything you’ll need and worked out the details with your model, it’s time to meet. This goes without saying, but: be on time. There’s nothing worse than arriving late to your own shoot. If you’re not able to show enough respect for the model to be on time, you’re already starting off on the wrong foot.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/380/19487701262_c5fa1b0477_o.jpg" title="Clarice"/></p>
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/380/19487701262_c5fa1b0477_o.jpg"/></p>
 
 First up, introduce yourself and ask a couple generic questions to break the ice. A smile goes a long way towards getting people to feel comfortable, so be nice.
 
@@ -205,7 +203,7 @@ Don’t forget to check your exposures every now and then to confirm things are 
 
 **Can you see both of your subject’s eyes?** If not, was that an oversight?
 
-<p class="extra-width"><img src="https://c2.staticflickr.com/4/3807/19498465751_ca113e2c47_o.jpg"  title="Clarice van Manen"/></p>
+<p class="extra-width"><img src="https://c2.staticflickr.com/4/3807/19498465751_ca113e2c47_o.jpg"/></p>
 
 **Is there sweat on the model’s skin?** It’s especially important to keep an eye on this when using high-powered studio lights, because they emit a considerable amount of heat and can cause the model’s skin to perspire a little. You may not immediately notice it through your viewfinder, but tiny sweat drops will appear as blown highlights in the final images and even after correcting it in post production, you’ll lose the texture of the skin in those areas. The histogram will tell you if there are any blown highlights to look for. Be sure to keep a towel or a tissue box handy just in case.
 
@@ -255,4 +253,4 @@ In any case, it’s always better to keep things small at the beginning, and try
 
 Just be prepared, because that’s when the real fun begins.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/285/18873458683_a0ddf1ae47_o.jpg" title="Clarice van Manen"/></p>
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/285/18873458683_a0ddf1ae47_o.jpg"/></p>

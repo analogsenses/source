@@ -64,7 +64,7 @@ Together with my other two Olympus lenses — the 17mm and 45mm f/1.8 primes —
 
 <p class="extra-width"><img src="https://c1.staticflickr.com/9/8824/17902676098_b408025db4_o.jpg" title="Look at me"/></p>
 
-<p class="photo-credit">Recent photo shoot with Dutch model Clarice van Manen. Shooting against the light is a frequent cause of chromatic aberration, but even in extreme cases like the second image here, they’re always easy to correct. Both pictures taken with the Leica 25mm lens on an Olympus E-M10.</p>
+<p class="photo-credit">Shooting against the light is a frequent cause of chromatic aberration, but even in extreme cases like the second image here, they’re always easy to correct. Both pictures taken with the Leica 25mm lens on an Olympus E-M10.</p>
 
 
 ##Bottom line

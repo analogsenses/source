@@ -12,9 +12,9 @@ description: "Instagram is a great photo-sharing service and social network, but
 
 Over the past couple of months I’ve been more active than usual in my photography. Thanks to the photography course I’ve been taking and thanks to a few photographer friends of mine, I’ve had some opportunities to work with really talented models and it’s been a terrific experience. I’m so happy I enrolled in the course and I’d definitely recommend it to anyone with an interest in photography.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/478/18896456601_89d12b998d_o.jpg" title="Look at me, with Clarice van Manen"/></p>
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/478/18896456601_89d12b998d_o.jpg" title="Look at me"/></p>
 
-<p class="photo-credit">“Look at me”, featuring Clarice van Manen. Olympus OM-D E-M10 with Panasonic Leica 25mm f/1.4 lens.</p>
+<p class="photo-credit">“Look at me”. Olympus OM-D E-M10 with Panasonic Leica 25mm f/1.4 lens.</p>
 
 A side effect of this increased photographic activity is that over the past few weeks I’ve also been sharing more of my pictures [on Instagram](https://instagram.com/analogsenses/). I’ve never been crazy about Instagram but for all its faults, there’s a really vibrant community of users there and it’s one of the best places — probably _the_ best place — to share your pictures, even those taken with a dedicated camera instead of a smartphone.
 
@@ -46,9 +46,9 @@ Once the pictures are in your Camera Roll, there are still a couple things to ta
 
 As you know, Instagram was designed to share pictures with a square aspect ratio. However, most dedicated cameras don’t shoot in square mode, so the default way the Instagram app deals with non-square images is by offering to crop them. But what if you want to share the entire image area?
 
-<p class="extra-width"><img src="https://c2.staticflickr.com/4/3687/18272967323_01f8d77957_o.jpg" title="Lie with me, with Clarice van Manen"/></p>
+<p class="extra-width"><img src="https://c2.staticflickr.com/4/3687/18272967323_01f8d77957_o.jpg" title="Lie with me"/></p>
 
-<p class="photo-credit">Above: “Lie with me”, featuring <a href="http://www.claricevanmanen.nl">Clarice van Manen</a>. Canon EOS 3 with Kodak Portra 160 film.</p>
+<p class="photo-credit">Above: “Lie with me”. Canon EOS 3 with Kodak Portra 160 film.</p>
 
 <center><blockquote class="instagram-media" data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:338px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://instagram.com/p/3v9KPSRa5J/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_top">Una foto publicada por Álvaro Serrano (@analogsenses)</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-06-10T12:52:26+00:00">10 de Jun de 2015 a la(s) 5:52 PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script></center>
 
@@ -72,9 +72,9 @@ So the format problem is also solvable, but why doesn’t Instagram allow for re
 
 I suppose it’s a valid point, although I still think they’ll eventually need to evolve and accept reality. For better or worse, Instagram’s popularity has grown well beyond smartphones and sooner or later, the service will need to reflect that. Constraints and limitations are a good way to keep your product focused and true to its original vision, but all services need to evolve at some point. For example, Twitter [recently announced](/2015/06/12/twitter-ditches-140-character-dm-limit/) they’re getting rid of the 140-character limitation for DMs, and it’s only a matter of time before they do the same for regular tweets as well.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/498/18867353656_506dcd8429_o.jpg" title="Golden Light, with Clarice van Manen"/></p>
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/498/18867353656_506dcd8429_o.jpg" title="Golden Light"/></p>
 
-<p class="photo-credit">“Golden Light”, featuring <a href="http://www.claricevanmanen.nl">Clarice van Manen</a>. Canon EOS 3 with Kodak Portra 160 film.</p>
+<p class="photo-credit">“Golden Light”. Canon EOS 3 with Kodak Portra 160 film.</p>
 
 
 ##Megapixel race? What Megapixel race?
@@ -115,9 +115,9 @@ In the case of Twitter, sharing was a bit of a mess until Instagram integrated t
 
 And finally in the case of Flickr, the whole process is relatively straightforward. After sharing on Instagram, your image will appear on your Flickr photostream, along with any accompanying text you may have included. There are precisely zero customization options though, which is unfortunate. It would have been nice to have at least an option to publish the images in a particular album, for example.
 
-<p class="extra-width"><img src="https://c2.staticflickr.com/6/5608/18707451799_d008da18a0_o.jpg" title="Smile, with Clarice van Manen."></a>
+<p class="extra-width"><img src="https://c2.staticflickr.com/6/5608/18707451799_d008da18a0_o.jpg" title="Smile."></a>
 
-<p class="photo-credit">“Smile”, with Clarice van Manen. Olympus OM-D E-M10 with Panasonic Leica 25mm f/1.4 lens.</p>
+<p class="photo-credit">“Smile”. Olympus OM-D E-M10 with Panasonic Leica 25mm f/1.4 lens.</p>
 
 Unfortunately, even though sharing Instagram pictures with other services is remarkably easy, things are not so rosy when it comes to the quality of the shared files. By default, Instagram will only share the resized 640px by 640px images, which is just ridiculous. There’s simply no good reason why they couldn’t share the original high-resolution images other than being overprotective and defensive. The 640px by 640px image size is self-imposed by Instagram’s own design, but none of the other services share that limitation.
 
@@ -146,9 +146,9 @@ The fact that they won’t share the higher quality files with other services is
 
 All this goes to show that there are many non-trivial issues preventing Instagram from being a reliable, convenient way to share pictures from a dedicated camera which, frankly, makes its recent boom among models and professional photographers all the more difficult to understand.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/340/18705912460_dbb4597e86_o.jpg" title="Memories of Summer, with Clarice van Manen."></a>
+<p class="extra-width"><img src="https://c1.staticflickr.com/1/340/18705912460_dbb4597e86_o.jpg" title="Memories of Summer."></a>
 
-<p class="photo-credit">“Memories of Summer”, with Clarice van Manen. Canon EOS 3 with Kodak Portra 160 film.</p>
+<p class="photo-credit">“Memories of Summer”. Canon EOS 3 with Kodak Portra 160 film.</p>
 
 <center><blockquote class="instagram-media" data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:338px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://instagram.com/p/3wNOWAxaz1/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_top">Una foto publicada por Álvaro Serrano (@analogsenses)</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-06-10T15:12:48+00:00">10 de Jun de 2015 a la(s) 8:12 PDT</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script></center>
 
