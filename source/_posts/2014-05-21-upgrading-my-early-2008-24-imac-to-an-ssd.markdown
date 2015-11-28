@@ -12,7 +12,9 @@ categories:
 - Digital Life
 ---
 
-_**UPDATE, January 19th, 2015:** This article was originally published on May 21st, 2014. Since then, it’s consistently been the most popular piece on this site almost every month. The original text is still valid, but SSD recommendations are now outdated. As of January 2015, the best consumer-grade SSDs are the [Crucial MX100](http://www.amazon.com/gp/product/B00KFAGCWK/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00KFAGCWK&linkCode=as2&tag=analogsens-20&linkId=5CIVQUCGQSMV75PH), the [SanDisk Ultra II](http://www.amazon.com/gp/product/B00M8ABEIM/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00M8ABEIM&linkCode=as2&tag=analogsens-20&linkId=O2ALS3PG5ZCILU3N) and the [Samsung 850 EVO](http://www.amazon.com/gp/product/B00OAJ412U/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00OAJ412U&linkCode=as2&tag=analogsens-20&linkId=IYXMVOZSX6RIHIGS). Prices vary slightly on Amazon but you can’t go wrong with any of these, so my advice would be to get whichever is cheaper at the moment._
+_**UPDATE, November 27, 2015:** This article was originally published on May 21, 2014. Since then, it’s consistently been the most popular piece on this site almost every month. The original text is still valid, but SSD recommendations are now outdated._
+
+_As of November 2015, the consumer-grade SSD I recommend is the [Crucial BX100](http://amzn.to/1lNHxpI). If you want something fancier, both the [Samsung 850 Pro](http://amzn.to/1MHRa1W) and the [SanDisk Extreme Pro](http://amzn.to/1MHRoWW) are excellent, as well. That said, keep in mind that in this case the bottleneck will be your iMac’s 3 Gb/s SATA 2 interface, so any of these drives will have nearly identical performance. Prices vary slightly on Amazon but you can’t go wrong with any of these, so my advice would be to get whichever is cheaper at the moment._
 
 _My Early-2008 iMac is still my primary Mac. It’s a terrific machine and I have no plans to replace it anytime soon. The rest of the article has been preserved in its original form for historical accuracy._
 

@@ -26,7 +26,7 @@ If Bielefeld’s identity is finally confirmed as Victor Johnson, that also mean
 
 If the above is unequivocally confirmed, despicable doesn’t even cut it.
 
-You may reasonably ask for proof. Currently, the biggest proof we have was published [yesterday](https://twitter.com/AmyJane/status/669589200199643137) by Amy Jane Gruber. Samantha’s IP address matches that of Victor, a fact that can be verified by inspecting the headers of email messages received by John Gruber from both identities.
+You may reasonably ask for proof. Currently, the strongest evidence we have was published [yesterday](https://twitter.com/AmyJane/status/669589200199643137) by Amy Jane Gruber. Samantha’s IP address matches that of Victor, a fact that can be verified by inspecting the headers of email messages received by John Gruber from both identities.
 
 <center><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">OK, <a href="https://twitter.com/s_bielefeld">@s_bielefeld</a>, you gave me permission. <a href="https://t.co/1WlvLxZN8W">pic.twitter.com/1WlvLxZN8W</a></p>&mdash; Amy Jane Gruber (@AmyJane) <a href="https://twitter.com/AmyJane/status/669589200199643137">November 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
@@ -41,7 +41,7 @@ Which brings me to my next point.
 
 ##Consequences
 
-For clarity’s sake, I will continue to refer to this person as Samantha and using the female pronoun “her” when commenting on the actions carried out under that identity.
+For clarity’s sake, I will continue to refer to this person as Samantha and use the female pronoun “her” when commenting on the actions carried out under that identity.
 
 The way I see it, there are two separate issues at play here: Samantha’s criticism of Marco Arment over the patronage model for Overcast, and her alleged harassment at the hands of Marco’s friends and followers.
 
@@ -74,7 +74,7 @@ I was wrong about her, but that doesn’t mean it wasn’t the right thing to do
 
 Had I not spoken up about it at the time, I feel I would have done even more of a disservice to my readers. When something like this happens, I don’t want to be the person that watches from the sidelines, too afraid of getting in trouble to do anything about it.
 
-That said, I should have been more careful and gotten my facts straight before placing my trust on this person, and especially before asking you, dear reader, to do the same. I was wrong, and I’m very sorry I misled you.
+That said, I should have been more careful and gotten my facts straight before placing my trust on this person, and especially before asking you, my readers, to do the same. I was wrong, and I’m very sorry I misled you.
 
 I also owe someone else an apology, and that someone is Marco.
 
