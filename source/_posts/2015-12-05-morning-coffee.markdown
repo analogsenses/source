@@ -163,7 +163,7 @@ The leather Brixton is built to last for generations, and this is no understatem
 
 <p class="full-width"><img src="https://farm1.staticflickr.com/780/22907275884_5c4d2885a0_o.jpg"/></p>
 
-In the high-end leather bag market, the only company I can think of that produces similarly high-quality bags is Hard Graft.[^Leather1] Compare the leather Brixton with their [Box Camera Bag](http://www.hardgraft.com/products/boxcamerabag-classic), which is more expensive than the Ona while offering not nearly as many features — or, in my personal opinion, looking nearly as good — and it’s no wonder why Ona is absolutely killing it lately. These are not just cool-looking, overpriced bags, they are exquisitely designed, impeccably made, full-featured bags, and it shows.
+In the high-end leather bag market, the only company I can think of that produces similarly high-quality bags is Hard Graft.[^Leather1] Compare the leather Brixton with their [Box Camera Bag](http://www.hardgraft.com/products/boxcamerabag-classic), which is more expensive than the Ona while offering not nearly as many features — or, in my personal opinion, looking nearly as good — and it’s no wonder why Ona has been absolutely killing it lately. These are not just cool-looking, overpriced bags, they are exquisitely designed, impeccably made, full-featured bags, and it shows.
 
 [^Leather1]: I know Saddleback Leather makes [awesome quality bags](http://www.saddlebackleather.com/gadget-bag), but I just don’t really like the aesthetics of their products. Of course, your mileage may vary.
 
