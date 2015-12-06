@@ -70,7 +70,7 @@ Evan Osnos writes a terrific piece for _The New Yorker_ on the recent mass shoot
 
 ###[End the gun epidemic in America | The New York Times Editorial Board →](http://www.nytimes.com/2015/12/05/opinion/end-the-gun-epidemic-in-america.html)
 
-The New York Times Editorial Board:
+Today, the New York Times Editorial Board published their first front-page editorial since 1920:
 
 > It is a moral outrage and a national disgrace that civilians can legally purchase weapons designed specifically to kill people with brutal speed and efficiency. These are weapons of war, barely modified and deliberately marketed as tools of macho vigilantism and even insurrection. America’s elected leaders offer prayers for gun victims and then, callously and without fear of consequence, reject the most basic restrictions on weapons of mass killing, [as they did on Thursday](http://www.nytimes.com/2015/12/04/opinion/tough-talk-and-a-cowardly-vote-on-terrorism.html). They distract us with arguments about the word terrorism. Let’s be clear: These spree killings are all, in their own ways, acts of terrorism.
 
