@@ -9,7 +9,7 @@ categories:
 description: "A weekly roundup of interesting writing." 
 ---
 
-##Issue \#14: Apple, Apple, Apple
+##Issue \#:
 
 ###[ |  →]()
 
