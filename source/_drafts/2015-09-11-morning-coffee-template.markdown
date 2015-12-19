@@ -9,6 +9,8 @@ categories:
 description: "A weekly roundup of interesting writing." 
 ---
 
+Hello there, welcome to another issue of _Morning Coffee_, my weekly roundup of interesting writing.
+
 ##Issue \#:
 
 ###[ |  →]()
