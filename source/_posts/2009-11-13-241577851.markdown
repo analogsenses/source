@@ -1,0 +1,19 @@
+---
+author: alvaroserrano
+comments: false
+date: 2009-11-13 00:09:49+00:00
+layout: post
+slug: '241577851'
+title: Today's quote
+wordpress_id: 241577851
+categories:
+- Post
+- Quote
+post_format:
+- Quote
+external-url: http://www.quotationspage.com/quote/25835.html
+---
+
+<blockquote>The first step to getting the things you want out of life is this: Decide what you want.</blockquote>
+
+**Ben Stein (1944-)**

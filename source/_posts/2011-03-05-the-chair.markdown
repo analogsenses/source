@@ -1,0 +1,25 @@
+---
+author: alvaroserrano
+comments: false
+date: 2011-03-05 12:15:47+00:00
+layout: post
+slug: the-chair
+title: The Chair | Daring Fireball
+wordpress_id: 1637171691
+categories:
+- Apple
+- Digital Life
+- Link
+post_format:
+- Link
+external-url: http://daringfireball.net/2011/03/the_chair
+---
+
+<blockquote>It’s a shame, almost, that we squandered the term “personal computer” 30 years ago.</blockquote>
+
+
+Spot-on analysis by Gruber on the significance of the iPad. I think we're still not fully aware of just how big this thing is. We're witnessing what is probably the biggest revolution in the history of consumer electronics, and maybe even in the computing industry itself.
+
+You can be a part of it today. I've always been terribly jealous of the people who lived through the first big computing revolution, the arrival of the original Macintosh and the birth of the modern PC as we know it today. Those were exciting days.
+
+This time, I don't want to miss the action.
