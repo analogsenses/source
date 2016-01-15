@@ -2,15 +2,16 @@
 author: alvaroserrano
 comments: false
 date: 2014-08-21 14:16:57+00:00
+updated: 2014-09-19 16:00:00 +0100
 layout: post
 sharing: true
 slug: building-a-lightweight-photography-kit-for-the-urban-professional
 title: Building a lightweight photography kit for the urban professional
 wordpress_id: 1637174267
 categories:
-- Digital Life
-- Packing Light
+- Guides
 - Photography
+Description: "Always having your camera kit with you can make a huge difference. Here’s how you can build a versatile kit that's still small and light enough to carry anywhere."
 ---
 
 <p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3926/14793131809_a336b97fbc_h.jpg"/></p>

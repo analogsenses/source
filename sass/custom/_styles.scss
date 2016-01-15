@@ -622,6 +622,12 @@ body {
     }    
   }
   
+  p.description {
+    margin:auto;
+    margin-top: 20px;	
+    margin-bottom: 20px;	
+  }
+  
   time, footer {
     @extend .font-size-medium;
     @extend .sans-serif-font;
@@ -637,6 +643,67 @@ body {
   }
 }
 
+
+// ------------------------------
+// guides archive page
+// ------------------------------
+
+#guides-archive {
+  width: 600px;
+  margin: auto;
+  margin-bottom: 100.316px;
+  margin-bottom: 5.016rem;
+  text-shadow: white 0px 1px 0px;
+  
+  h2 {
+  	margin-left: 0px;
+    @extend .sans-serif-font-bold;
+    color: $secondary-text-color;
+    font-size: 34px;
+  }
+  
+  article {
+    margin-bottom: 60px;
+    
+    h1 {
+      font-size: 42px;
+      line-height: 120%;
+      padding-bottom: 4.722px;
+      padding-bottom: 0.236rem;
+      margin:65px 0 10px 0;
+      
+      a{
+      	font-size:42px;
+      	}
+    
+   	  a.external-url{
+    	font-size: 34px;
+    	line-height: 100%;
+    	}
+    }    
+  }
+  
+  p.description {
+       margin:auto;
+       margin-top: 20px;	
+       margin-bottom: 20px;	
+      }
+  color: $text-color;
+  time, footer {
+    @extend .font-size-medium;
+    @extend .sans-serif-font;
+    color: $text-color;
+    display: inline;
+    line-height: 24px;
+  }
+  
+  time:after {
+    content: "•";
+    color: $secondary-text-color;
+    padding: 0 6px 0 10px;
+    padding: 0 0.3rem 0 0.5rem;
+  }
+}
 
 // ------------------------------
 // search results page
@@ -1354,6 +1421,38 @@ article #blog-archives {
         margin-left:0px;
         margin-right:0px;       
       }
+      
+      p.description {
+      	margin-left:0px;
+      	margin-right:0px;
+      	margin-top: 20px;	
+      	margin-bottom: 20px;	
+      }
+    }
+  }
+  
+  article #guides-archive {
+    width: 90%;
+    margin: auto;
+    
+    h2{
+     margin-top: 40px;	
+    	}
+    
+    article {
+      margin-left:0px;
+      margin-right:0px;  
+      h1 { 
+        margin-left:0px;
+        margin-right:0px;       
+      }
+      
+      p.description {
+      	margin-left:0px;
+      	margin-right:0px;
+      	margin-top: 20px;	
+      	margin-bottom: 20px;	
+      }
     }
   }
 
@@ -1487,7 +1586,40 @@ article #blog-archives {
         font-size: 27.441px;
         font-size: 1.618rem; 
         margin-left:0px;
-        margin-right:0px;       
+        margin-right:0px;
+        line-height: 46px;      
+      }
+      
+      p.description {
+      	margin-left:0px;
+      	margin-right:0px;
+      	margin-top: 20px;	
+      	margin-bottom: 20px;	
+      }
+    }
+  }
+  
+  #guides-archive{
+    width: 90%;
+    margin: auto;
+    
+    article {
+    margin-left: 0;
+    margin-right:0;
+    
+      h1 {
+        font-size: 27.441px;
+        font-size: 1.618rem; 
+        margin-left:0px;
+        margin-right:0px;
+        line-height: 46px;      
+      }
+      
+      p.description {
+      	margin-left:0px;
+      	margin-right:0px;
+      	margin-top: 20px;	
+      	margin-bottom: 20px;	
       }
     }
   }

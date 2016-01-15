@@ -2,11 +2,13 @@
 layout: post
 title: "Now serving delicious baked goods"
 date: 2014-08-31 12:59:01 +0200
+updated: 2014-08-31 16:00:00 +0100
 comments: true
 sharing: true
 categories:
-- Digital Life
-- Development 
+- Guides
+- Development
+description: "I finally migrated Analog Senses from a self-hosted Wordpress installation to a static publishing system built with Octopress and deployed on Github Pages. This is an account of how I did it, and how you can, too."
 ---
 
 If you're a frequent reader of the site, you may have noticed some changes around here recently. There's been a subtle redesign: the theme's header is less cluttered, I've done away with the sidebar and I've bumped up the font size a bit. I've also consolidated several pieces of information that were scattered all around the place into one, very specific location: the all-important About page. 

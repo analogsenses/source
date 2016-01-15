@@ -2,10 +2,12 @@
 layout: post
 title: "The finer things in life: a geek's introduction to single malt Scotch whisky"
 date: 2014-10-09 13:07:12 +0200
+updated: 2014-10-09 16:00:00 +0100
 comments: true
 sharing: true
 categories: 
 - Whisky
+- Guides
 description: "I've always wanted to venture into the world of single malt Scotch whisky. Here's how I plan to do it."
 ---
 

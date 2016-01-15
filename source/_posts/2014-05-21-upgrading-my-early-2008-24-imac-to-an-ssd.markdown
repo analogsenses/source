@@ -2,6 +2,7 @@
 author: alvaroserrano
 comments: false
 date: 2015-01-19 23:40:42 +0100
+updated: 2015-11-27 16:00:00 +0100
 layout: post
 sharing: true
 permalink: /2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/
@@ -9,7 +10,8 @@ title: Upgrading my Early-2008, 24-inch iMac with an SSD
 wordpress_id: 1637174036
 categories:
 - Apple
-- Digital Life
+- Guides
+Description: "After more than six years as my main computer, I was faced with the need to either replace or upgrade my Early-2008 24-inch iMac. Instead of replacing it, I upgraded the internal hard drive with an SSD, which gave it a new lease of life."
 ---
 
 _**UPDATE, November 27, 2015:** This article was originally published on May 21, 2014. Since then, it’s consistently been the most popular piece on this site almost every month. The original text is still valid, but SSD recommendations are now outdated._

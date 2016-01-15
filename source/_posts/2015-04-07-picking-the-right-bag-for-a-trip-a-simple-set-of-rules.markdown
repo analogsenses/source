@@ -2,10 +2,11 @@
 layout: post
 title: "Picking the right bag for a trip: a simple set of rules"
 date: 2015-04-07 21:00:35 +0200
+updated: 2015-04-07 16:00:00 +0100
 comments: true
 sharing: true
 categories: 
-- Digital Life
+- Guides
 - Travel
 description: "Choosing the right bag for a trip is important, and these simple guidelines may help you."
 ---

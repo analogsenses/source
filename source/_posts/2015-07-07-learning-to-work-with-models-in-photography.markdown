@@ -2,12 +2,13 @@
 layout: post
 title: "Learning to work with models in photography"
 date: 2015-07-07 19:15:05 +0200
+updated: 2015-07-08 16:00:00 +0100
 comments: true
 sharing: true
 categories: 
-- Digital Life
+- Guides
 - Photography
-description: "UPDATED 07/08. Working with models can be intimidating, but with the right preparation it’s something you can control."
+description: "Working with models can be intimidating, but with the right preparation it’s something you can control."
 ---
 
 It’s no secret that working with models in photography can be challenging. One of the most interesting aspects of the photography course I took over the past few months was the chance to work with experienced models in a controlled environment. That was a great way to learn how to interact with them in a professional way and, more importantly, how to take the reins of a shoot in order to direct the session and get the results _you_ want.

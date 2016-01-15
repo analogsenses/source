@@ -2,10 +2,11 @@
 layout: post
 title: "Product photography on the cheap: creating a studio-like environment at home"
 date: 2015-08-07 12:36:01 +0200
+updated: 2015-08-07 16:00:00 +0100
 comments: true
 sharing: true
 categories: 
-- Digital Life
+- Guides
 - Photography
 description: "Taking professional-looking product pictures doesn’t always require a studio."
 ---

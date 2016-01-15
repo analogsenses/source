@@ -2,6 +2,7 @@
 layout: post
 title: "Gear guide: the best Full Frame lenses for the Sony E-mount system (January 2016)"
 date: 2016-01-13 18:21:44 +0100
+updated: 2016-01-13 18:21:44 +0100
 comments: false
 sharing: true
 categories: 
