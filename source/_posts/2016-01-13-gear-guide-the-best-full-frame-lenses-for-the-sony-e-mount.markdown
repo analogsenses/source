@@ -2,7 +2,6 @@
 layout: post
 title: "Gear guide: the best Full Frame lenses for the Sony E-mount system (January 2016)"
 date: 2016-01-13 18:21:44 +0100
-updated: 2016-01-13 18:21:44 +0100
 comments: false
 sharing: true
 categories: 
@@ -261,7 +260,7 @@ Besides that, the Loxia lenses are fully native E-mount lenses with electronic i
 
 What’s perhaps more interesting about this electronic integration is the fact that the Loxia lenses can automatically trigger in-camera manual focus aids like focus peaking and magnification by simply turning the focus ring. This is a huge advantage that makes manual focusing a lot easier, and it’s a unique feature that no other manual lens for the system offers.
 
-Let’s take a look at all thee Loxia lenses so far:
+Let’s take a look at all three Loxia lenses so far:
 
 <p class="full-width"><img src="https://farm2.staticflickr.com/1539/23728519574_1506d209a3_o.jpg"/></p>
 

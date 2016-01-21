@@ -10,15 +10,11 @@ wordpress_id: 2
 
 **Analog Senses** is a website about the human side of technology, featuring links and articles on design, photography, Apple and the tech industry in general, as well as other interesting things currently happening on planet Earth. It is written and produced by **Álvaro Serrano**.
 
-
-
-# Álvaro Serrano
-
-<p class="extra-width"><img class="extra-width" src="https://farm3.staticflickr.com/2913/14195435122_d25eee4994_h.jpg"/></p>
+<p class="extra-width"><img class="extra-width" src="https://farm2.staticflickr.com/1682/24430016186_e4d932ea6c_o.jpg"/></p>
 
 I was born in 1983 in [Plasencia](http://en.wikipedia.org/wiki/Plasencia), a walled city in Western Spain, small in size but steeped in History. The time was 1:05 a.m., it was Summer and it also happened to be Tuesday. 
 
-Flash-forward 31 years and change. I’m now a Telecommunication Engineer, and for the past 6 years I used to work at a Bioengineering and Telemedicine research group at Technical University of Madrid (UPM). I worked there as a mobile app developer in several research projects, with both national and international scope. These days I’m trying to establish myself as an independent writer, developer and maker of cool things.
+Flash-forward 32 years and change. I’m now a Telecommunication Engineer, and for the past 6 years I used to work at a Bioengineering and Telemedicine research group at Technical University of Madrid (UPM). I worked there as a mobile app developer in several research projects, with both national and international scope. These days I’m trying to establish myself as an independent writer, developer and maker of cool things.
 
 My eyes are green, just like my mother’s, and my favorite smell in the world is that of freshly brewed coffee, specially early in the morning. I like to keep a nice fountain pen and a Moleskine notebook with me at all times, usually in the company of whatever book I’m reading. I love crime fiction and classic adventure stories, but I enjoy reading all sorts of things, both fiction and non-fiction.
 
@@ -26,9 +22,9 @@ As of mid-2014 I’ve been diagnosed with [Type-1 Diabetes](http://en.wikipedia.
 
 [alvaroserrano.com](http://alvaroserrano.com) is my rarely updated personal website, written in Spanish.
 
+<p class="card-separator">♤</p>
 
-
-# Colophon
+## Colophon
 
 Analog Senses is powered by the wonderful [Octopress](http://www.octopress.org) and uses my customized version of the [Readify theme](https://github.com/vladigleba/readify) by [Vladi Gleba](http://vladigleba.com), which is available under [the MIT License](http://opensource.org/licenses/MIT). The site is hosted on [Github Pages](https://pages.github.com).
 
@@ -40,28 +36,26 @@ Images are usually hosted on [Flickr!](http://www.flickr.com/photos/analogsenses
 
 On the software front, Analog Senses is written and produced using [Smultron](https://itunes.apple.com/app/smultron-6/id692204913?mt=12), [Git](http://git-scm.com), [GitHub](https://github.com), Terminal.app, and the Safari Web Browser on a Mac. Easy.
 
+<p class="card-separator">♧</p>
 
-
-# Affiliate Link Policy
+## Affiliate Link Policy
 
 Analog Senses uses Amazon Affiliate links whenever possible. If you follow one of these links and buy something — whether it is the linked-to item or not — I’ll get a small kickback from Amazon. These links are currently the site’s main source of income. 
 
+<p class="card-separator">♡</p>
 
-
-# RSS Feed
+## RSS Feed
 
 The standard RSS Feed for this site is: [http://analogsenses.com/feed](http://analogsenses.com/feed)
 
 Alternatively, there’s also a dedicated Twitter feed: [@analogfeed](http://twitter.com/analogfeed)
 
+<p class="card-separator">♢</p>
 
-
-# Contact
+## Contact
 
 Analog Senses doesn’t feature comments, but other forms of reader feedback are encouraged and appreciated. If you’d like to ask me anything, send comments, or just want to say hi, you can send me an email at "contact" @ this domain.
 
 You should also follow me on Twitter: [@analogsenses](http://twitter.com/analogsenses)
 
 Thank you!
-
-

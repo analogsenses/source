@@ -3,20 +3,8 @@
 
 /*
 -------------------------------------------------------------------------
-Author: Vladi Gleba (vladigleba.com)
-Date: October 2013
-
-This layout is based on the following modular scale:
-
-20px @ 1:1.618
-62px @ 1:1.618
-
-See http://modularscale.com/scale/?px1=20&px2=62&ra1=1.618&ra2=0
-for the numbers in this scale. All font-size, line-height, margin, and
-padding values are derived from these numbers.
-
-See http://alistapart.com/article/more-meaningful-typography
-to learn about modular scales.
+Author: Álvaro Serrano
+Date: January 2016
 
 -------------------------------------------------------------------------
 */
@@ -24,7 +12,7 @@ to learn about modular scales.
 
 /* import typography */
 @import "typography.scss";
-/* import footnotes popover */
+/* import m popover */
 @import "footnotes.scss";
 /* import responsive video embeds plugin */
 @import "custom/rve";
@@ -34,17 +22,19 @@ to learn about modular scales.
 // variables
 // ------------------------------
 
-$accent-color: #65a672;
+$accent-color: teal;
 $accent-hover-color: darken($accent-color, 8%);
 
-$text-color: #4b4b4b;
+$headings-color: #4b4b4b;
+$text-color: #606060;
+$light-color: gray;
 $secondary-text-color: #aaa;
 
 $line-color: #e6e6e6;
 $hide-line-numbers: true;
 
 $border-radius-size: 4px;
-$border-style: 2px solid $secondary-text-color;
+$border-style: 2px solid $accent-color;
 
 
 // ------------------------------
@@ -125,15 +115,19 @@ $border-style: 2px solid $secondary-text-color;
 }
 
 .sans-serif-font-bold {
-  font-family: "atrament-web", "Arial Narrow", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "atrament-web", Helvetica, Arial, sans-serif;
 }
 
 .sans-serif-font {
-  font-family: "proxima-nova", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "proxima-nova", Helvetica, Arial, sans-serif;
 }
 
 .default-font {
-  font-family: "futura-pt", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "futura-pt", Georgia, serif;
+}
+
+.analog-font {
+	font-family: "LamplighterScript", Helvetica, sans-serif;	
 }
 
 
@@ -142,19 +136,18 @@ $border-style: 2px solid $secondary-text-color;
 // ------------------------------
 
 html {
-  @extend .default-font;
+  @extend .sans-serif-font;
   @extend .font-size-medium;
-  border-top: 8px solid $accent-color;
+  border-top: 12px solid $accent-color;
+  border-bottom: 12px solid $accent-color;
   line-height: 1;
 }
 
 body {
   -webkit-text-size-adjust: none; /* prevent mobile safari from resizing text */
-  background-image: url("/images/background.jpg");
-  background-repeat:repeat; 
   color: $text-color;
   text-align: left;
-  width:1000px;
+  width: 1024px;
   margin: 0 auto;
 }
 
@@ -165,7 +158,6 @@ img {
     margin-top: 35px;
     margin-bottom: 35px;
     max-width: 100%;
-  	border: 1px $text-color solid;
 }
 
 img.screenshot {
@@ -177,16 +169,18 @@ img.screenshot {
 h1, h2, h4, h5, h6 {
   @extend .sans-serif-font-bold;
   text-rendering: optimizeLegibility;
+  color: $headings-color;
 }
 
 h3 {
   @extend .sans-serif-font-bold;
   @extend .default-line-height;
   text-rendering: optimizeLegibility;
+  color: $headings-color;
 }
 
 a {
-  color: $text-color;
+  color: $accent-color;
   text-decoration: none;
   outline: none;
   @include transition(color 0.3s ease 0s);
@@ -195,37 +189,33 @@ a {
     color: $accent-hover-color;
   }
 }
-/*
-a:visited, a.visited {
-  color: #663366; }*/
 
 a.analog, a.analog:visited {
+	@extend .analog-font;
 	display:inline-block;
-	color: $text-color;
-	//margin-left:80px;
+	color: $headings-color;
 	padding-top:10px;
-	font-family: "LamplighterScript", "Arial Narrow", "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 125px;
+	font-size: 145px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: normal;
  	line-height: 60%;
 	text-transform:none;
-	text-shadow: white 0px 2px 1px;
 	vertical-align:middle;
+	margin-right: 10px;
   }
   
   a.senses, a.senses:visited{
+  	@extend .sans-serif-font-bold;
   	display:inline-block;
-    color: $text-color;
-	font-size: 77px;
+    color: $headings-color;
+	font-size: 85px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: normal;
 	margin-left: 20px;
  	line-height: 60%;
 	text-transform: none;
-	text-shadow: white 0px 2px 1px;
 	vertical-align:middle;
   }
   
@@ -233,7 +223,6 @@ a.analog, a.analog:visited {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    //width: auto;
     max-width: 100%;
   	border: 1px $text-color solid;
   }
@@ -259,28 +248,20 @@ section {
 }
 
 blockquote {
-  @extend .block-padding;
-  @extend .margin-bottom-large;
+  position: static;	
+  width: 548px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 222px;
+  margin-right: 212px;
+  margin-bottom: 30px;
+  margin-top: 20px;
   @extend .default-line-height; 
   @extend .font-size-medium;
-  margin-left:200px;
   border-left: $border-style;
   font-style: normal;
   color: $text-color;
-  
-  footer {
-    @extend .default-font;
-    text-align: right;
-    
-    a {
-      text-decoration: underline;
-    }
-  }
 }
-
-blockquote blockquote {
-	margin-left: 0px;
-	}
 
 blockquote > :last-child { 
 	margin-bottom: 0 !important;
@@ -292,6 +273,7 @@ cite, em, i, dfn {
 
 b, strong {
   font-weight: bold;
+  color: $headings-color;
 }
 
 abbr {
@@ -385,15 +367,11 @@ pre {
 // ------------------------------
 
 nav {
-  border-top: $border-style;
-/*  overflow: auto;
-  padding: 14.637px 0;
-  margin-bottom: 50.316px;*/
+  	border-top: $border-style;
     overflow: auto;
     max-width: 700px;
   	margin:auto;
-  	padding: 14.637px 20px;
-  	padding: 0.732rem 20px;
+  	padding: 12px 20px;
   	margin-bottom: 70px;
   
   // ----- search form -----
@@ -406,8 +384,7 @@ nav {
       @extend .font-size-smallest;
       border: none;
       background-color: #f2f2f2;
-      padding: 9.046px 14.637px;
-      padding: 0.452rem 0.732rem;
+      padding: 8px 12px;
       border-radius: $border-radius-size;
       width: 180px;
     }
@@ -428,12 +405,17 @@ nav {
       display: inline;
       font-weight: normal;
       padding-left:10px;
-      text-shadow: white 0px 1px 0px;
+      
+      a{
+      	color: $headings-color;
+      }
+      a:hover{
+      	color: $accent-color;
+      }
     }
     
     li + li {
-      padding-left: 23.683px;
-      padding-left: 1.184rem;
+      padding-left: 20px;
     }
   }
 }
@@ -460,23 +442,15 @@ body {
   // ----- blog header -----
   
   > header {
-  	//background-image: url("/images/header_retina.png");
-  	background-size: 750px 180px;
-    background-repeat: no-repeat;
-    background-position:right;
-    padding: 48px 0 30px 0;
+    height: 250px;
     
     hgroup{	
-    //padding-right:300px;
+    	
     text-align: center;
     	
 	    h1 {
-	      font-size: 62.000px;
-	      font-size: 3.1rem;
-	      font-weight: bold;
-	      text-transform: uppercase;
-	      margin-bottom: 7.640px;
-	      margin-bottom: 0.382rem;
+		  line-height: 100%;
+		  padding-top: 70px;
 	      
 	      a, a:hover {
 	        color: $text-color;
@@ -484,12 +458,9 @@ body {
 	    }
 	    
 	    h2 {
-		    //display:none;
-		    //@extend .default-font;
-		    padding-top:12px;
-		    color: $text-color; 
-		    font-size: 16px;
-			//font-style: normal;
+		    padding-top:16px;
+		    color: $light-color; 
+		    font-size: 18px;
 			font-variant: medium;
 			font-weight: medium;
 			height: 8px;
@@ -500,9 +471,7 @@ body {
 			outline-width: 0px;
 		
 			text-align: center;
-			//text-transform: uppercase;
 			margin-left:290px;
-			text-shadow: white 0px 1px 0px;
 	    }
     }
   
@@ -520,8 +489,8 @@ body {
     margin-right: auto;	
     text-align:center;
     margin-bottom:60px;
-    color: $secondary-text-color;
-    text-shadow: white 0px 1px 0px;
+    margin-top: 60px;
+    color: $accent-color;
 
   }
   
@@ -538,9 +507,9 @@ body {
     font-size: 32px;
     text-align:center;
     position:relative;
-  	margin-bottom: 50px;
-  	padding-top: 50px;
-    border-top: $border-style;
+  	margin-bottom: 100px;
+  	margin-top: 50px;
+    //border-top: $border-style;
     
     a.prev{
 		position:absolute;
@@ -565,7 +534,6 @@ body {
     margin-bottom: 50px;
     clear: both;
     text-align:center;
-    text-shadow: white 0px 1px 0px;
     
     p {
       @extend .default-font;
@@ -590,56 +558,80 @@ body {
 #blog-archives {
   width: 600px;
   margin: auto;
-  margin-bottom: 100.316px;
-  margin-bottom: 5.016rem;
-  text-shadow: white 0px 1px 0px;
+  margin-bottom: 100px;
+  margin-top: 60px;
   
   h2 {
-  	margin-left: 0px;
     @extend .sans-serif-font-bold;
     color: $secondary-text-color;
     font-size: 34px;
+    width: 600px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
   }
   
   article {
+  	margin-top: 60px;
     margin-bottom: 60px;
     
     h1 {
+      width: 600px;
+      margin: auto;
       font-size: 42px;
-      line-height: 120%;
-      padding-bottom: 4.722px;
-      padding-bottom: 0.236rem;
-      margin:65px 0 10px 0;
+      line-height:1.3;
+      margin-top: 0px;
+      margin-bottom: 20px;
       
       a{
       	font-size:42px;
+      	color: $headings-color;
+      	}
+      a:hover {
+      	color: $accent-color;
       	}
     
    	  a.external-url{
     	font-size: 34px;
-    	line-height: 100%;
+    	line-height:1.3;;
     	}
     }    
   }
   
   p.description {
-    margin:auto;
-    margin-top: 20px;	
-    margin-bottom: 20px;	
+    margin:auto;	
+    margin-bottom: 20px;
   }
   
-  time, footer {
+  p.updated{
+  	display: inline;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;	
+    margin-bottom: 20px;
+    color: $secondary-text-color;
+  	}
+  
+  time {
     @extend .font-size-medium;
     @extend .sans-serif-font;
     color: $secondary-text-color;
     display: inline;
-    line-height: 24px;
+    line-height: 1.4;
   }
   
   time:after {
     content: "•";
+    color: $secondary-text-color;
     padding: 0 6px 0 10px;
-    padding: 0 0.3rem 0 0.5rem; /* not from scale */
+  }
+  
+  footer {
+    @extend .font-size-medium;
+    @extend .sans-serif-font;
+    color: $secondary-text-color;
+    display: inline;
+    line-height: 1.4;
   }
 }
 
@@ -651,58 +643,83 @@ body {
 #guides-archive {
   width: 600px;
   margin: auto;
-  margin-bottom: 100.316px;
-  margin-bottom: 5.016rem;
-  text-shadow: white 0px 1px 0px;
+  margin-bottom: 100px;
+  margin-top: 60px;
   
   h2 {
-  	margin-left: 0px;
     @extend .sans-serif-font-bold;
     color: $secondary-text-color;
     font-size: 34px;
+    width: 600px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
   }
   
   article {
     margin-bottom: 60px;
+    margin-top: 60px;
     
     h1 {
+      width: 600px;
+      margin: auto;
       font-size: 42px;
-      line-height: 120%;
-      padding-bottom: 4.722px;
-      padding-bottom: 0.236rem;
-      margin:65px 0 10px 0;
+      line-height:1.3;
+      margin-top: 0px;
+      margin-bottom: 20px;
       
       a{
       	font-size:42px;
+      	color:$headings-color;
+      	}
+      	
+      a:hover {
+      	color: $accent-color;
       	}
     
    	  a.external-url{
     	font-size: 34px;
-    	line-height: 100%;
-    	}
+    	line-height:1.3;
+      }
     }    
   }
   
   p.description {
-       margin:auto;
-       margin-top: 20px;	
+       margin: auto;
        margin-bottom: 20px;	
       }
-  color: $text-color;
-  time, footer {
+  
+   p.updated{
+  	display: inline;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;	
+    margin-bottom: 20px;
+    color: $secondary-text-color;
+  	}
+  
+  time {
     @extend .font-size-medium;
     @extend .sans-serif-font;
     color: $text-color;
     display: inline;
-    line-height: 24px;
+    line-height: 1.4;
   }
   
   time:after {
     content: "•";
     color: $secondary-text-color;
     padding: 0 6px 0 10px;
-    padding: 0 0.3rem 0 0.5rem;
   }
+  
+  footer {
+    @extend .font-size-medium;
+    @extend .sans-serif-font;
+    color: $secondary-text-color;
+    display: inline;
+    line-height: 1.4;
+  }
+
 }
 
 // ------------------------------
@@ -713,15 +730,13 @@ body {
   article {
     margin-left: 0;
     margin-top: 20px;
-    margin-top: 1rem;
     
     > a {
       display: none;
     }
     
     p {
-      margin-top: 14.637px;
-      margin-top: 0.732rem;
+      margin-top: 14px;
     }
     
     time:after {
@@ -745,27 +760,32 @@ article {
     
     h1 {
       margin-bottom:10px;
-      margin-left:200px;
-      margin-right:200px;
-      line-height: 52.96px;
-      line-height: 2.648rem; /* 1.916 + 0.732 */
-      text-shadow: white 0px 1px 0px;
+      margin-left: 212px;
+      margin-right: 212px;
+      line-height: 1.4;
+      font-size: 42px;
+
       
       a {
-        color: $text-color;
+        color: $headings-color;
       }
       a:hover {
-        color: $accent-hover-color;
+        color: $accent-color;
       }
       
     }
     
     h1.external-title{
-    margin-bottom:5px;
+    margin-bottom: 10px;
   	font-size: 34px;
-  		a{
-  		font-size: 34px;
+  	line-height: 1.4;
+  		a {
+  			color: $accent-color;
+  			font-size: 34px;
   		}
+  		a:hover {
+        	color: $accent-hover-color;
+        }
   	}
     
     a.external-permalink{
@@ -775,15 +795,13 @@ article {
     
     
     p.meta {
-      @extend .font-size-medium;
       @extend .default-font;
-      margin-left:200px;
-      margin-right:200px;
+      font-size: 20px;
+      margin-left: 212px;
+      margin-right: 212px;
       color: $secondary-text-color;
       font-weight:normal;
-      line-height: 1.184rem;
       text-align: left;
-      text-shadow: white 0px 1px 0px;
       
       time {
         @extend .margin-bottom-large;
@@ -791,7 +809,6 @@ article {
       
       > span:before, > span:after {
         padding: 0 4px;
-        padding: 0 0.2rem; /* not from scale */
         content: "•";
       }
     }
@@ -800,13 +817,22 @@ article {
   // ----- post's content -----
  
  .entry-content{
- 	margin-bottom: 60px;
+ 	margin-bottom: 40px;
  }
  
  .entry-content .footnotes {
  		width: 600px;
  		margin: auto;
- 		margin-top: 40px;	
+ 		margin-top: 40px;
+ 		padding-bottom: 0px;
+ 		//border-bottom: $border-style;	
+ 	}
+ 	
+  .entry-content .footnotes hr {
+ 		border-top: $border-style;
+ 		border-bottom: none;
+ 		border-left: none;
+ 		border-right: none;	
  	}
  
  .entry-content .footnotes ol {
@@ -814,50 +840,46 @@ article {
  		margin-bottom:0px;		
  	}
   
-  h1 {
-    @extend .margin-bottom-large;
+  .entry-content h1, h1 {
+    margin-bottom: 20px;
     font-size: 42px;
-    margin-top: 65.000px;
-    margin-left:200px;
-    margin-right:200px;
-    text-shadow: white 0px 1px 0px;
+    margin-top: 40px;
+    margin-left: 212px;
+    margin-right: 212px;
+    line-height:1.3;
   }
    
-  h2 {
+  .entry-content h2, h2 {
     font-size: 34px;
     text-transform: none;
     margin-top: 40px;
-    margin-bottom:20px;
-    text-shadow: white 0px 1px 0px;
-    margin-left:200px;
-    margin-right:200px;
-    line-height:1.4;
-
+    margin-bottom: 20px;
+    margin-left: 212px;
+    margin-right: 212px;
+    line-height:1.3;
   }
   
-    h3 {
+  .entry-content h3, h3 {
 	font-size: 28px;
     text-transform: none;
     margin-top: 40px;
-    margin-bottom:20px;
-    text-shadow: white 0px 1px 0px;
-    margin-left:200px;
-    margin-right:200px;
-    line-height:1.4;
-    
+    margin-bottom: 20px;
+    margin-left: 212px;
+    margin-right: 212px;
+    line-height:1.3;  
   }
   
     p {
-    @extend .default-line-height;
-    @extend .margin-bottom-large;
-    @extend .font-size-medium;
-    margin-left:200px;
-    margin-right:200px;
-    text-align: left;
-    color:#000;
+    	@extend .default-line-height;
+    	@extend .font-size-medium;
+    	margin-bottom: 20px;
+       	margin-left: 212px;
+    	margin-right: 212px;
+    	text-align: left;
+    	color: $text-color;
     
     a {
-      text-decoration: underline;
+      	text-decoration: underline;
     }
   }
   
@@ -869,23 +891,39 @@ article {
   }
   
   ul, ol {
-    @extend .block-padding;
     @extend .default-line-height;
-    width:540px;
-    margin:auto;
-    margin-bottom: 30px;
-    color:#000;
+    width: 580px;
+    margin-left: 232px;
+    margin-right: 212px;
+  	margin-bottom: 25px;
+  	margin-top: 10px; 	
+    padding-left: 0px;
+    padding-right: 0px;
     
     li {
-    	margin-bottom:10px;
-    	}
-
-    li p{
-    	margin-bottom:10px;
+    	width: auto;
     	margin-left: 20px;
     	margin-right: 0px;
+    	padding-left: 0px;
     	padding-right: 0px;
-    	}
+    	margin-bottom: 10px;
+    	margin-top: 10px;
+    }
+
+    li p{
+    	width: auto;
+    	margin-bottom: 10px;
+    	margin-top: 10px;
+    	margin-left: 0px;
+    	margin-right: 0px;
+    	padding-right: 0px;
+    	padding-left: 0px;
+    }
+    
+    li blockquote {
+    	margin-top: 20px;
+    	margin-bottom: 20px;	
+    }
     	
     li:last-child, ol:last-child { 
       margin-bottom: 0; 
@@ -908,41 +946,56 @@ article {
     list-style-type: decimal;
   }
   
-  blockquote ul, blockquote ol {
-    padding-left: 25px;
-    padding-right: 25px;
-    margin-left: 0px;
-    margin-right:25px;
-    
-        li {
-    	margin-bottom:10px;
-    	}
-
-    li p{
-    	margin-bottom:10px;
-    	margin-right:25px;    	
-    }
-    	
-    li:last-child, ol:last-child { 
-      margin-bottom: 0; 
-    }	
-    
-    li:last-child p, ol:last-child p { 
-      margin-bottom: 0; 
-    }
-  }	
+  blockquote p{
+	margin-left: 0px;
+	margin-right: 0px;
+  }
   
+  blockquote ul, blockquote ol {
+    width: auto;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 20px;
+    margin-right: 0px;
+  }
+  
+  blockquote blockquote {
+  	position: static;
+  	width: auto;
+  	margin-left: 10px;
+  	margin-right: 0px;
+  	padding-left: 20px;
+  	padding-right: 20px;
+  }
+  
+  ul ul , ul ol, ol ol , ol ul {
+  	width: auto;
+  	padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 20px;
+    margin-right: 0px;
+    margin-bottom: 0px; 
+  }
+  
+  ul blockquote, ol blockquote {
+  	width: auto;
+  	margin-left: 10px;
+  	margin-right: 0px;
+  }
+    
   p.photo-credit{
   	text-align:center;
   	font-style: italic;
   	margin-bottom: 45px;
+  	margin-top:0px;
+  	font-size: 90%;
   	}
   	
   p.card-separator{
   	text-align:center;
-  	margin-top: 50px;
-  	margin-bottom: 50px;
-  	color: $secondary-text-color;
+  	margin-top: 40px;
+  	margin-bottom: 40px;
+  	color: $accent-color;
   	}
   	
 
@@ -951,7 +1004,6 @@ article {
   footer {
     @extend .sans-serif-font-bold;
     padding-top: 0px;
-    text-shadow: white 0px 1px 0px;
     font-size:25px;
     
     > span > a {
@@ -962,41 +1014,76 @@ article {
       @extend .sans-serif-font-bold;
       font-size:25px;
       overflow: auto;
-      padding-bottom: 38.319px;
-      padding-bottom: 1.916rem;
+      margin-top: 20px;
+      padding-bottom: 40px;
             
       &:first-child {
       	@extend .default-font;
       	color: $secondary-text-color;
         font-size:18px;
         @extend .margin-bottom-large;
-        //padding-bottom: 14.637px;
         padding-bottom: 20px;
-        border-bottom: $border-style;
+        //border-bottom: $border-style;
         
         time:after, span.author:after {
           content: "•";
           padding: 0 6px 0 10px;
-          padding: 0 0.3rem 0 0.5rem; /* not from scale */
+        }
+      }
+    }
+    
+    p.meta-alignment {
+      @extend .sans-serif-font-bold;
+      font-size:25px;
+      overflow: auto;
+      padding-bottom: 40px;
+      padding-top: 40px;
+      border-top: $border-style;
+            
+      &:first-child {
+      	@extend .default-font;
+      	color: $secondary-text-color;
+        font-size:18px;
+        @extend .margin-bottom-large;
+        padding-bottom: 20px;
+        //border-bottom: $border-style;
+        
+        time:after, span.author:after {
+          content: "•";
+          padding: 0 6px 0 10px;
         }
       }
     }
     
     > .sharing {
+    	max-width: 700px;
+    	margin:auto;
     	margin-top: 50px;
-    	margin-bottom: 60px;
+    	padding-bottom: 80px;
     	text-align: center;
+    	//border-bottom: $border-style;
+    	
     	p{
-    	@extend .default-font;
-    	text-align: center;
-    	font-size: 20px;
-    	margin-bottom: 0px;
-    	color: $secondary-text-color;
+	    	@extend .default-font;
+	    	text-align: center;
+	    	font-size: 20px;
+	    	width: auto;
+	    	margin: auto;
+	    	margin-bottom: 0px;
+	    	color: $secondary-text-color;
     	}
-    	h3{
-    	margin-top: 0px;
-    	}
-    		
+    	
+    	h3{ 	    	
+    		width: auto;
+	    	margin: auto;
+    		color: $secondary-text-color;
+    		margin-top: 0px;
+    		a {
+    			color: $accent-color;
+    			margin-right: 5px;
+    			margin-left: 5px;
+    		}
+    	} 		
     }
     
     a.basic-alignment {
@@ -1020,24 +1107,14 @@ article {
   
   // 'read on' button
   > footer > a {
-    /*@extend .button;
-    padding: 0.452rem 0;
-    padding: 9.046px 0;
-    display: block;
-    width: 35%;
-    margin: 0 auto;*/
   }
-}
-
-blockquote p{
-	margin-left:0;
 }
   
   
   
   p.extra-width {
   width: 100%;
-  max-width: 740px; 
+  max-width: 768px; 
   margin: auto;
   padding:0;
   margin-bottom: 40px;
@@ -1047,7 +1124,7 @@ blockquote p{
 img.extra-width {
   display: block;
   width:100%;
-  max-width: 740px;
+  max-width: 768px;
   margin: 0 auto;
   height: auto; 
 }
@@ -1064,7 +1141,7 @@ img.extra-width {
   img.full-width {
   display: block;
   width: 100%;
-  max-width: 1000px;
+  max-width: 1024px;
   height: auto; 
 }
 
@@ -1080,25 +1157,51 @@ img.extra-width {
   img.full-width-screenshot {
   display: block;
   width: 100%;
-  max-width: 1000px;
+  max-width: 1024px;
   height: auto; 
 }
 
 img.borderless {
-  border:none;
+	border:none;
+}
+
+p.photo-credit {
+	width: 500px;
+	margin: auto;
+	margin-bottom: 45px;
 }
  
    .entry-content .footnotes ol {
- 		padding-left:20px;		
-	 	padding-right:20px;
+ 		width: auto;
+ 		padding-left: 0px;		
+	 	padding-right: 0px;
 	 	margin-left:20px;		
-	 	margin-right:20px;	
- 	}
- 	
-   .entry-content .footnotes ol p{
- 		margin-left:20px;		
-	 	margin-right:20px;
-	 	margin-bottom:20px;		
+	 	margin-right:0px;
+	 	
+	 	li {
+	 		width: auto;
+ 			margin-left: 20px;		
+	 		margin-right: 0px;
+	 		padding-left: 0px;
+	 		padding-right: 0px;
+	 		
+	 		p {
+	 		 	font-size: 90%;
+	 			width: auto;
+ 				margin-left: 0px;		
+	 			margin-right: 0px;
+	 			padding-left: 0px;
+	 			padding-right: 0px;
+	 		}
+	 	}	
+	 		
+	    li:last-child {
+	     	margin-bottom: 0px;
+	     	
+	     	p{
+	     		margin-bottom: 0px;	
+	     	}
+	    }	
  	}
  	
  	.entry-content.embed-video-container{
@@ -1113,13 +1216,11 @@ img.borderless {
 // media queries
 // ------------------------------
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
   
   #main {
   	clear: both;
   	width:auto;
-  	padding-left:30px;
-  	padding-right:30px;
   }
   
   body {
@@ -1129,108 +1230,179 @@ img.borderless {
   nav{
   	max-width: 700px;
   	margin:auto;
-  	padding: 14.637px 20px;
-  	padding: 0.732rem 20px;
+  	padding: 12px 20px;
   	margin-bottom: 70px;
 	
   }
   
-  article header h1, article header h2, article header p.meta, article h1, article h2, article h3, article p {
+  article header h1, article header h1.external-title, article header p.meta, .entry-content h1, .entry-content h2, .entry-content h3, .entry-content p, article p,  article h1, article h2, article h3 {
 	margin-bottom: 25px;
 	width: 600px;
 	margin: auto;	 
   }
   
-  article header p.meta{
-	margin-top: 10px;	
+  article header h1, article header h1.external-title {
+	margin-bottom: 10px;	
   }
-   
-  .entry-content {
-   	 -ms-word-break: break-all;
-     word-break: break-all;
-
-     /* Non standard for webkit */
-     word-break: break-word;
-     
-	-webkit-hyphens: auto;
-   	-moz-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-  }
-
-  .entry-content h2{
-  	margin:auto;
-  	width:600px;
-  	margin-bottom: 20px;
-  	margin-top: 40px;
-  	}
   
-  .entry-content p{
-  	margin:auto;
-  	//width:600px;
-  	margin-bottom: 25px;
+   // ------------------------------------------------------------
+  // This is where the fun begins
+  // ------------------------------------------------------------
+  
+  
+ article h1, article h2, article h3 {
+	  	margin-top: 40px;
+	  	margin-bottom: 20px;
+	}
+	 
+	// Archives and Guides Archive pages only 
+ article p {
+ 		margin-bottom: 20px;
+ 	}  
+   
+ article .entry-content {
+	  
+	  h1, h2, h3 {
+	   	margin:auto;
+	  	margin-bottom: 20px;
+	  	margin-top: 40px;
+	  }
+	  
+	  p{
+	  	margin:auto;
+	  	margin-bottom: 20px;
+	  }
+	  	
+	  blockquote {
+	  	width: 548px;
+	  	margin:auto;
+	  	margin-top: 20px;
+	  	position:relative;
+ 		left: 5px;
+ 		right: -5px;
+	  	margin-bottom: 30px;  	
+	  	padding-left: 20px;
+	  	padding-right: 20px;
+	  	
+	  	p{
+	  		width: auto;
+	  		margin-left: 0px;
+	  		margin-right: 0px;
+	  	}
+	  	
+	  	ul, ol {
+		  	width: auto;
+		  	margin: auto;
+		  	margin-top: 10px;
+		  	padding-left: 20px;
+		  	margin-bottom: 25px;
+		  }
+	  	
+	  	blockquote {
+	  		width: auto;
+	  		position: static;
+	  		margin-left: 10px;
+	  		
+	  		p {
+	  			width: auto;
+	  		}
+	  	}
+	}
+	
+	ul, ol {
+	  	width: 580px;
+	  	margin: auto;
+	  	padding-left: 20px;
+	  	margin-bottom: 25px;
+	  	margin-top: 10px;
+
+	  	li p {
+	  		width: auto;
+	  		margin-top: 10px;
+	  		margin-bottom: 10px;
+	  	}
+	  	
+	  	li blockquote {
+    		margin-top: 20px;
+    		margin-bottom: 20px;	
+    	}
+	  	
+	  }
+	  
+	 ul ul , ul ol, ol ol , ol ul {
+  		width: auto;
+  		padding-left: 0px;
+    	padding-right: 0px;
+    	margin-left: 20px;
+    	margin-right: 0px;
+    	margin-bottom: 0px;
   	}
   	
-article blockquote {
-  	width: 540px;
-  	margin:auto;
-  	margin-bottom: 30px;
-  }
+    ul blockquote, ol blockquote {
+  		width: auto;
+  		margin-left: 10px;
+  		margin-right: 0px;
+  	}
+	  
+	 p.full-width {
+	 	margin:auto;
+	 	width: auto;
+	 }
+	 
+	 p.extra-width {
+  		width: auto;
+  		margin: auto;
+  		padding:0;
+  		margin-bottom: 40px;
+  		margin-top: 40px;
+  	 }
+	 
+	 p.photo-credit {
+	 	width: 500px;
+	 	margin: auto;
+	 	margin-bottom: 45px;
 
-article blockquote p{
-  	width: 540px;
-  }
+	 }
+	 
+	 p.card-separator{
+  		text-align:center;
+  		margin-top: 40px;
+  		margin-bottom: 40px;
+  		color: $accent-color;
+  	}
+	
+	 .footnotes {
+	 	width:600px;
+	 	margin:auto;
+	 	margin-top:40px;	
+	 }
+	 
+	 .footnotes ol {
+	 		width: auto;
+			margin-left: 20px;
+	 		margin-right: 0px;
+	 		padding-left: 0px;
+	 		padding-right: 0px;
+	 		margin-bottom: 0px;	
+	 }	  
+ }
 
-article ul, article ol {
-  	margin: auto;
-  	width: 540px;
-  	margin-bottom: 20px;
-  	padding-left: 20px;
-  	margin-bottom: 30px;
-  }
-  
-article ul p, article ol p {
-  	width: 540px;
-  	margin: auto;
-  	margin-left: 20px;
-  	padding-left: 20px;
-  }
-  
-
-article .entry-content .footnotes {
- 	width:600px;
- 	margin:auto;
- 	margin-top:40px;	
- 	}
- 
- article .entry-content .footnotes ol {
- 		width: 90%;
-		margin-left: 20px;
- 		margin-right: 20px;
- 		padding-left: 20px;
- 		padding-right: 20px;
-
- 		p{
- 			margin-left: 20px;
- 			margin-right: 20px;
- 			padding-left: 0px;
- 			padding-right: 0px;
- 		}
- 	}
- 	
-
-
-article #blog-archives {
+article #blog-archives, article #guides-archive {
+	
 	h2 {
-	 margin-top: 40px;	
+		margin-top: 60px;	
+		margin-bottom: 60px
 	}
+
     article {
-    	
       margin-left:0px;
-      margin-right:0px;  
-      h1 { 
-        margin-left:0px;
-        margin-right:0px;       
+      margin-right:0px;
+      margin-bottom: 60px;
+      margin-top: 60px; 
+      
+      h1 {
+      	margin-top: 0px;
+        margin-bottom: 20px;      
       }
     }
   }
@@ -1238,24 +1410,10 @@ article #blog-archives {
   .blog-index .pagination{
   	max-width: 700px;
   	margin: auto;
-  	margin-bottom: 50px;
+  	margin-bottom: 100px;
   	magrin-top: 50px;
   	
   	}
-  	
-  article p {
-  	margin-bottom: 25px;
-  }
-  
-  article h1 {
-  	margin-bottom: 25px;
-	margin-top: 40px;
-  }
-  
-  article h3 {
-  	margin-bottom: 20px;
-  }
-
 }
 
 // -----------------------------------------
@@ -1267,28 +1425,30 @@ article #blog-archives {
   
   #main {
   	clear: both;
-  	width:auto;
+  	width: auto;
   }
   
   body {
-  	//width:90%;
     > header {
-    	background-image:none;
 	  	hgroup{  	
-	      padding:20px 0 10px 0;
+	      
+	      padding: 10px 0 10px 0;
 	      position:relative;
 	      text-align:center;	      
+	      
 	      a.analog{
 		  	text-align:center;
 		  	margin:0px;
-		  	margin-right: 15px;
+		  	margin-right: 40px;
 		  	font-size:160px;
 	  	  }	  	
+	  	  
 	  	  a.senses{
 		  	text-align:center;
-		  	margin:0px;
+		  	margin-left:0px;
 		  	font-size:100px;  	
   		  }	      
+	      
 	      h2{
 	      	display:none;	
 	      }
@@ -1299,13 +1459,11 @@ article #blog-archives {
   nav {
   	text-align: center;
     border-top: none;
-    margin-bottom: 44.401px;
-    margin-bottom: 2.618rem;
+    margin-bottom: 40px;
     
     ul {
-      border-top: 2px solid #808080;
-      padding: 16.96px 0;
-      padding: 1rem 0;
+      border-top: $border-style;
+      padding: 16px 0;
       
       li{
   		padding-left:0px;
@@ -1319,160 +1477,244 @@ article #blog-archives {
     }
     
     form {
-      margin-bottom: 20.08px;
-      margin-bottom: 1.184rem;
+      margin-bottom: 20px;
       
       input.search {
-        font-size: 15.349px;
-        font-size: 0.905em; /* 0.732 + 0.173 */
+        font-size: 16px;
       }
     }
   }
   
-  nav input.search,
-  article > footer > a {
-    width: 50%;
-  }
-  
-  article header h1, article header h2, article header p.meta, article h1, article h2, article h3, article p, blockquote, article ul, article ol {
- width: 90%;
- margin: auto;
-  }
-  
-  article blockquote {
-  	width: 90%;
-  	padding-left: 0px;
-  	margin-left: 5%;
-  	margin-bottom: 30px;
-  }
-  
-  article blockquote p{
-  	width: 90%;
-  	margin: auto;
-  }
-  
-  
-  article ul, article ol {
-  	width: 90%;
-  	margin-left: 50px;
-    padding-left: 0px;
-    margin-bottom: 30px;
-  }
-  
-  article ul p, article ol p {
-  	width: 90%;
-  	margin: auto;
-  	padding-left: 0px;
-  }	
-  
-  article header p.meta{
-	margin-top: 10px;	
-  }
-
-  .entry-content {
-   	 -ms-word-break: break-all;
-     word-break: break-all;
-
-     /* Non standard for webkit */
-     word-break: break-word;
-     
-	-webkit-hyphens: auto;
-   	-moz-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-  }
-  
-  .entry-content h2{
-  	width: 90%;
-  	margin: auto;
-  	margin-top: 30px;
-  	margin-bottom: 20px;		
-
-  	}
-
-   article .entry-content .footnotes ol {
+article {
+	
+	header {
+		width: auto;
+ 		margin-left: 20px;
+ 		margin-right: 20px;
+ 		padding-left: 0px;
+ 		padding-right: 0px;
+ 		margin-top: 65px;
+ 		margin-bottom: 25px;
  		
- 		margin-left: 10px;
- 		margin-right: 10px;
- 		
- 		p{
- 			margin-left: 10px;
- 			margin-right: 10px;
+ 		h1 {
+ 			width: auto;
+ 			margin-left: 0px;
+ 			margin-right: 0px;
+  			margin-bottom: 10px;
  		}
- 	}
- 	
- 	article .entry-content .footnotes {
- 		width:90%;
- 		margin:auto;	
- 	} 	
+ 		
+ 		h1.external-title{
+ 			width: auto;
+ 			margin-left: 0px;
+ 			margin-right: 0px;
+  			margin-bottom: 10px;
 
-article #blog-archives {
-    width: 90%;
-    margin: auto;
-    
-    h2{
-     margin-top: 40px;	
-    	}
-    
-    article {
-      margin-left:0px;
-      margin-right:0px;  
-      h1 { 
-        margin-left:0px;
-        margin-right:0px;       
-      }
-      
-      p.description {
-      	margin-left:0px;
-      	margin-right:0px;
-      	margin-top: 20px;	
-      	margin-bottom: 20px;	
-      }
-    }
-  }
+ 		}
+ 		
+ 		p.meta {
+ 			width: auto;
+ 			margin-left: 0px;
+ 			margin-right: 0px;
+ 		}
+	}
+	
+	/* This p is only in the archives page and the guides archives page, 
+	because it's out of the .entry-content selector. */
+	
+	p {
+		width: auto;
+ 		margin-left: 20px;
+ 		margin-right: 20px;
+ 		padding-left: 0px;
+ 		padding-right: 0px;
+	}
+	
+	h1, h2, h3 {
+		
+		width: auto;
+		margin-left: 20px;
+		margin-right: 20px;
+		padding-left: 0px;
+		padding-right: 0px;
+		margin-bottom: 20px;
+		margin-top: 40px;
+	}
   
-  article #guides-archive {
-    width: 90%;
-    margin: auto;
+  .entry-content {
+   	 	
+   	 	/* Hyphenation starts from here down to smaller sizes. */
+   	 	
+   	 	-ms-word-break: break-all;
+     	word-break: break-all;
+	
+
+     	word-break: break-word;
+     
+		-webkit-hyphens: auto;
+   		-moz-hyphens: auto;
+    	-ms-hyphens: auto;
+    	hyphens: auto;
+    	
+    	h1, h2, h3, p, blockquote, ul, ol {
+		 	width: auto;
+		 	margin-left: 20px;
+		 	margin-right: 20px;
+		 	padding-left: 0px;
+		 	padding-right: 0px;
+		 	margin-bottom: 25px;
+		}
+		
+		p {
+			margin-bottom: 20px;	
+		}
+  
+	  	h1, h2, h3 {
+	  		margin-top: 40px;
+	  		margin-bottom: 20px;
+	  	}
+	  	
+	  	blockquote {
+	  		position: static;
+	  		padding-left: 20px;
+	  		padding-right: 20px;
+	  		margin-left: 25px;
+	  		margin-bottom: 30px;
+  	
+		  	p{
+			  	width: auto;
+			  	margin-left: 0px;
+			  	margin-right: 0px;
+			  	padding-left: 0px;
+			  	padding-right: 0px;
+		  	}
+  	
+		  	ul, ol {
+		  		width: auto;
+		    	padding-left: 0px;
+		    	padding-right: 0px;
+		    	margin-left: 10px;
+		    	margin-right: 0px;
+		  	}
+		  	
+		  	blockquote {
+		  		position: static;
+		  		width: auto;
+		  		margin-left: 5px;
+		  		margin-right: 0px;
+		  		padding-left: 20px;
+		  		padding-right: 20px;
+		  		
+		  		p {
+			  		width: auto;
+			  		max-width: 100%;
+			  		padding-left: 0px;
+			    	padding-right: 0px;
+			    	margin-left: 0px;
+			    	margin-right: 0px;
+		  		}
+		  	}
+  		}
+  
+		ul, ol {
+		  	width: auto;
+		    padding-left: 0px;
+		    padding-right: 0px;
+		    margin-left: 30px;
+		    margin-right: 20px;
+		    
+		    li p{
+		    	margin-right: 0px;
+		    	margin-left: 0px;
+		    }
+		    
+		    li blockquote {
+    			margin-top: 20px;
+    			margin-bottom: 20px;	
+    		}
+		}
+		
+		ul ul , ul ol, ol ol , ol ul {
+	  		width: auto;
+	  		padding-left: 0px;
+	    	padding-right: 0px;
+	    	margin-left: 10px;
+	    	margin-right: 0px;
+	    	margin-bottom: 0px;
+  		}
+	  	
+	  	p.photo-credit {
+	  		width: 70%;
+	  		margin-left: 15%;
+	  		margin-right: 15%;
+	  	}
+	  	
+	  	p.card-separator{
+  			text-align:center;
+  			margin-top: 40px;
+  			margin-bottom: 40px;
+  			color: $accent-color;
+  		}
+  	
+	  	.footnotes {
+	 		width:auto;
+	 		margin-left: 20px;
+	 		margin-right: 20px;
+	 		
+	 		ol {
+	 				 			
+	 			li{
+	 				font-size: 18px;
+	 					 	 			
+	 	 			p{
+	 	 				font-size: 16px;
+	 	 			}	
+	 			}
+	 		}	
+	 	}	
+	}
+	
+	footer {
+		.sharing {
+			width: auto;
+			max-width: 100%;
+			margin-left: 20px;
+			margin-right: 20px;
+		}
+	} 	
+}
+
+	#blog-archives, #guides-archive {
+	    width: auto;
+	    margin-left: 20px;
+	  	margin-right: 20px;
+	  	
+	  	h2{
+	  		width: auto;
+	    	margin-left: 0px;
+	  		margin-right: 0px;
+	  	}
+	    
+	    article {
+	      width: auto;
+	      margin-left:0px;
+	      margin-right:0px;  
+	      
+	      h1, h1 a, h2, h2 a, p, p.description {
+	      	width: auto;
+	       	line-height: 1.4;
+	        margin-left:0px;
+	        margin-right:0px;
     
-    h2{
-     margin-top: 40px;	
-    	}
-    
-    article {
-      margin-left:0px;
-      margin-right:0px;  
-      h1 { 
-        margin-left:0px;
-        margin-right:0px;       
-      }
-      
-      p.description {
-      	margin-left:0px;
-      	margin-right:0px;
-      	margin-top: 20px;	
-      	margin-bottom: 20px;	
-      }
-    }
-  }
+	      }
+	    }
+	  }
 
   .blog-index .pagination{
-  	margin-left:0;
-  	margin-right:0;
+  	width: auto;
+  	max-width: 100%;
+  	margin-left: 20px;
+  	margin-right: 20px;
   	}
-  	
-  article p {
-  	margin-bottom: 25px;
-  }
-  
-  article h1 {
-  	margin-bottom: 25px;
-	margin-top: 40px;
-  }
-  
-  article h3 {
-  	margin-bottom: 20px;
-  }
   
   footer {
   	width: 100%;
@@ -1488,23 +1730,7 @@ article #blog-archives {
   footer[role=contentinfo]{
   	width:70%;
   	margin:auto;
-  	}
-  	
- article blockquote ul, article blockquote ol {
-    padding-left: 25px;
-    padding-right: 25px;
-    margin-left: 25px;
-    margin-right: 25px;
-  }
-  	
-  article blockquote ul li p, article blockquote ol li p{
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-left: 0px;
-    margin-right: 0px;
-  }
-  	
-  	
+  	} 	
 }
 
 // ------------------------------
@@ -1513,59 +1739,52 @@ article #blog-archives {
 	
 	#main {
   		clear: both;
-  		width:auto;
-  		padding-left:10px;
-  		padding-right:10px;
+  		width: auto;
 	}
  	
   	body > header {
   		hgroup{
-		    padding: 10px 50px 0 50px;
+		    padding: 10px 80px 0 80px;
 		    position:relative;
 		    text-align:center;
+		    
+		    h1 {
+		        padding: 40px 0px 40px 0px;	
+		    }
 
 			a.analog{
 				padding: 10px 0 10px 15px;
-		 		font-size:120px;
-		 		margin:0px;
-		 		text-align:center;
+		 		font-size: 120px;
+		 		margin: 0px;
+		 		text-align: center;
 		 	}
 		 	a.senses{
 		 		padding: 10px 0 10px 0;
-		 		font-size:80px;
-		 		margin:0px;
-		 		text-align:center;
+		 		font-size: 80px;
+		 		margin: 0px;
+		 		text-align: center;
 		 	}
-		    
-		    h2 {
-		      font-size: 15.349px;
-		      font-size: 0.905rem; /* 0.732 + 0.173 */
-		    }
   		}
   	}
   
   nav {
-    margin-bottom: 32.495px;
-    margin-bottom: 1.916rem;
+    margin-bottom: 30px;
     text-align: center;
     
     ul {
-      padding: 12.415px 0;
-      padding: 0.732rem 0;
+      padding: 12px 0;
       
       li {
         font-weight: normal;
       }
       
       li + li {
-        padding-left: 7.66px;
-        padding-left: 0.452rem;
+        padding-left: 8px;
       }
     }
     
     form {
-      margin-bottom: 16.96px;
-      margin-bottom: 1rem;
+      margin-bottom: 16px;
     }
   }
   
@@ -1574,59 +1793,49 @@ article #blog-archives {
     width: 70%;
   }
   
-  #blog-archives {
-    width: 90%;
-    margin: auto;
+  #blog-archives, #guides-archive {
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
     
     article {
-    margin-left: 0;
-    margin-right:0;
+	    margin-left: 0;
+	    margin-right:0;
+	    
+	      h1, h1 a {
+	      	width: auto;
+	        font-size: 38px;
+	       	line-height: 1.4;
+	        margin-left:0px;
+	        margin-right:0px;
     
-      h1 {
-        font-size: 27.441px;
-        font-size: 1.618rem; 
-        margin-left:0px;
-        margin-right:0px;
-        line-height: 46px;      
-      }
-      
-      p.description {
-      	margin-left:0px;
-      	margin-right:0px;
-      	margin-top: 20px;	
-      	margin-bottom: 20px;	
-      }
-    }
+	      }
+	      
+	      h2, h2 a {
+	      	width: auto;
+	        font-size: 32px;
+	       	line-height: 1.4;
+	        margin-left:0px;
+	        margin-right:0px;
+	      }
+	      
+	      p.description {
+	      	margin-left: 0px;
+	      	margin-right: 0px;
+	      	margin-bottom: 20px;
+	      	line-height: 1.4;	
+	      }
+	}
   }
   
-  #guides-archive{
-    width: 90%;
-    margin: auto;
-    
-    article {
-    margin-left: 0;
-    margin-right:0;
-    
-      h1 {
-        font-size: 27.441px;
-        font-size: 1.618rem; 
-        margin-left:0px;
-        margin-right:0px;
-        line-height: 46px;      
-      }
-      
-      p.description {
-      	margin-left:0px;
-      	margin-right:0px;
-      	margin-top: 20px;	
-      	margin-bottom: 20px;	
-      }
-    }
+  .blog-index {
+  	width: auto;
+  	margin-left: 0px;
+  	margin-right: 0px;
   }
   
   .blog-index > article {
     margin-bottom: 60px !important;
-    // margin-bottom: 5.016rem !important; /* 4.236 + 0.452 */
   }
   
   img#portrait {
@@ -1637,128 +1846,173 @@ article #blog-archives {
     margin-right: auto;
   }
   
-  article {
-  	width: 100%;
-    margin-left: 0px;
-    margin-right: 0px;
-  	
-    header {
-      h1 {
-        font-size: 38px;
-        line-height: 46px;
-      }
-       h1.external-title{
-       	font-size: 32px;
-        a{
-        	font-size: 32px;		
-        }      	
-       }
-    }
+  	article {
+  		width: auto;
+  		margin-left: 0px;
+  		margin-right: 0px;
     
-    footer > p.meta {
-      font-size: 16.417px;
-      font-size: 0.968rem; /* 0.732 + 0.236 */
-      
-      a.basic-alignment {
-      font-size: 20px;
-      }
-    }
+   		header {
+   			width: auto;
+   			margin-top:40px;
+  			margin-left: 20px;
+  			margin-right: 20px;
+  			margin-bottom: 25px;
     
-    .entry-content {
-     -ms-word-break: break-all;
-     word-break: break-all;
+	    	h1 {
+	    		width: auto;
+	    		margin-left: 0px;
+	       		margin-right: 0px;
+	       		margin-top: 40px;
+	       		margin-bottom: 10px;
+	        	font-size: 38px;
+	        	line-height: 1.4;
+	      	}
+	       		
+	       	h1.external-title{
+	       		width: auto;
+	       		margin-left: 0px;
+	       		margin-right: 0px;
+				margin-top: 40px;
+	        	margin-bottom: 10px;
+	        	font-size: 32px;
+	        	line-height: 1.4;
+	
+		        a.external-url {
+		        	width: auto;
+	       			margin-left: 0px;
+	       			margin-right: 0px;
+					margin-top: 40px;
+	        		margin-bottom: 10px;
+	        		font-size: 32px;
+	        		line-height: 1.4;
+	    	    	color: $accent-color;
+	        	}
+	        	a.external-url:hover {
+	        		color: $accent-hover-color;
+	       		}     	
+	       	}	
+   	  	}
 
-     /* Non standard for webkit */
-     word-break: break-word;
-     
-	-webkit-hyphens: auto;
-   	-moz-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-      
-    }
+		h1, h2, h3 {
+			width: auto;
+		    margin-left: 20px;
+		    margin-right: 20px;
+		}
+		
+		h1 {
+	  		font-size: 38px;
+	        line-height: 1.4;
+		}
+		    
+		h2{
+		 	font-size: 32px;
+		    line-height: 1.4;
+		}
+		  	
+		h3 {
+		  	font-size: 26px;
+		  	line-height: 1.4;
+		}
 
+	    .entry-content {
+	    
+		    width: auto;
+		    margin-left: 0px;
+		  	margin-right: 0px;
+		  	
+		  	/* Hyphenation for mobile devices. */
+		  	
+		    -ms-word-break: break-all;
+		    word-break: break-all;
+		    word-break: break-word;		     
+			-webkit-hyphens: auto;
+		   	-moz-hyphens: auto;
+		    -ms-hyphens: auto;
+		    hyphens: auto;
+		    
+		    h1, h2, h3, p, blockquote, ul, ol {
+		    	width: auto;
+		    	margin-left: 20px;
+		    	margin-right: 20px;
+		    }
+		    
+		    h1 {
+		    	font-size: 38px;
+	        	line-height: 1.4;
+		    }
+		    
+		    h2{
+		  	  	font-size: 32px;
+		      	line-height: 1.4;
+		  	}
+		  	
+		  	h3 {
+		  		font-size: 26px;
+		  		line-height: 1.4;
+		  	}
+		    
+		    blockquote {
+		    	position: static;
+		    	margin-left: 25px;
+		    	margin-bottom: 30px;
+		    	
+			    ul, ol {
+			    	margin-bottom: 25px;
+			    	width: auto;
+			     	margin-left: 10px;
+		    		margin-right: 0px;
+		    		padding-left: 0px;
+			    	padding-right: 0px;	
+			    }
+		    }
+		    
+		    ul, ol {
+		    	width: auto;
+		    	margin-left: 30px;
+		    	margin-right: 20px;
+		    	margin-bottom: 25px;
+		    }
+		    
+		    ul ul , ul ol, ol ol , ol ul {
+		  		width: auto;
+		  		padding-left: 0px;
+		    	padding-right: 0px;
+		    	margin-left: 10px;
+		    	margin-right: 0px; 
+		    	margin-bottom: 0px;
+	  		}
+		
+			p.extra-width {
+		    	width: auto;
+		    	margin-left: 0px;
+		    	margin-right: 0px;	
+		    }    
+		    
+		    p.full-width {
+		    	width: auto;
+		    	margin-left: 0px;
+		    	margin-right: 0px;	
+		    }
+		    
+		    p.photo-credit {
+		  		width: 70%;
+		  		margin-left: 15%;
+		  		margin-right: 15%;
+		  		margin-bottom: 30px;
+		  	}		 
+    	} 
   }
-
-   article .entry-content .footnotes ol {
- 		
- 		margin-left: 10px;
- 		margin-right: 10px;
- 		
- 		p{
- 			margin-left: 10px;
- 			margin-right: 10px;
- 		}
- 	}
- 	
-  	article .entry-content .footnotes {
- 		width:90%;
- 		margin:auto;	
- 	}
- 	
-  
+    
   .blog-index .pagination{
-  	margin-left: 0;
-  	margin-right:0;
-  	font-size: 28px;
+  	  width: auto;
+  	  margin-left: 20px;
+	  margin-right: 20px;
+  	  font-size: 28px;
   	}
-  	
-  footer {
-  	width: 100%;
-  	margin: auto;
-  	margin-bottom: 60px !important;
-  	
-  	p {
-  	 line-height: 170%;
-  	}
-  	
-  }
   
   footer[role=contentinfo]{
-  	width:70%;
-  	margin:auto;
-  	}
-  
-    article p {
-  	margin-bottom: 25px;
-  }
-  
-  article .entry-content ul, article .entry-content ol {
-  	width: 90%;
-  	margin-left: 20px;
-  	margin-right: 0px;
-  	margin-bottom: 30px;
-    padding-left: 20px;
-    padding-right: 0px;
-  }
-  
-  article ul p, article ol p {
-  	width: 90%;
+  	width: 70%;
   	margin: auto;
-  	padding-left: 0px;
-  }	
-
-  
-  article h1 {
-  	margin-bottom: 25px;
-	margin-top: 40px;
+  	margin-top: 60px;
   }
-  article h2{
-  	font-size: 32px;
-  	}
-  
-  article h3 {
-  	font-size: 26px;
-  	margin-bottom: 20px;
-  }
-  
-   article blockquote {
-  	width: 90%;
-  	margin-left: 20px;
-  	margin-right: 20px;
-  	margin-bottom: 30px;
-  	padding-left:0px;
-  	padding-right: 0px;
-  }
-  
 }

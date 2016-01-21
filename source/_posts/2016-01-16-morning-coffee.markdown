@@ -29,7 +29,7 @@ I’ve been thinking about how to make Morning Coffee better for readers for a w
 
 I feel like I’ve been letting things coast for a while, and it’s time to shake things up a bit. Ever since I started writing online as my primary job, Analog Senses has been steadily growing. That’s fantastic, and I’m super grateful for every single reader who, over the past 18 months or so, stopped by to read some of my work. You’re the reason I do this, and the reason that makes it all worth it.
 
-Unfortunately, we’re in a period when I need to worry about the site’s sustainability, as well as my own. For that reason, I’ll be taking some steps towards helping the site stay on the black in the near future. Up until now, the site’s income has been limited to [Amazon affiliate links](http://www.amazon.com/?tag=analogsens-20), which have worked very well — far better than I hoped, actually — but which unfortunately are not enough to keep the site running as it is or, rather, to justify the amount of time and effort I put into it every day.
+Unfortunately, we’re in a period when I need to worry about the site’s sustainability, as well as my own. For that reason, I’ll be taking some steps towards helping the site stay in the black in the near future. Up until now, the site’s income has been limited to [Amazon affiliate links](http://www.amazon.com/?tag=analogsens-20), which have worked very well — far better than I hoped, actually — but which unfortunately are not enough to keep the site running as it is or, rather, to justify the amount of time and effort I put into it every day.
 
 Over the next few weeks, I’ll be introducing some changes to this weekly article, but also to the way the site operates, how content is presented, and how I interact with readers. I can’t promise that all changes will be for the better — the way these things work, I’m certain to screw something up along the way — but I will try to be as careful as possible, and if something doesn’t quite work, I have no problem rolling things back and trying a different way. This is uncharted territory for me, so we’ll see.
 
@@ -44,7 +44,7 @@ For starters, I have created a new section on the navigation bar called “[Guid
 
 These are historically some of the most popular articles on the site, and every now and then I get email from readers saying how they came across one of these pieces when searching for an answer to a problem, and how it helped them find a solution. These emails usually make my day, but I felt like there was more that I could do to make those articles easier to find.
 
-One of the disadvantages of the traditional blog format is that, once an article is phased out of the homepage, it gets buried far to deep within the archives. Hopefully, by creating a place where important articles can be curated, I’ll be making it easier for people to stumble upon them.
+One of the disadvantages of the traditional blog format is that, once an article is phased out of the homepage, it gets buried far too deep within the archives. Hopefully, by creating a place where important articles can be curated, I’ll be making it easier for people to stumble upon them.
 
 Another thing that has changed is that, starting from now, I’ll be using all three of my Amazon affiliate accounts — the US, UK and Spain — for the links in the articles. For now, the only way I found to implement this is to present all three links at the end of each article, or the relevant section, but I’m working towards finding a seamless way to present readers with just the appropriate link based on location, or maybe a preference setting. I know such a tool used to exist for Wordpress-based blogs, and there’s even a Javascript/PHP plugin that does it. I’m trying to figure out how to implement that feature on this site, but so far that’s still a work in progress. If you have any leads, please let me know. In the meantime, I’ll continue to use my US affiliate account as the default option when embedding links within regular paragraphs.
 
@@ -77,7 +77,9 @@ Now, that’s entirely enough blogging about blogging for today, so let me close
 Enjoy.
 
 
-##Top-Five 
+##Top-Five
+
+In 2016’s first edition of the top five links of the week, we learn one key aspect about achieving our goals. We also learn what it’s like to dine in an overrated high-profile restaurant in NYC, and we witness an interview with one of the world’s most wanted drug lords. Then there’s a wonderful review of one of my favorite MFT cameras and, finally, a great piece on the importance of online privacy and freedom.
 
 
 ###[The great myth about getting in shape (and every other goal) | David Cain →](http://www.raptitude.com/2016/01/the-great-myth/)

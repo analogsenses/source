@@ -15,11 +15,11 @@
 {% endif %}
     {% unless page.meta == false %}
       <p class="meta">
-        {% include post/date.html %}{{ time }}{% if post.external-url %} | <a class="external-permalink" rel="full-article" href="{{ root_url }}{{ post.url }}">∞</a>{% endif %}
-        {% if site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}
+        {% include post/date.html %}{{ time | date: "%B %d, %Y" }}{% if post.external-url %} | <a class="external-permalink" rel="full-article" href="{{ root_url }}{{ post.url }}">∞</a>{% endif %}
+        <!--{% if site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}
            | <a href="{% if index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread"
              data-disqus-identifier="{% if post.meta.disqus_id %}{{ post.meta.disqus_id }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">Comments</a>
-        {% endif %}
+        {% endif %}-->
       </p>
     {% endunless %}
   </header>

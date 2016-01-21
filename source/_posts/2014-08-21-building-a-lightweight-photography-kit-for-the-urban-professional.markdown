@@ -11,7 +11,7 @@ wordpress_id: 1637174267
 categories:
 - Guides
 - Photography
-Description: "Always having your camera kit with you can make a huge difference. Here’s how you can build a versatile kit that's still small and light enough to carry anywhere."
+description: "Always having your camera kit with you can make a huge difference. Here’s how you can build a versatile kit that's still small and light enough to carry anywhere."
 ---
 
 <p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3926/14793131809_a336b97fbc_h.jpg"/></p>

@@ -9,13 +9,16 @@ single: true
   <footer>
     <p class="meta">
       <!--{% include post/author.html %}-->
-      {% include post/date.html %}{{ time }}{% if updated %} {{ updated }}{% endif %}
-      | Published in {% include post/categories.html%}
+      {% include post/date.html %}{% if updated %}Last updated on <b>{{ updated | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>" }}</b>
+      {% else %}
+      {{ time | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>" }}
+      {% endif %}
+      • Published in {% include post/categories.html%}
     </p>
     {% if page.sharing == true %}
       {% include post/sharing.html %}
     {% endif %}
-    <p class="meta">
+    <p class="meta-alignment">
       {% if page.previous.url %}
         <a class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
       {% endif %}
@@ -25,14 +28,14 @@ single: true
     </p>
   </footer>
 </article>
-{% if site.disqus_short_name and page.comments == true %}
+<!--{% if site.disqus_short_name and page.comments == true %}
   <section>
     <h1>Comments</h1>
     <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
   </section>
-{% endif %}
+{% endif %}-->
 </div>
-{% unless page.sidebar == false %}
+<!--{% unless page.sidebar == false %}
 <aside class="sidebar">
   {% if site.post_asides.size %}
     {% include_array post_asides %}
@@ -40,4 +43,4 @@ single: true
     {% include_array default_asides %}
   {% endif %}
 </aside>
-{% endunless %}
+{% endunless %}-->

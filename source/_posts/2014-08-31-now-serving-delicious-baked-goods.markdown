@@ -2,7 +2,6 @@
 layout: post
 title: "Now serving delicious baked goods"
 date: 2014-08-31 12:59:01 +0200
-updated: 2014-08-31 16:00:00 +0100
 comments: true
 sharing: true
 categories:
