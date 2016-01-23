@@ -13,21 +13,7 @@ Hello there, welcome to another issue of _Morning Coffee_, my weekly roundup of 
 
 ##Issue \#:
 
-###[ |  →]()
-
-<p class="card-separator">♤</p>
-
-###[ |  →]()
- 
-<p class="card-separator">♧</p>
-
-###[ |  →]()
-
-<p class="card-separator">♡</p>
-
-###[ |  →]()
-
-<p class="card-separator">♢</p>
+##Top Five
 
 ###[ |  →]()
 
@@ -48,18 +34,5 @@ Hello there, welcome to another issue of _Morning Coffee_, my weekly roundup of 
 ###[ |  →]()
 
 <p class="card-separator">♤</p>
-
-###[ |  →]()
- 
-<p class="card-separator">♧</p>
-
-###[ |  →]()
-
-<p class="card-separator">♡</p>
-
-###[ |  →]()
-
-<p class="card-separator">♢</p>
-
 
 ##Afterword

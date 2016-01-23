@@ -15,7 +15,7 @@ You’re looking at the first site redesign in almost two years, and though thin
 
 You see, after years of making occasional tweaks here and there on the site’s CSS, the entire file had turned into a bloated mess, with many redundant and/or contradictory directives, to the point where making even the most trivial changes had become a challenge.
 
-Good CSS hygiene is very important to the well-being of a site. When you discover a horrible bug in the design — and I do mean _when_, not if — the ability to fix it quickly and safely can save you a ton of downtime, and quite a few headaches. 
+Good CSS hygiene is very important to the well-being of any site. When you discover a horrible bug in the design — and I do mean _when_, not if — the ability to fix it quickly and safely can save you a ton of downtime, and quite a few headaches. 
 
 With that in mind, a few weeks ago I decided it was finally time to clean up my own mess, and I’ve since been rewriting the site’s entire CSS from scratch. Today, I’m ready to publish the revised design, which you’re seeing right now.
 
@@ -62,19 +62,19 @@ Fonts used throughout the site remain the same, but again, colors, spacings and 
 
 ### Media handling
 
-Perhaps the coolest new feature is that the site now supports full width images and videos up to 1,024-pixels wide (2,048 on Retina displays). This is something I’d been wanting to implement for a long, long time, but never really got around to it. Now it’s finally done, and the results are pretty cool, if I may say so myself.
+Perhaps the coolest new feature is that the site now supports full width images and videos up to 1,024-pixels wide (2,048 on Retina displays). This is something I’d been wanting to implement for a long, long time, but I never really got around to it. Now it’s finally done, and the results are pretty cool, if I may say so myself.
 
 Again, for future reference, this is what the widest images looked like in the previous design:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1714/24521888105_08dd46848f_o.png"/></p>
+<p class="full-width"><img src="https://farm2.staticflickr.com/1672/23895479014_87bb1de0d9_k.jpg"/></p>
 
-You can clearly see the borders around the image there. This is what images look like now:
+You can clearly see the margins at both sides of the image there. This is what that same image looks like now:
 
 <p class="full-width"><img src="https://farm2.staticflickr.com/1607/24499017526_b14ab2d7d7_o.jpg"/></p>
 
 Another detail about this is that images are now borderless, which can yield great results when used with the right type of image. Check this image from my [Sony E-Mount lens guide](http://www.analogsenses.com/2016/01/13/gear-guide-the-best-full-frame-lenses-for-the-sony-e-mount/), for example. This is what it looked like before:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1607/24154126679_e6f439a56e_o.png"/></p>
+<p class="full-width"><img src="https://farm2.staticflickr.com/1505/24523666665_524ac09bbb_k.jpg"/></p>
 
 And this is what it looks like now:
 
@@ -131,7 +131,7 @@ That’s how you can get the most out of the iPad’s beautiful display. And sin
 
 This brief but intense redesign project has been very refreshing, to be honest. I’m quite proud of how the new design turned out, and hopefully it will provide a solid foundation for the future of Analog Senses.
 
-Now, those of you who have read this far probably know that a site’s design is never really finished. Instead, it’s like a live creature with a mind of its own. Even now, on the very day I’m publishing the new design, I can’t help but think about the many features I’d like to add in the future, like support for side-by-side images, a grid-like structure with photos, cool header photos with transparent text, and so on.
+Now, those of you who have read this far probably know that a site’s design is never really finished. Instead, it’s like a living creature with a mind of its own. Even now, on the very day I’m publishing the new design, I can’t help but think about the many features I’d like to add in the future, like support for side-by-side images, a grid-like structure with photos, cool header photos with transparent text, and so on.
 
 Those are all interesting and compelling features, and they’ll probably arrive at some point. For now, though, it really is time to go back to writing.
 

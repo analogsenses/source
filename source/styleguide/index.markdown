@@ -107,7 +107,7 @@ And finally, the most complex case is a list within another list. Keep in mind t
     * This is the second unordered item within item 2 on the main ordered list, in case you were lost.
     
         * And of course, an unordered list that’s within another unordered list that’s within an ordered list... and now I have a headache.
-        
+    
 3. Item 3 on the main ordered list, but who’s counting.
 
 That wasn’t so bad, was it? The problem with lists and blockquotes is that there are so many different combinations and edge cases that it’s difficult to test for all of them when tweaking your CSS. Hopefully, having all cases compiled in this reference document will help with any future edits. 
