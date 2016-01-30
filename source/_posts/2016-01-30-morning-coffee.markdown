@@ -14,7 +14,7 @@ Hello there, welcome to another issue of _Morning Coffee_.
 
 Last week we embarked upon an epic-length review of _Star Wars: The Force Awakens_. We went over the opening scene in great detail, but there’s just so much more to say about the first proper _Star Wars_ movie in over 30 years that I couldn’t possibly fit everything into a standard issue of _Morning Coffee_. So, here we are.
 
-Today I want to talk to you about second scene, the one that introduces us to the proper main character in the film. Like I said last week, I didn’t know anything about the plot going in, and I didn’t know anything about the characters, either. I assumed JJ Abrams would try to balance the old cast and the new, and I also assumed the movie would try to focus more on the new cast, as they’re meant to represent the future of the franchise as a whole.
+Today I want to talk to you about the second scene, the one that introduces us to the proper main character in the film. Like I said last week, I didn’t know anything about the plot going in, and I didn’t know anything about the characters, either. I assumed JJ Abrams would try to balance the old cast and the new, and I also assumed the movie would try to focus more on the new cast, as they’re meant to represent the future of the franchise as a whole.
 
 All that was fairly easy to predict, but what I never would have predicted is that I was about to meet my second-favorite character in the entire _Star Wars_ universe.[^ForceA1]
 
