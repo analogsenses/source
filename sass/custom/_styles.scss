@@ -984,12 +984,32 @@ article {
   }
     
   p.photo-credit{
-  	text-align:center;
-  	font-style: italic;
-  	margin-bottom: 45px;
-  	margin-top:0px;
-  	font-size: 90%;
+	  	text-align:center;
+	  	font-style: italic;
+	  	margin-bottom: 45px;
+	  	margin-top:0px;
+	  	font-size: 90%;
   	}
+  	
+  p.caption{
+  		text-align:center;
+	  	font-style: italic;
+	  	margin-bottom: 30px;
+	  	margin-top: 10px;
+	  	font-size: 90%;
+  }
+  
+  p.caption-wide, p.caption-narrow{
+  		text-align:center;
+	  	font-style: italic;
+	  	margin-bottom: 30px;
+	  	margin-top: 30px;
+	  	font-size: 90%;
+  }
+  
+  p.caption-narrow {
+  	display: none;
+  }
   	
   p.card-separator{
   	text-align:center;
@@ -1111,54 +1131,53 @@ article {
 }
   
   
-  
-  p.extra-width {
-  width: 100%;
-  max-width: 768px; 
-  margin: auto;
-  padding:0;
-  margin-bottom: 40px;
-  margin-top: 40px;
-  }
+ /* Legacy support for old media embedding style */
+
+p.extra-width {
+  	width: 100%;
+  	max-width: 768px; 
+  	margin: auto;
+  	padding:0;
+  	margin-bottom: 40px;
+  	margin-top: 40px;
+}
 
 img.extra-width {
-  display: block;
-  width:100%;
-  max-width: 768px;
-  margin: 0 auto;
-  height: auto; 
+  	display: block;
+  	width:100%;
+  	max-width: 768px;
+	margin: 0 auto;
+	height: auto; 
+}
+p.full-width {
+	width: 100%; 
+	margin: auto;
+	padding:0;
+	margin-bottom: 35px;
+	margin-top: 35px;
 }
 
-  p.full-width {
-  width: 100%; 
-  margin: auto;
-  padding:0;
-  margin-bottom: 45px;
-  margin-top: 45px;
-
-}
-  
-  img.full-width {
-  display: block;
-  width: 100%;
-  max-width: 1024px;
-  height: auto; 
+img.full-width {
+	display: block;
+	width: 100%;
+	max-width: 1024px;
+	height: auto; 
 }
 
-  p.full-width-screenshot {
-  width: 100%; 
-  margin: auto;
-  padding:0;
-  margin-bottom: 0px;
-  margin-top: 0px;
 
+p.full-width-screenshot {
+  	width: 100%; 
+  	margin: auto;
+  	padding:0;
+  	margin-bottom: 0px;
+  	margin-top: 0px;
 }
   
-  img.full-width-screenshot {
-  display: block;
-  width: 100%;
-  max-width: 1024px;
-  height: auto; 
+img.full-width-screenshot {
+  	display: block;
+  	width: 100%;
+  	max-width: 1024px;
+  	height: auto; 
 }
 
 img.borderless {
@@ -1170,47 +1189,143 @@ p.photo-credit {
 	margin: auto;
 	margin-bottom: 45px;
 }
+
+p.caption {
+	width: 500px;
+	margin: auto;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+
+p.caption-wide, p.caption-narrow {
+	width: 550px;
+	margin: auto;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+
+/* New embedding style using the <figure> element.*/
+
+figure.normal-width {
+	width: 100%;
+	max-width: 600px;
+	margin:auto;
+	padding: 0;
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+figure.extra-width {
+  	width: 100%;
+  	max-width: 768px; 
+  	margin: auto;
+  	padding:0;
+  	margin-bottom: 35px;
+  	margin-top: 35px;
+}
+
+figure.full-width {
+	width: 100%; 
+ 	margin: auto;
+	padding:0;
+	margin-bottom: 35px;
+	margin-top: 35px;
+}
  
-   .entry-content .footnotes ol {
- 		width: auto;
- 		padding-left: 0px;		
-	 	padding-right: 0px;
-	 	margin-left:20px;		
-	 	margin-right:0px;
+.photoset {
+	width: 100%;
+	margin: auto;
+	margin-top: 35px;
+	margin-bottom: 35px;
+ 	
+   	figure.full-width {
+	  	width: 100%; 
+	  	margin: auto;
+	  	padding:0;
+	  	margin-bottom: 10px;
+	  	margin-top: 10px;
+	  
+		img {
+		  	margin:0;
+		  	padding: 0;
+		}
+   	}
+ 
+	figure.sidebyside {
+		display: block;
+		width: auto;
+		margin: auto;
+		width: auto;
+		padding:0;
+		margin-bottom: 10px;
+		margin-top: 10px;
+		text-align: center;
+		
+		div.stretchy-wrapper {	
+			width: 100%;
+			position: relative;
+			
+			img {
+				position: absolute;
+		        height: 100%;
+		        margin-left: 5px;
+		        margin-right: 5px;
+		        margin-top: 0px;
+		        margin-bottom: 0px;
+		        clear: both;
+			}
+			  
+			img:first-child {
+				margin: auto !important;
+				top: 0; bottom: 0; left:0;
+		    }
+		  	
+		  	img:last-child {
+				margin: auto !important;
+				top: 0; bottom: 0; right:0;
+		  	}
+		}
+	}
+}
+
+.entry-content .footnotes ol {
+ 	width: auto;
+ 	padding-left: 0px;		
+	padding-right: 0px;
+	margin-left:20px;		
+	margin-right:0px;
 	 	
-	 	li {
+	li {
+	 	width: auto;
+ 		margin-left: 20px;		
+	 	margin-right: 0px;
+	 	padding-left: 0px;
+	 	padding-right: 0px;
+	 		
+	 	p {
+	 		font-size: 90%;
 	 		width: auto;
- 			margin-left: 20px;		
+ 			margin-left: 0px;		
 	 		margin-right: 0px;
 	 		padding-left: 0px;
 	 		padding-right: 0px;
+	 	}
+	}	
 	 		
-	 		p {
-	 		 	font-size: 90%;
-	 			width: auto;
- 				margin-left: 0px;		
-	 			margin-right: 0px;
-	 			padding-left: 0px;
-	 			padding-right: 0px;
-	 		}
-	 	}	
-	 		
-	    li:last-child {
-	     	margin-bottom: 0px;
-	     	
-	     	p{
-	     		margin-bottom: 0px;	
-	     	}
-	    }	
- 	}
+	li:last-child {
+	    margin-bottom: 0px;
  	
- 	.entry-content.embed-video-container{
- 		max-width: 700px;
- 		margin: auto;
- 		}
- 
- 
- 	 	
+	    p{
+	     	margin-bottom: 0px;	
+	     }
+	}	
+}
+ 	
+.entry-content.embed-video-container{
+ 	max-width: 700px;
+ 	margin: auto;
+ } 	 	
 
 // ------------------------------
 // media queries
@@ -1347,8 +1462,9 @@ p.photo-credit {
 	 p.full-width {
 	 	margin:auto;
 	 	width: auto;
+	 	margin-top: 35px;
+	 	margin-bottom: 35px;
 	 }
-	 
 	 p.extra-width {
   		width: auto;
   		margin: auto;
@@ -1361,7 +1477,20 @@ p.photo-credit {
 	 	width: 500px;
 	 	margin: auto;
 	 	margin-bottom: 45px;
-
+	 }
+	 
+	 p.caption {
+	 	width: 500px;
+	 	margin: auto;
+	 	margin-top: 10px;
+	 	margin-bottom: 30px;
+	 }
+	 
+	 p.caption-wide, p.caption-narrow {
+	 	width: 550px;
+	 	margin: auto;
+	 	margin-top: 30px;
+	 	margin-bottom: 30px;
 	 }
 	 
 	 p.card-separator{
@@ -1649,8 +1778,14 @@ article {
 	    		}
 	    	}
   		}
-	  	
+	
 	  	p.photo-credit {
+	  		width: 70%;
+	  		margin-left: 15%;
+	  		margin-right: 15%;
+	  	}
+	  	
+	  	p.caption, p.caption-wide, p.caption-narrow {
 	  		width: 70%;
 	  		margin-left: 15%;
 	  		margin-right: 15%;
@@ -1990,6 +2125,8 @@ article {
 		    	margin-bottom: 0px;
 	  		}
 		
+			/* Legacy support for old media embedding style.*/
+			
 			p.extra-width {
 		    	width: auto;
 		    	margin-left: 0px;
@@ -1999,16 +2136,61 @@ article {
 		    p.full-width {
 		    	width: auto;
 		    	margin-left: 0px;
-		    	margin-right: 0px;	
+		    	margin-right: 0px;
+		    	margin-top: 35px;
+		    	margin-bottom: 35px;
 		    }
+		    
+		    
+		    /*New media embedding method using the <figure> element.*/
+		    
+		    .photoset {
+			    figure.sidebyside {
+					div.stretchy-wrapper {	
+						width: 100%;
+						padding: 0;
+						position: relative;
+						padding-bottom: 0px !important;
+						
+						img {
+							position: static;
+					        width: 100%;
+					        margin-left: 0;
+					        margin-right: 0;
+					        margin-top: 0px;
+					        padding-bottom: 10px;
+						}
+						
+						img:last-child{
+						  	padding-bottom: 0px;	
+						}
+					}
+				}
+		    }
+
 		    
 		    p.photo-credit {
 		  		width: 70%;
 		  		margin-left: 15%;
 		  		margin-right: 15%;
-		  		margin-bottom: 30px;
-		  	}		 
-    	} 
+		  		margin-bottom: 30px;		  		 
+    	    }
+    	    
+    	    p.caption, p.caption-wide, p.caption-narrow {
+		  		width: 70%;
+		  		margin-left: 15%;
+		  		margin-right: 15%;
+    	    }
+    	    
+    	    p.caption-wide{
+    	    	display: none;
+    	    }
+    	    
+    	    p.caption-narrow {
+    	    	display: block;
+    	    }
+	    }
+    	 
   }
     
   .blog-index .pagination{

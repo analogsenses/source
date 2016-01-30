@@ -143,7 +143,7 @@ The first option is to have photos embedded within the confines of the main text
 
 <img src="https://farm6.staticflickr.com/5808/21168957681_91936cc164_o.jpg"/>
 
-<p class="photo-credit">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
+<p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 
 Of course, photos can be embedded in portrait orientation, as well:
 
@@ -169,6 +169,20 @@ Obviously, this size is not optimal for portrait-orientation images, as it would
 
 [^StyleReference4]: These images will be displayed at full-width on any display that is **1,204-pixels** wide or narrower. That includes every iOS device in every orientation, except for the iPad Pro in landscape mode only.
 
+Now let’s try something a bit more complex: a side-by-side image layout:
+
+<p class="full-width"><img class="half-width-left" src="https://farm2.staticflickr.com/1678/23876918634_8b64e7d40b_o.jpg"/><img class="half-width-right" src= "https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/></p>
+
+<p class="caption-wide">Left: Miriam. Right: Sabina.</p>
+
+<p class="caption-narrow">Top: Miriam. Bottom: Sabina.</p>
+
+Now, this is a tricky case to handle. The images above should render as two side by side photos that together occupy the full-width on devices with screens wider than 480 px (960 px on Retina displays) and narrower than 1024 px (2048 px on Retina displays).
+
+That means every iPhone in portrait orientation should display these two images on top of each other, but in landscape orientation they should display the two images side by side. Also, every iPad should display them side by side in both portrait and landscape orientation. On a Mac, it will depend on the size of your browser window, of course.
+
+Finally, the caption should change to reflect the current way images are displayed. If they're side by side, the caption should read: _Left: Miriam. Right: Sabina._ If, on the other hand, the images are on top of each other, the caption should read: _Top: Miriam. Bottom: Sabina_.
+
 
 ### Videos
 
@@ -178,7 +192,7 @@ Videos by default are treated just like photos, and are embedded at the wider si
 
 {% vimeo 149865168 %}
 
-<p class="photo-credit">Videos can have their own captions, too. Since we’re at it, let’s focus for a moment on what happens if we write several lines here. If everything is fine, captions should be sufficiently differentiated from regular body text so as to not confuse readers.</p>
+<p class="caption">Videos can have their own captions, too. Since we’re at it, let’s focus for a moment on what happens if we write several lines here. If everything is fine, captions should be sufficiently differentiated from regular body text so as to not confuse readers.</p>
 
 In Octopress, videos are embedded responsively thanks to the [Octopress Responsive Video Embed](https://github.com/optikfluffel/octopress-responsive-video-embed) plugin by Udo Kramer.
 

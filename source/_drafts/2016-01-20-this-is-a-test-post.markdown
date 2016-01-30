@@ -10,13 +10,29 @@ categories:
 description: "This document was created to provide a useful resource to test the design of Analog Senses. If your site supports post and page descriptions, you can show this text wherever you want."
 ---
 
-This is an example paragraph. It shows the default body type, as well as the spacing. These settings are very important, because they will largely define a site’s readability. In the context of this test post, you should be focusing on the typeface, the line-height, the spacing between paragraphs and so on. It’s important to pick a typeface that is readable on both high-resolution screens and regular screens.
+This is a reference style guide for [Analog Senses](http://www.analogsenses.com). The purpose of this document is to show how the most commonly used HTML elements are displayed on the site. Style guides are useful when working on a site’s CSS, as they allow you to instantly see if anything breaks.
 
-Have you ever heard about hyperlinks? They’re this crazy thing that lets you send people over to different places on the Internet. Here, [they look like this](https://twitter.com/analogfeed). Usually, people want to be able to easily notice links within a block of regular text, so you should pick a clearly different style for them. Traditional etiquette dictates that links should be underlined, but these days anything goes, as long as they don’t look like regular text. Also, nobody calls them hyperlinks anymore.
+Analog Senses is written in [Markdown](http://daringfireball.net/projects/markdown/), and styled using CSS only. For that reason, the contents of this guide may largely apply to other Markdown-based websites. If you’d like to use it for your own site, you can. You’ll probably need to make a few changes to account for some custom handling of certain elements, but this should be a good starting point. 
 
-Another great way to enhance readability is to use emphasis when appropriate. **This is some bold text, just so you know what it looks like**. And since we’re at it, _here’s some italics, too._ Italics are useful to quote excerpts without using a full-on blockquote, as in: _“the quick brown fox jumped over the lazy dog”_. And finally, _**some bold italics, too, just because I can**_. You’re welcome.
+In order to facilitate your own tweaking and testing, this reference document is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), and it’s available as a .markdown file [here](https://www.dropbox.com/s/x7bzdlertq0dsge/styleguide.markdown?dl=0).
 
-Now let’s take a look at some headings. By default, your design should support at least three nested levels of headings. The first level, or h1, should be used for article and page titles, and it should be big and noticeable. Some people maintain that you should only use one h1 heading per article or per page. That makes sense, but there are instances where having multiple h1 headings may make sense. Here’s what an h1 heading looks like:
+It should go without saying, but **I’m not obligated to offer support of any kind to go with this file, so use it only if you know what you’re doing, and only at your own risk**.
+
+Now let’s start with some general considerations.
+
+
+## Type and spacing
+
+This is an example paragraph. It shows the default body type, as well as the spacing. These settings are very important, because they largely define a site’s readability. In the context of this style guide, you should be focusing on the typeface, the line-height, the spacing between paragraphs and so on. It’s important to pick a typeface that is readable on both high-resolution screens and regular screens.
+
+Another great way to enhance readability is to use emphasis when appropriate. **This is some bold text, just so you know what it looks like**. And since we’re at it, _here’s some italics, too._ Italics are useful to quote excerpts without using a full-on blockquote, as in: _“the quick brown fox jumps over the lazy dog”_. And finally, _**some bold italics, too, just because I can**_. You’re welcome.
+
+Have you ever heard about hyperlinks? They’re this crazy thing that lets you send people over to different places on the Internet. Here, [they look like this](https://twitter.com/analogfeed "You can also provide alt text within links."). Usually, people want to be able to easily notice links within a block of regular text, so you should pick a clearly different style for them. Traditional etiquette dictates that links should be underlined, but these days anything goes, as long as they don’t look like regular text. Also, nobody calls them hyperlinks anymore.
+
+
+## Headings
+
+By default, your design should support at least three nested levels of headings. The first level, or h1, should be used for article and page titles only, and it should be big and noticeable. Some people maintain that you should only use one h1 heading per article or per page. That makes sense, but there are instances where having multiple h1 headings may make sense. Here’s what an h1 heading looks like:
 
 # This is an h1 heading
 
@@ -34,7 +50,9 @@ Obviously, headings get smaller with each level. You can go onto deeper levels i
 
 Blockquotes are some of the most commonly used elements on the web, especially on blogs. This is what a blockquote looks like:
 
-> This is a blockquote. These are often used to quote entire paragraphs of text from an external linked piece. The way blockquotes are usually styled on the web is by using a left border and indenting both sides. This is such a widespread convention that you probably won’t want to deviate too much from it. Some people also use a different color from the main body font, or a different size, or even a different font. Those are good ways to further differentiate blockquotes from regular text, if you like that sort of thing.
+> This is a blockquote. These are often used to quote entire paragraphs of text from an external source. The way blockquotes are usually styled on the web is by using a left border and indenting both sides. This is such a widespread convention that you probably won’t want to deviate too much from it. 
+
+> Blockquotes can have  multiple paragraphs. In order to make blockquotes stand out, some people use a different color from the main body font, or a different size, or even a different font. Those are valid ways to further differentiate blockquotes from regular text, if you like that sort of thing.
 
 Typically, spacing between a blockquote and the following paragraph — this one — will be a bit larger than between regular paragraphs, but not by much. You can see that in the blockquote above.
 
@@ -48,7 +66,9 @@ Spacing between the last element of a list — either ordered or unordered — 
 
 * This is an item in an unordered list. If we make this item a bit longer, you’ll see how text is justified at both ends of the page.
 
-* Unlike blockquotes, which are usually indented at both sides, lists are normally only indented at the left side. If you pay attention, you’ll notice that text in a list item runs flush against the right margin.
+    Any item of any list can have multiple paragraphs. This is the second paragraph of the first item of an unordered list.
+
+* This is the second item of an unordered list. Unlike blockquotes, which are usually indented at both sides, lists are normally only indented at the left side. For that reason, this text should run flush against the right margin of the page.
 
 A tricky thing about lists and blockquotes is that they may appear combined with each other:
 
@@ -69,7 +89,7 @@ Perhaps the most unusual combination is a blockquote within a list:
     > This is just some random text that should appear as an indented blockquote within the first item on the list.
 2. After that blockquote, the list can resume as usual.
 
-And finally, the most complex case is a list within another list. Keep in mind that in some Markdown interpreters you need to type two spaces for each level of indentation, but in the current version of Octopress it takes four spaces for each:
+And finally, the most complex case is a list within another list. Keep in mind that in some Markdown interpreters you need to type two spaces for each nested level, but in the current version of Octopress it takes four spaces for each:
 
 1. Item 1
 
@@ -81,19 +101,17 @@ And finally, the most complex case is a list within another list. Keep in mind t
 
     * A corollary to item 2 on the main list that does not require ordering.
     
-        1. You can even have an ordered list within an unordered list that's itself within an ordered list. Why someone would want to do that, though, I have no idea.
-        
-            Any item of any list can even have multiple paragraphs. This is the second paragraph of the first item of an ordered list that's within an unordered list that's within an ordered list.
-        
+        1. You can even have an ordered list within an unordered list that’s itself within an ordered list. Why someone would want to do that, though, I have no idea.
+             
         2. At this point you may want to consider starting a new list from scratch.
         
     * This is the second unordered item within item 2 on the main ordered list, in case you were lost.
     
-        * And of course, an unordered list that's within another unordered list that's within an ordered list... and now I have a headache.
+        * And of course, an unordered list that’s within another unordered list that’s within an ordered list... and now I have a headache.
         
-3. Item 3 on the main ordered list, but who's counting.
+3. Item 3 on the main ordered list, but who’s counting.
 
-That wasn't so bad, was it? The problem with lists and blockquotes is that there are so many different combinations and edge cases that it's difficult to test for all of them when tweaking your CSS. Hopefully, having all cases compiled in this reference document will help with any future edits. 
+That wasn’t so bad, was it? The problem with lists and blockquotes is that there are so many different combinations and edge cases that it’s difficult to test for all of them when tweaking your CSS. Hopefully, having all cases compiled in this reference document will help with any future edits. 
 
 ## Footnotes
 
@@ -124,21 +142,21 @@ Modern sites feature a rich variety of media: photos, videos, tweets, Instagram 
 
 The first option is to have photos embedded within the confines of the main text. In this case, images are never wider than the text itself. This is how that looks:
 
-<img src="https://farm6.staticflickr.com/5808/21168957681_91936cc164_o.jpg"/>
+<figure class="normal-width"><img src="https://farm6.staticflickr.com/5808/21168957681_91936cc164_o.jpg"/></figure>
 
-<p class="photo-credit">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
+<p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 
-Of course, photos can be embedded in portrait orientation, as well:
-
-<img src="https://farm2.staticflickr.com/1678/23876918634_8b64e7d40b_o.jpg"/>
+<figure class="normal-width"><img src="https://farm2.staticflickr.com/1678/23876918634_8b64e7d40b_o.jpg"/></figure>
 
 The problem with this approach is that these images will never be displayed at full-width on your screen. And if you’re looking at them on a smartphone, it doesn’t really make much sense to waste valuable space with margins. This approach works very well in some specific cases, so it’s important to support it, but clearly we can do better. Here’s a wider image:
 
-<p class="extra-width"><img src="https://farm2.staticflickr.com/1621/24389171822_71c8712c22_o.jpg"/></p>
+<figure class="extra-width"><img src="https://farm2.staticflickr.com/1621/24389171822_71c8712c22_o.jpg"/></figure>
 
 That’s better. This size works well for portrait images, as well. Here’s what a portrait image looks like at this wider size:
 
-<p class="extra-width"><img src="https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/></p>
+<figure class="extra-width"><img src="https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/></figure>
+
+<p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 
 I like this size better, but keep in mind that portrait images that are this wide can be harder to view on laptops with widescreen displays. You should find a compromise that works for you there.[^StyleReference3]
 
@@ -146,12 +164,69 @@ I like this size better, but keep in mind that portrait images that are this wid
 
 Then there’s an even wider size that is best suited for landscape-orientation pictures. This is what that looks like:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/></p>
+<figure class="full-width"><img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/></figure>
 
 Obviously, this size is not optimal for portrait-orientation images, as it would take a very tall screen to be able to view the entire image.[^StyleReference4]
 
 [^StyleReference4]: These images will be displayed at full-width on any display that is **1,204-pixels** wide or narrower. That includes every iOS device in every orientation, except for the iPad Pro in landscape mode only.
 
+Now let’s try something a bit more complex: a side-by-side image layout:
+
+Now, this is a tricky case to handle. The images above should render as two side by side photos that together occupy the full-width on devices with screens wider than 480 px (960 px on Retina displays) and narrower than 1024 px (2048 px on Retina displays).
+
+That means every iPhone in portrait orientation should display these two images on top of each other, but in landscape orientation they should display the two images side by side. Also, every iPad should display them side by side in both portrait and landscape orientation. On a Mac, it will depend on the size of your browser window, of course.
+
+Finally, the caption should change to reflect the current way images are displayed. If they're side by side, the caption should read: _Left: Miriam. Right: Sabina._ If, on the other hand, the images are on top of each other, the caption should read: _Top: Miriam. Bottom: Sabina_.
+
+<section class="photoset">
+	<figure class="full-width">
+		<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+	</figure>
+	<figure class="sidebyside">
+		<div class="stretchy-wrapper" style="padding-bottom:74.18%">
+			<img src="https://farm2.staticflickr.com/1605/24557481922_60745a374a_o.jpg"/>
+			<img  src= "https://farm2.staticflickr.com/1605/24557481922_60745a374a_o.jpg"/>
+		</div>
+	</figure>
+	<figure class="full-width">
+		<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+	</figure>
+	<figure class="sidebyside">
+		<div class="stretchy-wrapper" style="padding-bottom:34.9%">
+		<img src="https://farm2.staticflickr.com/1597/24557701022_59bfe8f0b2_o.jpg"/>
+		<img src= "https://farm2.staticflickr.com/1697/24307801439_1c3d3a5c30_o.jpg"/>
+	</div>
+	<figure class="sidebyside">
+		<div class="stretchy-wrapper" style="padding-bottom:34.9%">
+			<img src="https://farm2.staticflickr.com/1697/24307801439_1c3d3a5c30_o.jpg"/>
+			<img src= "https://farm2.staticflickr.com/1597/24557701022_59bfe8f0b2_o.jpg"/>
+		</div>
+		<p class="caption-wide">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
+		<p class="caption-narrow">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
+	<figure class="full-width">
+		<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+	</figure>
+	<figure class="sidebyside">
+		<div class="stretchy-wrapper" style="padding-bottom:33%">
+			<img src="https://farm2.staticflickr.com/1697/24307801439_1c3d3a5c30_o.jpg"/>
+			<img src= "https://farm2.staticflickr.com/1697/24307801439_1c3d3a5c30_o.jpg"/>
+		</div>
+	</figure>
+	<figure class="full-width">
+	<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+	</figure>
+	<figure class="sidebyside">
+		<div class="stretchy-wrapper" style="padding-bottom:73.1%">
+			<img src="https://farm2.staticflickr.com/1605/24557481922_60745a374a_o.jpg"/>
+			<img src= "https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/>
+		</div>
+	</figure>
+	<figure class="full-width">
+		<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+	</figure>
+</section>
+
+Finally, the caption should change to reflect the current way images are displayed. If they're side by side, the caption should read: _Left: Miriam. Right: Sabina._ If, on the other hand, the images are on top of each other, the caption should read: _Top: Miriam. Bottom: Sabina_.
 
 ### Videos
 
@@ -161,7 +236,7 @@ Videos by default are treated just like photos, and are embedded at the wider si
 
 {% vimeo 149865168 %}
 
-<p class="photo-credit">Videos can have their own captions, too. Since we’re at it, let’s focus for a moment on what happens if we write several lines here. If everything is fine, captions should be sufficiently differentiated from regular body text so as to not confuse readers.</p>
+<p class="caption">Videos can have their own captions, too. Since we’re at it, let’s focus for a moment on what happens if we write several lines here. If everything is fine, captions should be sufficiently differentiated from regular body text so as to not confuse readers.</p>
 
 In Octopress, videos are embedded responsively thanks to the [Octopress Responsive Video Embed](https://github.com/optikfluffel/octopress-responsive-video-embed) plugin by Udo Kramer.
 
@@ -182,15 +257,11 @@ As for Instagram posts, those can be embedded, as well. Here’s what that looks
 
 As you can see, tweets and Instagram posts become full-width when the display is narrower than the embedded media, and they both shrink seamlessly to accommodate any sized screen. That’s all Twitter’s and Instagram’s doing, by the way. Unfortunately, that also means you lose some control over those elements, so things like spacings and so on become complicated to handle when you’re dealing with these elements.
 
-The rest of the most popular media outlets — Tumblr, Facebook, etc. — all offer an embed feature of some sorts, and the results are all very similar to what you can see above.
+Most popular media outlets offer an embed feature of some sorts, and the results are all very similar to what you can see above, so there’s really no need to dive further into them.
 
 
 ## Final words
 
-This style reference guide was created to provide a useful resource to test the design of Analog Senses. In order for the site's design to be considered correct, everything on this page needs to be rendered properly on any device. If this page looks weird on your current device, there may be a bug in the site's CSS. If you come across something like that, please let me know.
+This style reference guide was created to provide a useful resource to test the design of Analog Senses. In order for the site’s design to be considered correct, everything on this page needs to be rendered properly on any modern device. If this page looks weird on your current device, there may be a bug in the site’s CSS, so if you notice something, please let me know.
 
-If you write in Markdown, this document may be a useful resource to test your own site's design, as well. Except from some custom handling of certain media types, everything else in this document was written in standard Markdown, with the styling and formatting done entirely in CSS. You can download the contents of this page as a Markdown file [here](https://www.dropbox.com/s/rkk9r1oit2oiu3u/stylereference.markdown?dl=0).
-
-<p class="card-separator">♢</p>
-
-Thank you for reading. If you enjoyed this article or found it useful, please take a moment to share it on your preferred social network by clicking on the appropriate link below the footnotes section. Thanks!
+If you write in Markdown, this document may be a useful resource to test your own site’s design, as well. Except from some custom handling of certain media types, everything else in this document was written in standard Markdown, with the styling and formatting done entirely in CSS. Again, you can download the contents of this page as a Markdown file [here](https://www.dropbox.com/s/x7bzdlertq0dsge/styleguide.markdown?dl=0).
