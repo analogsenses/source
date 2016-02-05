@@ -722,6 +722,110 @@ body {
 
 }
 
+
+// ------------------------------
+// Photo stories archive page
+// ------------------------------
+
+#photostories-archive {
+  width: auto;
+  height: auto;
+  margin: auto;
+  margin-bottom: 100px;
+  margin-top: 0px;
+  text-align: center;
+  
+  article {
+  	height: auto;
+  	vertical-align: top;
+  	width: auto;
+  	max-width: 487px;
+  	display: inline-block;
+  	margin: 30px 5px 30px 5px;
+
+	div.story-cover{
+		height: auto;
+		position: relative;
+		
+		img {
+	    	border: none;
+	    	width: auto;
+	    	max-width: 487px;
+	    	margin-top: 0px;
+	    	margin-bottom: 0px;
+	    }
+	    
+	    div.story-header {
+			position: absolute;
+			bottom: 0px;
+			width: 100%;
+			height: 100%;
+	    
+		    h1 {
+		    	position: absolute;
+		    	bottom: 0px;
+			    
+			    width: 100%;
+			    height: auto;
+			    
+			    margin: 0px;
+			    padding-top: 5%;
+			    padding-bottom: 5%;
+			    font-size: 42px;
+			    line-height: 1.4;
+			    text-align: center;
+			    vertical-align: bottom;
+
+				background-image: linear-gradient(transparent 0%, rgba(0, 0, 0, 0.5) 100%);
+
+			    a{
+			      	color: white;
+			    }
+			      	
+			    a:hover {
+			      	opacity: 0.7;
+			    }
+		    }
+	    }
+	}
+
+
+    
+    div.story-text{
+    	width: auto;
+    	margin: auto;
+    	margin-top: 30px;
+    	padding-left: 10px;
+    	padding-right: 10px;
+    	text-align: left;
+	    
+	   	p.description {
+	   	   width: auto;
+	       margin: auto;
+	       margin-bottom: 20px;
+	   	}
+	  
+	   	p.updated{
+		  	display: inline;
+		  	width: auto;
+		    margin-left: 0px;
+		    margin-right: 0px;
+		    margin-top: 20px;	
+		    margin-bottom: 20px;
+		    color: $secondary-text-color;
+	  	}
+	  
+		time {
+		    @extend .font-size-medium;
+		    @extend .sans-serif-font;
+		    color: $text-color;
+		    display: inline;
+		    line-height: 1.4;
+		}
+    }    
+  }
+}
+
 // ------------------------------
 // search results page
 // ------------------------------
@@ -813,6 +917,15 @@ article {
       }
     }
   }
+  
+  iframe.google-maps {
+  	width: 100%;
+  	max-width: 768px;
+  	margin: auto;
+  	margin-top: 10px;
+  	margin-bottom: 10px;  	
+  }
+  
  
   // ----- post's content -----
  
@@ -820,7 +933,7 @@ article {
  	margin-bottom: 40px;
  }
  
- .entry-content .footnotes {
+ .footnotes, .entry-content .footnotes {
  		width: 600px;
  		margin: auto;
  		margin-top: 40px;
@@ -828,14 +941,14 @@ article {
  		//border-bottom: $border-style;	
  	}
  	
-  .entry-content .footnotes hr {
+  .footnotes hr, .entry-content .footnotes hr {
  		border-top: $border-style;
  		border-bottom: none;
  		border-left: none;
  		border-right: none;	
  	}
  
- .entry-content .footnotes ol {
+ .footnotes ol, .entry-content .footnotes ol {
  		margin-top: 40px;
  		margin-bottom:0px;		
  	}
@@ -999,7 +1112,7 @@ article {
 	  	font-size: 90%;
   }
   
-  p.caption-wide, p.caption-narrow{
+  p.caption-in-set, p.caption-wide, p.caption-narrow{
   		text-align:center;
 	  	font-style: italic;
 	  	margin-bottom: 30px;
@@ -1197,7 +1310,7 @@ p.caption {
 	margin-top: 10px;
 }
 
-p.caption-wide, p.caption-narrow {
+p.caption-in-set, p.caption-wide, p.caption-narrow {
 	width: 550px;
 	margin: auto;
 	margin-bottom: 30px;
@@ -1289,7 +1402,7 @@ figure.full-width {
 	}
 }
 
-.entry-content .footnotes ol {
+.footnotes ol, .entry-content .footnotes ol {
  	width: auto;
  	padding-left: 0px;		
 	padding-right: 0px;
@@ -1486,7 +1599,7 @@ figure.full-width {
 	 	margin-bottom: 30px;
 	 }
 	 
-	 p.caption-wide, p.caption-narrow {
+	 p.caption-in-set, p.caption-wide, p.caption-narrow {
 	 	width: 550px;
 	 	margin: auto;
 	 	margin-top: 30px;
@@ -1515,6 +1628,21 @@ figure.full-width {
 	 		margin-bottom: 0px;	
 	 }	  
  }
+ 
+ article .footnotes {
+	 	width:600px;
+	 	margin:auto;
+	 	margin-top:40px;	
+	 }
+	 
+ article .footnotes ol {
+	 		width: auto;
+			margin-left: 20px;
+	 		margin-right: 0px;
+	 		padding-left: 0px;
+	 		padding-right: 0px;
+	 		margin-bottom: 0px;	
+	 }
 
 article #blog-archives, article #guides-archive {
 	
@@ -1536,6 +1664,35 @@ article #blog-archives, article #guides-archive {
     }
   }
 
+article #photostories-archive {
+	width: auto;
+	margin-left: 10px;
+	margin-right: 10px;
+    
+    article {
+	    height: auto;
+	    max-width: 48%;
+	    display: inline-block;
+	    vertical-align: top;
+	    margin-left: 5px;
+	    margin-right: 5px;
+	      
+	    div.story-cover {
+	    	width: auto;
+			max-width: 100;
+			
+			img {
+				width: 100%;
+			}
+			  
+			div.story-header {
+				width: 100%;
+			}			
+		}
+    }
+}
+
+
   .blog-index .pagination{
   	max-width: 700px;
   	margin: auto;
@@ -1544,6 +1701,7 @@ article #blog-archives, article #guides-archive {
   	
   	}
 }
+
 
 // -----------------------------------------
 
@@ -1668,6 +1826,17 @@ article {
 		margin-bottom: 20px;
 		margin-top: 40px;
 	}
+	
+  .photoset {
+  	figure.full-width,  figure.sidebyside {
+  		margin-top: 6px;
+  		margin-bottom: 6px;
+  	}
+  }
+  
+  iframe.google-maps {
+  	max-height: 320px;
+  }
   
   .entry-content {
    	 	
@@ -1785,12 +1954,6 @@ article {
 	  		margin-right: 15%;
 	  	}
 	  	
-	  	p.caption, p.caption-wide, p.caption-narrow {
-	  		width: 70%;
-	  		margin-left: 15%;
-	  		margin-right: 15%;
-	  	}
-	  	
 	  	p.card-separator{
   			text-align:center;
   			margin-top: 40px;
@@ -1814,6 +1977,29 @@ article {
 	 			}
 	 		}	
 	 	}	
+	}
+	
+	.footnotes {
+	 	width:auto;
+	 	margin-left: 20px;
+	 	margin-right: 20px;
+	 		
+	 	ol {
+	 				 			
+	 		li{
+	 			font-size: 18px;
+	 					 	 			
+	 	 		p{
+	 	 			font-size: 16px;
+	 	 		}	
+	 		}
+	 	}	
+	}
+	
+	p.caption, p.caption-in-set, p.caption-wide, p.caption-narrow {
+	  	width: 70%;
+	  	margin-left: 15%;
+	  	margin-right: 15%;
 	}
 	
 	footer {
@@ -1851,6 +2037,43 @@ article {
 	      }
 	    }
 	  }
+	  
+	article #photostories-archive {
+	    width: auto;
+	    max-width: 100%;
+	    margin-left: 0px;
+	  	margin-right: 0px;
+	    
+	    article {
+	      max-width: 100%;
+	      width: auto;
+	      height: auto;
+	      margin-left:0px;
+	      margin-right:0px;
+	      margin-bottom: 40px;
+	      
+	      div.story-cover{
+		      img {
+			      width: 100%;
+			      max-width: 100%;
+			      margin-left: 0px;
+			      margin-right: 0px;
+		      }
+		      
+		      div.story-header{
+		      	  width: 100%;
+			      margin-left: 0px;
+			      margin-right: 0px;
+		      }
+	      }
+	      
+	      div.story-text{
+		    margin-left: 20px;
+		    margin-right: 20px;
+		    line-height: 1.4;		    
+	      }	     
+	    }
+	  }
 
   .blog-index .pagination{
   	width: auto;
@@ -1875,6 +2098,7 @@ article {
   	margin:auto;
   	} 	
 }
+
 
 // ------------------------------
 
@@ -2141,56 +2365,53 @@ article {
 		    	margin-bottom: 35px;
 		    }
 		    
-		    
-		    /*New media embedding method using the <figure> element.*/
-		    
-		    .photoset {
-			    figure.sidebyside {
-					div.stretchy-wrapper {	
-						width: 100%;
-						padding: 0;
-						position: relative;
-						padding-bottom: 0px !important;
-						
-						img {
-							position: static;
-					        width: 100%;
-					        margin-left: 0;
-					        margin-right: 0;
-					        margin-top: 0px;
-					        padding-bottom: 10px;
-						}
-						
-						img:last-child{
-						  	padding-bottom: 0px;	
-						}
-					}
-				}
-		    }
-
-		    
 		    p.photo-credit {
 		  		width: 70%;
 		  		margin-left: 15%;
 		  		margin-right: 15%;
 		  		margin-bottom: 30px;		  		 
     	    }
-    	    
-    	    p.caption, p.caption-wide, p.caption-narrow {
-		  		width: 70%;
-		  		margin-left: 15%;
-		  		margin-right: 15%;
-    	    }
-    	    
-    	    p.caption-wide{
-    	    	display: none;
-    	    }
-    	    
-    	    p.caption-narrow {
-    	    	display: block;
-    	    }
 	    }
-    	 
+	    
+	    /*New media embedding method using the <figure> element.*/
+		    
+		.photoset {
+			figure.sidebyside {
+				div.stretchy-wrapper {	
+					width: 100%;
+					padding: 0;
+					position: relative;
+					padding-bottom: 0px !important;
+						
+					img {
+						position: static;
+					    width: 100%;
+					    margin-left: 0;
+					    margin-right: 0;
+					    margin-top: 0px;
+					    padding-bottom: 6px;
+					}
+						
+					img:last-child{
+						padding-bottom: 0px;	
+					}
+				}
+			}
+		}
+		
+		p.caption, p.caption-in-set, p.caption-wide, p.caption-narrow {
+		  	width: 70%;
+		  	margin-left: 15%;
+		  	margin-right: 15%;
+    	}
+    	    
+    	p.caption-wide{
+    	    display: none;
+    	}
+    	    
+    	p.caption-narrow {
+    	    display: block;
+    	} 
   }
     
   .blog-index .pagination{

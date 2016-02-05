@@ -1,0 +1,13 @@
+{% capture category %}{{ post.categories | size }}{% endcapture %}
+<div class="story-cover">
+{% if post.coverimg %}
+<img src="{{ post.coverimg }}"/>
+{% endif %}
+<div class="story-header">
+<h1><span><a href="{{ root_url }}{{ post.external-url }}">{% if site.titlecase %}{{ post.story-title | titlecase }}{% else %}{{ post.story-title }}{% endif %}</a></span></h1>
+</div>
+</div>
+<div class="story-text">
+<p class="description">{{ post.description }}</p>
+<p class="updated"><b><time datetime="{{ post.start-date | datetime | date_to_xmlschema }}" pubdate>{{ post.start-date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time> - <time datetime="{{ post.end-date | datetime | date_to_xmlschema }}" pubdate>{{ post.end-date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time></b></p>
+</div>
