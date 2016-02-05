@@ -21,10 +21,12 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 <div id="photostories-archive">
 	<article>
 		<div class="story-cover">
-			<img src="https://farm2.staticflickr.com/1672/24145434633_20cd4e239d_o.jpg"/>
-			<div class="story-header">
-				<h1><span><a href="/photostories/paris_2016/day_1">Day One</a></span></h1>
-			</div>
+			<a href="/photostories/paris_2016/day_1">
+				<img src="https://farm2.staticflickr.com/1672/24145434633_20cd4e239d_o.jpg"/>
+				<div class="story-header">
+					<h1>Day One</h1>
+				</div>
+			</a>
 		</div>
 		<div class="story-text">
 			<p class="description">The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well.</p>
@@ -33,10 +35,12 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	
 	<article>
 		<div class="story-cover">
-			<img src="https://farm2.staticflickr.com/1596/24123496243_a02c36d595_c.jpg"/>
-			<div class="story-header">
-				<h1><span><a href="/photostories/paris_2016/day_2">Day Two</a></span></h1>
-			</div>
+			<a href="/photostories/paris_2016/day_2">
+				<img src="https://farm2.staticflickr.com/1596/24123496243_a02c36d595_c.jpg"/>
+				<div class="story-header">
+					<h1>Day Two</h1>
+				</div>
+			</a>
 		</div>
 		<div class="story-text">
 			<p class="description">Day two started with a walk across Pont Neuf and up to Notre Dame, followed by a brief stop for lunch in the Latin Quartier. We then spent the evening taking a stroll around Musée du Louvre, Jardin des Tuileries, Place de la Concorde and, finally, L’église de la Madeleine.</p>
@@ -45,10 +49,12 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	
 	<article>
 		<div class="story-cover">
-			<img src="https://farm2.staticflickr.com/1719/24664123411_3a1fbcffda_o.jpg"/>
-			<div class="story-header">
-				<h1><span><a href="/photostories/paris_2016/day_3">Day Three</a></span></h1>
-			</div>
+			<a href="/photostories/paris_2016/day_3">
+				<img src="https://farm2.staticflickr.com/1719/24664123411_3a1fbcffda_o.jpg"/>
+				<div class="story-header">
+					<h1>Day Three</h1>
+				</div>
+			</a>
 		</div>
 		<div class="story-text">
 			<p class="description">On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre.</p>
@@ -57,10 +63,12 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	
 	<article>
 		<div class="story-cover">
-			<img src="https://farm2.staticflickr.com/1469/24639813812_0c4b811478_o.jpg"/>
-			<div class="story-header">
-				<h1><span><a href="/photostories/paris_2016/day_4">Day Four</a></span></h1>
-			</div>
+			<a href="/photostories/paris_2016/day_4">
+				<img src="https://farm2.staticflickr.com/1469/24639813812_0c4b811478_o.jpg"/>
+				<div class="story-header">
+					<h1>Day Four</h1>
+				</div>
+			</a>
 		</div>
 		<div class="story-text">
 			<p class="description">On our last day we walked a bit more around Montmartre and climbed up the famous hill to visit the Sacré-Cœur.</p>

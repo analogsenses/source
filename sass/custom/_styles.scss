@@ -731,7 +731,7 @@ body {
   width: auto;
   height: auto;
   margin: auto;
-  margin-bottom: 100px;
+  margin-bottom: 0px;
   margin-top: 0px;
   text-align: center;
   
@@ -741,7 +741,7 @@ body {
   	width: auto;
   	max-width: 487px;
   	display: inline-block;
-  	margin: 30px 5px 30px 5px;
+  	margin: 40px 5px 0px 5px;
 
 	div.story-cover{
 		height: auto;
@@ -777,15 +777,18 @@ body {
 			    vertical-align: bottom;
 
 				background-image: linear-gradient(transparent 0%, rgba(0, 0, 0, 0.5) 100%);
-
-			    a{
-			      	color: white;
-			    }
-			      	
-			    a:hover {
-			      	opacity: 0.7;
-			    }
+				color: white;
+				
+				transition: opacity .25s ease-in-out;
+   				-moz-transition: opacity .25s ease-in-out;
+   				-webkit-transition: opacity .25s ease-in-out;
 		    }
+	    }
+	    
+	    div.story-header:hover {
+	    	h1 {
+	    		opacity: 0;
+	    	}
 	    }
 	}
 
@@ -930,7 +933,7 @@ article {
   // ----- post's content -----
  
  .entry-content{
- 	margin-bottom: 40px;
+ 	margin-bottom: 25px;
  }
  
  .footnotes, .entry-content .footnotes {
@@ -938,7 +941,6 @@ article {
  		margin: auto;
  		margin-top: 40px;
  		padding-bottom: 0px;
- 		//border-bottom: $border-style;	
  	}
  	
   .footnotes hr, .entry-content .footnotes hr {
@@ -1148,15 +1150,11 @@ article {
       font-size:25px;
       overflow: auto;
       margin-top: 20px;
-      padding-bottom: 40px;
             
       &:first-child {
       	@extend .default-font;
       	color: $secondary-text-color;
         font-size:18px;
-        @extend .margin-bottom-large;
-        padding-bottom: 20px;
-        //border-bottom: $border-style;
         
         time:after, span.author:after {
           content: "•";
@@ -1169,8 +1167,8 @@ article {
       @extend .sans-serif-font-bold;
       font-size:25px;
       overflow: auto;
-      padding-bottom: 40px;
-      padding-top: 40px;
+      padding-bottom: 25px;
+      padding-top: 25px;
       border-top: $border-style;
             
       &:first-child {
@@ -1179,7 +1177,6 @@ article {
         font-size:18px;
         @extend .margin-bottom-large;
         padding-bottom: 20px;
-        //border-bottom: $border-style;
         
         time:after, span.author:after {
           content: "•";
@@ -1191,10 +1188,11 @@ article {
     > .sharing {
     	max-width: 700px;
     	margin:auto;
-    	margin-top: 50px;
-    	padding-bottom: 80px;
+    	margin-top: 80px;
+    	margin-bottom: 80px;
+    	padding-top: 0px;
+    	padding-bottom: 0px;
     	text-align: center;
-    	//border-bottom: $border-style;
     	
     	p{
 	    	@extend .default-font;
@@ -2050,7 +2048,6 @@ article {
 	      height: auto;
 	      margin-left:0px;
 	      margin-right:0px;
-	      margin-bottom: 40px;
 	      
 	      div.story-cover{
 		      img {
@@ -2085,7 +2082,6 @@ article {
   footer {
   	width: 100%;
   	margin: auto;
-  	margin-bottom: 60px !important;
   	
   	p {
   	 line-height: 170%;

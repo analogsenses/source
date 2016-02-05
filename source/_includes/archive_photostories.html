@@ -1,11 +1,13 @@
 {% capture category %}{{ post.categories | size }}{% endcapture %}
 <div class="story-cover">
+<a href="{{ root_url }}{{ post.external-url }}">
 {% if post.coverimg %}
 <img src="{{ post.coverimg }}"/>
 {% endif %}
 <div class="story-header">
-<h1><span><a href="{{ root_url }}{{ post.external-url }}">{% if site.titlecase %}{{ post.story-title | titlecase }}{% else %}{{ post.story-title }}{% endif %}</a></span></h1>
+<h1>{% if site.titlecase %}{{ post.story-title | titlecase }}{% else %}{{ post.story-title }}{% endif %}</h1>
 </div>
+</a>
 </div>
 <div class="story-text">
 <p class="description">{{ post.description }}</p>
