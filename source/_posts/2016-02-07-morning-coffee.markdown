@@ -38,7 +38,7 @@ To further drive the point home, it is through Luke’s friendship that Han beco
 
 {% vimeo 77051649 %}
  
-<p class="caption">“Your tauntaun will freeze before you reach the first marker”.<br>“Then I’ll see you in hell!”</p> 
+<p class="photo-credit">“Your tauntaun will freeze before you reach the first marker”.<br>“Then I’ll see you in hell!”</p> 
 
 This is, to me, the defining aspect of the _Star Wars_ universe, and the central idea that permeates the entire story: that great things are only accomplished when we act selflessly, and when we are loyal to our friends to the very end. It’s a nice sentiment, and one that was conveyed brilliantly in the original trilogy.
 

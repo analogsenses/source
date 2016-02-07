@@ -143,7 +143,7 @@ The first option is to have photos embedded within the confines of the main text
 
 <img src="https://farm6.staticflickr.com/5808/21168957681_91936cc164_o.jpg"/>
 
-<p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
+<p class="photo-credit">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 
 Of course, photos can be embedded in portrait orientation, as well:
 
@@ -178,7 +178,7 @@ Videos by default are treated just like photos, and are embedded at the wider si
 
 {% vimeo 149865168 %}
 
-<p class="caption">Videos can have their own captions, too. Since we’re at it, let’s focus for a moment on what happens if we write several lines here. If everything is fine, captions should be sufficiently differentiated from regular body text so as to not confuse readers.</p>
+<p class="photo-credit">Videos can have their own captions, too. Since we’re at it, let’s focus for a moment on what happens if we write several lines here. If everything is fine, captions should be sufficiently differentiated from regular body text so as to not confuse readers.</p>
 
 In Octopress, videos are embedded responsively thanks to the [Octopress Responsive Video Embed](https://github.com/optikfluffel/octopress-responsive-video-embed) plugin by Udo Kramer.
 
