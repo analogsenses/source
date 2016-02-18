@@ -17,7 +17,7 @@ I’m incredibly excited to announce [Candid](http://www.candid.fm), a new weekl
 
 Once a week, [Marius Masalar](http://mariusmasalar.me), [Josh Ginter](http://thenewsprint.co) and yours truly will be getting together to talk about every little thing that piques our interest in the vast world of photography. That includes everything from creative advice, inspirational topics, the struggle of being a professional, and of course, gear talk. Lots and lots of gear talk.
 
-We’re thrilled to show you what we’ve been working on, and we really hope you join us for the ride. Check out [our first episode](http://www.candid.fm/1) and, if you like what you hear, please take a minute of your time to [spread the word](https://twitter.com/intent/tweet?url=http://www.candid.fm/1/&text=Candid,%20Episode%201:%20“Okay%20Bokeh”%20by%20@candid_fm). Thanks!
+We’re thrilled to show you what we’ve been working on, and we really hope you join us for the ride. Check out [our first episode](http://www.candid.fm/1) and, if you like what you hear, please take a moment to help [spread the word](https://twitter.com/intent/tweet?url=http://www.candid.fm/1/&text=Candid,%20Episode%201:%20“Okay%20Bokeh”%20by%20@candid_fm) and [rate the show on iTunes](https://geo.itunes.apple.com/podcast/candid/id1085070184). It only takes a minute, and it helps a ton. Thanks!
 
 Love,  
 Álvaro.
