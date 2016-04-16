@@ -25,11 +25,11 @@ Today I’d like to tell you a bit about the Easter holiday tradition in Spain: 
 The Holy Week, known as Semana Santa in Spain, is the last week of Lent, the week immediately before Easter Sunday. Every day of the week there are penance processions in many Spanish cities, involving millions of people in this deeply religious tradition. Going back to the Middle Age, these processions commemorate the [Passion of Jesus Christ](https://en.wikipedia.org/wiki/Passion_of_Jesus_Christ).
 
 <figure>
-<img src="https://farm2.staticflickr.com/1691/25792915550_b6d24b1386_o.jpg"/>
+	<img src="https://farm2.staticflickr.com/1691/25792915550_b6d24b1386_o.jpg"/>
 </figure>
 
 <figure>
-<img src="https://farm2.staticflickr.com/1703/25973224722_c1510882bc_o.jpg"/>
+	<img src="https://farm2.staticflickr.com/1703/25973224722_c1510882bc_o.jpg"/>
 </figure>
 
 The processions are organized by several brotherhoods, each of which is devoted to a particular moment of the Passion as described in the gospels. The main features of the processions are _pasos_, which are floats with incredibly detailed sculptures depicting these scenes. They are carried by the members of each brotherhood.

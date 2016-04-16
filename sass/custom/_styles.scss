@@ -224,7 +224,7 @@ a.analog, a.analog:visited {
     margin-left: auto;
     margin-right: auto;
     max-width: 100%;
-  	border: 1px $text-color solid;
+  	//border: 1px $text-color solid;
   }
 
 center{
@@ -1376,26 +1376,25 @@ figure.full-width {
 		div.stretchy-wrapper {	
 			width: 100%;
 			position: relative;
-			
-			img {
-				position: absolute;
-		        height: 100%;
-		        margin-left: 5px;
-		        margin-right: 5px;
-		        margin-top: 0px;
-		        margin-bottom: 0px;
-		        clear: both;
-			}
-			  
-			img:first-child {
-				margin: auto !important;
-				top: 0; bottom: 0; left:0;
-		    }
-		  	
-		  	img:last-child {
-				margin: auto !important;
-				top: 0; bottom: 0; right:0;
-		  	}
+				img{
+					position: absolute;
+			        height: 100%;
+			        margin-left: 5px;
+			        margin-right: 5px;
+			        margin-top: 0px;
+			        margin-bottom: 0px;
+			        clear: both;
+				}
+				  
+				img:first-child {
+					margin: auto !important;
+					top: 0; bottom: 0; left:0;
+			    }
+			  	
+			  	img:last-child {
+					margin: auto !important;
+					top: 0; bottom: 0; right: 0;
+			  	}
 		}
 	}
 }
