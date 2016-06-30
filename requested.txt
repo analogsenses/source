@@ -1,0 +1,13 @@
+antlr3
+autoconf
+automake
+cmake
+coreutils
+doxygen
+ImageMagick
+intltool
+nasm
+optipng
+pkgconfig
+wget
+yasm
