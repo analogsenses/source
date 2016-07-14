@@ -151,11 +151,11 @@ Of course, photos can be embedded in portrait orientation, as well:
 
 The problem with this approach is that these images will never be displayed at full-width on your screen. And if you’re looking at them on a smartphone, it doesn’t really make much sense to waste valuable space with margins. This approach works very well in some specific cases, so it’s important to support it, but clearly we can do better. Here’s a wider image:
 
-<p class="extra-width"><img src="https://farm2.staticflickr.com/1621/24389171822_71c8712c22_o.jpg"/></p>
+<figure class="extra-width"><img src="https://farm2.staticflickr.com/1621/24389171822_71c8712c22_o.jpg"/></figure>
 
 That’s better. This size works well for portrait images, as well. Here’s what a portrait image looks like at this wider size:
 
-<p class="extra-width"><img src="https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/></p>
+<figure class="extra-width"><img src="https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/></figure>
 
 I like this size better, but keep in mind that portrait images that are this wide can be harder to view on laptops with widescreen displays. You should find a compromise that works for you there.[^StyleReference3]
 
@@ -163,11 +163,22 @@ I like this size better, but keep in mind that portrait images that are this wid
 
 Then there’s an even wider size that is best suited for landscape-orientation pictures. This is what that looks like:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/></p>
+<figure class="full-width">
+<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+<p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
+</figure>
 
 Obviously, this size is not optimal for portrait-orientation images, as it would take a very tall screen to be able to view the entire image.[^StyleReference4]
 
 [^StyleReference4]: These images will be displayed at full-width on any display that is **1,204-pixels** wide or narrower. That includes every iOS device in every orientation, except for the iPad Pro in landscape mode only.
+
+And finally, we can have true full width panoramas, like this one:
+
+<figure class="panorama">
+<a class="fancybox" rel="MenorcaPanorama" href="https://c3.staticflickr.com/1/350/19732177610_e00e8065a8_k.jpg"><img src="https://c3.staticflickr.com/1/350/19732177610_e00e8065a8_k.jpg" alt="" /></a>
+</figure>
+
+This should extend the entire width of your screen, regardless of the size of your window.
 
 
 ### Videos
