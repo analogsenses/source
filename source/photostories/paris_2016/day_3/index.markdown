@@ -194,4 +194,4 @@ Then, with our bellies successfully packed with exquisite French food, we took a
 
 After that, we thought about having a drink but it was already too late and we wanted to come back to Montmartre the next morning anyway, so we decided to call it a night.
 
-All in all, this was a great day, but there was still more. Check out [Day Four](/photostories/paris_2016/day_4) to see the last episode of this photo story.
+All in all, this was a great day, but there was still more. Check out [Day Four](/photostories/paris_2016/day_4#landing-point) to see the last episode of this photo story.

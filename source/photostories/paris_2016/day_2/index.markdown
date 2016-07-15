@@ -233,4 +233,4 @@ After such a long day and considering we had been up quite late the previous nig
 
 That night we grabbed a quick bite near the hotel and then crashed into bed quite early in order to rest as much as possible for the next day.
 
-Don’t miss [Day Three](/photostories/paris_2016/day_3) to know how this photo story continues.
+Don’t miss [Day Three](/photostories/paris_2016/day_3#landing-point) to know how this photo story continues.
