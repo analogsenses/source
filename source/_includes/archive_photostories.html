@@ -1,15 +1,21 @@
 {% capture category %}{{ post.categories | size }}{% endcapture %}
 <div class="story-cover">
 <a href="{{ root_url }}{{ post.external-url }}">
-{% if post.coverimg %}
-<img src="{{ post.coverimg }}"/>
+{% if post.title-image %}
+<img src="{{ post.title-image }}"/>
 {% endif %}
 <div class="story-header">
-<h1>{% if site.titlecase %}{{ post.story-title | titlecase }}{% else %}{{ post.story-title }}{% endif %}</h1>
+{% if post.subtitle %}
+	<h1>{% if site.titlecase %}{{ post.subtitle | titlecase }}{% else %}{{ post.subtitle }}{% endif %}</h1>
+{% else %}
+	<h1>{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</h1>
+{% endif %}
 </div>
 </a>
 </div>
 <div class="story-text">
+{% if post.description %}
 <p class="description">{{ post.description }}</p>
-<p class="updated"><b><time datetime="{{ post.start-date | datetime | date_to_xmlschema }}" pubdate>{{ post.start-date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time> - <time datetime="{{ post.end-date | datetime | date_to_xmlschema }}" pubdate>{{ post.end-date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time></b></p>
+{% endif %}
+<p class="updated"><b><time datetime="{{ post.start-date | datetime | date_to_xmlschema }}" pubdate>{{ post.start-date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time> — <time datetime="{{ post.end-date | datetime | date_to_xmlschema }}" pubdate>{{ post.end-date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time></b></p>
 </div>

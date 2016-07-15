@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Paris 2016: a photo story"
+subtitle: "December 31st, 2015 — January 3rd, 2016"
+title-image: https://farm2.staticflickr.com/1648/24770993856_bdb3225d7c_o.jpg
 date: 2016-02-03 12:16:52 +0100
 comments: false
 sharing: true
@@ -8,6 +10,7 @@ categories:
 - Photostories
 - Travel
 description: "We took a short trip to Paris for 2016’s New Year's Eve. This is a photo story of our trip."
+
 ---
 
 Ah, Paris. The City of Light. So much has been written about this beautiful city that I feel there's nothing else I could add that would do it justice.
@@ -21,8 +24,8 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 <div id="photostories-archive">
 	<article>
 		<div class="story-cover">
-			<a href="/photostories/paris_2016/day_1">
-				<img src="https://farm2.staticflickr.com/1672/24145434633_20cd4e239d_o.jpg"/>
+			<a href="/photostories/paris_2016/day_1#landing-point">
+				<img src="https://c6.staticflickr.com/8/7746/27710931013_8eba19207f_o.jpg"/>
 				<div class="story-header">
 					<h1>Day One</h1>
 				</div>
@@ -35,7 +38,7 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	
 	<article>
 		<div class="story-cover">
-			<a href="/photostories/paris_2016/day_2">
+			<a href="/photostories/paris_2016/day_2#landing-point">
 				<img src="https://farm2.staticflickr.com/1596/24123496243_a02c36d595_c.jpg"/>
 				<div class="story-header">
 					<h1>Day Two</h1>
@@ -49,8 +52,8 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	
 	<article>
 		<div class="story-cover">
-			<a href="/photostories/paris_2016/day_3">
-				<img src="https://farm2.staticflickr.com/1719/24664123411_3a1fbcffda_o.jpg"/>
+			<a href="/photostories/paris_2016/day_3#landing-point">
+				<img src="https://farm2.staticflickr.com/1641/24429565809_35c6d33cd0_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Three</h1>
 				</div>
@@ -63,8 +66,8 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	
 	<article>
 		<div class="story-cover">
-			<a href="/photostories/paris_2016/day_4">
-				<img src="https://farm2.staticflickr.com/1469/24639813812_0c4b811478_o.jpg"/>
+			<a href="/photostories/paris_2016/day_4#landing-point">
+				<img src="https://farm2.staticflickr.com/1523/24766455436_0e3a091fa1_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Four</h1>
 				</div>

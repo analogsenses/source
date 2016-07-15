@@ -5,6 +5,8 @@ date: 2016-01-02 07:05:05+00:00
 layout: page
 sharing: true
 title: "Paris 2016: Day Three"
+subtitle: "January 2nd, 2016"
+title-image: https://farm2.staticflickr.com/1641/24429565809_35c6d33cd0_o.jpg
 description: "On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre."
 
 ---
@@ -15,49 +17,49 @@ Clearly, having a proper breakfast was the right call, as we had a long day ahea
 
 Our first stop of the day was to be the mythical [Tour Eiffel](https://en.wikipedia.org/wiki/Eiffel_Tower). We rode our bikes along the Seine for a while, until we eventually reached [Champ de Mars](https://en.wikipedia.org/wiki/Champ_de_Mars). We didn’t have any problem finding a spot to leave the bicycles, which is a rarity in central Paris. Almost every Velib’ station we saw around the Louvre, for example, was completely full of bicycles, and finding an empty slot is never an easy task.
 
-<center><iframe class="google-maps" src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d41996.98296822775!2d2.2845383083000104!3d48.861806014251435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e1!4m5!1s0x47e66e21e7c6f489%3A0x1e03670c6fac7876!2sBest+Western+Ducs+de+Bourgogne%2C+19+Rue+du+Pont+Neuf%2C+75001+Paris%2C+France!3m2!1d48.8603449!2d2.3440813!4m5!1s0x47e6701fecd7f1bb%3A0xda0b3d0ab838114d!2sTour+Eiffel+-+Parc+du+Champ-de-Mars%2C+Paris%2C+France!3m2!1d48.855898599999996!2d2.2980875!5e0!3m2!1sen!2ses!4v1454514988917" width="768" height="500" frameborder="0" style="border:0" allowfullscreen></iframe></center>
+<section class="google-maps"><iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d41996.98296822775!2d2.2845383083000104!3d48.861806014251435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e1!4m5!1s0x47e66e21e7c6f489%3A0x1e03670c6fac7876!2sBest+Western+Ducs+de+Bourgogne%2C+19+Rue+du+Pont+Neuf%2C+75001+Paris%2C+France!3m2!1d48.8603449!2d2.3440813!4m5!1s0x47e6701fecd7f1bb%3A0xda0b3d0ab838114d!2sTour+Eiffel+-+Parc+du+Champ-de-Mars%2C+Paris%2C+France!3m2!1d48.855898599999996!2d2.2980875!5e0!3m2!1sen!2ses!4v1454514988917" width="768" height="500" frameborder="0" style="border:0" allowfullscreen></iframe></section>
 
 Once we got rid of the bicycles we stayed close to the tower for a while. The Eiffel tower is _the_ place in Paris to take pictures, so there were plenty of tourists hanging around, and also plenty of people waiting in line to go up to the top. We would have liked to go up ourselves, but unfortunately the top deck was closed due to poor weather and almost zero visibility. We also didn’t really want to queue up for hours just to go up to the first deck, so we left after a few minutes.
 
 <section class="photoset">
-	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1641/24429565809_35c6d33cd0_o.jpg"/>
-	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.9%">
-			<img src="https://farm2.staticflickr.com/1647/24770994796_725033c7bb_o.jpg"/>
-			<img  src= "https://farm2.staticflickr.com/1458/24170354573_a71e96a324_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1647/24770994796_725033c7bb_o.jpg"><img src="https://farm2.staticflickr.com/1647/24770994796_725033c7bb_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1458/24170354573_a71e96a324_o.jpg"><img src="https://farm2.staticflickr.com/1458/24170354573_a71e96a324_o.jpg" alt="" /></a>
 		</div>
+	</figure>
+	<figure class="full-width">
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1641/24429565809_35c6d33cd0_o.jpg"><img src="https://farm2.staticflickr.com/1641/24429565809_35c6d33cd0_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:39.5%">
-			<img src="https://farm2.staticflickr.com/1633/24170354543_73649f083d_o.jpg"/>
-			<img  src= "https://farm2.staticflickr.com/1583/24429565699_65e5347033_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1633/24170354543_73649f083d_o.jpg"><img src="https://farm2.staticflickr.com/1633/24170354543_73649f083d_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1583/24429565699_65e5347033_o.jpg"><img src="https://farm2.staticflickr.com/1583/24429565699_65e5347033_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1449/24770994606_35d9d32730_o.jpg"/>
+		<a class="fancybox" rel="galleryParis2" href="https://farm2.staticflickr.com/1449/24770994606_35d9d32730_o.jpg"><img src="https://farm2.staticflickr.com/1449/24770994606_35d9d32730_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:45.85%">
-		<img src="https://farm2.staticflickr.com/1697/24501694700_4b0096b3b6_o.jpg"/>
-		<img src= "https://farm2.staticflickr.com/1492/24703729261_a63ea7a5cf_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1697/24501694700_4b0096b3b6_o.jpg"><img src="https://farm2.staticflickr.com/1697/24501694700_4b0096b3b6_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1492/24703729261_a63ea7a5cf_o.jpg"><img src="https://farm2.staticflickr.com/1492/24703729261_a63ea7a5cf_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1486/24679381902_f72488ae51_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1486/24679381902_f72488ae51_o.jpg"><img src="https://farm2.staticflickr.com/1486/24679381902_f72488ae51_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.87%">
-		<img src="https://farm2.staticflickr.com/1590/24170354333_b2e0332976_o.jpg"/>
-		<img src= "https://farm2.staticflickr.com/1484/24429565489_82101bde6b_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1590/24170354333_b2e0332976_o.jpg"><img src="https://farm2.staticflickr.com/1590/24170354333_b2e0332976_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1484/24429565489_82101bde6b_o.jpg"><img src="https://farm2.staticflickr.com/1484/24429565489_82101bde6b_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1655/24429565539_d8ce657b13_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1655/24429565539_d8ce657b13_o.jpg"><img src="https://farm2.staticflickr.com/1655/24429565539_d8ce657b13_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1713/24679381822_b40f32d897_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1713/24679381822_b40f32d897_o.jpg"><img src="https://farm2.staticflickr.com/1713/24679381822_b40f32d897_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -65,58 +67,58 @@ After that, we went to [Place du Trocadéro](https://en.wikipedia.org/wiki/Troca
 
 <section class="photoset">
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1615/24679381782_7eed48e5f5_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1615/24679381782_7eed48e5f5_o.jpg"><img src="https://farm2.staticflickr.com/1615/24679381782_7eed48e5f5_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:43.45%">
-			<img src="https://farm2.staticflickr.com/1624/24429565339_16ab567330_o.jpg"/>
-			<img  src= "https://farm2.staticflickr.com/1535/24797224575_b6230bfb4a_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1624/24429565339_16ab567330_o.jpg"><img src="https://farm2.staticflickr.com/1624/24429565339_16ab567330_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1535/24797224575_b6230bfb4a_o.jpg"><img src="https://farm2.staticflickr.com/1535/24797224575_b6230bfb4a_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1647/24169057814_6da12edcdf_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1647/24169057814_6da12edcdf_o.jpg"><img src="https://farm2.staticflickr.com/1647/24169057814_6da12edcdf_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:57.18%">
-			<img src="https://farm2.staticflickr.com/1702/24703728881_0917cde60d_o.jpg"/>
-			<img  src= "https://farm2.staticflickr.com/1450/24703728731_6e6d6b9a91_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1702/24703728881_0917cde60d_o.jpg"><img src="https://farm2.staticflickr.com/1702/24703728881_0917cde60d_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1450/24703728731_6e6d6b9a91_o.jpg"><img src="https://farm2.staticflickr.com/1450/24703728731_6e6d6b9a91_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:45.2%">
-		<img src="https://farm2.staticflickr.com/1613/24770993956_124184db45_o.jpg"/>
-		<img src= "https://farm2.staticflickr.com/1596/24170353823_328e7aa591_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1613/24770993956_124184db45_o.jpg"><img src="https://farm2.staticflickr.com/1613/24770993956_124184db45_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1596/24170353823_328e7aa591_o.jpg"><img src="https://farm2.staticflickr.com/1596/24170353823_328e7aa591_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1453/24703728551_4dd3cd1442_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1453/24703728551_4dd3cd1442_o.jpg"><img src="https://farm2.staticflickr.com/1453/24703728551_4dd3cd1442_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:59.3%">
-		<img src="https://farm2.staticflickr.com/1547/24501694030_647214cf77_o.jpg"/>
-		<img src= "https://farm2.staticflickr.com/1513/24169057524_475b9e8847_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1547/24501694030_647214cf77_o.jpg"><img src="https://farm2.staticflickr.com/1547/24501694030_647214cf77_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1513/24169057524_475b9e8847_o.jpg"><img src="https://farm2.staticflickr.com/1513/24169057524_475b9e8847_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1648/24770993856_bdb3225d7c_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1648/24770993856_bdb3225d7c_o.jpg"><img src="https://farm2.staticflickr.com/1648/24770993856_bdb3225d7c_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:73.5%">
-			<img src="https://farm2.staticflickr.com/1653/24703728481_82c8d95a0c_o.jpg"/>
-			<img  src= "https://farm2.staticflickr.com/1594/24797224155_75e7da1d88_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1653/24703728481_82c8d95a0c_o.jpg"><img src="https://farm2.staticflickr.com/1653/24703728481_82c8d95a0c_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1594/24797224155_75e7da1d88_o.jpg"><img src="https://farm2.staticflickr.com/1594/24797224155_75e7da1d88_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:35.63%">
-		<img src="https://farm2.staticflickr.com/1641/24170353483_aa7fdb82f4_o.jpg"/>
-		<img src= "https://farm2.staticflickr.com/1535/24501693840_a10e643961_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1641/24170353483_aa7fdb82f4_o.jpg"><img src="https://farm2.staticflickr.com/1641/24170353483_aa7fdb82f4_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1535/24501693840_a10e643961_o.jpg"><img src="https://farm2.staticflickr.com/1535/24501693840_a10e643961_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 </section>
 
 Then we went to [Le Grenier à Pommes](https://www.tripadvisor.es/Restaurant_Review-g187147-d1998007-Reviews-Le_Grenier_A_Pommes-Paris_Ile_de_France.html), a nearby crêperie where we enjoyed a fine meal, and walked along Avenue Kléber until we eventually reached the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe), another one of the most recognizable monuments in Paris.
 
-<center><iframe class="google-maps" src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d10498.321244848816!2d2.283280990543302!3d48.8662129169846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0x47e66e2964e34e2d%3A0x8ddca9ee380ef7e0!2sEiffel+Tower%2C+Champ+de+Mars%2C+5+Avenue+Anatole+France%2C+75007+Paris!3m2!1d48.858370099999995!2d2.2944812999999997!4m5!1s0x47e66ffb5ba4a509%3A0x427aa27464ade6a1!2sPalais+de+Chaillot%2C+Place+du+Trocad%C3%A9ro+et+du+11+Novembre%2C+Paris%2C+France!3m2!1d48.8623598!2d2.2880997!4m5!1s0x47e66fe51d830cbd%3A0xed18449612018f2e!2sLe+Grenier+%C3%A0+Pommes%2C+Rue+de+Longchamp%2C+Paris%2C+France!3m2!1d48.864896599999994!2d2.2908627!4m5!1s0x47e66fe53127529b%3A0x9250d31f61017309!2s69+Avenue+Kl%C3%A9ber%2C+Paris%2C+France!3m2!1d48.865763699999995!2d2.2895825!4m5!1s0x47e66fec746d386b%3A0x8710a9c7965c5fa9!2sArc+de+Triomphe%2C+Paris%2C+France!3m2!1d48.873779299999995!2d2.2950155999999997!5e0!3m2!1sen!2ses!4v1454519010865" width="768" height="500" frameborder="0" style="border:0" allowfullscreen></iframe></center>
+<section class="google-maps"><iframe src="https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d10498.321244848816!2d2.283280990543302!3d48.8662129169846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0x47e66e2964e34e2d%3A0x8ddca9ee380ef7e0!2sEiffel+Tower%2C+Champ+de+Mars%2C+5+Avenue+Anatole+France%2C+75007+Paris!3m2!1d48.858370099999995!2d2.2944812999999997!4m5!1s0x47e66ffb5ba4a509%3A0x427aa27464ade6a1!2sPalais+de+Chaillot%2C+Place+du+Trocad%C3%A9ro+et+du+11+Novembre%2C+Paris%2C+France!3m2!1d48.8623598!2d2.2880997!4m5!1s0x47e66fe51d830cbd%3A0xed18449612018f2e!2sLe+Grenier+%C3%A0+Pommes%2C+Rue+de+Longchamp%2C+Paris%2C+France!3m2!1d48.864896599999994!2d2.2908627!4m5!1s0x47e66fe53127529b%3A0x9250d31f61017309!2s69+Avenue+Kl%C3%A9ber%2C+Paris%2C+France!3m2!1d48.865763699999995!2d2.2895825!4m5!1s0x47e66fec746d386b%3A0x8710a9c7965c5fa9!2sArc+de+Triomphe%2C+Paris%2C+France!3m2!1d48.873779299999995!2d2.2950155999999997!5e0!3m2!1sen!2ses!4v1454519010865" width="768" height="500" frameborder="0" style="border:0" allowfullscreen></iframe></section>
 
 The Arc de Triomphe sits at the center of twelve radiating avenues, the most famous of which is, of course, the  [Champs-Élysées](https://en.wikipedia.org/wiki/Champs-Élysées), which runs to the east until [Place de la Concorde](https://en.wikipedia.org/wiki/Place_de_la_Concorde). 
 
@@ -127,33 +129,33 @@ Ready to defy the quickly worsening weather, we decided to get up to the top of 
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:35.85%">
-			<img src="https://farm2.staticflickr.com/1509/24797224075_51be86520e_o.jpg"/>
-			<img  src= "https://farm2.staticflickr.com/1487/24770993486_a4d963376c_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1509/24797224075_51be86520e_o.jpg"><img src="https://farm2.staticflickr.com/1509/24797224075_51be86520e_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1487/24770993486_a4d963376c_o.jpg"><img src="https://farm2.staticflickr.com/1487/24770993486_a4d963376c_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1482/24770993516_cddf29b021_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1482/24770993516_cddf29b021_o.jpg"><img src="https://farm2.staticflickr.com/1482/24770993516_cddf29b021_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:32.96%">
-			<img src="https://farm2.staticflickr.com/1655/24429564649_ace78979be_o.jpg"/>
-			<img  src= "https://farm2.staticflickr.com/1525/24703728091_99f1951fdc_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1655/24429564649_ace78979be_o.jpg"><img src="https://farm2.staticflickr.com/1655/24429564649_ace78979be_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1525/24703728091_99f1951fdc_o.jpg"><img src="https://farm2.staticflickr.com/1525/24703728091_99f1951fdc_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1718/24429564579_f80c023aae_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1718/24429564579_f80c023aae_o.jpg"><img src="https://farm2.staticflickr.com/1718/24429564579_f80c023aae_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:32.96%">
-			<img src="https://farm2.staticflickr.com/1593/24170353213_7b438b2128_o.jpg"/>
-			<img src= "https://farm2.staticflickr.com/1444/24501693590_6246a84d1a_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1593/24170353213_7b438b2128_o.jpg"><img src="https://farm2.staticflickr.com/1593/24170353213_7b438b2128_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1444/24501693590_6246a84d1a_o.jpg"><img src="https://farm2.staticflickr.com/1444/24501693590_6246a84d1a_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1673/24770993216_2d1be66dbd_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1673/24770993216_2d1be66dbd_o.jpg"><img src="https://farm2.staticflickr.com/1673/24770993216_2d1be66dbd_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1556/24501693670_99083b4081_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1556/24501693670_99083b4081_o.jpg"><img src="https://farm2.staticflickr.com/1556/24501693670_99083b4081_o.jpg" alt="" /></a>
 	</figure>
 	</section>
 
@@ -171,21 +173,21 @@ Then, with our bellies successfully packed with exquisite French food, we took a
 
 <section class="photoset">
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1563/24169056994_39ebbccfe1_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1563/24169056994_39ebbccfe1_o.jpg"><img src="https://farm2.staticflickr.com/1563/24169056994_39ebbccfe1_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.63%">
-			<img src="https://farm2.staticflickr.com/1679/24170353093_e52ffc8e25_o.jpg"/>
-			<img  src= "https://farm2.staticflickr.com/1606/24501693510_cafe3ca78b_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1679/24170353093_e52ffc8e25_o.jpg"><img src="https://farm2.staticflickr.com/1679/24170353093_e52ffc8e25_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1606/24501693510_cafe3ca78b_o.jpg"><img src="https://farm2.staticflickr.com/1606/24501693510_cafe3ca78b_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1557/24770993046_57691b6cea_o.jpg"/>
+		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1557/24770993046_57691b6cea_o.jpg"><img src="https://farm2.staticflickr.com/1557/24770993046_57691b6cea_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:37.05%">
-			<img src="https://farm2.staticflickr.com/1441/24501693440_bd9ea9907a_o.jpg"/>
-			<img  src= "https://farm2.staticflickr.com/1582/24429564159_890cd67cee_o.jpg"/>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1441/24501693440_bd9ea9907a_o.jpg"><img src="https://farm2.staticflickr.com/1441/24501693440_bd9ea9907a_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1582/24429564159_890cd67cee_o.jpg"><img src="https://farm2.staticflickr.com/1582/24429564159_890cd67cee_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -193,5 +195,3 @@ Then, with our bellies successfully packed with exquisite French food, we took a
 After that, we thought about having a drink but it was already too late and we wanted to come back to Montmartre the next morning anyway, so we decided to call it a night.
 
 All in all, this was a great day, but there was still more. Check out [Day Four](/photostories/paris_2016/day_4) to see the last episode of this photo story.
-
-

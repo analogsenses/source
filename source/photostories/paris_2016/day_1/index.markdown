@@ -5,6 +5,8 @@ date: 2015-12-31 07:05:05+00:00
 layout: page
 sharing: true
 title: "Paris 2016: Day One"
+subtitle: "December 31st, 2015"
+title-image: https://c6.staticflickr.com/8/7746/27710931013_8eba19207f_o.jpg
 description: "The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well."
 ---
 
@@ -26,9 +28,10 @@ A quick aside on the hotel: this particular Best Western is an excellent deal fo
 
 Location-wise, this hotel is pretty hard to beat. Rue du Pont Neuf is right in the middle of the [1st arrondissement](https://en.wikipedia.org/wiki/1st_arrondissement_of_Paris), a mere five-minute walk away from Musée du Louvre and right across the street from the mythical Pont Neuf and the Cathédral de Notre-Dame, besides of course the aforementioned direct train that connects the hotel with Charles de Gaulle airport.
 
-<center><iframe class="google-maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10499.552246581232!2d2.3440813000000054!3d48.8603449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1e03670c6fac7876!2sBest+Western+Ducs+de+Bourgogne!5e0!3m2!1ses!2ses!4v1454415100416" width="768" height="500" frameborder="0" style="border:0" allowfullscreen></iframe></center>
-
-<p class="caption">The hotel is located in the 1st arrondissement, just a 5-minute walk away from Musée du Louvre.</p>
+<section class="google-maps">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10499.552246581232!2d2.3440813000000054!3d48.8603449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1e03670c6fac7876!2sBest+Western+Ducs+de+Bourgogne!5e0!3m2!1ses!2ses!4v1454415100416" width="768" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<p class="caption">The hotel is located in the 1st arrondissement, just a 5-minute walk away from Musée du Louvre.</p>
+</section>
 
 Breakfast was also very good, and quite affordable compared to most other hotels in the city, which is always a nice thing. If you’re looking for a moderately priced hotel that doesn’t compromise on the essential, I can’t recommend this one enough.
 
@@ -66,14 +69,14 @@ Then, as midnight drew closer, we were offered another complimentary glass of ch
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:37.09%">
-		<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1482/24654481242_c9fb2c1da3_o.jpg"><img src="https://farm2.staticflickr.com/1482/24654481242_c9fb2c1da3_o.jpg" alt="" /></a>
-		<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1464/24678785261_894521f20d_o.jpg"><img src="https://farm2.staticflickr.com/1464/24678785261_894521f20d_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1464/24678785261_894521f20d_o.jpg"><img src="https://farm2.staticflickr.com/1464/24678785261_894521f20d_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1482/24654481242_c9fb2c1da3_o.jpg"><img src="https://farm2.staticflickr.com/1482/24654481242_c9fb2c1da3_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:41.38%">
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1660/24476757200_c532129b24_o.jpg"><img src="https://farm2.staticflickr.com/1660/24476757200_c532129b24_o.jpg" alt="" /></a>
 			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1612/24790095515_f3d6c05f8a_o.jpg"><img src="https://farm2.staticflickr.com/1612/24790095515_f3d6c05f8a_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1660/24476757200_c532129b24_o.jpg"><img src="https://farm2.staticflickr.com/1660/24476757200_c532129b24_o.jpg" alt="" /></a>
 		</div>
 		<p class="caption-in-set">When you’re drinking whisky like a sir, the moustache is not optional.</p>
 	</figure>
@@ -81,9 +84,9 @@ Then, as midnight drew closer, we were offered another complimentary glass of ch
 		<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1574/24476757320_2fb4fb9b1c_o.jpg"><img src="https://farm2.staticflickr.com/1574/24476757320_2fb4fb9b1c_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
-		<div class="stretchy-wrapper" style="padding-bottom:37.09%">
+		<div class="stretchy-wrapper" style="padding-bottom:34.9%">
 			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1657/24145434533_b501bec9a5_o.jpg"><img src="https://farm2.staticflickr.com/1657/24145434533_b501bec9a5_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1703/24145452693_4cb29a3e9b_o.jpg"><img src="https://farm2.staticflickr.com/1703/24145452693_4cb29a3e9b_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="https://c6.staticflickr.com/8/7746/27710931013_8eba19207f_o.jpg"><img src="https://c6.staticflickr.com/8/7746/27710931013_8eba19207f_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">

@@ -143,7 +143,7 @@ The first option is to have photos embedded within the confines of the main text
 
 <img src="https://farm6.staticflickr.com/5808/21168957681_91936cc164_o.jpg"/>
 
-<p class="photo-credit">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
+<p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 
 Of course, photos can be embedded in portrait orientation, as well:
 
@@ -189,7 +189,7 @@ Videos by default are treated just like photos, and are embedded at the wider si
 
 {% vimeo 149865168 %}
 
-<p class="photo-credit">Videos can have their own captions, too. Since we’re at it, let’s focus for a moment on what happens if we write several lines here. If everything is fine, captions should be sufficiently differentiated from regular body text so as to not confuse readers.</p>
+<p class="caption">Videos can have their own captions, too. Since we’re at it, let’s focus for a moment on what happens if we write several lines here. If everything is fine, captions should be sufficiently differentiated from regular body text so as to not confuse readers.</p>
 
 In Octopress, videos are embedded responsively thanks to the [Octopress Responsive Video Embed](https://github.com/optikfluffel/octopress-responsive-video-embed) plugin by Udo Kramer.
 
@@ -198,19 +198,26 @@ In Octopress, videos are embedded responsively thanks to the [Octopress Responsi
 
 Embedding tweets is a pretty common thing to do these days, and sometimes they even include embedded media of their own. This is how an embedded tweet with media looks:
 
-<center><blockquote class="twitter-tweet" lang="es"><p lang="en" dir="ltr">This is a test tweet, don’t mind me. <a href="https://t.co/S2iJz1O3gk">pic.twitter.com/S2iJz1O3gk</a></p>&mdash; Analog Senses (@analogfeed) <a href="https://twitter.com/analogfeed/status/689864841553678336">enero 20, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<section class="social-embed"><blockquote class="twitter-tweet" lang="es"><p lang="en" dir="ltr">This is a test tweet, don’t mind me. <a href="https://t.co/S2iJz1O3gk">pic.twitter.com/S2iJz1O3gk</a></p>&mdash; Analog Senses (@analogfeed) <a href="https://twitter.com/analogfeed/status/689864841553678336">enero 20, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></section>
 
 That looks nice and clean. Now, just because a tweet has embedded media doesn’t mean we have to display it. It’s entirely possible to embed a tweet without it, just like so:
 
-<center><blockquote class="twitter-tweet" data-cards="hidden" lang="es"><p lang="en" dir="ltr">This is a test tweet, don’t mind me. <a href="https://t.co/S2iJz1O3gk">pic.twitter.com/S2iJz1O3gk</a></p>&mdash; Analog Senses (@analogfeed) <a href="https://twitter.com/analogfeed/status/689864841553678336">enero 20, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<section class="social-embed"><blockquote class="twitter-tweet" data-cards="hidden" lang="es"><p lang="en" dir="ltr">This is a test tweet, don’t mind me. <a href="https://t.co/S2iJz1O3gk">pic.twitter.com/S2iJz1O3gk</a></p>&mdash; Analog Senses (@analogfeed) <a href="https://twitter.com/analogfeed/status/689864841553678336">enero 20, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></section>
 
 As for Instagram posts, those can be embedded, as well. Here’s what that looks like:
 
-<center><blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BApjHXjxawW/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una foto publicada por Álvaro Serrano (@analogsenses)</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-01-17T17:51:57+00:00">17 de Ene de 2016 a la(s) 9:51 PST</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script></center>
+<section class="social-embed"><blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BApjHXjxawW/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una foto publicada por Álvaro Serrano (@analogsenses)</a> el <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-01-17T17:51:57+00:00">17 de Ene de 2016 a la(s) 9:51 PST</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script></section>
 
 As you can see, tweets and Instagram posts become full-width when the display is narrower than the embedded media, and they both shrink seamlessly to accommodate any sized screen. That’s all Twitter’s and Instagram’s doing, by the way. Unfortunately, that also means you lose some control over those elements, so things like spacings and so on become complicated to handle when you’re dealing with these elements.
 
 Most popular media outlets offer an embed feature of some sorts, and the results are all very similar to what you can see above, so there’s really no need to dive further into them.
+
+Finally, we can embed Google Maps, as well:
+
+<section class="google-maps">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10499.552246581232!2d2.3440813000000054!3d48.8603449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1e03670c6fac7876!2sBest+Western+Ducs+de+Bourgogne!5e0!3m2!1ses!2ses!4v1454415100416" width="768" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<p class="caption">This is a caption in an embedded Google Maps map.</p>
+</section>
 
 
 ## Final words

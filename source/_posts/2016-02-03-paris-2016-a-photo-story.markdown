@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Paris 2016: a photo story"
+subtitle: "Paris 2016"
+title-image: https://farm2.staticflickr.com/1488/24475046170_c40288bc10_o.jpg
 date: 2016-02-03 23:16:52 +0100
 comments: false
 sharing: true
@@ -9,9 +11,7 @@ categories:
 - Travel
 start-date: 2015-12-31 15:55:52 +0100
 end-date: 2016-01-03 17:10:52 +0100
-story-title: "Paris 2016"
-coverimg: "https://farm2.staticflickr.com/1596/24123496243_a02c36d595_c.jpg"
-external-url: "/photostories/paris_2016"
+external-url: "/photostories/paris_2016#landing-point"
 description: "We took a short trip to Paris for 2016’s New Year’s Eve. This is a photo story of our trip."
 
 ---

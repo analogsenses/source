@@ -5,6 +5,8 @@ date: 2016-01-03 07:05:05+00:00
 layout: page
 sharing: true
 title: "Paris 2016: Day Four"
+subtitle: "January 3rd, 2016"
+title-image: https://farm2.staticflickr.com/1523/24766455436_0e3a091fa1_o.jpg
 description: "Our last morning in Paris was spent walking around the bohemian neighborhood of Montmartre, including a visit to the Sacré-Coeur."
 ---
 
@@ -12,7 +14,7 @@ Our last day was a short one, because our return flight left at 17:00, meaning w
 
 We entered the Metro in Châtelet and took line 14 until Madeleine station, then switched over to line 12 until Abbesses station, located right in the middle of Montmartre and just a short walk away from the [Basilique du Sacré-Cœur](https://en.wikipedia.org/wiki/Sacré-Cœur,_Paris), our main goal for the day.
 
-<center><iframe class="google-maps" src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d20994.413022989807!2d2.3235466306947155!3d48.87152624566772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x47e66e1f0003ec0d%3A0x43cf1f235a913008!2sCh%C3%A2telet%2C+75001+Paris!3m2!1d48.8586927!2d2.3473009!4m5!1s0x47e66e44fe8e24b7%3A0xee8a3e6a9aa64758!2sAbbesses%2C+Par%C3%ADs%2C+Francia!3m2!1d48.884304!2d2.338559!5e0!3m2!1sen!2ses!4v1454498286080" width="768" height="500" frameborder="0" style="border:0" allowfullscreen></iframe></center>
+<section class="google-maps"><iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d20994.413022989807!2d2.3235466306947155!3d48.87152624566772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x47e66e1f0003ec0d%3A0x43cf1f235a913008!2sCh%C3%A2telet%2C+75001+Paris!3m2!1d48.8586927!2d2.3473009!4m5!1s0x47e66e44fe8e24b7%3A0xee8a3e6a9aa64758!2sAbbesses%2C+Par%C3%ADs%2C+Francia!3m2!1d48.884304!2d2.338559!5e0!3m2!1sen!2ses!4v1454498286080" width="768" height="500" frameborder="0" style="border:0" allowfullscreen></iframe></section>
 
 The Sacré-Cœur is perhaps my favorite spot in all of Paris. There’s just something unique about it that makes it stand out from everything else the city has to offer, and that’s saying something.
 
@@ -26,34 +28,34 @@ All in all, it was the perfect way to cap a fantastic trip.
 
 <section class="photoset">
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1568/24163829324_37183225b8_o.jpg"/>
+		<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1568/24163829324_37183225b8_o.jpg"><img src="https://farm2.staticflickr.com/1568/24163829324_37183225b8_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.25%">
-			<img src="https://farm2.staticflickr.com/1553/24497155970_24171057fc_o.jpg"/>
-			<img src= "https://farm2.staticflickr.com/1447/24699557101_b55aa172e5_o.jpg"/>
+			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1553/24497155970_24171057fc_o.jpg"><img src="https://farm2.staticflickr.com/1553/24497155970_24171057fc_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1447/24699557101_b55aa172e5_o.jpg"><img src="https://farm2.staticflickr.com/1447/24699557101_b55aa172e5_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:35.5%">
-			<img src= "https://farm2.staticflickr.com/1524/24425014809_35ed90cae9_o.jpg"/>
-			<img src="https://farm2.staticflickr.com/1537/24766832026_7d0d2f9afc_o.jpg"/>
+			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1524/24425014809_35ed90cae9_o.jpg"><img src="https://farm2.staticflickr.com/1524/24425014809_35ed90cae9_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1537/24766832026_7d0d2f9afc_o.jpg"><img src="https://farm2.staticflickr.com/1537/24766832026_7d0d2f9afc_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1447/24792682145_2cd379aa25_o.jpg"/>
+		<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1447/24792682145_2cd379aa25_o.jpg"><img src="https://farm2.staticflickr.com/1447/24792682145_2cd379aa25_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:39.59%">
-			<img src="https://farm2.staticflickr.com/1475/24425014749_0d81b2c167_o.jpg"/>
-			<img src= "https://farm2.staticflickr.com/1523/24766455436_0e3a091fa1_o.jpg"/>
+			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1475/24425014749_0d81b2c167_o.jpg"><img src="https://farm2.staticflickr.com/1475/24425014749_0d81b2c167_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1523/24766455436_0e3a091fa1_o.jpg"><img src="https://farm2.staticflickr.com/1523/24766455436_0e3a091fa1_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1560/24674856852_6d44d9af2a_o.jpg"/>
+		<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1560/24674856852_6d44d9af2a_o.jpg"><img src="https://farm2.staticflickr.com/1560/24674856852_6d44d9af2a_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1575/24766455676_0a64ef8149_o.jpg"/>
+		<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1575/24766455676_0a64ef8149_o.jpg"><img src="https://farm2.staticflickr.com/1575/24766455676_0a64ef8149_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
