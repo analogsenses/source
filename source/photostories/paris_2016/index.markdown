@@ -24,7 +24,7 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 <div id="photostories-archive">
 	<article>
 		<div class="story-cover">
-			<a href="/photostories/paris_2016/day_1#landing-point">
+			<a href="/photostories/paris_2016/day_1/#landing-point">
 				<img src="https://c6.staticflickr.com/8/7746/27710931013_8eba19207f_o.jpg"/>
 				<div class="story-header">
 					<h1>Day One</h1>
@@ -38,7 +38,7 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	
 	<article>
 		<div class="story-cover">
-			<a href="/photostories/paris_2016/day_2#landing-point">
+			<a href="/photostories/paris_2016/day_2/#landing-point">
 				<img src="https://farm2.staticflickr.com/1596/24123496243_a02c36d595_c.jpg"/>
 				<div class="story-header">
 					<h1>Day Two</h1>
@@ -52,7 +52,7 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	
 	<article>
 		<div class="story-cover">
-			<a href="/photostories/paris_2016/day_3#landing-point">
+			<a href="/photostories/paris_2016/day_3/#landing-point">
 				<img src="https://farm2.staticflickr.com/1641/24429565809_35c6d33cd0_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Three</h1>
@@ -66,7 +66,7 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	
 	<article>
 		<div class="story-cover">
-			<a href="/photostories/paris_2016/day_4#landing-point">
+			<a href="/photostories/paris_2016/day_4/#landing-point">
 				<img src="https://farm2.staticflickr.com/1523/24766455436_0e3a091fa1_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Four</h1>

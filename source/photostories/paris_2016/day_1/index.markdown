@@ -96,4 +96,4 @@ Then, as midnight drew closer, we were offered another complimentary glass of ch
 
 From then on, it was all laughter until we eventually called it a night and headed back to our hotel to have a good night’s sleep and prepare for an exciting few days ahead in the City of Light. 
 
-Check out [Day Two](/photostories/paris_2016/day_2#landing-point) to see the next part of this photo story.
+Check out [Day Two](/photostories/paris_2016/day_2/#landing-point) to see the next part of this photo story.

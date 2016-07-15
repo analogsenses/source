@@ -11,7 +11,7 @@ categories:
 - Travel
 start-date: 2015-12-31 15:55:52 +0100
 end-date: 2016-01-03 17:10:52 +0100
-external-url: "/photostories/paris_2016#landing-point"
+external-url: "/photostories/paris_2016/#landing-point"
 description: "We took a short trip to Paris for 2016’s New Year’s Eve. This is a photo story of our trip."
 
 ---
