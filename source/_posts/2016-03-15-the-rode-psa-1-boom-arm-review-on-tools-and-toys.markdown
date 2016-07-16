@@ -8,7 +8,7 @@ categories:
 - Podcasting
 - Digital Life
 external-url: http://toolsandtoys.net/reviews/the-rode-psa-1-boom-arm/
-title-image: https://c3.staticflickr.com/9/8894/27733869274_453c4e0356_o.jpg
+title-image: https://c1.staticflickr.com/8/7467/28068820800_912a7f83d2_o.jpg
 ---
 
 My review of the [Rode PSA-1 boom arm](http://www.amazon.com/gp/product/B001D7UYBO/?tag=analogsens-20) was published today on _Tools & Toys_.
