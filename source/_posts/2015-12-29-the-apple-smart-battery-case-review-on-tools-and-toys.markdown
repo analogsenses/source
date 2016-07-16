@@ -8,11 +8,10 @@ categories:
 - Digital Life
 - Apple
 external-url: http://toolsandtoys.net/reviews/the-apple-smart-battery-case-review/
+title-image: https://c2.staticflickr.com/9/8831/27734581873_6c6f98c137_o.jpg
 ---
 
 My review of the Apple Smart Battery Case was published today on _Tools & Toys_. Long story short, I was surprised by how good the case is, despite the unsightly hump.
-
-<p class="full-width"><img src="https://farm2.staticflickr.com/1567/23752105810_7163c4bd68_o.jpg"/></p>
 
 Alas, my brand-new iPhone 6s has more than enough battery life for my current usage, so I won’t be keeping the Smart Battery Case. If I were in the market for a battery case, though, I would probably go with this one.
 

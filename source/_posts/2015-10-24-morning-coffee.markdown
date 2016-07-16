@@ -6,7 +6,8 @@ comments: true
 sharing: true
 categories: 
 - Weekly Linkage
-description: "A weekly roundup of interesting writing." 
+description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 This week marks the 20th issue of Morning Coffee. Over the past few months I’ve tweaked the format a little bit but it’s fair to say that, for the most part, Morning Coffee has remained true to its original formula.

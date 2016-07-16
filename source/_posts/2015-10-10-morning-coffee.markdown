@@ -6,7 +6,8 @@ comments: true
 sharing: true
 categories: 
 - Weekly Linkage
-description: "A weekly roundup of interesting writing." 
+description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 Well, what do you know. It’s been almost a month since iOS 9 arrived — and content blockers with it — and the sky still hasn’t fallen on the heads of all those poor web publishers. Of course, that hasn’t stopped anyone from talking and writing about it _ad infinitum_, and the trend continued this week.

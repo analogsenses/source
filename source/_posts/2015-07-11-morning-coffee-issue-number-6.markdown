@@ -7,7 +7,8 @@ sharing: true
 categories:
 - Digital Life
 - Weekly Linkage
-description: "A weekly roundup of interesting writing." 
+description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 My first week as a 32-year-old has been pretty intense as far as worldwide politics are concerned. The Greek crisis seems to be nearing its end, after an agreement was reached on a Tsipras proposal to the Eurogroup, which was then [passed by the Greek parliament](http://www.politico.eu/article/tsipras-austerity-grexit-greece-reform-bailout-merkel-vote-default-debt/). Whatever happens, Greece’s fate in the Eurozone will be decided in tomorrow’s EU Summit.

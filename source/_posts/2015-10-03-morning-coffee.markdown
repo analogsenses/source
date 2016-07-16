@@ -7,7 +7,8 @@ sharing: true
 categories: 
 - Digital Life
 - Weekly Linkage
-description: "A weekly roundup of interesting writing." 
+description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 It’s already October, I kid you not, and the Internet keeps finding topics worth arguing about. First it was ad blockers, then speculation over whether demand for the new iPhones has been lower this year, despite Apple’s announcement of record sales numbers over the launch weekend. Go figure. 

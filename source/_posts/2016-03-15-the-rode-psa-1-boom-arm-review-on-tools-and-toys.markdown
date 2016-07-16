@@ -8,13 +8,10 @@ categories:
 - Podcasting
 - Digital Life
 external-url: http://toolsandtoys.net/reviews/the-rode-psa-1-boom-arm/
+title-image: https://c3.staticflickr.com/9/8894/27733869274_453c4e0356_o.jpg
 ---
 
 My review of the [Rode PSA-1 boom arm](http://www.amazon.com/gp/product/B001D7UYBO/?tag=analogsens-20) was published today on _Tools & Toys_.
-
-<figure class="full-width">
-<img src="https://farm2.staticflickr.com/1455/25190318313_c6619bc1e2_o.jpg"/>
-</figure>
 
 This was a fun product to review. As some of you may know, I recently launched [a photography podcast](http://www.candid.fm) alongside [Josh Ginter](http://thenewsprint.co) and [Marius Masalar](http://mariusmasalar.me), and choosing the right gear to get started was a crucial part of that process.
 

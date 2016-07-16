@@ -8,6 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing"
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 Another week has come and gone, and things in the tech community seem to have fallen in a typical summer stupor. Not even the release of Windows 10 and the rumors of a likely new Apple TV managed to inspire much debate, at least among the people I follow on Twitter.

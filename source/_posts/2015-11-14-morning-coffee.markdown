@@ -7,7 +7,8 @@ sharing: true
 categories: 
 - Digital Life
 - Weekly Linkage
-description: "A weekly roundup of interesting writing." 
+description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 As you probably already know, a series of terrorist attacks occurred in Paris yesterday. As of this writing, 127 people have been confirmed dead and over 200 wounded, at least 80 of which are in critical condition.

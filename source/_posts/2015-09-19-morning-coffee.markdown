@@ -7,7 +7,8 @@ sharing: true
 categories: 
 - Digital Life
 - Weekly Linkage
-description: "A weekly roundup of interesting writing." 
+description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 Just like some weeks are mostly boring, there are others when catching a break seems all but impossible. This was undoubtedly the latter. Let’s get to it.

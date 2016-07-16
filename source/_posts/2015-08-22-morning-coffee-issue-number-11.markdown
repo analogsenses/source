@@ -7,7 +7,8 @@ sharing: true
 categories: 
 - Digital Life
 - Weekly Linkage
-description: "A weekly roundup of interesting writing." 
+description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 Another week goes by and we’re getting closer to September, when the Internet suddenly comes back to life. And with a rumored Apple event taking place on September 5th, including, presumably, the launch of new iPhones, it sure looks like things are going to be speeding up pretty quickly this time around. 

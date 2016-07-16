@@ -1,8 +1,8 @@
 ---
 author: alvaroserrano
 comments: false
-date: 2015-01-19 23:40:42 +0100
-updated: 2015-11-27 16:00:00 +0100
+date: 2016-01-11 16:00:00 +0100
+updated: 2016-07-16 16:00:00 +0100
 layout: post
 sharing: true
 permalink: /2014/05/21/upgrading-my-early-2008-24-imac-to-an-ssd/
@@ -12,15 +12,19 @@ categories:
 - Apple
 - Guides
 description: "After more than six years as my main computer, I was faced with the need to either replace or upgrade my Early-2008 24-inch iMac. Instead of replacing it, I upgraded the internal hard drive with an SSD, which gave it a new lease of life."
+title-image: https://c8.staticflickr.com/9/8636/28347135135_e079ed9ed0_o.jpg
 ---
 
-_**UPDATE, November 27, 2015:** This article was originally published on May 21, 2014. Since then, it’s consistently been the most popular piece on this site almost every month. The original text is still valid, but SSD recommendations are now outdated._
+_**UPDATE, July 16, 2016:** This article was originally published on May 21, 2014. Since then, it’s consistently been the most popular piece on this site almost every month. The original text is still valid, but SSD recommendations are now outdated._
 
-_As of November 2015, the consumer-grade SSD I recommend is the [Crucial BX100](http://amzn.to/1lNHxpI). If you want something fancier, both the [Samsung 850 Pro](http://amzn.to/1MHRa1W) and the [SanDisk Extreme Pro](http://amzn.to/1MHRoWW) are excellent, as well. That said, keep in mind that in this case the bottleneck will be your iMac’s 3 Gb/s SATA 2 interface, so any of these drives will have nearly identical performance. Prices vary slightly on Amazon but you can’t go wrong with any of these, so my advice would be to get whichever is cheaper at the moment._
+_As of July 2016, the consumer-grade SSD I recommend is the [Samsung 850 EVO](http://amzn.to/2aiLWwq). If you want something fancier, both the [Samsung 850 Pro](http://amzn.to/2aiMx11) and the [SanDisk Extreme Pro](http://amzn.to/29Krgv8) are excellent, as well. That said, keep in mind that in this case the bottleneck will be your iMac’s 3 Gb/s SATA 2 interface, so any of these drives will have nearly identical performance. Prices vary slightly on Amazon but you can’t go wrong with any of these, so my advice would be to get whichever is cheaper at the moment._
 
-_My Early-2008 iMac is still my primary Mac. It’s a terrific machine and I have no plans to replace it anytime soon. The rest of the article has been preserved in its original form for historical accuracy._
+_Even though it will not be supported by the newly-announced macOS Sierra, my Early-2008 iMac is still my primary Mac. It’s a terrific machine and I have no plans to replace it anytime soon. The rest of the article has been preserved in its original form for historical accuracy._
 
-<p class="extra-width"><img src="https://farm3.staticflickr.com/2904/14189051376_3e98590f1a_b.jpg" title="Set everything up on a comfortable environment and get to work!"/></p>
+<figure class="full-width">
+	<img src="https://farm3.staticflickr.com/2904/14189051376_3e98590f1a_b.jpg" title="Set everything up in a comfortable environment and get to work!"/>
+	<p class="caption">Set everything up in a comfortable environment and get to work!</p>
+</figure>
 
 
 ## Introduction
@@ -49,7 +53,10 @@ Fortunately, the general consensus seems to be that right now, the best consumer
 
 I was initially leaning towards [the 500 GB model](http://www.amazon.com/gp/product/B00E3W19MO/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=B00E3W19MO&link_code=as3&tag=analogsens-20&linkId=2X75ROL22WE6DWQK), which retails on Amazon in Spain for 216€ (about $295). It would match my internal drive’s size, so I would not give up any space in the transition, which seemed like the best way to go. However, I never really used all the space in my internal drive. Most of my storage needs are for my media collection (music, TV shows, movies and photos), which I keep on an external drive anyway. I typically only use about 100 GB of internal storage, which include the OS, my applications, documents, my Dropbox folder and little more, so what’s the point of buying a large SSD if I’m not even going to use half of its capacity? For reference, [the 250 GB version](http://www.amazon.com/gp/product/B00E3W1726/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=B00E3W1726&link_code=as3&tag=analogsens-20&linkId=P6V3VKDN3NZO3FO6) retails for 120€ (about $164). After careful consideration, I decided to buy two 250 GB drives instead of the 500 GB, and use the other one to upgrade my 13” Mid-2010 MacBook Pro. That way I could upgrade both Macs for only a little bit more money.
 
-<p class="extra-width"><img src="https://farm3.staticflickr.com/2938/14025500850_824955693e_b.jpg" title="Scary, I know, but it’s easier than it looks"/></p>
+<figure class="full-width">
+	<img src="https://farm3.staticflickr.com/2938/14025500850_824955693e_b.jpg" title="Scary, I know, but it’s easier than it looks."/>
+	<p class="caption">Scary, I know, but it’s easier than it looks.</p>
+</figure>
 
 
 ## Getting my hands dirty
@@ -62,20 +69,23 @@ I have uploaded [an album with some photos to my Flickr account](https://www.fli
 
 I do have a few comments that I thought were not sufficiently clear on the guide, though: 
 
-1) The screws that hold the aluminum bezel in place have different lengths depending on their position. I took some pictures with each screw next to its original hole to help me remember where each one went.
+1. The screws that hold the aluminum bezel in place have different lengths depending on their position. I took some pictures with each screw next to its original hole to help me remember where each one went.
 
-2) When you’re about to remove the LCD panel ([Step 11 on the iFixit guide](http://www.ifixit.com/Guide/iMac+Intel+24-Inch+EMC+2134+and+2211+Hard+Drive+Replacement/8968#s34604)), **do not disconnect the LCD power cable from the power supply**. Seriously. Instead, disconnect it from the other end, where it attaches to the LCD panel itself. It’s extremely difficult to reconnect that cable, since the awkward position underneath the power supply makes it almost impossible to handle. I didn’t connect this cable properly the first time and my iMac’s display would not turn on. After getting through the entire process, I had to disassemble everything again, including four additional screws that hold the power supply in place so that I could tilt it and gain access to the connector. I then realized I had bent one of the connector’s pins, which was causing the problem. It was only thanks to the comments section of the iFixit guide that I found out about this. They really should change the guide to state this more prominently, since it is a potentially dangerous situation: had the pin broken, I probably would’ve had to replace the entire power supply, with the added cost and difficulty that would have meant. This is the only complaint I have on what’s otherwise an excellent guide, but it’s kind of an important one.
+2. When you’re about to remove the LCD panel ([Step 11 on the iFixit guide](http://www.ifixit.com/Guide/iMac+Intel+24-Inch+EMC+2134+and+2211+Hard+Drive+Replacement/8968#s34604)), **DO NOT DISCONNECT THE LCD POWER CABLE FROM THE POWER SUPPLY END.** Seriously. Instead, disconnect it from the other end, where it attaches to the LCD panel itself. It’s extremely difficult to reconnect that cable, since the awkward position underneath the power supply makes it almost impossible to handle. I didn’t connect this cable properly the first time and my iMac’s display would not turn on. After getting through the entire process, I had to disassemble everything again, including four additional screws that hold the power supply in place so that I could tilt it and gain access to the connector. I then realized I had bent one of the connector’s pins, which was causing the problem. It was only thanks to the comments section of the iFixit guide that I found out about this. They really should change the guide to state this more prominently, since it is a potentially dangerous situation: had the pin broken, I probably would’ve had to replace the entire power supply, with the added cost and difficulty that would have meant. This is the only complaint I have on what’s otherwise an excellent guide, but it’s kind of an important one.
 
-3) When you’re mounting the SSD inside the adapter, thread the thermal sensor cable through one of the ventilation openings and attach the sensor to the SSD using duct tape. I found this to be easy with the Icy Dock adapter, which is one of the reasons I recommend using that one. A wrongly-attached thermal sensor may cause your iMac’s fans to work at full-speed all the time, thus killing one of the greatest features of the iMac: its near-silent operation.
+3. When you’re mounting the SSD inside the adapter, thread the thermal sensor cable through one of the ventilation openings and attach the sensor to the SSD using duct tape. I found this to be easy with the Icy Dock adapter, which is one of the reasons I recommend using that one. A wrongly-attached thermal sensor may cause your iMac’s fans to work at full-speed all the time, thus killing one of the greatest features of the iMac: its near-silent operation.
 
-4) This is probably an obvious thing, but I’ll say it anyway: this is a great opportunity to thoroughly clean up your iMac’s interior. I assure you, the amount of dust you’ll discover inside will surprise you. Make sure you clean everything before reassembling your iMac. I used a compressed-air spray to remove dust from the trickier components: fans, motherboard, speakers, etc. Put special care into making sure there are no dust particles caught between the LCD and the glass panel. Remember, a clean Mac is a happy Mac.
+4. This is probably an obvious thing, but I’ll say it anyway: this is a great opportunity to thoroughly clean up your iMac’s interior. I assure you, the amount of dust you’ll discover inside will surprise you. Make sure you clean everything before reassembling your iMac. I used a compressed-air spray to remove dust from the trickier components: fans, motherboard, speakers, etc. Put special care into making sure there are no dust particles caught between the LCD and the glass panel. Remember, a clean Mac is a happy Mac.
 
 
 ## Restoring the System
 
 The last part of the process is, of course, getting your new SSD up and running. Here you have basically two options: you can restore from a previous Time Machine or [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/superduperdescription.html) backup, or you can start fresh by installing OS X from scratch. For the iMac, I decided to restore from a backup, since I’d made a clean install not too long ago. For the MacBook Pro, however, I chose to do a clean install instead. I booted the newly-assembled iMac from a SuperDuper! backup I had on an external drive and used SuperDuper! to restore the backup to the SSD. The restoring process took about 90 minutes and it was absolutely flawless. When it was done, I was up and running again without any issues whatsoever. I really cannot recommend SuperDuper! enough. If you own a Mac, you should definitely be using it.
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5532/14211973414_fc9ab7e6b1_b.jpg" title="It’s Alive!"/></p>
+<figure class="full-width">
+	<img src="https://farm6.staticflickr.com/5532/14211973414_fc9ab7e6b1_b.jpg" title="It’s Alive!"/>
+	<p class="caption">It’s Alive!</p>
+</figure>
 
 
 ## The Verdict

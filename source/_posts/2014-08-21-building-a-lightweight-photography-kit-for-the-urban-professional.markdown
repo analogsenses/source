@@ -12,15 +12,16 @@ categories:
 - Guides
 - Photography
 description: "Always having your camera kit with you can make a huge difference. Here’s how you can build a versatile kit that's still small and light enough to carry anywhere."
+title-image: https://c4.staticflickr.com/9/8634/28349876195_415643889e_o.jpg
 ---
-
-<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3926/14793131809_a336b97fbc_h.jpg"/></p>
 
 Every day, thousands of people in cities all over the world take pictures as part of their job. You may not have noticed them, but they’re out there: reporters, journalists, writers for online publications and of course, professional photographers. For these people, taking a picture is often only the beginning, as some critical post-processing work needs to be done before the images are ready for publication. And then there’s the publication itself, which may include several more steps. Sometimes there’s not enough time to go back to the studio and everything needs to be done quickly in a mobile environment. This is why so many graphic professionals are used to carrying everything they need with them.
 
-When you look at the whole process, the amount of tools and gear that are needed may seem daunting. And yet, it is entirely possible to build a lightweight, versatile photographic kit for the urban professional. In this article, I’d like to tell you how I built mine, and offer some tips so that your can easily build yours, too.[^1] 
+When you look at the whole process, the amount of tools and gear that are needed may seem daunting. And yet, it is entirely possible to build a lightweight, versatile photographic kit for the urban professional. In this article, I’d like to tell you how I built mine, and offer some tips so that your can easily build yours, too.[^1]
 
 [^1]: Throughout this article I will assume that you’re shooting with a mirrorless camera. If you’re concerned with keeping things light, chances are that’s probably what you’re using. These days mirrorless cameras are great, and provide more than enough quality for practically any type of photographic work. Of course, there are several areas such as high-ISO performance and shallow depth of field effects where full-frame DSLRs will always be better. For the purposes of this article, however, achieving a great balance between quality and portability is more important.
+
+<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3926/14793131809_a336b97fbc_h.jpg"/></p>
 
 
 ## The bag

@@ -7,7 +7,8 @@ sharing: true
 categories: 
 - Digital Life
 - Weekly Linkage
-description: "A weekly roundup of interesting writing." 
+description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 What a crazy week. As if an Apple keynote wasn’t enough of a post-vacation jolt, we also got other announcements in the photographic department, as well as plenty of interesting news for those not so tech-inclined.

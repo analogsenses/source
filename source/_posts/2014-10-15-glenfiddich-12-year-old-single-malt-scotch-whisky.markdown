@@ -8,6 +8,7 @@ categories:
 - Digital Life
 - Whisky
 description: "The next part of my introduction to single malt whisky, Glenfiddich 12 Years Old."
+title-image: https://c6.staticflickr.com/9/8648/27733340013_a06263cbb6_o.jpg
 ---
 
 After a [brief introduction to single malt Scotch whisky](/2014/10/09/the-finer-things-in-life-a-geeks-introduction-to-scotch), this is where the fun begins. For my first ever single malt tasting, I have selected none other than the best-selling single malt in the world: [Glenfiddich 12 Year Old](http://www.glenfiddich.com/us/collection/product-collection/core-range/12-year-old/).

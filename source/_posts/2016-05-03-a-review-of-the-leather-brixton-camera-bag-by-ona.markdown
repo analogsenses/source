@@ -7,13 +7,10 @@ sharing: true
 categories: 
 - Photography
 external-url: http://toolsandtoys.net/reviews/a-review-of-the-leather-brixton-by-ona/
+title-image: https://c8.staticflickr.com/9/8688/27730284503_da9f168b60_o.jpg
 ---
 
 My review of the [leather Brixton](http://amzn.to/24mYgEK) camera bag by ONA was published today on _Tools & Toys_. It’s been a while since my last review, and it’s nice to be back.
-
-<figure class="full-width">
-<img src="https://farm8.staticflickr.com/7642/26522342000_8646aefcc5_o.jpg"/>
-</figure>
 
 If you listen to [Candid](http://www.candid.fm/4), you may know I’ve had a love-hate-love relationship with this bag. On one hand, it’s clearly the best-looking and best-made bag I’ve ever seen or owned. On the other hand, though, it’s too heavy to be used comfortably as a walkaround bag, which was one of the primary uses I had in mind for it when I bought it.
 

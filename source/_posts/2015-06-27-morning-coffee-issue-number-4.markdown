@@ -8,6 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 Another week went by, and it was a big one. Millions of people all over the US are celebrating not one, but two major rulings by the Supreme Court, which upheld the rights to [affordable healthcare](http://www.nytimes.com/2015/06/26/us/obamacare-supreme-court.html) and [equality in marriage](http://www.nytimes.com/2015/06/27/us/supreme-court-same-sex-marriage.html) for everyone. These were two historic events with the potential to transform the entire nation, and the fact that they both occurred within mere days of each other is remarkable. Just after being hit by tragedy, the American people once again have reasons to dream of a better future.

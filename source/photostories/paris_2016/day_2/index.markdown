@@ -6,9 +6,8 @@ layout: page
 sharing: true
 title: "Paris 2016: Day Two"
 subtitle: "January 1st, 2016"
-title-image: https://farm2.staticflickr.com/1488/24475046170_c40288bc10_o.jpg
+title-image: https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg
 description: "Day two started with a walk across Pont Neuf and up to Notre Dame, followed by a brief stop for lunch in the Latin Quartier, and then a stroll around Musée du Louvre, Jardin des Tuileries, Place de la Concorde and finally, L’église de la Madeleine."
-
 ---
 
 Day two started with an early morning breakfast in our hotel, after which I took a few minutes to put together my bag with all my camera gear. For this trip I brought the [Sony α7 II](http://www.amazon.com/dp/B00PX8CHO6/?tag=analogsens-20) with my three lenses — the [55 f/1.8](http://www.amazon.com/dp/B00FSB799Q/?tag=analogsens-20), the [24-70mm f/4](http://www.amazon.com/dp/B00FSB79FU/?tag=analogsens-20) and the [70-200mm f/4](http://www.amazon.com/dp/B00I8BICEO/?tag=analogsens-20) — plus my trusty [Olympus OM-D E-M10](http://www.amazon.com/dp/B00HPQ09H6/?tag=analogsens-20) with the [Olympus 17mm f/1.8](http://www.amazon.com/dp/B00CI3R4VU/?tag=analogsens-20) lens as a backup body and as my dedicated night-time shooter.

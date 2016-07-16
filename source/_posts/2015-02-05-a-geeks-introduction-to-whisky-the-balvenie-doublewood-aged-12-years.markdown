@@ -7,6 +7,7 @@ sharing: true
 categories: 
 - Whisky
 description: "After spending some quality time with The Balvenie DoubleWood Aged 12 Years, I have found my new social drink of choice."
+title-image: https://c1.staticflickr.com/9/8610/28067533760_46b6a894fd_o.jpg
 ---
 
 It’s funny how some of the best things in life happen entirely by chance. 

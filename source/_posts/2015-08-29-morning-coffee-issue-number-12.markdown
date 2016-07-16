@@ -7,7 +7,8 @@ sharing: true
 categories: 
 - Digital Life
 - Weekly Linkage
-description: "A weekly roundup of interesting writing." 
+description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 This week was over in the blink of an eye. For some reason, it almost feels like autumn is already knocking on the door. Furthermore, the Apple event is now [officially in sight](http://www.loopinsight.com/2015/08/27/apple-sends-out-invite-for-sept-9-special-event/), which means the next few weeks are bound to go by even faster.

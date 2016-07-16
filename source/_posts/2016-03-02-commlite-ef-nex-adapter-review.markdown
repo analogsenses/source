@@ -7,6 +7,7 @@ sharing: true
 categories: 
 - Photography
 description: "This adapter enables Sony users to shoot with Canon EF glass while retaining AF and image stabilization on those lenses that support it. Unfortunately, performance is spotty at best."
+title-image: https://c1.staticflickr.com/9/8782/28068502680_2ace0e5507_o.jpg
 ---
 
 Ah, the wonderful world of adapted lenses. If you’re a Sony E-mount shooter, you’ve probably been down this road at some point, or are considering it now. The E-mount system is still relatively young, and there are a few gaps in the focal range for which no native lens exists yet. Trying to find a DSLR lens you can adapt seems like a great solution, at least on paper.

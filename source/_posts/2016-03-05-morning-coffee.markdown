@@ -7,7 +7,8 @@ sharing: true
 categories: 
 - Digital Life
 - Weekly Linkage
-description: "A look at one of my favorite fictional characters, followed by a roundup of some of the week’s most interesting pieces of writing." 
+description: "A look at one of my favorite fictional characters, followed by a roundup of some of the week’s most interesting pieces of writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 Hello there, welcome to another issue of _Morning Coffee_.

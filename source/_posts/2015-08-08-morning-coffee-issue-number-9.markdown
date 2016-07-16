@@ -8,6 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing"
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 August keeps rolling by, and things continue to be mostly calm on the Internet. It must be the heat.

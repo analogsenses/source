@@ -8,6 +8,7 @@ categories:
 - Photography
 - Guides
 description: "Camera bodies come and go, but lenses are long-term investments. Choose wisely."
+title-image: https://c3.staticflickr.com/9/8758/28313987266_ba74305ee9_o.jpg
 ---
 
 Back in late 2013, Sony surprised the photography world with the release of the Sony Alpha α7, a remarkable mirrorless camera with interchangeable lenses and a top-of-the-line, 24-MP Full Frame sensor.

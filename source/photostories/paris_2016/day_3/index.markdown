@@ -6,9 +6,8 @@ layout: page
 sharing: true
 title: "Paris 2016: Day Three"
 subtitle: "January 2nd, 2016"
-title-image: https://farm2.staticflickr.com/1641/24429565809_35c6d33cd0_o.jpg
+title-image: https://c3.staticflickr.com/9/8893/28068244410_8d7a18f808_o.jpg
 description: "On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre."
-
 ---
 
 Much like we did on [Day Two](/photostories/paris_2016/day_2), we kickstarted day three with a substantial breakfast at our hotel. I really love having breakfast when I’m on vacation, and I always try to taste as many different things as I can from the buffet. I particularly enjoyed the scrambled eggs here, which were served straight out of the pan and were absolutely delicious.

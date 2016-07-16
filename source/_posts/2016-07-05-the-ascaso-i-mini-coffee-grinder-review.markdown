@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A review of the Ascaso i-Mini coffee grinder"
+title-image: https://c7.staticflickr.com/8/7124/28005597582_44c8300f3b_o.jpg
 date: 2016-07-05 18:45:39 +0200
 comments: false
 sharing: true
@@ -10,10 +11,6 @@ external-url: http://toolsandtoys.net/reviews/the-ascaso-i-mini-coffee-grinder-r
 ---
 
 My review of the [Ascaso i-Mini](http://amzn.to/29kjlYz) coffee grinder was published today on _Tools & Toys_. I’ve owned the i-Mini for over three years now, and it’s one impressive little device.
-
-<figure class="full-width">
-<a class="fancybox" rel="galleryAscaso" href="https://c7.staticflickr.com/8/7124/28005597582_44c8300f3b_o.jpg"><img src="https://c7.staticflickr.com/8/7124/28005597582_44c8300f3b_o.jpg" alt="" /></a>
-</figure>
 
 If you’re at all interested in coffee, you probably know that good, high-end burr grinders are expensive, with the three or four most popular models costing between $350-$1,000. Unless you’re an enthusiast, that’s a lot of money to drop on a grinder.
 

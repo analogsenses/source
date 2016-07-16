@@ -7,6 +7,7 @@ sharing: true
 categories: 
 - Whisky
 description: "The first truly enjoyable single malt that I've tried. Soft, sweet and mellow, it practically drinks itself."
+title-image: https://c8.staticflickr.com/9/8644/28271398071_e810db523d_o.jpg
 ---
 
 Aah, Glenmorangie. I'd been warned by those in the know that this would be a highlight of [my journey](/2014/10/09/the-finer-things-in-life-a-geeks-introduction-to-scotch/); the first one I was likely to _really_ enjoy. Boy, were they right. This is the first time I've caught myself refilling the glass with anticipation, and letting my mind wander off to some ridiculously enthralling fantasies as I drank. A very interesting single malt indeed, but let's start at the beginning, shall we?

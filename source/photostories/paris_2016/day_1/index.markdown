@@ -6,7 +6,7 @@ layout: page
 sharing: true
 title: "Paris 2016: Day One"
 subtitle: "December 31st, 2015"
-title-image: https://c6.staticflickr.com/8/7746/27710931013_8eba19207f_o.jpg
+title-image: https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg
 description: "The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well."
 ---
 

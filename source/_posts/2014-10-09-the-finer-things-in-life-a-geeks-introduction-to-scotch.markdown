@@ -8,6 +8,7 @@ categories:
 - Whisky
 - Guides
 description: "I've always wanted to venture into the world of single malt Scotch whisky. Here's how I plan to do it."
+title-image: https://c6.staticflickr.com/9/8648/27733340013_a06263cbb6_o.jpg
 ---
 
 It is a fact of life that over the years, as we mature and soak in more of the world, our tastes and preferences evolve with us. It is also a fact that certain things require some preparation before they can be enjoyed. You can't just jump ahead and try them; you must be patient and trust that one day, when you're ready, they will find you. Alcohol is one such thing, and it's a journey that lasts a lifetime.

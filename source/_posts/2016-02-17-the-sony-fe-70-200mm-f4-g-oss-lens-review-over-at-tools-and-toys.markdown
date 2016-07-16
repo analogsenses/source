@@ -7,13 +7,10 @@ sharing: true
 categories: 
 - Photography
 external-url: "http://toolsandtoys.net/reviews/the-sony-fe-70-200mm-f4-g-oss-lens-review/"
+title-image: https://c1.staticflickr.com/9/8618/28316864776_15dd41861d_o.jpg
 ---
 
 My review of the [Sony FE 70-200mm F4 G OSS](http://www.amazon.com/gp/product/B00I8BICEO/?tag=analogsens-20) lens was published yesterday on _Tools & Toys_.
-
-<figure class="full-width">
-<img src="https://farm2.staticflickr.com/1699/25086182015_03ac0cdc04_o.jpg"/>
-</figure>
 
 This lens is a bit of an odd creature. On paper, being an f/4 lens, one would expect it to be a great-but-not-quite-outstanding optical instrument. After all, the standard in the industry for professional-grade zooms is f/2.8, so that would position this lens more towards the enthusiast and amateur segments of the market.
 

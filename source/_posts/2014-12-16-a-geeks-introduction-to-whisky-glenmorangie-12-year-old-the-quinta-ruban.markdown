@@ -7,6 +7,7 @@ sharing: true
 categories: 
 - Whisky
 description: "More aromatic, stronger in flavor and bolder in character than The Original, The Quinta Ruban somehow falls short of the overall charm of its younger sibling."
+title-image: https://c7.staticflickr.com/9/8666/28067549470_443780f45a_o.jpg
 ---
 
 _**NOTE:** This is the fourth article in my Introduction to Whisky series. You can read the past articles in the series [here](http://www.analogsenses.com/categories/whisky/)._

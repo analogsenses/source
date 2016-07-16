@@ -7,7 +7,8 @@ sharing: true
 categories: 
 - Digital Life
 - Weekly Linkage
-description: "A weekly roundup of interesting writing." 
+description: "A weekly roundup of interesting writing."
+title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
 ---
 
 I keep experimenting with the format of these Morning Coffee pieces in an attempt to make them more interesting and easier to read, and also more manageable for me to produce. In the past I’ve usually started them off with a bird’s eye view of some of the most newsworthy items of the week, followed by the linked pieces and a more personal afterword. 
