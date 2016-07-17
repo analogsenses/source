@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A review of the Ascaso i-Mini coffee grinder"
-title-image: https://c7.staticflickr.com/8/7124/28005597582_44c8300f3b_o.jpg
+title-image: https://c1.staticflickr.com/8/7681/27735971824_93e1ca6562_o.jpg
 date: 2016-07-05 18:45:39 +0200
 comments: false
 sharing: true
@@ -15,7 +15,7 @@ My review of the [Ascaso i-Mini](http://amzn.to/29kjlYz) coffee grinder was publ
 If you’re at all interested in coffee, you probably know that good, high-end burr grinders are expensive, with the three or four most popular models costing between $350-$1,000. Unless you’re an enthusiast, that’s a lot of money to drop on a grinder.
 
 <figure class="full-width">
-<a class="fancybox" rel="galleryAscaso" href="https://c1.staticflickr.com/8/7303/27828053560_093f4008d2_o.jpg"><img src="https://c1.staticflickr.com/8/7303/27828053560_093f4008d2_o.jpg" alt="" /></a>
+<a class="fancybox" rel="galleryAscaso" href="https://c7.staticflickr.com/8/7124/28005597582_44c8300f3b_o.jpg"><img src="https://c7.staticflickr.com/8/7124/28005597582_44c8300f3b_o.jpg" alt="" /></a>
 
 <a class="fancybox" rel="galleryAscaso" href="https://c4.staticflickr.com/8/7315/28030744171_9d02cfa185_o.jpg"><img src="https://c4.staticflickr.com/8/7315/28030744171_9d02cfa185_o.jpg" alt="" /></a>
 </figure>

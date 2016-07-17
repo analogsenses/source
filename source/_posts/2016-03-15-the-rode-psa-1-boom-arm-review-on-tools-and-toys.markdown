@@ -40,7 +40,3 @@ As a side bonus, I recorded [a short video](https://www.youtube.com/watch?v=8OvL
 It’s not _that_ bad, is it? Especially considering this was my first time ever working with Adobe Premiere Pro and I only had a couple hours to assemble the final cut before submitting the review to the editor. I cringe here and there every time I watch it, and there’s definitely a couple things I would have done differently had I had more time to work on the edit, but I think for a first attempt it’s pretty respectable.
 
 If you want to read more about the Rode PSA-1 boom arm, head on over to _Tools & Toys_ for [the full review](http://toolsandtoys.net/reviews/the-rode-psa-1-boom-arm/).
-
-<figure class="full-width">
-<img src="https://farm2.staticflickr.com/1496/25721818161_1601425bf5_o.jpg"/>
-</figure>
