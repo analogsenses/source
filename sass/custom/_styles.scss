@@ -2553,7 +2553,7 @@ article {
 
 // ------------------------------
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 639px) {
 
 	article {
 		header{
@@ -2687,7 +2687,7 @@ article {
 // ------------------------------
 // This comfortably catches all iPhone models in portrait orientation (320, 375 and 414)
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 479px) {
 	
 	#main {
   		clear: both;
@@ -3117,9 +3117,9 @@ article {
   }
 }
 
-// This catches from the iPhone 6s (375px wide) to the 6s Plus (414px wide)
+// This catches the iPhone 6s
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 413px) {
 	article {
 		header{
 			div.title-with-image{
@@ -3130,9 +3130,9 @@ article {
 	}	
 }
 
-// This catches from the iPhone 5s (320px wide) to the 6s (375px wide)
+// This catches the iPhone 5s (320px wide)
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 374px) {
 	
 	article {
 		header{
