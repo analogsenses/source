@@ -312,6 +312,102 @@ img#portrait {
   width: 240px;
 }
 
+//---------------------------------
+// CSS3 Image Transitions (Photostories)
+//---------------------------------
+
+
+#cross-fade > img { 
+    color: transparent;
+    opacity: 0;
+    z-index: 0;
+    -webkit-backface-visibility: hidden;
+    -webkit-animation: imageAnimation 30s linear infinite 0s;
+    -moz-animation: imageAnimation 30s linear infinite 0s;
+    -o-animation: imageAnimation 30s linear infinite 0s;
+    -ms-animation: imageAnimation 30s linear infinite 0s;
+    animation: imageAnimation 30s linear infinite 0s; 
+}
+
+#cross-fade > img:nth-child(2)  { 
+    -webkit-animation-delay: 6s;
+    -moz-animation-delay: 6s;
+    -o-animation-delay: 6s;
+    -ms-animation-delay: 6s;
+    animation-delay: 6s; 
+}
+#cross-fade > img:nth-child(3) { 
+    -webkit-animation-delay: 12s;
+    -moz-animation-delay: 12s;
+    -o-animation-delay: 12s;
+    -ms-animation-delay: 12s;
+    animation-delay: 12s; 
+}
+#cross-fade > img:nth-child(4) { 
+    -webkit-animation-delay: 18s;
+    -moz-animation-delay: 18s;
+    -o-animation-delay: 18s;
+    -ms-animation-delay: 18s;
+    animation-delay: 18s; 
+}
+#cross-fade > img:nth-child(5) { 
+    -webkit-animation-delay: 24s;
+    -moz-animation-delay: 24s;
+    -o-animation-delay: 24s;
+    -ms-animation-delay: 24s;
+    animation-delay: 24s; 
+}
+
+@-webkit-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -webkit-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -webkit-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-moz-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -moz-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -moz-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-o-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -o-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -o-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@-ms-keyframes imageAnimation { 
+    0% { opacity: 0;
+    -ms-animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         -ms-animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
+@keyframes imageAnimation { 
+    0% { opacity: 0;
+    animation-timing-function: ease-in; }
+    8% { opacity: 1;
+         animation-timing-function: ease-out; }
+    17% { opacity: 1 }
+    25% { opacity: 0 }
+    100% { opacity: 0 }
+}
+
 
 // ------------------------------
 // code
@@ -419,18 +515,6 @@ nav {
     }
   }
 }
-
-/*
-nav a, .meta a, h1 a, .copyright a, nav a:visited, .meta a:visited, h1 a:visited, .copyright a:visited {
-  	color:$text-color;
-}
-
-nav a:hover, .meta a:hover, h1 a:hover {
-  color: $accent-hover-color; }
-
-nav a:visited:hover, .meta a:visited:hover, h1 a:visited:hover {
-  color: #663366; }
-*/
 
 
 // ------------------------------
@@ -762,6 +846,10 @@ body {
 			bottom: 0px;
 			width: 100%;
 			height: 100%;
+			background-image: linear-gradient(transparent 50%, rgba(0, 0, 0, 0.5) 100%);
+			transition: opacity .25s ease-in-out;
+   			-moz-transition: opacity .25s ease-in-out;
+   			-webkit-transition: opacity .25s ease-in-out;
 	    
 		    h1 {
 		    	position: absolute;
@@ -778,19 +866,13 @@ body {
 			    text-align: center;
 			    vertical-align: bottom;
 
-				background-image: linear-gradient(transparent 40%, rgba(0, 0, 0, 0.5) 100%);
 				color: white;
-				
-				transition: opacity .25s ease-in-out;
-   				-moz-transition: opacity .25s ease-in-out;
-   				-webkit-transition: opacity .25s ease-in-out;
+				text-shadow: 0px 0px 7px rgba(0, 0, 0, 1.0);
 		    }
 	    }
 	    
 	    div.story-header:hover {
-	    	h1 {
-	    		opacity: 0;
-	    	}
+	    	opacity: 0;
 	    }
 	}
 
@@ -927,7 +1009,8 @@ article {
   
   div.title-with-image{
 		
-		height: auto;
+		//height: auto;
+		height: 600px;
 		max-height: 600px;
 		overflow: hidden;
 		position: relative;
@@ -935,20 +1018,24 @@ article {
 		margin-bottom: 40px;
 		
 		img {
-			position: relative;
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;	
 	    	border: none;
 	    	width: auto;
+	    	height: auto;
 	    	margin-top: 0px;
 	    	margin-bottom: 0px;
 	    }
-	    
+		
 	    div.title-with-image-header {
 			position: absolute;
 			bottom: 0px;
 			width: 100%;
 			height: 100%;
-			background-image: linear-gradient(transparent 40%, rgba(0, 0, 0, 0.5) 100%);
-	    
+			background-image: linear-gradient(transparent 50%, rgba(0, 0, 0, 0.5) 100%);	    
+		    
 		    h1 {
 		    	position: absolute;
 		    	bottom: 80px;
@@ -1030,7 +1117,7 @@ article {
 			bottom: 0px;
 			width: 100%;
 			height: 100%;
-			background-image: linear-gradient(transparent 40%, rgba(0, 0, 0, 0.5) 100%);		
+			background-image: linear-gradient(transparent 50%, rgba(0, 0, 0, 0.5) 100%);		
 	    
 		    h1 {
 				position: absolute;
@@ -1709,7 +1796,16 @@ figure.panorama {
 	// Archives and Guides Archive pages only 
  article p {
  		margin-bottom: 20px;
- 	}  
+ 	} 
+ 	
+ article header {
+ 	
+ 	div.title-with-image{
+ 		height: 512px;
+		max-height: 512px;
+ 		}
+ 	
+ 	}
    
  article .entry-content {
 	  
@@ -2043,6 +2139,8 @@ article {
 
 		
 		div.title-with-image{
+			height: 426px;
+			max-height: 426px;
 			div.title-with-image-header{
 				
 				h1{
@@ -2505,6 +2603,9 @@ article {
 		 	}
 		 	
 		 	div.title-with-image{
+		 		height: 320px;
+				max-height: 320px;
+		
 				div.title-with-image-header{
 					
 					h1{
@@ -2706,10 +2807,13 @@ article {
 	       	}
 	       	
 	       	div.title-with-image{
+	       		height: 213px;
+				max-height: 213px;
+				
 				div.title-with-image-header{
 					
 					h1{
-						bottom: 60px;
+						bottom: 50px;
 						font-size: 34px;
 						a {
 							font-size: 34px;
@@ -2717,10 +2821,10 @@ article {
 					}
 					
 					p.meta{
-						font-size: 18px;
+						font-size: 14px;
 						bottom: 25px;
 						a {
-							font-size: 22px;
+							font-size: 18px;
 						}
 					}
 				
@@ -2738,11 +2842,11 @@ article {
 						}
 					}
 					p.meta{
-						font-size: 18px;
+						font-size: 14px;
 						bottom: 25px;
 						
 						a {
-							font-size: 22px;
+							font-size: 18px;
 						}
 					}
 								

@@ -12,7 +12,7 @@ categories:
 - Apple
 - Guides
 description: "After more than six years as my main computer, I was faced with the need to either replace or upgrade my Early-2008 24-inch iMac. Instead of replacing it, I upgraded the internal hard drive with an SSD, which gave it a new lease of life."
-title-image: https://c8.staticflickr.com/9/8636/28347135135_e079ed9ed0_o.jpg
+title-image: https://c8.staticflickr.com/9/8636/28347135135_595aa1a6ff_o.jpg
 ---
 
 _**UPDATE, July 16, 2016:** This article was originally published on May 21, 2014. Since then, it’s consistently been the most popular piece on this site almost every month. The original text is still valid, but SSD recommendations are now outdated._

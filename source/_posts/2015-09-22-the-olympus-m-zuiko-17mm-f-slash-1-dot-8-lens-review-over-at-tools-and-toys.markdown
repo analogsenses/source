@@ -4,8 +4,11 @@ title: "The Olympus M. Zuiko 17mm f/1.8 lens review over at Tools &amp; Toys"
 date: 2015-09-22 17:13:01 +0200
 comments: true
 categories: 
+- Reviews
+- Tools & Toys
 - Photography
 external-url: http://toolsandtoys.net/reviews/the-olympus-m-zuiko-17mm-f1-8-micro-four-thirds-lens-review/
+title-image: https://c7.staticflickr.com/9/8696/28268343302_98cf243ab4_o.jpg
 ---
 
 In case you haven’t noticed, it’s iPhone 6S Review Day. Apple lifted the embargo earlier today and since then, the [first](http://www.loopinsight.com/2015/09/22/review-iphone-6s-and-iphone-6s-plus/) [reviews](http://www.theverge.com/2015/9/22/9367511/walt-mossberg-reviews-iphone-6s) of the latest [iPhones](http://www.theverge.com/2015/9/22/9368415/apple-iphone-6s-iphone-6s-plus-review) have been [popping up](http://www.buzzfeed.com/johnpaczkowski/the-iphone-6s-unreview) around the Web like [crazy](http://mashable.com/2015/09/22/iphone-6s-review-apple/).

@@ -7,7 +7,7 @@ sharing: true
 categories: 
 - Whisky
 description: "Jam-packed with the salty scent of the Islay coast, this wonderful single malt will no doubt send you on an unforgettable trip down memory lane."
-title-image: https://c7.staticflickr.com/9/8782/27733646534_d5076ab506_o.jpg
+title-image: https://c7.staticflickr.com/9/8782/27733646534_a0033622a0_o.jpg
 ---
 
 The Classic Laddie is described by its maker as “the definitive Bruichladdich”. 

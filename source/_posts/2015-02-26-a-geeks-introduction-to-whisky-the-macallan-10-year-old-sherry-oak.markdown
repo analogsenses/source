@@ -7,7 +7,7 @@ sharing: true
 categories: 
 - Whisky
 description: "The youngest denomination from the mythical Macallan distillery lives up to its ambitious name and provides plenty of enjoyment — if you can still find it."
-title-image: https://c6.staticflickr.com/9/8583/27734089893_0075ea1b68_o.jpg
+title-image: https://c6.staticflickr.com/9/8583/27734089893_fdaee0d15a_o.jpg
 ---
 
 After enjoying quite a few delicious drams of [The Balvenie DoubleWood Aged 12 Years](http://www.analogsenses.com/2015/02/05/a-geeks-introduction-to-whisky-the-balvenie-doublewood-aged-12-years/), I’m starting to realize I’m a big fan of sherry-finished whiskies. The extra couple years of maturation in sherry oak casks give them a nice mellow finish that is really interesting, and I find I much prefer them to rougher single malts such as [Glenfiddich 12](http://www.analogsenses.com/2014/10/15/glenfiddich-12-year-old-single-malt-scotch-whisky/).

@@ -5,8 +5,8 @@ date: 2016-03-11 13:18:32 +0100
 comments: false
 sharing: true
 categories: 
-- Photography
-- Digital Life
+- Photo Essays
+- Tools & Toys
 external-url: http://toolsandtoys.net/photo-essays/winter-hiking-in-navacerrada/
 title-image: https://c7.staticflickr.com/9/8631/28068462110_671059d4de_o.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Paris 2016: a photo story"
 subtitle: "Paris 2016"
-title-image: https://c7.staticflickr.com/9/8696/28247113022_0624de182c_o.jpg
+title-image: https://c7.staticflickr.com/9/8696/28247113022_aae47a03b7_o.jpg
 date: 2016-02-03 23:16:52 +0100
 comments: false
 sharing: true

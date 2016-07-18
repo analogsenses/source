@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS and color management: why your pictures sometimes look weird on mobile devices (and how to fix them)"
+title: "Why your pictures can look weird on mobile devices (and how to fix them)"
 date: 2015-08-12 19:20:50 +0200
 comments: true
 sharing: true
@@ -8,7 +8,7 @@ categories:
 - Photography
 - Guides
 description: "iOS is very particular when it comes to color management, which is why some of your pictures look weird when viewed on mobile devices. Here’s what you need to do to avoid that."
-title-image: https://farm6.staticflickr.com/5684/20356583568_2f415d9387_o.jpg
+title-image: https://c3.staticflickr.com/9/8723/28266096082_df62e4c9f5_o.jpg
 ---
 
 A few weeks ago I noticed something weird with some of my pictures: every time I opened a JPEG file from Lightroom on my iPhone the colors looked completely wrong and washed out, as if the image was heavily desaturated.

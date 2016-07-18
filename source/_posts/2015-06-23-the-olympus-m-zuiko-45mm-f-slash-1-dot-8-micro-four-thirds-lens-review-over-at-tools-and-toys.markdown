@@ -4,8 +4,11 @@ title: "The Olympus M. Zuiko 45mm f/1.8 Micro Four Thirds lens review over at To
 date: 2015-06-23 16:51:16 +0200
 comments: true
 categories: 
-- Digital Life
+- Reviews
+- Tools & Toys
+- Photography
 external-url: http://toolsandtoys.net/reviews/the-olympus-m-zuiko-45mm-f1-8-micro-four-thirds-lens-review/
+title-image: https://c5.staticflickr.com/9/8713/28089354740_342e9c7295_o.jpg
 ---
 
 I’ve been working on this lens review for a while, and I’m super happy with how it turned out. The Olympus 45mm f/1.8 lens is one of my favorite pieces of gear and, in my opinion, one of the best values available for any camera system.
@@ -14,4 +17,6 @@ This was also my third time working with a professional model, and the first tim
 
 Head on over to _Tools & Toys_ to check it out.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/333/19061239376_6b7bb6c803_o.jpg" title="Olympus 45mm f/1.8 lens review for Tools & Toys. Model: Sara Gil."></p>
+<figure class="extra-width">
+	<img src="https://c1.staticflickr.com/1/333/19061239376_6b7bb6c803_o.jpg" title="Olympus 45mm f/1.8 lens review for Tools & Toys. Model: Sara Gil.">
+</figure>

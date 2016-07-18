@@ -175,7 +175,7 @@ Obviously, this size is not optimal for portrait-orientation images, as it would
 And finally, we can have true full width panoramas, like this one:
 
 <figure class="panorama">
-<a class="fancybox" rel="MenorcaPanorama" href="https://c3.staticflickr.com/1/350/19732177610_e00e8065a8_k.jpg"><img src="https://c3.staticflickr.com/1/350/19732177610_e00e8065a8_k.jpg" alt="" /></a>
+<a class="fancybox" rel="MenorcaPanorama" href="https://c4.staticflickr.com/9/8639/28282683011_028f66ee88_o.jpg"><img src="https://c4.staticflickr.com/9/8639/28282683011_028f66ee88_o.jpg" alt="" /></a>
 </figure>
 
 This should extend the entire width of your screen, regardless of the size of your window.

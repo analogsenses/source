@@ -6,7 +6,11 @@ layout: page
 sharing: true
 title: "Paris 2016: Day Three"
 subtitle: "January 2nd, 2016"
-title-image: https://c3.staticflickr.com/9/8893/28068244410_8d7a18f808_o.jpg
+title-image: https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg
+title-image-2: https://c7.staticflickr.com/9/8696/28247113022_aae47a03b7_o.jpg
+title-image-3: https://c8.staticflickr.com/9/8799/27752754063_a776e9c9c6_o.jpg
+title-image-4: https://c7.staticflickr.com/8/7551/28264776302_73343efd61_o.jpg
+title-image-5: https://c5.staticflickr.com/9/8718/27751873564_66f3e845a1_o.jpg
 description: "On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre."
 ---
 
@@ -28,7 +32,7 @@ Once we got rid of the bicycles we stayed close to the tower for a while. The Ei
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1641/24429565809_35c6d33cd0_o.jpg"><img src="https://farm2.staticflickr.com/1641/24429565809_35c6d33cd0_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg"><img src="https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:39.5%">
@@ -99,7 +103,7 @@ After that, we went to [Place du Trocadéro](https://en.wikipedia.org/wiki/Troca
 	</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1648/24770993856_bdb3225d7c_o.jpg"><img src="https://farm2.staticflickr.com/1648/24770993856_bdb3225d7c_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="https://c7.staticflickr.com/9/8696/28247113022_aae47a03b7_o.jpg"><img src="https://c7.staticflickr.com/9/8696/28247113022_aae47a03b7_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:73.5%">
@@ -133,12 +137,12 @@ Ready to defy the quickly worsening weather, we decided to get up to the top of 
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1482/24770993516_cddf29b021_o.jpg"><img src="https://farm2.staticflickr.com/1482/24770993516_cddf29b021_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="https://c8.staticflickr.com/9/8799/27752754063_a776e9c9c6_o.jpg"><img src="https://c8.staticflickr.com/9/8799/27752754063_a776e9c9c6_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:32.96%">
 			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1655/24429564649_ace78979be_o.jpg"><img src="https://farm2.staticflickr.com/1655/24429564649_ace78979be_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1525/24703728091_99f1951fdc_o.jpg"><img src="https://farm2.staticflickr.com/1525/24703728091_99f1951fdc_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="https://c7.staticflickr.com/8/7551/28264776302_73343efd61_o.jpg"><img src="https://c7.staticflickr.com/8/7551/28264776302_73343efd61_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
@@ -154,7 +158,7 @@ Ready to defy the quickly worsening weather, we decided to get up to the top of 
 		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1673/24770993216_2d1be66dbd_o.jpg"><img src="https://farm2.staticflickr.com/1673/24770993216_2d1be66dbd_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1556/24501693670_99083b4081_o.jpg"><img src="https://farm2.staticflickr.com/1556/24501693670_99083b4081_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="https://c5.staticflickr.com/9/8718/27751873564_66f3e845a1_o.jpg"><img src="https://c5.staticflickr.com/9/8718/27751873564_66f3e845a1_o.jpg" alt="" /></a>
 	</figure>
 	</section>
 

@@ -7,6 +7,10 @@ sharing: true
 title: "Paris 2016: Day Two"
 subtitle: "January 1st, 2016"
 title-image: https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg
+title-image-2: https://c7.staticflickr.com/8/7498/28085622150_b7f613b73b_o.jpg
+title-image-3: https://c3.staticflickr.com/8/7577/28085631690_3476451bc2_o.jpg
+title-image-4: https://c6.staticflickr.com/8/7692/28289531821_7a0f13b5fc_o.jpg
+title-image-5: https://c7.staticflickr.com/8/7780/28264679022_af205d6d3c_o.jpg
 description: "Day two started with a walk across Pont Neuf and up to Notre Dame, followed by a brief stop for lunch in the Latin Quartier, and then a stroll around Musée du Louvre, Jardin des Tuileries, Place de la Concorde and finally, L’église de la Madeleine."
 ---
 
@@ -45,8 +49,8 @@ Once everything was properly packed, we headed out to visit the nearby [Pont Neu
 		</div>
 	</figure>
 	<figure class="sidebyside">
-		<div class="stretchy-wrapper" style="padding-bottom:34.8%">
-			<a class="fancybox" rel="galleryParis2" href="https://farm2.staticflickr.com/1513/24479785020_744187e6df_o.jpg"><img src="https://farm2.staticflickr.com/1513/24479785020_744187e6df_o.jpg" alt="" /></a>
+		<div class="stretchy-wrapper" style="padding-bottom:32.87%">
+			<a class="fancybox" rel="galleryParis2" href="https://c7.staticflickr.com/8/7498/28085622150_b7f613b73b_o.jpg"><img src="https://c7.staticflickr.com/8/7498/28085622150_b7f613b73b_o.jpg" alt="" /></a>
 			<a class="fancybox" rel="galleryParis2" href="https://farm2.staticflickr.com/1652/24770550905_669d9e3a1b_o.jpg"><img src="https://farm2.staticflickr.com/1652/24770550905_669d9e3a1b_o.jpg" alt="" /></a>
 		</div>
 	</figure>
@@ -69,7 +73,7 @@ Once everything was properly packed, we headed out to visit the nearby [Pont Neu
 	</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis2" href="https://farm2.staticflickr.com/1488/24475046170_c40288bc10_o.jpg"><img src="https://farm2.staticflickr.com/1488/24475046170_c40288bc10_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis2" href="https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg"><img src="https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -176,7 +180,7 @@ A while later we reached the [Grande Roue de Paris](https://en.wikipedia.org/wik
 		<a class="fancybox" rel="galleryParis2" href="https://farm2.staticflickr.com/1547/24744725046_8a8a4135d9_o.jpg"><img src="https://farm2.staticflickr.com/1547/24744725046_8a8a4135d9_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis2" href="https://farm2.staticflickr.com/1678/24144100423_1edbb26bf4_o.jpg"><img src="https://farm2.staticflickr.com/1678/24144100423_1edbb26bf4_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis2" href="https://c3.staticflickr.com/8/7577/28085631690_3476451bc2_o.jpg"><img src="https://c3.staticflickr.com/8/7577/28085631690_3476451bc2_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33.02%">
@@ -197,7 +201,7 @@ A while later we reached the [Grande Roue de Paris](https://en.wikipedia.org/wik
 	</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis2" href="https://farm2.staticflickr.com/1512/24144100223_0679a055f4_o.jpg"><img src="https://farm2.staticflickr.com/1512/24144100223_0679a055f4_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis2" href="https://c6.staticflickr.com/8/7692/28289531821_7a0f13b5fc_o.jpg"><img src="https://c6.staticflickr.com/8/7692/28289531821_7a0f13b5fc_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -224,7 +228,7 @@ Religious inclinations aside, La Madeleine is an awe-inspiring structure. Erecte
 	</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis2" href="https://farm2.staticflickr.com/1714/24677448341_b3dce5d471_o.jpg"><img src="https://farm2.staticflickr.com/1714/24677448341_b3dce5d471_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis2" href="https://c7.staticflickr.com/8/7780/28264679022_af205d6d3c_o.jpg"><img src="https://c7.staticflickr.com/8/7780/28264679022_af205d6d3c_o.jpg" alt="" /></a>
 	</figure>
 </section>
 

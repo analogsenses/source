@@ -7,6 +7,10 @@ sharing: true
 title: "Paris 2016: Day Four"
 subtitle: "January 3rd, 2016"
 title-image: https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg
+title-image-2: https://c2.staticflickr.com/9/8463/27751993193_a49a15f15e_o.jpg
+title-image-3: https://c5.staticflickr.com/9/8786/28085105540_c89759aac2_o.jpg
+title-image-4: https://c6.staticflickr.com/9/8634/28288991941_7f3f132edc_o.jpg
+title-image-5: https://c8.staticflickr.com/9/8221/28288980831_5a3d0dd0fb_o.jpg
 description: "Our last morning in Paris was spent walking around the bohemian neighborhood of Montmartre, including a visit to the Sacré-Coeur."
 ---
 
@@ -28,11 +32,11 @@ All in all, it was the perfect way to cap a fantastic trip.
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1568/24163829324_37183225b8_o.jpg"><img src="https://farm2.staticflickr.com/1568/24163829324_37183225b8_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis4" href="https://c8.staticflickr.com/9/8221/28288980831_5a3d0dd0fb_o.jpg"><img src="https://c8.staticflickr.com/9/8221/28288980831_5a3d0dd0fb_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.25%">
-			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1553/24497155970_24171057fc_o.jpg"><img src="https://farm2.staticflickr.com/1553/24497155970_24171057fc_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="https://c2.staticflickr.com/9/8463/27751993193_a49a15f15e_o.jpg"><img src="https://c2.staticflickr.com/9/8463/27751993193_a49a15f15e_o.jpg" alt="" /></a>
 			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1447/24699557101_b55aa172e5_o.jpg"><img src="https://farm2.staticflickr.com/1447/24699557101_b55aa172e5_o.jpg" alt="" /></a>
 		</div>
 	</figure>
@@ -43,19 +47,19 @@ All in all, it was the perfect way to cap a fantastic trip.
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1447/24792682145_2cd379aa25_o.jpg"><img src="https://farm2.staticflickr.com/1447/24792682145_2cd379aa25_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis4" href="https://c5.staticflickr.com/9/8786/28085105540_c89759aac2_o.jpg"><img src="https://c5.staticflickr.com/9/8786/28085105540_c89759aac2_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:39.59%">
 			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1475/24425014749_0d81b2c167_o.jpg"><img src="https://farm2.staticflickr.com/1475/24425014749_0d81b2c167_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1523/24766455436_0e3a091fa1_o.jpg"><img src="https://farm2.staticflickr.com/1523/24766455436_0e3a091fa1_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg"><img src="https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
 		<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1560/24674856852_6d44d9af2a_o.jpg"><img src="https://farm2.staticflickr.com/1560/24674856852_6d44d9af2a_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1575/24766455676_0a64ef8149_o.jpg"><img src="https://farm2.staticflickr.com/1575/24766455676_0a64ef8149_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis4" href="https://c6.staticflickr.com/9/8634/28288991941_7f3f132edc_o.jpg"><img src="https://c6.staticflickr.com/9/8634/28288991941_7f3f132edc_o.jpg" alt="" /></a>
 	</figure>
 </section>
 

@@ -5,7 +5,9 @@ date: 2016-06-15 17:54:00 +0200
 comments: false
 sharing: true
 categories: 
-- Gaming
+- Reviews
+- Tools & Toys
+- Video Games
 external-url: http://toolsandtoys.net/reviews/a-review-of-uncharted-4-a-thiefs-end/
 title-image: https://c7.staticflickr.com/9/8899/27729610814_79f76acdc5_o.jpg
 ---

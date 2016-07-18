@@ -8,7 +8,7 @@ categories:
 - Guides
 - Photography
 description: "Taking professional-looking product pictures doesn’t always require a studio."
-title-image: https://c6.staticflickr.com/8/7644/28270805221_9fea9efeaa_o.jpg
+title-image: https://c6.staticflickr.com/8/7644/28270805221_02423947a1_o.jpg
 ---
 
 In [my review](http://toolsandtoys.net/reviews/the-panasonic-lumix-g-20mm-f1-7-ii-asph-lens-review/) of the Panasonic 20mm f/1.7 Micro Four Thirds lens for _Tools & Toys_, I tried a few new things for my product shots. I usually take these shots at home, in a variety of different real-life scenarios. Those tend to work well for the type of reviews we do at _Tools & Toys_, but there’s also something I really like about professional product shots. This time around, I wanted to try my hand at it and see what I could come up with.

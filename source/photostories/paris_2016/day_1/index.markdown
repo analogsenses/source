@@ -7,6 +7,10 @@ sharing: true
 title: "Paris 2016: Day One"
 subtitle: "December 31st, 2015"
 title-image: https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg
+title-image-2: https://c1.staticflickr.com/9/8897/27751263824_a49b949bf2_o.jpg
+title-image-3: https://c6.staticflickr.com/9/8745/28289064861_1cf48e4c56_o.jpg
+title-image-4: https://c4.staticflickr.com/9/8617/28367837955_6c91eed361_o.jpg
+title-image-5: https://c1.staticflickr.com/9/8183/28264221832_93d7cc8c18_o.jpg
 description: "The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well."
 ---
 
@@ -41,13 +45,13 @@ We had made a special dinner reservation in advance at [Chez Claude](http://www.
 
 <section class="photoset">
 	<figure class="sidebyside">
-		<div class="stretchy-wrapper" style="padding-bottom:37.1%">
+		<div class="stretchy-wrapper" style="padding-bottom:34.92%">
 			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1682/24144141064_ff991d4da6_o.jpg"><img src="https://farm2.staticflickr.com/1682/24144141064_ff991d4da6_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1686/24772287475_c579219ba7_o.jpg"><img src="https://farm2.staticflickr.com/1686/24772287475_c579219ba7_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="https://c1.staticflickr.com/9/8897/27751263824_a49b949bf2_o.jpg"><img src="https://c1.staticflickr.com/9/8897/27751263824_a49b949bf2_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1510/24746062546_e916dfe8e9_o.jpg"><img src="https://farm2.staticflickr.com/1510/24746062546_e916dfe8e9_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis1" href="https://c6.staticflickr.com/9/8745/28289064861_1cf48e4c56_o.jpg"><img src="https://c6.staticflickr.com/9/8745/28289064861_1cf48e4c56_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
 		<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1707/24163235993_d94e8abbf3_o.jpg"><img src="https://farm2.staticflickr.com/1707/24163235993_d94e8abbf3_o.jpg" alt="" /></a>
@@ -68,9 +72,9 @@ Then, as midnight drew closer, we were offered another complimentary glass of ch
 
 <section class="photoset">
 	<figure class="sidebyside">
-		<div class="stretchy-wrapper" style="padding-bottom:37.09%">
+		<div class="stretchy-wrapper" style="padding-bottom:34.92%">
 			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1464/24678785261_894521f20d_o.jpg"><img src="https://farm2.staticflickr.com/1464/24678785261_894521f20d_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1482/24654481242_c9fb2c1da3_o.jpg"><img src="https://farm2.staticflickr.com/1482/24654481242_c9fb2c1da3_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="https://c4.staticflickr.com/9/8617/28367837955_6c91eed361_o.jpg"><img src="https://c4.staticflickr.com/9/8617/28367837955_6c91eed361_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="sidebyside">
@@ -84,9 +88,9 @@ Then, as midnight drew closer, we were offered another complimentary glass of ch
 		<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1574/24476757320_2fb4fb9b1c_o.jpg"><img src="https://farm2.staticflickr.com/1574/24476757320_2fb4fb9b1c_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
-		<div class="stretchy-wrapper" style="padding-bottom:34.9%">
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1657/24145434533_b501bec9a5_o.jpg"><img src="https://farm2.staticflickr.com/1657/24145434533_b501bec9a5_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis1" href="https://c6.staticflickr.com/8/7746/27710931013_8eba19207f_o.jpg"><img src="https://c6.staticflickr.com/8/7746/27710931013_8eba19207f_o.jpg" alt="" /></a>
+		<div class="stretchy-wrapper" style="padding-bottom:33%">
+			<a class="fancybox" rel="galleryParis1" href="https://c1.staticflickr.com/9/8183/28264221832_93d7cc8c18_o.jpg"><img src="https://c1.staticflickr.com/9/8183/28264221832_93d7cc8c18_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg"><img src="https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">

@@ -4,9 +4,11 @@ title: "A review of the Ortlieb Back Roller City bicycle panniers on Tools &amp;
 date: 2015-06-02 17:33:33 +0200
 comments: true
 categories: 
-- Bicycles
-- Digital Life
+- Reviews
+- Tools & Toys
+- Bags
 external-url: http://toolsandtoys.net/reviews/review-ortlieb-back-roller-city-bicycle-panniers/
+title-image: https://c4.staticflickr.com/8/7500/28372014955_cf34094826_o.jpg
 ---
 
 This week’s _Tools & Toys_ review, by yours truly, touches on a topic near and dear to my heart: the bicycle. In many ways, this article is a love letter to the bicycle as much as it is a review of a bag:
