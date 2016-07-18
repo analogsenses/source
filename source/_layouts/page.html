@@ -7,7 +7,7 @@ layout: default
 <header>
 	{% if page.title-image %}
 		 <div class="title-with-image"{% if page.title-image-2 %} id="cross-fade"{% endif %}>
-				<img id="landing-point" src="{{ page.title-image }}"/>
+				<img src="{{ page.title-image }}"/>
 				{% if page.title-image-2 %}
 					<img src="{{ page.title-image-2 }}"/>
 				{% endif %}
@@ -20,7 +20,7 @@ layout: default
 				{% if page.title-image-5 %}
 					<img src="{{ page.title-image-5 }}"/>
 				{% endif %}
-				<div class="title-with-image-header">
+				<div class="title-with-image-header" id="landing-point">
 					<h1>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
 					{% unless page.meta == false %}
 				      <p class="meta">

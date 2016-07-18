@@ -1009,9 +1009,8 @@ article {
   
   div.title-with-image{
 		
-		//height: auto;
-		height: 600px;
-		max-height: 600px;
+		height: 682px;
+		max-height: 682px;
 		overflow: hidden;
 		position: relative;
 		width: 100%;
@@ -1019,7 +1018,7 @@ article {
 		
 		img {
 			position: absolute;
-			top: 0;
+			bottom: 0;
 			left: 0;
 			right: 0;	
 	    	border: none;
@@ -1754,7 +1753,9 @@ figure.panorama {
 // media queries
 // ------------------------------
 
-@media screen and (max-width: 1024px) {
+// This applies to the 9.7-inch iPads and the iPad mini. Not to the 12-inch iPad Pro though
+
+@media screen and (max-width: 1023px) {
   
   #main {
   	clear: both;
@@ -2028,6 +2029,7 @@ article #photostories-archive {
 
 
 // -----------------------------------------
+// This applies to any devices bigger than the iPhones but smaller than the 9.7-inch iPads and the iPad Mini
 
 @media screen and (max-width: 767px) {
   html {
@@ -2683,6 +2685,7 @@ article {
 
 
 // ------------------------------
+// This comfortably catches all iPhone models in portrait orientation (320, 375 and 414)
 
 @media screen and (max-width: 480px) {
 	
@@ -2807,8 +2810,8 @@ article {
 	       	}
 	       	
 	       	div.title-with-image{
-	       		height: 213px;
-				max-height: 213px;
+	       		height: 276px;
+				max-height: 276px;
 				
 				div.title-with-image-header{
 					
@@ -3112,4 +3115,31 @@ article {
   	margin: auto;
   	margin-top: 60px;
   }
+}
+
+// This catches from the iPhone 6s (375px wide) to the 6s Plus (414px wide)
+
+@media screen and (max-width: 414px) {
+	article {
+		header{
+			div.title-with-image{
+			       		height: 250px;
+						max-height: 250px;
+			}
+		}
+	}	
+}
+
+// This catches from the iPhone 5s (320px wide) to the 6s (375px wide)
+
+@media screen and (max-width: 375px) {
+	
+	article {
+		header{
+			div.title-with-image{
+			       		height: 213px;
+						max-height: 213px;
+			}
+		}
+	}	
 }
