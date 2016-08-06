@@ -27,39 +27,89 @@ In practical terms, the Full Frame E-mount system could be considered a joint ve
 
 But with so many new and shiny things to choose from, it can be hard to make the right choice for your needs. In this guide, we’ll go over the finest pieces of glass for the Full Frame E-mount system.
 
+<p class="card-separator">♤</p>
+
 ##Table of contents
 
 Due to the length of this guide, here’s a handy table of contents. Click/tap on each link to go to the corresponding section.
 
-* **<a class="toc-link" href="#criteria">Criteria for inclusion</a>**
-* **<a class="toc-link" href="#ultra-wide-angle-primes">Ultra-wide angle primes</a>**
-	* <a class="toc-link" href="#batis-18">Zeiss Batis 18mm f/2.8</a>
-* **<a class="toc-link" href="#wide-angle-primes">Wide angle primes</a>**
-	* <a class="toc-link" href="#batis-25">Zeiss Batis 25mm f/2</a>
-* **<a class="toc-link" href="#standard-primes">Standard primes</a>**
-	* <a class="toc-link" href="#distagon-35">Sony Zeiss FE 35mm f/1.4 Distagon T*</a>
-	* <a class="toc-link" href="#planar-50">Sony Zeiss FE 50mm f/1.4 Planar T*</a>
-	* <a class="toc-link" href="#sonnar-55">Sony Zeiss FE 55mm f/1.8 Sonnar T*</a>
-* **<a class="toc-link" href="#portrait-primes">Portrait primes</a>**
-	* <a class="toc-link" href="#batis-85">Zeiss Batis 85mm f/1.8</a>
-	* <a class="toc-link" href="#85-gm">Sony FE 85mm f/1.4 G-Master</a>
-* **<a class="toc-link" href="#macro-lenses">Macro lenses</a>**
-	* <a class="toc-link" href="#90-macro">Sony FE 90mm f/2.8 Macro G OSS</a>
-* **<a class="toc-link" href="#zoom-lenses">Zoom lenses</a>**
-	* <a class="toc-link" href="#16-35-f4">Sony Zeiss Vario-Tessar T* FE 16–35mm f/4 ZA OSS</a>
-	* <a class="toc-link" href="#70-200-f4">Sony FE 70-200mm f/4 G OSS</a>
-	* <a class="toc-link" href="#24-70-gm">Sony FE 24-70mm f/2.8 G-Master</a>
-	* <a class="toc-link" href="#70-200-gm">Sony FE 70-200mm f/2.8 G-Master</a>
-* **<a class="toc-link" href="#manual-focus-lenses">Manual focus lenses</a>**
-	* <a class="toc-link" href="#zeiss-loxia">The Zeiss Loxia lenses</a>
-* **<a class="toc-link" href="#video-lenses">Lenses optimized for video</a>**
-	* <a class="toc-link" href="#28-135-f4">Sony FE PZ 28-135mm f/4 G OSS</a>
-* **<a class="toc-link" href="#aside-24-70">A brief aside on the Sony Zeiss 24-70mm f/4 lens</a>**
-* **<a class="toc-link" href="#wishlist-rumors">Wishlist for upcoming lenses and/or existing rumors</a>**
-* **<a class="toc-link" href="#buying-advice">So what do I buy first?</a>**
-* **<a class="toc-link" href="#final-words">Final words</a>**
+<section class="toc">
+	<strong><p><a class="toc-link" href="#criteria">Criteria for inclusion</a></p></strong>
+	<strong><p><a class="toc-link" href="#ultra-wide-angle-primes">Ultra-wide angle primes</a></p></strong>
+	<ul>
+		<li>
+			<p><a class="toc-link" href="#batis-18">Zeiss Batis 18mm f/2.8</a></p>
+		</li>
+	</ul>
+	<strong><p><a class="toc-link" href="#wide-angle-primes">Wide angle primes</a></p></strong>
+	<ul>
+		<li>
+			<p><a class="toc-link" href="#batis-25">Zeiss Batis 25mm f/2</a></p>
+		</li>
+	</ul>
+	<strong><p><a class="toc-link" href="#standard-primes">Standard primes</a></p></strong>
+	<ul>
+		<li>
+			<p><a class="toc-link" href="#distagon-35">Sony Zeiss FE 35mm f/1.4 Distagon T\*</a></p>
+		</li>
+		<li>
+			<p><a class="toc-link" href="#planar-50">Sony Zeiss FE 50mm f/1.4 Planar T\*</a></p>
+		</li>
+		<li>
+			<p><a class="toc-link" href="#sonnar-55">Sony Zeiss FE 55mm f/1.8 Sonnar T\*</a></p>
+		</li>
+	</ul>
+	<strong><p><a class="toc-link" href="#portrait-primes">Portrait primes</a></p></strong>
+	<ul>
+		<li>
+			<p><a class="toc-link" href="#batis-85">Zeiss Batis 85mm f/1.8</a></p>
+		</li>
+		<li>
+			<p><a class="toc-link" href="#85-gm">Sony FE 85mm f/1.4 G-Master</a></p>
+		</li>
+	</ul>
+	<strong><p><a class="toc-link" href="#macro-lenses">Macro lenses</a></p></strong>
+	<ul>
+		<li>
+			<p><a class="toc-link" href="#90-macro">Sony FE 90mm f/2.8 Macro G OSS</a></p>
+		</li>
+	</ul>
+	<strong><p><a class="toc-link" href="#zoom-lenses">Zoom lenses</a></p></strong>
+	<ul>
+		<li>
+			<p><a class="toc-link" href="#16-35-f4">Sony Zeiss Vario-Tessar T* FE 16–35mm f/4 ZA OSS</a></p>
+		</li>
+		<li>
+			<p><a class="toc-link" href="#70-200-f4">Sony FE 70-200mm f/4 G OSS</a></p>
+		</li>
+		<li>
+			<p><a class="toc-link" href="#24-70-gm">Sony FE 24-70mm f/2.8 G-Master</a></p>
+		</li>
+		<li>
+			<p><a class="toc-link" href="#70-200-gm">Sony FE 70-200mm f/2.8 G-Master</a></p>
+		</li>
+	</ul>
+	<strong><p><a class="toc-link" href="#manual-focus-lenses">Manual focus lenses</a></p></strong>
+	<ul>
+		<li>
+			<p><a class="toc-link" href="#zeiss-loxia">The Zeiss Loxia lenses</a></p>
+		</li>
+	</ul>
+	<strong><p><a class="toc-link" href="#video-lenses">Lenses optimized for video</a></p></strong>
+	<ul>
+		<li>
+			<p><a class="toc-link" href="#28-135-f4">Sony FE PZ 28-135mm f/4 G OSS</a></p>
+		</li>
+	</ul>
+	<strong><p><a class="toc-link" href="#aside-24-70">A brief aside on the Sony Zeiss 24-70mm f/4 lens</a></p></strong>
+	<strong><p><a class="toc-link" href="#wishlist-rumors">Wishlist for upcoming lenses and/or existing rumors</a></p></strong>
+	<strong><p><a class="toc-link" href="#buying-advice">So what do I buy first?</a></p></strong>
+	<strong><p><a class="toc-link" href="#final-words">Final words</a></p></strong>
+</section>
 
-And now without further ado, let’s get started.
+Got it? Good. Let’s get started.
+
+<p class="card-separator">♧</p>
 
 <h2 id="criteria">Criteria for inclusion</h2>
 
@@ -74,26 +124,11 @@ Thirdly, the guide only considers native E-mount lenses. The E-mount system is f
 	<p class="caption">Besides native FE lenses, E-mount cameras are compatible with a wide array of DSLR lenses via the use of adapters, but those are outside the scope of this guide.</p>
 </figure>
 
-Finally, the guide is structured in several categories, arranged by focal length and/or primary application. It’s worth pointing out that the guide considers zoom lenses as their own separate category, so unless specifically noted, all other categories in the guide refer to prime lenses only. The same thing applies to manual-focus lenses.
-
-Once again, the guide includes the following categories (click/tap on each link to go to the corresponding section):
-
-* <a href="#ultra-wide-angle-primes">Ultra-wide angle primes</a>
-* <a href="#wide-angle-primes">Wide angle primes</a>
-* <a href="#standard-primes">Standard primes</a>
-* <a href="#portrait-primes">Portrait primes</a>
-* <a href="#macro-lenses">Macro lenses</a>
-* <a href="#zoom-lenses">Zoom lenses</a>
-* <a href="#manual-focus-lenses">Manual focus lenses</a>
-* <a href="#video-lenses">Lenses designed for video</a>
-
-
-These categories were created based on the current available lens lineup for the system. In the future, additional categories such as fisheye lenses and super telephoto lenses may be added, as lenses meeting the corresponding criteria are released. Given the youth of the FE system as a whole and the pace at which new lenses are being announced, the addition of at least some of these categories in the near future appears very likely.
+Finally, the guide is structured in several categories, arranged by focal length and/or primary application. These categories were created based on the current available lens lineup for the system. In the future, additional categories such as fisheye lenses and super telephoto lenses may be added, as lenses meeting the corresponding criteria are released. Given the youth of the FE system as a whole and the pace at which new lenses are being announced, the addition of at least some of these categories in the near future appears very likely.
 
 Now, without further ado, let’s take a look at the best Full Frame lenses for the E-mount system.
 
-
-<p class="card-separator">♤</p>
+<p class="card-separator">♡</p>
 
 <h2 id="ultra-wide-angle-primes">Ultra-wide angle primes</h2>
 
@@ -111,7 +146,7 @@ The Zeiss Batis 18mm lens is also noteworthy for having virtually zero coma whic
 
 **Buy it online:** [Amazon US](http://www.amazon.com/gp/product/B01E8OBQS8/?tag=analogsens-20) | [Amazon UK](https://www.amazon.co.uk/gp/product/B01E8OBQS8/?tag=analogsenses-21) | [Amazon ES](http://www.amazon.es/gp/product/B01E8OBQS8/?tag=alvaroserrano-21)
 
-<p class="card-separator">♡</p>
+<p class="card-separator">♢</p>
 
 <h2 id="wide-angle-primes">Wide angle primes</h2>
 
@@ -172,7 +207,6 @@ At 778g the 50mm Planar is noticeably heavier than the 35mm Distagon, which was 
 
 _**Note:** The 50mm Planar lens was officially released on July 29, 2016, meaning as of this guide’s publication, it is still supply-constrained throughout most of the world. If you want it and come across one online, don’t hesitate to pull the trigger, because there’s no telling how long it will take for it to be back in stock._
 
-
 <h3 id="sonnar-55">Sony Zeiss FE 55mm f/1.8 Sonnar T*</h3>
 
 50mm f/1.8 lenses, commonly known as “nifty-fifties” have been bundled as kit lenses by nearly all manufacturers for decades, and with good reason: they’re very good optically, and they’re _very_ cheap to make. What’s not to love?
@@ -193,7 +227,6 @@ At the end of the day, if all you want is a cheap nifty-fifty, then this lens cl
 
 **Buy it online:** [Amazon US](http://www.amazon.com/gp/product/B00FSB799Q/?tag=analogsens-20) | [Amazon UK](http://www.amazon.co.uk/gp/product/B00FYRLSK0/?tag=analogsenses-21) | [Amazon ES](http://www.amazon.es/gp/product/B00FYRLSK0/?tag=alvaroserrano-21)
 
-
 <p class="card-separator">♡</p>
 
 <h2 id="portrait-primes">Portrait primes</h2>
@@ -203,7 +236,6 @@ If a good standard lens is essential for every camera system, an outstanding por
 Portrait lenses are longer than standard lenses, and typically have focal lengths in the 80-135mm range. If we go longer than that, we’re really talking about telephoto lenses, which are commonly used for sports, wildlife photography, astrophotography, and the like. These are all situations where there’s a limit to how physically close to your subject you can get and therefore, greater magnification from the lens is needed.
 
 Portrait lenses are often described as short telephoto lenses as well, which can understandably lead to confusion sometimes. Although that’s technically true, each type has clearly different applications, and this guide will consider them as separate categories. As of this guide’s publication date there are no prime lenses longer than 135mm for the FE system, so the distinction between the two groups is a rather moot point anyway. This is likely to become relevant in the future, though.
-
 
 <h3 id="batis-85">Zeiss Batis 85mm f/1.8</h3>
 
@@ -304,7 +336,6 @@ All in all, a very good ultra-wide angle lens for your α7-series camera. If you
 
 **Buy it online:** [Amazon US](http://www.amazon.com/gp/product/B00NGTN25C/?tag=analogsens-20) | [Amazon UK](http://www.amazon.co.uk/gp/product/B00NVA7J1Y/?tag=analogsenses-21) | [Amazon ES](http://www.amazon.es/gp/product/B00NVA7J1Y/?tag=alvaroserrano-21)
 
-
 <h3 id="70-200-f4">Sony FE 70-200mm f/4 G OSS</h3>
 
 Just like the 16-35mm lens at the wide end, this was the first telephoto zoom to be released for the FE system. These days, however, there’s the more expensive f/2.8 version to consider, too.
@@ -326,7 +357,6 @@ Image quality-wise, there’s hardly anything to complain about here: sharpness 
 At $1,498, this isn’t a cheap lens by any means, but it’s worth every penny. The Sony 70-200mm f/4 gets so many things right that improving upon it seems like an exceedingly tall order.
 
 **Buy it online:** [Amazon US](http://www.amazon.com/gp/product/B00I8BICEO/?tag=analogsens-20) | [Amazon UK](http://www.amazon.co.uk/gp/product/B00G9UJW36/?tag=analogsenses-21) | [Amazon ES](http://www.amazon.es/gp/product/B00G9UJW36/?tag=alvaroserrano-21)
-
 
 <h3 id="24-70-gm">Sony FE 24-70mm F/2.8 G-Master</h3>
 
@@ -454,6 +484,7 @@ Again, just to be clear, we’re talking about lenses as long-term investments h
 
 If you just need a small and light standard zoom, there’s nothing wrong with the 24-70mm f/4 lens. It’s a fine lens, and it will serve you well. But if you want your lenses to remain relevant and retain their value for a decade or more, I have to steer you away from this one.
 
+<p class="card-separator">♤</p>
 
 <h2 id="wishlist-rumors">Wishlist for upcoming lenses and/or existing rumors</h2>
 
@@ -473,6 +504,7 @@ With Photokina 2016 right around the corner, we will probably see some more FE l
 
 The point is, with so much movement and the FE system being in such a state of flux at the moment, it only makes sense to invest in lenses that you _know_ are top-notch, and that will remain relevant in a decade or more. Luckily, there are plenty of options to choose from already, and more seem to be on the way.
 
+<p class="card-separator">♧</p>
 
 <h2 id="buying-advice">So what do I buy first?</h2>
 
@@ -484,6 +516,7 @@ If on the other hand you prefer to start your kit off with a prime lens, I highl
 
 From then on, it’s only a matter of expanding your lens arsenal in the direction you shoot most often. Take your time to learn where you’re most comfortable, and go with your gut. Sometimes it takes a while to get used to a new focal length, so be patient and don’t be quick to dismiss any particular lens. And of course, above all, enjoy the process.
 
+<p class="card-separator">♡</p>
 
 <h2 id="final-words">Final words</h2>
 
@@ -499,6 +532,6 @@ And finally, when it’s time to sell, ten or fifteen years from now, your lense
 
 Camera bodies come and go, but lenses are long-term investments. Invest in top-of-the-line glass, and never look back.
 
-<p class="card-separator">♤</p>
+<p class="card-separator">♢</p>
 
 Thank you for reading this far. If you found this guide helpful, please take a minute to share it on your preferred social network by using the links below. Thanks!

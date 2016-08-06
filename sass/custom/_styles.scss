@@ -1439,6 +1439,18 @@ article {
   	color: $accent-color;
   	}
   	
+section.toc{
+	margin-bottom: 25px;		
+	p{
+		margin-bottom: 10px;	
+		a.toc-link {
+	 		text-decoration: none;
+		}	
+	}	
+	ul, ol {
+		margin-bottom: 10px;
+	}
+}	
 
   // ----- post's footer -----
   
