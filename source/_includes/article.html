@@ -136,7 +136,7 @@
   {% if excerpted == 'true' %}
   <div class="entry-content">{{ content | excerpt | remove_footnote_link }}</div>
     <footer>
-      <a rel="full-article" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
+      <a rel="full-article" href="{{ root_url }}{{ post.url }}#excerpt-point">{{ site.excerpt_link }}</a>
     </footer>
   {% else %}
   <div class="entry-content">{{ content | excerpt | rename_footnote_link }}</div>
