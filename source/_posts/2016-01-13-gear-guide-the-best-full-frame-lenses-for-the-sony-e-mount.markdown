@@ -27,8 +27,6 @@ In practical terms, the Full Frame E-mount system could be considered a joint ve
 
 But with so many new and shiny things to choose from, it can be hard to make the right choice for your needs. In this guide, we’ll go over the finest pieces of glass for the Full Frame E-mount system.
 
-<!--more-->
-
 <p class="card-separator">♤</p>
 
 <h2 id="excerpt-point">Table of contents</h2>
