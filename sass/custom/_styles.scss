@@ -2701,6 +2701,16 @@ article {
 			margin-left: 20px;
 			margin-right: 20px;
 		}
+		
+		section.social-embed{
+			//width: auto !important;
+		  	max-width: 100% !important;
+		  		
+		  	iframe {
+		  	//	width: auto !important;
+		        max-width: 100% !important;
+			}
+		}
 	
 	}
 		
@@ -3062,11 +3072,11 @@ article {
 		}
 		  
 		section.social-embed {
-			width: auto !important;
+			//width: auto !important;
 		  	max-width: 100% !important;
 		  		
 		  	iframe {
-		  		width: auto !important;
+		  	//	width: auto !important;
 		        max-width: 100% !important;
 			}
 		}
