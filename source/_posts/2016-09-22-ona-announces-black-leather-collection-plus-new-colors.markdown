@@ -5,8 +5,9 @@ date: 2016-09-21 18:25:18 +0200
 comments: false
 sharing: true
 categories: 
+- Neat Items
+- Tools & Toys
 - Photography
-- Photokina
 external-url: http://toolsandtoys.net/ona-announces-black-leather-collection-plus-new-colors/
 title-image: https://c5.staticflickr.com/9/8242/29222708764_5fcfb0243f_o.jpg
 ---
