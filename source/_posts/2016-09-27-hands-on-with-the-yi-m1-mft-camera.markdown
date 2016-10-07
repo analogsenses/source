@@ -90,7 +90,7 @@ All in all, this is a decently made camera with basic dedicated hardware control
 
 Where the Yi M1 hopes to differentiate itself from the pack, however, is with the connectivity features. The camera has Bluetooth Low Energy and WiFi, and there’s a dedicated smartphone companion app — available on both Android and iOS — that will make it very easy to share pictures to your social network or cloud service of choice. I didn’t have a chance to test this feature, but according to two Yi representatives, the company is betting heavily on it to be one of the camera’s main selling points.
 
-For what is worth, the current smartphone camera companion app is not exactly brimming with excellent choices, so if they manage to nail this aspect, I could definitely see it becoming popular.
+For what it’s worth, the current smartphone camera companion app is not exactly brimming with excellent choices, so if they manage to nail this aspect, I could definitely see it becoming popular.
 
 Speaking of social sharing, there’s another feature in the Yi M1 that strikes me as extremely clever. They’re calling it Master Guide, and it’s basically a collection of compositional guidelines to help you get tried-and-true portrait poses of your subjects. If you’re lacking some inspiration but still want to get nicely posed shots, this will come in super handy. Check out [this video](https://www.youtube.com/watch?v=rO82uWQCgFU) to see how the feature works. Brilliant!
 
