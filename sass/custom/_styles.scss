@@ -1193,7 +1193,6 @@ article {
   }
   
   
-  
   section.google-maps {
   	display: block;
   	position: relative;
@@ -1220,6 +1219,9 @@ article {
         margin-left: auto !important;
 	}
   } 
+  
+  
+  
  
   // ----- post's content -----
  
@@ -1280,6 +1282,21 @@ article {
     max-width: 600px;
     margin: auto;
     margin-top: 40px;
+    margin-bottom: 20px;
+    line-height:1.3; 
+    
+    a {
+    	text-decoration: none;
+    } 
+     
+  }
+  
+  .entry-content h4, h4 {
+	font-size: 26px;
+    text-transform: none;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 20px;
     margin-bottom: 20px;
     line-height:1.3; 
     
@@ -1744,6 +1761,43 @@ figure.panorama {
 			}
 		}
 	}
+}
+
+.product-link {
+	max-width: 600px;
+	margin:auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	
+	border: 1px solid teal;
+	
+	img {
+		width: 100%;
+		margin:0;
+	}
+	
+	h4.buy-now {
+	font-size: 28px;
+    text-transform: none;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height:1.3;
+    border: 1px solid teal;
+    text-align: center;
+    background: teal;
+    color: white;
+    
+    a {
+    	text-decoration: none;
+    } 
+     
+  }
+	
+
 }
 
 .footnotes ol, .entry-content .footnotes ol {
