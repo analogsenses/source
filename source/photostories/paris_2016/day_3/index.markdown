@@ -5,7 +5,7 @@ date: 2016-01-02 07:05:05+00:00
 layout: page
 sharing: true
 title: "Paris 2016: Day Three"
-subtitle: "January 2nd, 2016"
+subtitle: "On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre."
 title-image: https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg
 title-image-2: https://c7.staticflickr.com/9/8696/28247113022_aae47a03b7_o.jpg
 title-image-3: https://c8.staticflickr.com/9/8799/27752754063_a776e9c9c6_o.jpg

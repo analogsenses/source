@@ -5,7 +5,7 @@ date: 2016-01-03 07:05:05+00:00
 layout: page
 sharing: true
 title: "Paris 2016: Day Four"
-subtitle: "January 3rd, 2016"
+subtitle: "Our last morning in Paris was spent walking around the bohemian neighborhood of Montmartre, including a visit to the Sacré-Coeur"
 title-image: https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg
 title-image-2: https://c2.staticflickr.com/9/8463/27751993193_a49a15f15e_o.jpg
 title-image-3: https://c5.staticflickr.com/9/8786/28085105540_c89759aac2_o.jpg

@@ -8,10 +8,41 @@
 // $heading-font-family: "Fjalla One", "Georgia", "Helvetica Neue", Arial, sans-serif !default;
 // $header-title-font-family: $heading-font-family !default;
 // $header-subtitle-font-family: $serif !default;
+
+
 @font-face {
-	font-family: 'LamplighterScript';
-	src: url('/assets/fontface/2BD096_0_0.eot');
-	src: url('/assets/fontface/2BD096_0_0.eot?#iefix') format('embedded-opentype');
-	src: url('/assets/fontface/2BD096_0_0.woff') format('woff');
-	src: url('/assets/fontface/2BD096_0_0.ttf') format('truetype');
+    font-family: 'bebas_neuebold';
+   	src: url('/assets/fontface/BebasNeue_Bold.eot');
+	src: url('/assets/fontface/BebasNeue_Bold.eot?#iefix') format('embedded-opentype');
+	src: url('/assets/fontface/BebasNeue_Bold.ttf') format('truetype');
+	src: url('/assets/fontface/BebasNeue_Bold.woff') format('woff');
+         
+    font-weight: normal;
+    font-style: normal;
 }
+
+@font-face {
+    font-family: 'bebas_neueregular';
+   	src: url('/assets/fontface/BebasNeue_Regular.eot');
+	src: url('/assets/fontface/BebasNeue_Regular.eot?#iefix') format('embedded-opentype');
+	src: url('/assets/fontface/BebasNeue_Regular.ttf') format('truetype');
+	src: url('/assets/fontface/BebasNeue_Regular.woff') format('woff');
+         
+    font-weight: normal;
+    font-style: normal;
+}
+  
+@font-face {
+	font-family: 'GardenGrownCaps-Regular';
+	src: url('/assets/fontface/325F50_1_0.eot');
+	src: url('/assets/fontface/325F50_1_0.eot?#iefix') format('embedded-opentype');
+	src: url('/assets/fontface/325F50_1_0.woff2') format('woff2');
+	src: url('/assets/fontface/325F50_1_0.woff') format('woff');
+	src: url('/assets/fontface/325F50_1_0.ttf') format('truetype');
+	
+	font-weight: normal;
+    font-style: normal;
+	
+}
+	
+	

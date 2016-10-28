@@ -5,7 +5,7 @@ date: 2016-01-01 07:05:05+00:00
 layout: page
 sharing: true
 title: "Paris 2016: Day Two"
-subtitle: "January 1st, 2016"
+subtitle: "Day two started with a walk across Pont Neuf and up to Notre Dame, followed by a brief stop for lunch in the Latin Quartier, and then a stroll around Musée du Louvre, Jardin des Tuileries, Place de la Concorde and finally, L’église de la Madeleine."
 title-image: https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg
 title-image-2: https://c7.staticflickr.com/8/7498/28085622150_b7f613b73b_o.jpg
 title-image-3: https://c3.staticflickr.com/8/7577/28085631690_3476451bc2_o.jpg

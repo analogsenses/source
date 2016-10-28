@@ -1,21 +1,27 @@
 {% capture category %}{{ post.categories | size }}{% endcapture %}
 <div class="story-cover">
-<a href="{{ root_url }}{{ post.external-url }}/#landing-point">
-{% if post.title-image %}
-<img src="{{ post.title-image }}"/>
-{% endif %}
-<div class="story-header">
-{% if post.subtitle %}
-	<h1>{% if site.titlecase %}{{ post.subtitle | titlecase }}{% else %}{{ post.subtitle }}{% endif %}</h1>
-{% else %}
-	<h1>{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</h1>
-{% endif %}
-</div>
-</a>
-</div>
-<div class="story-text">
-{% if post.description %}
-<p class="description">{{ post.description }}</p>
-{% endif %}
-<p class="updated"><b><time datetime="{{ post.start-date | datetime | date_to_xmlschema }}" pubdate>{{ post.start-date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time> — <time datetime="{{ post.end-date | datetime | date_to_xmlschema }}" pubdate>{{ post.end-date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time></b></p>
+	<a href="{{ root_url }}{{ post.external-url }}/#landing-point">
+		{% if post.title-image %}
+			<img src="{{ post.title-image }}"/>
+		{% endif %}
+		<div class="story-header">
+			{% if post.subtitle %}
+				<h1>{% if site.titlecase %}{{ post.subtitle | titlecase }}{% else %}{{ post.subtitle }}{% endif %}</h1>
+			{% else %}
+				<h1>{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</h1>
+			{% endif %}
+		</div>
+		<div class="story-text">
+			{% if post.description %}
+				<p class="description">{{ post.description }}</p>
+			{% endif %}
+		</div>
+		<div class="meta">
+				{% if post.start-date and post.end-date %}
+					<p><time datetime="{{ post.start-date | datetime | date_to_xmlschema }}" pubdate>{{ post.start-date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time> — <time datetime="{{ post.end-date | datetime | date_to_xmlschema }}" pubdate>{{ post.end-date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time></p>
+				{% else %}
+					<p><time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date: "<span class='month'>%B</span> <span class='day'>%d</span>, <span class='year'>%Y</span>"}}</time></p>
+				{% endif %}
+		</div>
+	</a>
 </div>

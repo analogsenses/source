@@ -10,17 +10,18 @@ wordpress_id: 2
 
 **Analog Senses** is a website about the human side of technology, featuring links and articles on design, photography, Apple and the tech industry in general, as well as other interesting things currently happening on planet Earth. It is written and produced by **Álvaro Serrano**.
 
-<p class="extra-width"><img class="extra-width" src="https://farm2.staticflickr.com/1682/24430016186_e4d932ea6c_o.jpg"/></p>
+<p class="full-width"><img class="extra-width" src="https://c4.staticflickr.com/6/5721/30584641555_6057f70584_o.jpg"/></p>
 
 I was born in 1983 in [Plasencia](http://en.wikipedia.org/wiki/Plasencia), a walled city in Western Spain, small in size but steeped in History. The time was 1:05 a.m., it was Summer and it also happened to be Tuesday. 
 
-Flash-forward 32 years and change. I’m now a Telecommunication Engineer, and for the past 6 years I used to work at a Bioengineering and Telemedicine research group at Technical University of Madrid (UPM). I worked there as a mobile app developer in several research projects, with both national and international scope. These days I’m trying to establish myself as an independent writer, developer and maker of cool things.
+Flash-forward 33 years and change, and I’m now a Telecommunication Engineer with a Master’s degree in Bioengineering and Telemedicine. For six years I used to work at a research group at Technical University of Madrid (UPM), developing apps for several research projects, of both national and international scope. I left the University in 2014 and these days I’m trying to establish myself as an independent developer, writer, and photographer.
 
-My eyes are green, just like my mother’s, and my favorite smell in the world is that of freshly brewed coffee, specially early in the morning. I like to keep a nice fountain pen and a Moleskine notebook with me at all times, usually in the company of whatever book I’m reading. I love crime fiction and classic adventure stories, but I enjoy reading all sorts of things, both fiction and non-fiction.
+My eyes are green, just like my mother’s, and my favorite smell in the world is that of freshly brewed coffee, specially early in the morning.
 
-As of mid-2014 I’ve been diagnosed with [Type-1 Diabetes](http://en.wikipedia.org/wiki/Diabetes_mellitus_type_1), which means my body cannot regulate my blood-sugar levels on its own.
+If we’ve ever met, I’ve probably tried to take a picture of you at some point. Over the past few years, my relationship with photography has quickly grown from hobby to passion to love to business, and now I’m hooked. Besides taking pictures every day, I’m also one of the co-hosts of the photography podcast [Candid](http://www.candid.fm), alongside my friends [Josh Ginter](http://thenewsprint.co) and [Marius Masalar](https://mariusmasalar.me).
 
-[alvaroserrano.com](http://alvaroserrano.com) is my rarely updated personal website, written in Spanish.
+In mid-2014 I was diagnosed with [Type-1 Diabetes](http://en.wikipedia.org/wiki/Diabetes_mellitus_type_1), which means my body cannot regulate my blood-sugar levels on its own.
+
 
 <p class="card-separator">♤</p>
 
@@ -30,7 +31,7 @@ Analog Senses is powered by the wonderful [Octopress](http://www.octopress.org) 
 
 Special plugins used include [Footnotes Popover](https://github.com/mattgemmell/footnotes-popover) by [Matt Gemmell](http://mattgemmell.com), [Octopress Responsive Video Embed](https://github.com/optikfluffel/octopress-responsive-video-embed) by Udo Kramer, and [Octopress Spotify Play Button](https://github.com/mrcasals/octopress_spotify_play_plugin) by Marc Riera.
 
-Custom Web fonts used throughout the site include [Lamplighter Script](http://www.myfonts.com/fonts/fontdiner/lamplighter-script/) and [Atrament Web](https://typekit.com/fonts/atrament-web) in the site’s header and also in the titles and headings. The body font is [Proxima Nova](https://typekit.com/fonts/proxima-nova), which should improve readability, especially on high-resolution (a.k.a. Retina) displays.
+Custom Web fonts used throughout the site include [Garden Grown](http://www.myfonts.com/fonts/cultivated-mind/garden-grown/) and [Bebas Neue](http://www.fontfabric.com/bebas-neue/) in the site’s header and also in the titles and headings. The body font is [Proxima Nova](https://typekit.com/fonts/proxima-nova), which should improve readability, especially on high-resolution (a.k.a. Retina) displays.
 
 Images are usually hosted on [Flickr!](http://www.flickr.com/photos/analogsenses/)
 

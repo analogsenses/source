@@ -7,6 +7,7 @@ sharing: true
 categories: 
 - Photokina
 - Photography
+subtitle: "Faster AF, higher resolution, and dual SD-card slots are just the beginning. The new X-Series flagship is an absolute beast."
 description: "The Fuji X-T2 is an absolute powerhouse of a camera, and realizes all of the X-Series system’s potential."
 title-image: https://c8.staticflickr.com/6/5449/29690116303_cccd4201a9_o.jpg
 ---
@@ -50,7 +51,7 @@ Now, Fuji may have captured the attention of many eyeballs at Photokina with the
 			<a class="fancybox" rel="X-T2_2" href="https://c7.staticflickr.com/9/8136/30204543902_7bbd1659bb_o.jpg"><img src="https://c7.staticflickr.com/9/8136/30204543902_7bbd1659bb_o.jpg" alt="" /></a>
 			<a class="fancybox" rel="X-T2_2" href="https://c7.staticflickr.com/9/8277/30285517886_0bf1a4471f_o.jpg"><img src="https://c7.staticflickr.com/9/8277/30285517886_0bf1a4471f_o.jpg" alt="" /></a>
 		</div>
-		<p class="caption">Fujifilm employeee [Peter Fauland](https://www.instagram.com/fauland.photography/) was kind enough to show me [the new Fuji X-T2](http://amznlinks.com/global?user=analogsenses&us=B01I3LNMAM&uk=B01I5LE51A&es=B01I5LE51A) and helped me test some of its new features.</p>
+		<p class="caption">Fujifilm employee [Peter Fauland](https://www.instagram.com/fauland.photography/) was kind enough to show me [the new Fuji X-T2](http://amznlinks.com/global?user=analogsenses&us=B01I3LNMAM&uk=B01I5LE51A&es=B01I5LE51A) and helped me test some of its new features.</p>
 	</figure>
 </section>
 

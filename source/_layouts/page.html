@@ -6,32 +6,43 @@ layout: default
 <article role="article">
 <header>
 	{% if page.title-image %}
-		 <div class="title-with-image"{% if page.title-image-2 %} id="cross-fade"{% endif %}>
-				<img src="{{ page.title-image }}"/>
-				{% if page.title-image-2 %}
-					<img src="{{ page.title-image-2 }}"/>
-				{% endif %}
-				{% if page.title-image-3 %}
-					<img src="{{ page.title-image-3 }}"/>
-				{% endif %}
-				{% if page.title-image-4 %}
-					<img src="{{ page.title-image-4 }}"/>
-				{% endif %}
-				{% if page.title-image-5 %}
-					<img src="{{ page.title-image-5 }}"/>
-				{% endif %}
-				<div class="title-with-image-header" id="landing-point">
-					<h1>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
-					{% unless page.meta == false %}
-				      <p class="meta">
-				      	{% if page.subtitle %}
-				      		{{ page.subtitle }}
-				      	{% else %}
-				        	{% include post/date.html %}{{ time | date: "%B %d, %Y" }}{% if page.external-url %} | <a class="external-permalink" rel="full-article" href="{{ root_url }}{{ page.url }}">∞</a>{% endif %}
-				      	{% endif %}
-				      </p>
-				    {% endunless %}
+		 <div id="landing-point" class="title-with-image">
+			{% if page.title-image-2 %}
+				<div id="cross-fade">
+			{% endif %}
+			<img src="{{ page.title-image }}"/>
+			{% if page.title-image-2 %}
+				<img src="{{ page.title-image-2 }}"/>
+			{% endif %}
+			{% if page.title-image-3 %}
+				<img src="{{ page.title-image-3 }}"/>
+			{% endif %}
+			{% if page.title-image-4 %}
+				<img src="{{ page.title-image-4 }}"/>
+			{% endif %}
+			{% if page.title-image-5 %}
+				<img src="{{ page.title-image-5 }}"/>
+			{% endif %}
+			{% if page.title-image-2 %}
+			</div>
+			{% endif %}
+				<div class="title-with-image-header">
+					<h1>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>		
 				</div>
+				    {% unless page.meta == false %}
+				      <div class="meta">
+				      	{% if page.subtitle %}
+				     	<p class="subtitle">{{ page.subtitle }}</p>
+				    	{% endif %}
+				        {% include post/date.html %}
+				        {% if updated %}
+				        	<p>Last updated on {{ updated | date: "%B %d, %Y" }}</p>
+				        {% else %}
+				        	<p>{{ time | date: "%B %d, %Y" }}
+				        {% endif %}
+				        {% if page.external-url %} | <a class="external-permalink" rel="full-article" href="{{ root_url }}{{ page.url }}">∞</a>{% endif %}</p>
+				     </div>
+				    {% endunless %}
 		</div>
 	{% else %}
 		  {% if page.title %}
@@ -49,12 +60,3 @@ layout: default
   {% endunless %}
 </article>
 </div>
-<!--{% unless page.sidebar == false %}
-<aside class="sidebar">
-  {% if site.page_asides.size %}
-    {% include_array page_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
-{% endunless %}-->

@@ -5,7 +5,7 @@ date: 2015-12-31 07:05:05+00:00
 layout: page
 sharing: true
 title: "Paris 2016: Day One"
-subtitle: "December 31st, 2015"
+subtitle: "The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well."
 title-image: https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg
 title-image-2: https://c1.staticflickr.com/9/8897/27751263824_a49b949bf2_o.jpg
 title-image-3: https://c6.staticflickr.com/9/8745/28289064861_1cf48e4c56_o.jpg

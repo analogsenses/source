@@ -33,11 +33,12 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 				<div class="story-header">
 					<h1>Day One</h1>
 				</div>
+				<div class="story-text">
+					<p class="description">The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well.</p>
+				</div>
 			</a>
 		</div>
-		<div class="story-text">
-			<p class="description">The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well.</p>
-		</div>
+
 	</article>
 	
 	<article>
@@ -47,10 +48,10 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 				<div class="story-header">
 					<h1>Day Two</h1>
 				</div>
+				<div class="story-text">
+					<p class="description">Day two started with a walk across Pont Neuf and up to Notre Dame, followed by a brief stop for lunch in the Latin Quartier. We then spent the evening taking a stroll around Musée du Louvre, Jardin des Tuileries, Place de la Concorde and, finally, L’église de la Madeleine.</p>
+				</div>
 			</a>
-		</div>
-		<div class="story-text">
-			<p class="description">Day two started with a walk across Pont Neuf and up to Notre Dame, followed by a brief stop for lunch in the Latin Quartier. We then spent the evening taking a stroll around Musée du Louvre, Jardin des Tuileries, Place de la Concorde and, finally, L’église de la Madeleine.</p>
 		</div>
 	</article>
 	
@@ -61,10 +62,10 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 				<div class="story-header">
 					<h1>Day Three</h1>
 				</div>
+				<div class="story-text">
+					<p class="description">On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre.</p>
+				</div>
 			</a>
-		</div>
-		<div class="story-text">
-			<p class="description">On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre.</p>
 		</div>
 	</article>
 	
@@ -75,10 +76,10 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 				<div class="story-header">
 					<h1>Day Four</h1>
 				</div>
+				<div class="story-text">
+					<p class="description">On our last day we walked a bit more around Montmartre and climbed up the famous hill to visit the Sacré-Cœur.</p>
+				</div>
 			</a>
-		</div>
-		<div class="story-text">
-			<p class="description">On our last day we walked a bit more around Montmartre and climbed up the famous hill to visit the Sacré-Cœur.</p>
 		</div>
 	</article>
 </div>
