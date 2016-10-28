@@ -2999,7 +2999,7 @@ article {
 	    		width: auto;
 	    		margin-left: 0px;
 	       		margin-right: 0px;
-	        	font-size: 38px;
+	        	font-size: 30px;
 	        	line-height: 1.2;
 	      	}
 	       		
@@ -3008,7 +3008,7 @@ article {
 	       		margin-left: 0px;
 	       		margin-right: 0px;
 				margin-top: 40px;
-	        	font-size: 32px;
+	        	font-size: 30px;
 	        	line-height: 1.2;
 	
 		        a.external-url {
@@ -3016,8 +3016,8 @@ article {
 	       			margin-left: 0px;
 	       			margin-right: 0px;
 	        		margin-bottom: 10px;
-	        		font-size: 32px;
-	        		line-height: 1.4;
+	        		font-size: 30px;
+	        		line-height: 1.2;
 	    	    	color: $accent-color;
 	        	}
 	        	a.external-url:hover {
@@ -3031,9 +3031,16 @@ article {
 				
 				div.title-with-image-header {
 					h1{
-						font-size: 38px;
+						font-size: 30px;
 					}
 				}
+				
+				div.meta{
+					p{
+						font-size:12px;
+					}
+				}
+			
 	       	}
 	       	
 	       	div.title-with-image-external{
@@ -3042,14 +3049,20 @@ article {
 				
 				div.title-with-image-header-external {
 					h1{
-						font-size: 32px;
+						font-size: 30px;
 						line-height: 1.2;
 						margin-top:0;
 						a {
-							font-size: 32px;
+							font-size: 30px;
 							line-height: 1.2;
 						}
 					}			
+				}
+				
+				div.meta{
+					p{
+						font-size:12px;
+					}
 				}
 	       	}	
    	  	}
@@ -3061,12 +3074,12 @@ article {
 		}
 		
 		h1 {
-	  		font-size: 38px;
+	  		font-size: 30px;
 	        line-height: 1.4;
 		}
 		    
 		h2{
-		 	font-size: 32px;
+		 	font-size: 28px;
 		    line-height: 1.4;
 		}
 		  	
@@ -3099,12 +3112,12 @@ article {
 		    }
 		    
 		    h1 {
-		    	font-size: 38px;
+		    	font-size: 30px;
 	        	line-height: 1.4;
 		    }
 		    
 		    h2{
-		  	  	font-size: 32px;
+		  	  	font-size: 28px;
 		      	line-height: 1.4;
 		  	}
 		  	
@@ -3265,7 +3278,7 @@ article {
 	    
 	      h1, h1 a {
 	      	width: auto;
-	        font-size: 38px;
+	        font-size: 30px;
 	       	line-height: 1.2;
 	        margin-left:0px;
 	        margin-right:0px;
@@ -3273,13 +3286,13 @@ article {
 	      }
 	      
 	      h1 a.external-url {
-	      	font-size: 32px;
+	      	font-size: 30px;
 	       	line-height: 1.2;
 	      }
 	      
 	      h2, h2 a {
 	      	width: auto;
-	        font-size: 32px;
+	        font-size: 28px;
 	       	line-height: 1.2;
 	        margin-left:0px;
 	        margin-right:0px;
@@ -3291,7 +3304,8 @@ article {
 	      	margin-bottom: 20px;
 	      	line-height: 1.4;
 	      	padding-left: 0px;
-	    	padding-right: 0px;	
+	    	padding-right: 0px;
+	    	font-size: 20px;	
 	      }
 	      	p.updated {
 	      	margin-left: 0px;
