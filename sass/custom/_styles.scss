@@ -56,7 +56,7 @@ $border-style: 2px solid $accent-color;
 }
 
 .font-size-medium {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .font-size-large {
@@ -128,7 +128,7 @@ $border-style: 2px solid $accent-color;
 }
 
 .serif-font{
-	font-family: "adobe-garamond-pro", Georgia, serif;
+	font-family: "freight-text-pro", Georgia, serif;
 }
 
 .default-font {
@@ -236,7 +236,7 @@ section {
 
 blockquote {
   position: static;	
-  width: 548px;
+  width: 628px;
   padding-left: 20px;
   padding-right: 20px;
   margin: auto;
@@ -455,36 +455,20 @@ nav {
   	//border-top: $border-style;
   	border:none;
     overflow: auto;
-    max-width: 700px;
+    max-width: 1024px;
   	margin:auto;
   	padding: 12px 20px;
   	margin-bottom: 80px;
   
-  // ----- search form -----
-  
-  form {
-    float: right;
-    
-    input.search {
-      @extend .default-font;
-      @extend .font-size-smallest;
-      text-transform: uppercase;
-      text-align: center;
-      letter-spacing: 3px;
-      border: none;
-      background-color: #f2f2f2;
-      padding: 8px 12px;
-      border-radius: $border-radius-size;
-      width: 180px;
-    }
-  }
-  
   // ----- navigation links -----
   
-  ul {
-    float: left;
+  ul.main-navigation {
+    //float: left;
+    width: auto;
+    margin: auto;
     margin-top: 5px;
     line-height: 25px;
+    text-align: center;
     
     li {
       text-transform:uppercase;
@@ -493,7 +477,8 @@ nav {
       font-family: "futura-pt";
       display: inline;
       font-weight: normal;
-      padding-left:10px;
+      padding-left: 20px;
+      padding-right: 20px;
       letter-spacing: 2px;
       
       a{
@@ -502,10 +487,6 @@ nav {
       a:hover{
       	color: $accent-color;
       }
-    }
-    
-    li + li {
-      padding-left: 20px;
     }
   }
 }
@@ -622,7 +603,7 @@ body {
   // ----- pagination -----
   
   .pagination {
-  	max-width: 700px;
+  	max-width: 680px;
   	margin:auto;
     @extend .sans-serif-subheadings;
     font-size: 32px;
@@ -656,10 +637,28 @@ body {
     clear: both;
     text-align:center;
     
+	  // ----- search form -----
+	  
+	  form {
+	  	margin-bottom: 30px;    
+	    input.search {
+	      @extend .default-font;
+	      @extend .font-size-smallest;
+	      text-transform: uppercase;
+	      text-align: center;
+	      letter-spacing: 3px;
+	      border: none;
+	      background-color: #f2f2f2;
+	      padding: 8px 12px;
+	      border-radius: $border-radius-size;
+	      width: 180px;
+	    }
+	  }
+    
     p {
     	  margin-left: auto;
     	  margin-right: auto;
-	      max-width: 600px;      
+	      max-width: 680px;      
 	      @extend .default-font;
 	      font-size: 16px;
 	      color: $secondary-text-color;
@@ -683,7 +682,7 @@ body {
 // ------------------------------
 
 #blog-archives {
-  max-width: 600px;
+  max-width: 680px;
   margin: auto;
   margin-bottom: 100px;
   margin-top: 60px;
@@ -692,7 +691,7 @@ body {
     @extend .sans-serif-font-bold;
     color: $secondary-text-color;
     font-size: 56px;
-    width: 600px;
+    width: 680px;
     margin: auto;
     margin-top: 60px;
     margin-bottom: 60px;
@@ -704,7 +703,7 @@ body {
     margin-bottom: 60px;
     
     h1 {
-      width: 600px;
+      width: 680px;
       margin: auto;
       font-size: 42px;
       line-height:1.2;
@@ -734,6 +733,7 @@ body {
     margin:auto;	
     margin-bottom: 20px;
     line-height: 1.5;
+    font-weight: 400px;
   }
   
   div.meta {
@@ -776,7 +776,7 @@ body {
 // ------------------------------
 
 #guides-archive {
-  width: 600px;
+  width: 680px;
   margin: auto;
   margin-bottom: 100px;
   margin-top: 60px;
@@ -785,7 +785,7 @@ body {
     @extend .sans-serif-font-bold;
     color: $secondary-text-color;
     font-size: 34px;
-    width: 600px;
+    width: 680px;
     margin: auto;
     margin-top: 60px;
     margin-bottom: 60px;
@@ -796,7 +796,7 @@ body {
     margin-top: 60px;
     
     h1 {
-      width: 600px;
+      width: 680px;
       margin: auto;
       font-size: 42px;
       line-height:1.3;
@@ -826,6 +826,7 @@ body {
     margin:auto;	
     margin-bottom: 20px;
     line-height: 1.5;
+    font-weight: 400px;
   }
   
   div.meta {
@@ -877,7 +878,7 @@ body {
   	height: auto;
   	vertical-align: top;
   	width: auto;
-  	max-width: 487px;
+  	width: 487px;
   	display: inline-block;
   	margin: 6px 3px 6px 3px;;
 
@@ -954,6 +955,7 @@ body {
 		       padding-right: 40px;
 		       font-size: 22px;
 		       text-align: center;
+		       font-weight: 400px;
 		   	}
 		  
 		   	p.updated{
@@ -1056,7 +1058,7 @@ article {
     h1 {
       margin:auto;
       margin-bottom:10px;
-      max-width: 600px;
+      max-width: 680px;
       line-height: 1.4;
       font-size: 42px;
 
@@ -1180,7 +1182,7 @@ article {
 			bottom: 40px;
 			left: 0px;
 			right: 0px;
-			max-width: 600px;
+			max-width: 680px;
 		    text-align: center;
 		    margin-left: auto;
 			margin-right: auto;
@@ -1206,13 +1208,14 @@ article {
 		    	@extend .serif-font;
 		    	position: relative;
 				margin-top: 0px;
-		    	font-size: 26px;
+		    	font-size: 25px;
 		    	font-style: italic;
 		    	color: white;
 		    	margin-bottom: 20px;
 		    	text-transform: none;
 		    	letter-spacing: 0px;
 		    	line-height: 1.5;
+		    	font-weight: 400px;
 		    }
 				
 			a {
@@ -1245,7 +1248,7 @@ article {
 	    div.title-with-image-header-external {
 			width: auto;
 			height: auto;
-			max-width: 600px;
+			max-width: 680px;
 			background: none;
 			margin:auto;
 			position: absolute;
@@ -1258,7 +1261,7 @@ article {
 		    	@extend .sans-serif-subheadings;
 				position: relative;
 			    width: auto;
-			    max-width: 600px;
+			    max-width: 680px;
 			    text-align: center;
 			    height: auto;
 			    margin-left: auto;
@@ -1296,7 +1299,7 @@ article {
 			bottom: 40px;
 			left: 0px;
 			right: 0px;
-			max-width: 600px;
+			max-width: 680px;
 			text-align: center;
 			margin-left: auto;
 			margin-right: auto;
@@ -1343,14 +1346,14 @@ article {
   	display: block;
   	position: relative;
   	width: auto;
-  	max-width: 600px;
+  	max-width: 680px;
   	margin-right: auto !important;
     margin-left: auto !important;
   	margin-top: 30px;
   	margin-bottom: 30px;
   		
   	iframe {
-        max-width: 600px !important;
+        max-width: 680px !important;
         margin-right: auto !important;
         margin-left: auto !important;
 	}
@@ -1367,7 +1370,7 @@ article {
  }
  
  .footnotes, .entry-content .footnotes {
- 		width: 600px;
+ 		width: 680px;
  		margin: auto;
  		margin-top: 40px;
  		padding-bottom: 0px;
@@ -1388,7 +1391,7 @@ article {
   .entry-content h1, h1 {
     margin-bottom: 20px;
     font-size: 42px;
-    max-width: 600px;
+    max-width: 680px;
     margin: auto;
     margin-top: 40px;
     line-height:1.3;
@@ -1401,7 +1404,7 @@ article {
   .entry-content h2, h2 {
     font-size: 34px;
     text-transform: none;
-    max-width: 600px;
+    max-width: 680px;
     margin: auto;
     margin-top: 40px;
     margin-bottom: 20px;
@@ -1415,7 +1418,7 @@ article {
   .entry-content h3, h3 {
 	font-size: 28px;
     text-transform: none;
-    max-width: 600px;
+    max-width: 680px;
     margin: auto;
     margin-top: 40px;
     margin-bottom: 20px;
@@ -1430,7 +1433,7 @@ article {
   .entry-content h4, h4 {
 	font-size: 26px;
     text-transform: none;
-    max-width: 600px;
+    max-width: 680px;
     margin: auto;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -1445,7 +1448,7 @@ article {
     p {
     	@extend .default-line-height;
     	@extend .font-size-medium;
-    	max-width: 600px;
+    	max-width: 680px;
     	margin: auto;
     	margin-bottom: 20px;
     	text-align: left;
@@ -1467,7 +1470,7 @@ article {
   
   ul, ol {
     @extend .default-line-height;
-    max-width: 580px;
+    max-width: 660px;
     margin: auto;
   	margin-bottom: 25px;
   	margin-top: 10px; 	
@@ -1566,8 +1569,12 @@ article {
 	  	font-style: italic;
 	  	margin-bottom: 45px;
 	  	margin-top: 0px;
-	  	font-size: 22px;
-	  	line-height: 1.3;
+	  	font-size: 20px;
+	  	line-height: 1.5;
+	  	font-weight: 400px;
+	  		a{
+	  			font-weight: 600px;
+	  		}
   	}
   	
   p.caption{
@@ -1577,8 +1584,12 @@ article {
 	  	font-style: italic;
 	  	margin-bottom: 30px;
 	  	margin-top: 30px;
-	  	font-size: 22px;
-	  	line-height: 1.3;
+	  	font-size: 20px;
+	  	line-height: 1.5;
+	  	font-weight: 400px;
+	  		a{
+	  			font-weight: 600px;
+	  		}
   }
   
   p.caption-in-set, p.caption-wide, p.caption-narrow{
@@ -1588,8 +1599,13 @@ article {
 	  	font-style: italic;
 	  	margin-bottom: 30px;
 	  	margin-top: 30px;
-	  	font-size: 22px;
-	  	line-height: 1.3;
+	  	font-size: 20px;
+	  	line-height: 1.5;
+	  	font-weight: 400px;
+	  	
+	  		a{
+	  			font-weight: 600px;
+	  		}
   }
   
   p.caption-narrow {
@@ -1672,7 +1688,7 @@ section.toc{
     }
     
     > .sharing {
-    	max-width: 700px;
+    	max-width: 680px;
     	margin:auto;
     	margin-top: 80px;
     	margin-bottom: 80px;
@@ -1706,6 +1722,8 @@ section.toc{
     }
     
     a.basic-alignment {
+      @extend .sans-serif-subheadings;
+      font-weight: normal;
       text-decoration: none;
       width: 45%;
       display: block;
@@ -1729,7 +1747,7 @@ section.toc{
   		text-align: center;
   		font-size: 28px;
   		width: auto;
-  		max-width: 600px;
+  		max-width: 680px;
   		margin-left: auto;
   		margin-right: auto;
   		margin-top: 50px;
@@ -1809,6 +1827,7 @@ p.caption {
 	margin-top: 30px;
 	color: $light-color;
 	line-height: 1.3;
+	font-weight: 400px;
 }
 
 p.caption-in-set, p.caption-wide, p.caption-narrow {
@@ -1819,6 +1838,7 @@ p.caption-in-set, p.caption-wide, p.caption-narrow {
 	margin-bottom: 30px;
 	margin-top: 30px;
 	line-height: 1.3;
+	font-weight: 400px;
 }
 
 
@@ -1826,7 +1846,7 @@ p.caption-in-set, p.caption-wide, p.caption-narrow {
 
 figure.normal-width {
 	width: 100%;
-	max-width: 600px;
+	max-width: 680px;
 	margin:auto;
 	padding: 0;
 	margin-top: 35px;
@@ -1995,7 +2015,7 @@ figure.panorama {
 }
  	
 /*.entry-content .embed-video-container{
- 	max-width: 700px;
+ 	max-width: 680px;
  	margin: auto;
  } 	*/	
 
@@ -2021,6 +2041,14 @@ figure.panorama {
   	margin:auto;
   	padding: 12px 20px;
   	margin-bottom: 80px;
+  	
+  	ul.main-navigation{
+  		li {
+  			padding-left: 10px;
+  			padding-right: 10px;
+  		}
+  	}
+  	
 	
   }
   
@@ -2047,6 +2075,7 @@ figure.panorama {
 	// Archives and Guides Archive pages only 
  article p {
  		margin-bottom: 20px;
+ 		font-size: 18px;
  	} 
  	
  article header {
@@ -2064,7 +2093,7 @@ figure.panorama {
  		}
  			
  		div.meta{
- 			
+ 			max-width: 600px;
  			bottom: 30px;
  			
  			p {
@@ -2072,7 +2101,7 @@ figure.panorama {
  			}
 				
  			p.subtitle {
- 				font-size: 22px;
+ 				font-size: 23px;
  			}
 		} 		
  	}
@@ -2090,6 +2119,7 @@ figure.panorama {
 	  p{
 	  	margin:auto;
 	  	margin-bottom: 20px;
+	  	font-size: 18px;
 	  }
 	  	
 	  blockquote {
@@ -2184,6 +2214,7 @@ figure.panorama {
 	 	margin-bottom: 45px;
 	 	padding-left: 0px;
 	 	padding-right: 0px;
+	 	font-size: 20px;
 	 }
 	 
 	 p.caption {
@@ -2192,6 +2223,7 @@ figure.panorama {
 	 	margin: auto;
 	 	margin-top: 30px;
 	 	margin-bottom: 30px;
+	 	font-size: 20px;
 	 }
 	 
 	 p.caption-in-set, p.caption-wide, p.caption-narrow {
@@ -2200,6 +2232,7 @@ figure.panorama {
 	 	margin: auto;
 	 	margin-top: 30px;
 	 	margin-bottom: 30px;
+	 	font-size: 20px;
 	 }
 	 
 	 p.card-separator{
@@ -2255,7 +2288,13 @@ article #blog-archives, article #guides-archive {
       
       h1 {
       	margin-top: 0px;
-        margin-bottom: 20px;      
+        margin-bottom: 20px;   
+        max-width: 600px;   
+      }
+      
+      div.meta{
+      	max-width: 600px;
+      	margin: auto;
       }
     }
   }
@@ -2268,12 +2307,39 @@ article #photostories-archive {
 	    max-width: 48%;
 	    display: inline-block;
 	    vertical-align: top;
+    
+    	div.story-cover{
+    		
+    		a img{
+    			width: 100%;
+    		}
+    		
+    		div.story-text{
+    			p.description{
+    				padding-left: 20px;
+    				padding-right: 20px;
+    				font-size: 20px;
+    				line-height: 1.5;
+    			}
+    		}
+
+    		div.meta{
+    			p{
+    				width: auto;
+    				margin: auto;
+    				font-size: 14px;
+    				padding-left: 20px;
+    				padding-right: 20px;
+    			}
+    		}
+    	}
     }
+    
 }
 
 
   .blog-index .pagination{
-  	max-width: 700px;
+  	max-width: 600px;
   	margin: auto;
   	margin-bottom: 100px;
   	magrin-top: 50px;
@@ -2614,8 +2680,9 @@ article {
   	
 	  	.footnotes {
 	 		width:auto;
-	 		max-width: 600px;
+	 		max-width: 680px;
 	 		margin: auto;
+	 		margin-top: 40px;
 	 		
 	 		ol {
 	 				 			
@@ -2630,12 +2697,15 @@ article {
 	 	}	
 	}
 	
-	.footnotes {
+.footnotes {
 	 	width:auto;
 	 	max-width: 600px;
 		margin: auto;
 	 		
 	 	ol {
+	 		margin-left: auto !important;
+	 		margin-right: auto !important;
+	 		max-width: 600px;
 	 				 			
 	 		li{
 	 			font-size: 18px;
@@ -2732,7 +2802,9 @@ article {
 		      
 		      div.story-text {
 					p.description{ 
-						max-width: 100%
+						max-width: 100%;
+						padding-left: 40px;
+						padding-right: 40px;
 					}
 		      }
 	      }     

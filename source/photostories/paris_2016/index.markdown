@@ -49,7 +49,7 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 					<h1>Day Two</h1>
 				</div>
 				<div class="story-text">
-					<p class="description">Day two started with a walk across Pont Neuf and up to Notre Dame, followed by a brief stop for lunch in the Latin Quartier. We then spent the evening taking a stroll around Musée du Louvre, Jardin des Tuileries, Place de la Concorde and, finally, L’église de la Madeleine.</p>
+					<p class="description">Day two started with a walk across Pont Neuf and up to Notre Dame, followed by lunch in the Latin Quartier. We then took a stroll around Musée du Louvre, Jardin des Tuileries, Place de la Concorde, and L’église de la Madeleine.</p>
 				</div>
 			</a>
 		</div>

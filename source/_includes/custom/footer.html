@@ -1,2 +1,10 @@
+{% if site.simple_search %}
+<form action="{{ site.simple_search }}" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="analogsenses.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Site Search"/>
+  </fieldset>
+</form>
+  {% endif %}
 <p>Analog Senses uses Amazon Affiliate links whenever possible. <a href="/about">Read more</a>.</p>
 <p>Copyright &copy; 2009-{{ site.time | date: "%Y" }} {{ site.author }}</p>
