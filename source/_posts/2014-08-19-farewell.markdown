@@ -1,0 +1,16 @@
+---
+author: alvaroserrano
+comments: false
+date: 2014-08-19 15:31:31+00:00
+layout: post
+slug: farewell
+title: Farewell
+wordpress_id: 1637174260
+categories:
+- Digital Life
+post_format:
+- Link
+external-url: http://bearskinrug.co.uk/farewellala/
+---
+
+Speaking of Kevin Cornell, here's his personal farewell message to A List Apart. Perfect.

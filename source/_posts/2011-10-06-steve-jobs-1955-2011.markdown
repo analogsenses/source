@@ -1,0 +1,19 @@
+---
+author: alvaroserrano
+comments: false
+date: 2011-10-06 08:13:30+00:00
+layout: post
+slug: steve-jobs-1955-2011
+title: Steve Jobs (1955-2011)
+wordpress_id: 1637172909
+categories:
+- Apple
+- Digital Life
+post_format:
+- Link
+external-url: http://apple.com/stevejobs
+---
+
+[![Steve Jobs (1955-2011)](http://farm7.static.flickr.com/6038/6216851936_0caf9de31e.jpg)](http://www.apple.com/stevejobs)
+
+What a sad day. Thanks for the inspiration, Steve.

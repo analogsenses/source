@@ -1,0 +1,24 @@
+---
+author: alvaroserrano
+comments: false
+date: 2009-11-26 20:11:04+00:00
+layout: post
+slug: '258184990'
+title: Today’s quote
+wordpress_id: 258184990
+categories:
+- Post
+- Quote
+post_format:
+- Quote
+tags:
+- Quote
+external-url: http://www.azlyrics.com/lyrics/countingcrows/murderofone.html
+---
+
+<blockquote>One for Sorrow, Two for Joy
+Three for Girls and Four for Boys
+Five for Silver, Six for Gold
+Seven for a Secret never to be told.</blockquote>
+
+**Counting Crows**, _A Murder Of One (1995)._
