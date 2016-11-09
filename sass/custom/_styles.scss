@@ -517,7 +517,11 @@ body {
 		  		top: 60%;
 		  		left: 0;
 		  		right: 0;
+		  		
+		  		-webkit-transform: translateY(-60%);
+		  		-ms-transform: translateY(-60%);
 		  		transform: translateY(-60%);
+		  		
 		    	
 		    	h1 {
 					padding:0px;
@@ -551,7 +555,11 @@ body {
 						margin:0;
 						padding-top: 20px;
 						margin-left: 17px;
+						
+						-webkit-transform: translateY(8px);
+						-ms-transform: translateY(8px);
 						transform: translateY(8px);
+						
 					}
 					
 					a:hover {
@@ -906,7 +914,11 @@ body {
 		    top: 50%;
 		    left:0;
 		    right: 0;
+		    
+		    -webkit-transform: translateY(-50%);
+		    -ms-transform: translateY(-50%);
 		    transform: translateY(-50%);
+		    
 		    transition: opacity .5s ease-in-out;
    			-moz-transition: opacity .5s ease-in-out;
    			-webkit-transition: opacity .5s ease-in-out;
@@ -940,7 +952,11 @@ body {
 		    left:0;
 		    right: 0;
 		    opacity: 0;
+		    
+		    -webkit-transform: translateY(-50%);
+		    -ms-transform: translateY(-50%);
 		    transform: translateY(-50%);
+		    
 		    transition: opacity .5s ease-in-out;
    			-moz-transition: opacity .5s ease-in-out;
    			-webkit-transition: opacity .5s ease-in-out;
@@ -1140,7 +1156,10 @@ article {
   			top: 50%;
   			left: 0;
   			right: 0;
-  			transform: translateY(-50%);	    
+  			
+		    -webkit-transform: translateY(-50%);
+		    -ms-transform: translateY(-50%);
+		    transform: translateY(-50%);    
 		    
 		    h1 {
 		    	@extend .sans-serif-font-bold;
@@ -1255,7 +1274,10 @@ article {
   			top: 50%;
   			left: 0;
   			right: 0;
-  			transform: translateY(-50%);	
+  			
+		    -webkit-transform: translateY(-50%);
+		    -ms-transform: translateY(-50%);
+		    transform: translateY(-50%);
 	    
 		    h1 {
 		    	@extend .sans-serif-subheadings;
@@ -2374,7 +2396,10 @@ article #photostories-archive {
 	  			div.site-title {
 	  				
 	  				top: 55%;
-		  			transform: translateY(-55%);
+		  			
+		    		-webkit-transform: translateY(-55%);
+		    		-ms-transform: translateY(-55%);
+		    		transform: translateY(-55%);
 	  				
 	  				h1 {
 		  				a.analog{
@@ -2846,7 +2871,10 @@ article {
 	  			div.site-title {
 	  				
 	  				top: 50%;
-		  			transform: translateY(-50%);
+		  			
+		    		-webkit-transform: translateY(-50%);
+		    		-ms-transform: translateY(-50%);
+		    		transform: translateY(-50%);
 	  				
 	  				h1 {
 		  				a.analog{
@@ -2858,7 +2886,10 @@ article {
 					  	a.senses{
 				 			font-size: 87px;
 				 			margin-left: 10px;
-				 			transform: translateY(5px);
+				 			
+		    				-webkit-transform: translateY(5px);
+		    				-ms-transform: translateY(5px);
+		    				transform: translateY(5px);
 				  		}
 	  				}
 	      
@@ -2985,6 +3016,9 @@ article {
 	  			div.site-title {
 	  				
 	  				top: 50%;
+		  			
+		  			-webkit-transform: translateY(-50%);
+		  			-ms-transform: translateY(-50%);
 		  			transform: translateY(-50%);
 	  				
 	  				h1 {
@@ -3141,8 +3175,8 @@ article {
 
 		h1, h2, h3 {
 			width: auto;
-		    margin-left: 20px;
-		    margin-right: 20px;
+		    margin-left: 0px;
+		    margin-right: 0px;
 		}
 		
 		h1 {
