@@ -457,8 +457,8 @@ nav {
     overflow: auto;
     max-width: 1024px;
   	margin:auto;
-  	padding: 12px 20px;
-  	margin-bottom: 100px;
+  	padding: 0px;
+  	margin-bottom: 120px;
   
   // ----- navigation links -----
   
@@ -466,19 +466,18 @@ nav {
     //float: left;
     width: auto;
     margin: auto;
-    margin-top: 5px;
+    margin-top: 0px;
     line-height: 25px;
     text-align: center;
     
     li {
       text-transform:uppercase;
       font-size: 18px;
-      //@extend .default-font;
-      font-family: "futura-pt";
+      @extend .default-font;
       display: inline;
       font-weight: normal;
-      padding-left: 20px;
-      padding-right: 20px;
+      padding-left: 25px;
+      padding-right: 25px;
       letter-spacing: 2px;
       
       a{
@@ -501,15 +500,15 @@ body {
   // ----- blog header -----
   
   > header {
-    height: 280px;
+    height: 300px;
     
     hgroup{
     text-align: center;
-    height: 280px;
+    height: 300px;
     	
 	    div.analog-senses{
 	    	position: relative;
-	    	height: 280px;
+	    	height: 300px;
 	    	
 	    	div.site-title {
 	    		height: auto;
@@ -566,25 +565,23 @@ body {
 				    	color: $headings-color;
 				  	}
 		    	}
+		    	
+		    	h2 {
+			    	@extend .default-font;
+				    padding: 0;
+				    margin: 0;
+				    color: $light-color; 
+				    font-size: 18px;
+					font-variant: medium;
+					font-weight: medium;
+					line-height: 1;
+					letter-spacing: 3px;	
+					text-align: center;
+					margin-top: 15px;
+			    }
 	    	}	
 	    }
-	    
-	    h2 {
-	    	@extend .default-font;
-		    padding: 0;
-		    margin: 0;
-		    color: $light-color; 
-		    font-size: 18px;
-			font-variant: medium;
-			font-weight: medium;
-			line-height: 1;
-			letter-spacing: 3px;	
-			text-align: center;
-			margin-top: 20px;
-
-	    }
     }
-  
   }
   
   // ----- blog content -----
@@ -1113,6 +1110,7 @@ article {
 	    	@extend .default-font;
 			text-transform: uppercase;
 			letter-spacing: 2px;
+			font-size: 18px;
 			color: $secondary-text-color;
 			
 			a {
