@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A review of the B&amp;O Beoplay H5 wireless earphones"
+title: "A review of the Beoplay H5 wireless earphones by B&amp;O PLAY"
 date: 2016-11-29 18:07:33 +0100
 comments: false
 sharing: true
