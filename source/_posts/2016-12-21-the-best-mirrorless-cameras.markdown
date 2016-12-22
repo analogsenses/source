@@ -214,7 +214,7 @@ Using native APS-C lenses on APS-C bodies is almost always the better choice, an
 
 ##Honorable mention: the Olympus OM-D E-M1 Mark II
 
-Another very good camera to buy for sports shooting is the [Olympus OM-D E-M1 Mark II](http://amznlinks.com/global?user=analogsenses&us=B01M4MB3DK). This is a speed demon in avery way, with a burst rate of up to 15 fps with full AF capabilities, or an insane 60 fps with focus locked to the first frame. Add to that a fantastic EVF and a solid, weather-sealed body and you get a pretty serious camera for the action-minded photographer.
+Another very good camera to buy for sports shooting is the [Olympus OM-D E-M1 Mark II](http://amznlinks.com/global?user=analogsenses&us=B01M4MB3DK). This is a speed demon in every way, with a burst rate of up to 15 fps with full AF capabilities, or an insane 60 fps with focus locked to the first frame. Add to that a fantastic EVF and a solid, weather-sealed body and you get a pretty serious camera for the action-minded photographer.
 
 Another strong point the E-M1 II has going for it is the lenses. The Olympus PRO zoom lenses are among the very best the industry has to offer: they’re super durable, weather-sealed, and have longer reach than comparable APS-C or Full Frame lenses. The [40-150mm F/2.8 PRO](http://amznlinks.com/global?user=analogsenses&us=B00NGSLSK4&uk=B00NED5VHC&es=B00NED5VHC) zoom, for example, gets you all the way to a 300mm-equivalent field of view with a fast aperture and in a lens that is still fairly small and light. That’s impressive.
 
@@ -236,11 +236,11 @@ Considering the image quality gap that exists, and considering that the E-M1 II 
 		<h1>Best Wildlife Camera: The Olympus OM-D E-M1  Mark II</h1>
 	</div>
 
-A great wildlife camera needs to fulfill a few very important requirements, all of which the [Olympus OM-D E-M1 Mark II](http://amznlinks.com/global?user=analogsenses&us=B01M4MB3DK) checks neatly.
+A great wildlife camera needs to fulfill a few very important requirements, most of which the [Olympus OM-D E-M1 Mark II](http://amznlinks.com/global?user=analogsenses&us=B01M4MB3DK) checks neatly.
 
 First of all, it needs to be weather sealed. That’s non-negotiable. A lot can happen while you’re out there in the wilderness, waiting to capture the perfect shot of an elusive animal, so your camera needs to be able to handle pretty much anything Mother Nature throws at you. The E-M1 II is easily the toughest mirrorless camera yet, and one of the toughest cameras, period. It is splash-proof, dust-proof and freeze-proof, and so are the Olympus PRO lenses. Whatever the weather, if you’re tough enough to be out there in it, so is the E-M1 II.
 
-Then there’s the matter of reach. It’s not always feasible or advisable to get up close and personal with certain animals, so you’ll want to have an outstanding telephoto lens in your arsenal. The [Olympus PRO 300mm F/4](http://amznlinks.com/global?user=analogsenses&us=B01950SVHY&uk=B019MYY38O&es=B019MYY38O) prime lens gives you a 600mm-equivalent field of view in a lens that’s still small enough to carry anywhere. And with Olympus’ superb IBIS technology and the lens’ own image stabilization working together, you can easily capture tack-sharp photos handheld. No other camera system out there comes close to this.
+Then there’s the matter of reach. It’s not always feasible or advisable to get up close and personal with certain animals, so you’ll want to have an outstanding telephoto lens in your arsenal. The [Olympus PRO 300mm F/4](http://amznlinks.com/global?user=analogsenses&us=B01950SVHY&uk=B019MYY38O&es=B019MYY38O) prime lens gives you a 600mm-equivalent field of view in a lens that’s still small enough to carry anywhere. And with Olympus’ superb IBIS technology and the lens’ own image stabilization working together, you can easily capture tack-sharp photos handheld.
 
 <figure>
 	<img src="https://c7.staticflickr.com/1/607/31616230062_86755ef12e_o.jpg" width="450"/>
@@ -248,9 +248,11 @@ Then there’s the matter of reach. It’s not always feasible or advisable to g
 
 Another important factor is speed. In wildlife photography you don’t usually get a second chance to capture the perfect shot — after all, wild animals are notoriously bad at following posing directions. This is where having a quick and accurate AF system, fast burst rate, and generous buffer depth matters most, and the E-M1 II is an industry leader in all of those things. With 121 cross-type hybrid AF points, a 15 fps burst rate with full AF capabilities, and a buffer that just keeps going forever, you won’t need a second chance to capture the next iconic National Geographic cover.
 
-Finally, another important aspect is size and weight. The beauty of the MFT system is that you can carry a complete professional setup in a relatively small bag, something that is even more important when traveling. Carting a massive pile of equipment around the African jungle is no fun, and with the E-M1 II, you won’t have to.
+Size and weight are also important for wildlife photography. The beauty of the MFT system is that you can carry a complete professional setup in a relatively small bag, something that is even more important when traveling. Carting a massive pile of equipment around the African jungle is no fun, and with the E-M1 II, you won’t have to.
 
-Overall, the E-M1 II is by far the best option for wildlife photography, and easily tops this category.
+Overall, the E-M1 II is a great wildlife camera, but there’s a catch: many wildlife photographs are taken at night, or in places where light is scarce. In such cases, image stabilization is of no help because you want to maintain a sufficiently fast shutter speed in order to avoid motion blur in your subjects. Your only choice there is to raise your ISO value, and that’s where the E-M1 II struggles. Unfortunately, the smaller size of the MFT sensor means low light performance isn’t as good as APS-C or Full Frame, and there’s no way around it.
+
+If you intend to do a majority of your wildlife shooting in good lighting conditions, the E-M1 II is a solid choice, and the best overall camera in this category. However, if you plan on spending much time shooting in dimly lit places, you may want to take a look at the honorable mention below, or even the <a href="#low-light">Low Light</a> pick further down in this guide.
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
@@ -259,11 +261,13 @@ Overall, the E-M1 II is by far the best option for wildlife photography, and eas
 
 ##Honorable mention: the Fuji X-T2
 
-The [Fuji X-T2](http://amznlinks.com/global?user=analogsenses&us=B01I3LNMAM&uk=B01I5LE51A&es=B01I5LE51A) does almost everything the E-M1 II does, only slightly worse. 
+The [Fuji X-T2](http://amznlinks.com/global?user=analogsenses&us=B01I3LNMAM&uk=B01I5LE51A&es=B01I5LE51A) is almost as good as the E-M1 II in most situations, and even slightly better in some cases. 
 
-It’s weather-sealed, but not to the same extent. It has excellent long lenses, like the [100-400mm F/4.5-5-6](http://amznlinks.com/global?user=analogsenses&us=B019Y5UBT6&uk=B01ABQKAXY&es=B01ABQKAXY), but they’re slower. It has very good burst rate — 11 fps mechanical, 14 fps electronic — and a reasonably deep buffer, but both of those are slightly worse than the E-M1 II’s. Finally, it is a significantly bigger and heavier system once you start adding multiple lenses.
+It’s weather-sealed, but not to the same extent. It has excellent long lenses, like the [100-400mm F/4.5-5-6](http://amznlinks.com/global?user=analogsenses&us=B019Y5UBT6&uk=B01ABQKAXY&es=B01ABQKAXY), but they’re slower. It has a very good burst rate — 11 fps mechanical, 14 fps electronic — and a reasonably deep buffer, but both of those are slightly worse than the E-M1 II’s. It’s also a significantly bigger and heavier system once you start adding multiple lenses.
 
-Now, in a world where the E-M1 II didn’t exist, the Fuji X-T2 would have easily taken this category, and I would still recommend it over the Olympus for people whose needs are not limited to wildlife photography. Basically, the more stuff you do with your camera, the more I would encourage you to pick up the X-T2 instead. The E-M1 II _is_ better at wildlife photography, but the X-T2 is better at nearly everything else.
+However, thanks to its bigger APS-C sensor, it’s also better than the E-M1 II in low light, which could make a big difference for night-time photographers. Whether that’s enough to tip the scales in its favor is entirely up to you. Of course, other cameras are even better than the X-T2 for low light photography, but if you go with one of those you’ll be stuck carrying even bigger and heavier lenses, and by then you start getting diminishing results. Wildlife photography is all about striking the right balance, and there’s a very good case to be made for the X-T2 here.
+
+In fact, in a world where the E-M1 II didn’t exist, the Fuji X-T2 would have easily taken this category, and I would still recommend it over the Olympus for people who shoot primarily in poor lighting conditions, and those whose needs are not limited to wildlife photography. Basically, the more stuff you do with your camera, the more I would encourage you to pick up the X-T2 instead. The E-M1 II may be better at wildlife photography, but the X-T2 is better at nearly everything else.
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
