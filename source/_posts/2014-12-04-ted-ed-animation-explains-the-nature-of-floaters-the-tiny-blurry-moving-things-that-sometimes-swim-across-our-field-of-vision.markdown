@@ -15,3 +15,5 @@ Luckily, today [Laughing Squid](http://laughingsquid.com/a-ted-ed-animation-expl
 {% youtube Y6e_m9iq-4Q %}
 
 So, while in some extreme cases floaters may be the result of a more serious condition, their presence in small quantities is a very common occurrence and is usually no cause for concern. That said, if you're experiencing similar symptoms and are still unsure as to what it could be, the best course of action is always to check with your doctor.
+
+**Update (01/07/2017):** Check out this [comprehensive guide to floaters](http://www.lasereyesurgeryhub.co.uk/comprehensive-guide-floaters/) at Laser Eye Surgery Hub for more information.
