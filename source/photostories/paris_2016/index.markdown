@@ -13,15 +13,15 @@ sharing: true
 categories: 
 - Photostories
 - Travel
-description: "We took a short trip to Paris for 2016’s New Year's Eve. This is a photo story of our trip."
+description: "We took a short trip to Paris for 2016’s New Year’s Eve. This is a photo story of our trip."
 
 ---
 
-Ah, Paris. The City of Light. So much has been written about this beautiful city that I feel there's nothing else I could add that would do it justice.
+Ah, Paris. The City of Light. So much has been written about this beautiful city that I feel there’s nothing else I could add that would do it justice.
 
-But it's not just writers that are fascinated by Paris's unique atmosphere. Au contraire. All kinds of artists have been inspired to produce their best work by this enchanting city: painters, photographers, actors, musicians, you name it. There's just something special about it that seems to wake our imagination like perhaps no other place on this planet.
+But it’s not just writers that are fascinated by Paris’s unique atmosphere. _Au contraire_. All kinds of artists have been inspired to produce their best work by this enchanting city: painters, photographers, actors, musicians, you name it. There’s just something special about it that seems to wake our imagination like perhaps no other place on this planet.
 
-Paris is one of a kind, so when Miriam and I decided a few weeks ago that we would be spending New Year's Eve there, my brain was immediately filled to the brink with wild expectations.
+Paris is one of a kind, so when Miriam and I decided a few weeks ago that we would be spending New Year’s Eve there, my brain was immediately filled to the brink with wild expectations.
 
 This photo story is an account of our trip, arranged by day. Just click on any of the days below to get started.
 

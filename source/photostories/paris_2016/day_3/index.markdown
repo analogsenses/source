@@ -197,4 +197,37 @@ Then, with our bellies successfully packed with exquisite French food, we took a
 
 After that, we thought about having a drink but it was already too late and we wanted to come back to Montmartre the next morning anyway, so we decided to call it a night.
 
-All in all, this was a great day, but there was still more. Check out [Day Four](/photostories/paris_2016/day_4/#landing-point) to see the last episode of this photo story.
+All in all, this was a great day, but there was still more to come.
+
+<div id="photostories-archive">
+
+	<h1>More from this photo story</h1>
+	
+	<article>
+		<div class="story-cover">
+			<a href="/photostories/paris_2016/day_2/#landing-point">
+				<img src="https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg"/>
+				<div class="story-header">
+					<h1>Day Two</h1>
+				</div>
+				<div class="story-text">
+					<p class="description">Day two started with a walk across Pont Neuf and up to Notre Dame, followed by lunch in the Latin Quartier. We then took a stroll around Musée du Louvre, Jardin des Tuileries, Place de la Concorde, and L’église de la Madeleine.</p>
+				</div>
+			</a>
+		</div>
+	</article>
+	
+	<article>
+		<div class="story-cover">
+			<a href="/photostories/paris_2016/day_4/#landing-point">
+				<img src="https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg"/>
+				<div class="story-header">
+					<h1>Day Four</h1>
+				</div>
+				<div class="story-text">
+					<p class="description">On our last day we walked a bit more around Montmartre and climbed up the famous hill to visit the Sacré-Cœur.</p>
+				</div>
+			</a>
+		</div>
+	</article>
+</div>

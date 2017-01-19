@@ -100,4 +100,36 @@ Then, as midnight drew closer, we were offered another complimentary glass of ch
 
 From then on, it was all laughter until we eventually called it a night and headed back to our hotel to have a good night’s sleep and prepare for an exciting few days ahead in the City of Light. 
 
-Check out [Day Two](/photostories/paris_2016/day_2/#landing-point) to see the next part of this photo story.
+<div id="photostories-archive">
+	
+	<h1>More from this photo story</h1>
+	
+	<article>
+		<div class="story-cover">
+			<a href="/photostories/paris_2016/day_2/#landing-point">
+				<img src="https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg"/>
+				<div class="story-header">
+					<h1>Day Two</h1>
+				</div>
+				<div class="story-text">
+					<p class="description">Day two started with a walk across Pont Neuf and up to Notre Dame, followed by lunch in the Latin Quartier. We then took a stroll around Musée du Louvre, Jardin des Tuileries, Place de la Concorde, and L’église de la Madeleine.</p>
+				</div>
+			</a>
+		</div>
+	</article>
+	
+	<article>
+		<div class="story-cover">
+			<a href="/photostories/paris_2016/day_3/#landing-point">
+				<img src="https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg"/>
+				<div class="story-header">
+					<h1>Day Three</h1>
+				</div>
+				<div class="story-text">
+					<p class="description">On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre.</p>
+				</div>
+			</a>
+		</div>
+	</article>
+	
+</div>

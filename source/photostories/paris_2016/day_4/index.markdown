@@ -63,9 +63,9 @@ All in all, it was the perfect way to cap a fantastic trip.
 	</figure>
 </section>
 
-As soon as we left the Sacré-Cœur it started raining again, so I had to be careful while taking some of these shots. Thankfully, the [Sony α7 II](http://www.amazon.com/dp/B00PX8CHO6/?tag=analogsens-20) is weather-sealed, as are all my lenses,[^DayFour1] so I wasn't too concerned about the equipment.
+As soon as we left the Sacré-Cœur it started raining again, so I had to be careful while taking some of these shots. Thankfully, the [Sony α7 II](http://www.amazon.com/dp/B00PX8CHO6/?tag=analogsens-20) is weather-sealed, as are all my lenses,[^DayFour1] so I wasn’t too concerned about the equipment.
 
-[^DayFour1]: Except for the rented [Canon EF 35mm f/1.4 L](http://www.amazon.com/dp/B00009R6WY/?tag=analogsens-20) lens, which I didn't use at all that day.
+[^DayFour1]: Except for the rented [Canon EF 35mm f/1.4 L](http://www.amazon.com/dp/B00009R6WY/?tag=analogsens-20) lens, which I didn’t use at all that day.
 
 Still, after three days of poor weather we had certainly had enough of it, so we quickly walked back to the Metro and returned to the hotel to pick up our luggage.
 
@@ -73,10 +73,45 @@ We had barely enough time to grab something to eat before leaving. Luckily, we h
 
 On our way to the airport we had a very interesting discussion on world politics with our driver, who seemed to be an expert in all things humans. I love talking to people, so the entire trip went by in the blink of an eye for me, although Miriam was not so amused. Before I could realize, we were already at the airport, and it was finally time to say goodbye to the City of Light.
 
-Adieu, Paris.
+_Adieu, Paris_.
 
-Or, to be more optimistic, à bientôt.
+Or, to be more optimistic, _à bientôt_.
 
 <p class="card-separator">♢</p>
 
 P.S. If you enjoyed this photo story, please take a minute to share it on your preferred social network by clicking on the appropriate link below. Thanks!
+
+<div id="photostories-archive">
+
+	<h1>More from this photo story</h1>
+	
+	<article>
+		<div class="story-cover">
+			<a href="/photostories/paris_2016/day_3/#landing-point">
+				<img src="https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg"/>
+				<div class="story-header">
+					<h1>Day Three</h1>
+				</div>
+				<div class="story-text">
+					<p class="description">On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre.</p>
+				</div>
+			</a>
+		</div>
+	</article>
+	
+	<article>
+		<div class="story-cover">
+			<a href="/photostories/paris_2016/day_1/#landing-point">
+				<img src="https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg"/>
+				<div class="story-header">
+					<h1>Day One</h1>
+				</div>
+				<div class="story-text">
+					<p class="description">The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well.</p>
+				</div>
+			</a>
+		</div>
+
+	</article>
+	
+</div>

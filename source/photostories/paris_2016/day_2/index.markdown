@@ -30,9 +30,9 @@ To round out the list of gear, I took the [Capture Clip](http://www.amazon.com/d
 
 The bag itself is the [Ona Brixton](http://www.amazon.com/dp/B00AEB3PPC/?tag=analogsens-20) messenger bag in Antique Cognac leather. It’s a gorgeous-looking bag, no doubt, but it proved to be too heavy to carry so much gear, and my shoulders and lower back were killing me towards the end of each day. If there was ever any doubt, this trip definitively taught me that if you need to carry lots of heavy stuff for an extended period of time, nothing can beat the ergonomics of a good backpack.
 
-As for the film, even though I brought 12 rolls with me — six color and six black and white — the bad weather proved to be problematic. I didn't want to risk getting the Canon lens wet because it's famously _not_ weather sealed — one of only a few Canon L lenses that aren't — so there were times when I had to leave the film camera in the bag. In the end I only shot one roll of Fuji 400H, one of Kodak Portra 160, and one of Kodak Portra 400.[^Daytwo2]
+As for the film, even though I brought 12 rolls with me — six color and six black and white — the bad weather proved to be problematic. I didn’t want to risk getting the Canon lens wet because it’s famously _not_ weather sealed — one of only a few Canon L lenses that aren’t — so there were times when I had to leave the film camera in the bag. In the end I only shot one roll of Fuji 400H, one of Kodak Portra 160, and one of Kodak Portra 400.[^Daytwo2]
 
-[^Daytwo2]: These are three high-quality film stocks, and for the first time ever I had them processed and scanned by [a professional film lab](http://carmencitafilmlab.com). I'm quite happy with the results, but if I'm being 100% honest, I'm not seeing a big enough quality difference to justify the extra cost, so in all likelihood I will continue to scan my film rolls at home for the foreseeable future.
+[^Daytwo2]: These are three high-quality film stocks, and for the first time ever I had them processed and scanned by [a professional film lab](http://carmencitafilmlab.com). I’m quite happy with the results, but if I’m being 100% honest, I’m not seeing a big enough quality difference to justify the extra cost, so in all likelihood I will continue to scan my film rolls at home for the foreseeable future.
 
 <p class="card-separator">♢</p>
 
@@ -236,4 +236,37 @@ After such a long day and considering we had been up quite late the previous nig
 
 That night we grabbed a quick bite near the hotel and then crashed into bed quite early in order to rest as much as possible for the next day.
 
-Don’t miss [Day Three](/photostories/paris_2016/day_3/#landing-point) to know how this photo story continues.
+<div id="photostories-archive">
+
+	<h1>More from this photo story</h1>
+
+	<article>
+		<div class="story-cover">
+			<a href="/photostories/paris_2016/day_1/#landing-point">
+				<img src="https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg"/>
+				<div class="story-header">
+					<h1>Day One</h1>
+				</div>
+				<div class="story-text">
+					<p class="description">The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well.</p>
+				</div>
+			</a>
+		</div>
+
+	</article>
+	
+	<article>
+		<div class="story-cover">
+			<a href="/photostories/paris_2016/day_3/#landing-point">
+				<img src="https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg"/>
+				<div class="story-header">
+					<h1>Day Three</h1>
+				</div>
+				<div class="story-text">
+					<p class="description">On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre.</p>
+				</div>
+			</a>
+		</div>
+	</article>
+	
+</div>
