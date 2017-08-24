@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "The best Full Frame lenses for the Sony E-mount system (October 2016)"
-subtitle: "Last updated on October 20th, 2016"
+title: "The best Full Frame lenses for the Sony E-mount system (August 2017)"
+subtitle: "Last updated on August 24th, 2017"
 permalink: /2016/01/13/gear-guide-the-best-full-frame-lenses-for-the-sony-e-mount/
-date: 2016-08-05 20:00:00 +0100
-updated: 2016-10-20 20:00:00 +0100
+date: 2017-08-24 20:00:00 +0100
+updated: 2017-08-24 20:00:00 +0100
 comments: false
 sharing: true
 categories: 
@@ -15,17 +15,19 @@ description: "Camera bodies come and go, but lenses are long-term investments. C
 title-image: https://c1.staticflickr.com/9/8618/28316864776_15dd41861d_o.jpg
 ---
 
-Back in late 2013, Sony surprised the photography world with the release of the Sony Alpha α7, a remarkable mirrorless camera with interchangeable lenses and a top-of-the-line, 24-MP Full Frame sensor. Since then, the company has continued to releas a steady stream of superb camera bodies for the E-mount system every few months, in both Full Frame and APS-C flavors.
+Back in late 2013, Sony surprised the photography world with the release of the Sony Alpha α7, a remarkable interchangeable lens mirrorless camera with a top-of-the-line, 24-Megapixel Full Frame sensor. Since then, the company has relentlessly built on the α7’s success, releasing a steady stream of camera bodies in both Full Frame and APS-C flavors. In 2017, Sony took things to a whole different level with the release of the Sony Alpha α9, a high-end professional camera aimed straight at Canon and Nikon’s last remanining stronghold in the market: high-speed action and sports photography.
 
-As great as Sony’s camera bodies are, however, the true value of a camera system is measured by its lenses and by that measure, the Full Frame E-mount system is still young. However, in under three years, Sony has done a remarkable job of covering the most important bases.
+As great as Sony’s camera bodies are, however, the true value of a system is measured by its lenses. No mater how many resources you throw at the problem, it takes time to build a new camera system from scratch. Especially when your stated goal is as ambitious as capturing the high-end of the professional market, where only the very best will do. Luckily, in just a few years, Sony has done a terrific job of covering all of the fundamental focal lengths with excellent offerings and they’re now expanding the lineup with higher-end, more specialized tools like ultra-wide angle and super long telephoto zooms.
+
+It’s been a few years in the making, but with such great cameras and lenses, it looks like the Full Frame E-mount system is finally ready to sit at the grown-ups’ table — and if the rumors are any indication, there’s plenty more to come.
 
 <figure class="full-width">
 	<img src="https://c5.staticflickr.com/9/8602/28168210924_e491c940a9_o.jpg"/>
 </figure>
 
-In practical terms, the Full Frame E-mount system could be considered a joint venture between Sony and Zeiss. The two companies have a long-standing working relationship, and nowhere is it more evident than here. Indeed, Sony and Zeiss combined have released a staggering 25 Full Frame lenses for the E-mount system to date, including two new lenses in the days leading up to Photokina 2016. No matter how you look at it, that’s an impressive pace.
+In practical terms, the Full Frame E-mount system can be considered a joint venture between Sony and Zeiss. The two companies have a long-standing relationship, and have combined efforts to release more than 30 Full Frame lenses for the E-mount system to date. Best of all, that number doesn’t even include native lenses from 3rd-party manufacturers like Samyang and Voigtlander. And make no mistake, some of these are so good it’s very hard to tell them apart from 1st-party lenses.
 
-With so many new and shiny things to choose from, it can sometimes be hard to make the right choice for your needs. In this guide, we’ll go over the finest pieces of glass for the Full Frame E-mount system.
+With so many new and shiny things to choose from, it can sometimes be tough to make the right choice for your needs. To help make the system a bit more approachable from the outside, in this guide we’ll go over the best pieces of glass for the Full Frame E-mount system.
 
 <p class="card-separator">♢</p>
 
@@ -67,6 +69,12 @@ Due to the length of this guide, here’s a handy table of contents. Click/tap o
 		<li>
 			<p><a class="toc-link" href="#85-gm">Sony FE 85mm f/1.4 G-Master</a></p>
 		</li>
+		<li>
+			<p><a class="toc-link" href="#100STF-gm">Sony FE 100mm f/2.8 STF G-Master</a></p>
+		</li>
+		<li>
+			<p><a class="toc-link" href="#batis-135">Zeiss Batis 135mm f/2.8</a></p>
+		</li>
 	</ul>
 	<strong><p><a class="toc-link" href="#macro-lenses">Macro lenses</a></p></strong>
 	<ul>
@@ -77,10 +85,16 @@ Due to the length of this guide, here’s a handy table of contents. Click/tap o
 	<strong><p><a class="toc-link" href="#zoom-lenses">Zoom lenses</a></p></strong>
 	<ul>
 		<li>
+			<p><a class="toc-link" href="#12-24-f4">Sony FE 12–24mm f/4 G</a></p>
+		</li>
+		<li>
 			<p><a class="toc-link" href="#16-35-f4">Sony Zeiss Vario-Tessar T* FE 16–35mm f/4 ZA OSS</a></p>
 		</li>
 		<li>
 			<p><a class="toc-link" href="#70-200-f4">Sony FE 70-200mm f/4 G OSS</a></p>
+		</li>
+		<li>
+			<p><a class="toc-link" href="#16-35-gm">Sony FE 16-35mm f/2.8 G-Master</a></p>
 		</li>
 		<li>
 			<p><a class="toc-link" href="#24-70-gm">Sony FE 24-70mm f/2.8 G-Master</a></p>
@@ -88,17 +102,14 @@ Due to the length of this guide, here’s a handy table of contents. Click/tap o
 		<li>
 			<p><a class="toc-link" href="#70-200-gm">Sony FE 70-200mm f/2.8 G-Master</a></p>
 		</li>
+		<li>
+			<p><a class="toc-link" href="#100-400-gm">Sony FE 100-400mm f/4.5-5.6 G-Master</a></p>
+		</li>
 	</ul>
 	<strong><p><a class="toc-link" href="#manual-focus-lenses">Manual focus lenses</a></p></strong>
 	<ul>
 		<li>
 			<p><a class="toc-link" href="#zeiss-loxia">The Zeiss Loxia lenses</a></p>
-		</li>
-	</ul>
-	<strong><p><a class="toc-link" href="#video-lenses">Lenses optimized for video</a></p></strong>
-	<ul>
-		<li>
-			<p><a class="toc-link" href="#28-135-f4">Sony FE PZ 28-135mm f/4 G OSS</a></p>
 		</li>
 	</ul>
 	<strong><p><a class="toc-link" href="#aside-24-70">A brief aside on the Sony Zeiss 24-70mm f/4 lens</a></p></strong>
@@ -115,16 +126,16 @@ Got it? Good. Let’s get started.
 
 First and foremost, this guide focuses specifically on lenses that can be considered great long-term investments. While there are certainly other lenses compatible with the system that may be more affordable, every single one of the lenses included here can be thought of as best-in-class, and is therefore guaranteed to hold its value and perform flawlessly for many years to come.
 
-Secondly, the guide focuses on Full Frame lenses only. Sony also makes APS-C sized E-mount lenses and cameras, but those are outside the scope of this article. To avoid confusion, Full Frame E-mount lenses are commonly referred to as FE lenses, and the Full Frame E-mount system as the FE system.
+Secondly, the guide focuses exclusively on Full Frame lenses. Sony also makes APS-C E-mount lenses and cameras, but those are outside the scope of this article. To avoid confusion, Full Frame E-mount lenses are commonly referred to as FE lenses, and the Full Frame E-mount system as the FE system.
 
-Thirdly, the guide only considers native E-mount lenses. The E-mount system is famous because, thanks to its short flange distance, its cameras can use almost every DSLR lens in existence with adapters, including Sony’s own A-mount line of lenses. Using adapted lenses, however, presents its own set of issues, not the least of which is unreliability. There’s also great variation in lens behavior depending on the particular lens + adapter combination. For these reasons, adapted lenses are also outside the scope of this article.
+Thirdly, the guide only considers native E-mount lenses. The E-mount system is famous because, thanks to its short flange distance, its cameras can use almost every DSLR lens in existence with adapters. This includes all of Canon’s EF lenses and Sony’s own line of A-mount lenses. Using adapted lenses, however, presents its own set of issues, not the least of which is unreliability. There’s also great variation in lens behavior depending on the particular lens + adapter + camera combination. For these reasons, adapted lenses are also outside the scope of this article.
 
 <figure class="full-width">
 	<img src="https://farm2.staticflickr.com/1538/23729140464_f3b4b1ee63_o.jpg" width="832"/>
 	<p class="caption">Besides native FE lenses, E-mount cameras are compatible with a wide array of DSLR lenses via the use of adapters, but those are outside the scope of this guide.</p>
 </figure>
 
-Finally, the guide is structured in several categories, arranged by focal length and/or primary application. These categories were created based on the current available lens lineup for the system. In the future, additional categories such as fisheye lenses and super telephoto lenses may be added, as lenses meeting the corresponding criteria are released. Given the youth of the FE system as a whole and the pace at which new lenses are being announced, the addition of at least some of these categories in the near future appears very likely.
+Finally, the guide is structured in several categories, arranged by focal length and/or primary application. These categories were created based on the current available lens lineup for the system. In the future, additional categories such as fisheye lenses and super telephoto primes may be added, as lenses meeting the corresponding criteria are released. Given the youth of the FE system as a whole and the pace at which new lenses are being announced, the addition of at least some of these categories in the near future appears very likely.
 
 Now, without further ado, let’s take a look at the best Full Frame lenses for the E-mount system.
 
@@ -136,13 +147,15 @@ For the purpose of this guide, ultra-wide angle lenses are those with a focal le
 
 <h3 id="batis-18">Zeiss Batis 18mm f/2.8</h3>
 
-The Batis family of lenses was announced by Zeiss in April 2015. They are designed and built by Zeiss, but unlike the lenses Zeiss makes for Canon, Nikon and other manufacturers, the Batis lenses are fully native for the E-mount and include autofocus, weather sealing, a cool and useful new OLED screen that displays the depth of field scale, and a solid metal design. They also pack some serious image quality, as we’ve come to expect from the German manufacturer.
+The Batis family of lenses was announced by Zeiss in April 2015. They are designed and built by Zeiss, but unlike the lenses they make for Canon, Nikon and others, the Batis lenses are fully native for the E-mount system and include autofocus, weather sealing, an OLED screen that displays the depth of field scale, and a solid metal design. They also pack some serious image quality, as we’ve come to expect from the German manufacturer.
+
+Another interesting and defining aspect of the Batis lenses is that they strike a great combination between top-notch image and build quality, moderately fast apertures, compact size, and light weight. These lenses are clearly designed to take full advantage of mirrorless technology and make for a terrific setup. If you prefer to own smaller lenses in exchange for that last stop of speed but don’t want to compromise on image quality, the Batis family is just the thing for you.
 
 <img src="https://c3.staticflickr.com/9/8679/28481846610_a34e6f9d60_o.jpg" width="500"/>
 
-The **[Zeiss Batis 18mm f/2.8](http://amznlinks.com/global?user=analogsenses&us=B01E8OBQS8&uk=B01E8OBQS8&es=B01E8OBQS8)** is an ultra-wide angle prime lens. It’s currently the widest lens in the Batis family, and also the most expensive. At $1,499, it is clearly intended to be a top-notch optical instrument for landscape photographers, and the first few reviews all appear to agree on that. Like most of Zeiss’ wide angle primes, the Batis 18mm lens uses a Distagon design, as well as Zeiss’ own T\* multi-coating to reduce flare, making it a truly outstanding lens capable of delivering impressive image quality under the most demanding circumstances.
+The **[Zeiss Batis 18mm f/2.8](http://amznlinks.com/global?user=analogsenses&us=B01E8OBQS8&uk=B01E8OBQS8&es=B01E8OBQS8)** is an ultra-wide angle prime lens. It’s currently the widest lens in the Batis family. At $1,499, it is clearly intended to be a top-notch optical instrument for landscape photographers. Like most of Zeiss’ wide angle primes, the Batis 18mm lens uses a Distagon design, as well as Zeiss’ own T\* multi-coating to reduce flare, making it a truly outstanding lens capable of delivering impressive image quality under the most demanding circumstances.
 
-The Zeiss Batis 18mm lens is also noteworthy for having virtually zero coma which, together with its large aperture and its impressive corner-to-corner sharpness, makes it a great lens to use for astrophotography.
+The Zeiss Batis 18mm lens is also noteworthy for having virtually zero coma which, together with its large aperture and impressive corner-to-corner sharpness, makes it a great lens to use for astrophotography.
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
@@ -157,7 +170,7 @@ The wide angle category includes lenses with focal lengths between 24 and 35mm. 
 
 <h3 id="batis-25">Zeiss Batis 25mm f/2</h3>
 
-The **[Zeiss Batis 25mm f/2](http://amznlinks.com/global?user=analogsenses&us=B00WIHXBK4&uk=B00WIHXBK4&es=B00WIHXBK4)** is the longer of the two wide angle lenses in the Batis family, being substantially longer than the Batis 18mm lens in terms of field of view, while still being pretty wide itself. Like its siblings, this lens uses a tried-and-true Distagon design, as well as Zeiss’ own T\* multi-coating to reduce flare.
+The **[Zeiss Batis 25mm f/2](http://amznlinks.com/global?user=analogsenses&us=B00WIHXBK4&uk=B00WIHXBK4&es=B00WIHXBK4)** is substantially longer than the Batis 18mm lens in terms of field of view, while still being pretty wide itself. Like many of its siblings, this lens uses a tried-and-true Distagon design, as well as Zeiss’ own T\* multi-coating to reduce flare.
 
 <img src="https://farm2.staticflickr.com/1593/23728519784_3691b44913_b.jpg" width="500"/>
 
@@ -176,24 +189,24 @@ At $1,299, the price of the 25mm Batis is in line with premium wide-angle lenses
 
 The barrier between the wide angle and standard focal lengths is somewhat open to interpretation. For some people, wide angle lenses go up to 35mm inclusive, with 50mm being the first true standard focal length. Others, however, think 35mm is already long enough to be considered standard. Although this is purely a personal preference, this guide considers 35mm lenses to be part of the standard range.
 
-Standard lenses are the most intuitive to use for most people. These lenses render the world around us in a very familiar way, which makes composing your images a very straightforward affair. Just point, click and in most cases, what you see with your own eyes is what you’re going to get in the picture.
+Standard lenses are very intuitive to use for most people. These lenses render the world around us in a very familiar way, which makes composing your images a very straightforward affair. Just point, click and in most cases, what you see with your own eyes is what you’re going to get in the picture.
 
 Standard lenses are the perfect entry-point into the photography world for the vast majority of people, but their applications don’t stop there — far from it, actually. A great standard lens is a valuable asset to have in any kit, so let’s take a look at what we have here.
  
 
 <h3 id="distagon-35">Sony Zeiss FE 35mm f/1.4 Distagon T*</h3>
 
-35mm is perhaps the most versatile focal length. From street photography, photo-journalism, environmental portraits and even the occasional landscape shot, most everyday scenes look “just right” through a 35mm lens. And at f/1.4, there’s plenty of control over depth of field — can you say _bokeh_? — as well as enough speed for low light photography. It will come as no surprise, then, that 35mm f/1.4 lenses are a staple of every Full Frame camera system out there.
+35mm is arguably the most versatile focal length. From street photography, photo-journalism, environmental portraits and even the occasional landscape shot, most everyday scenes look “just right” through a 35mm lens. And at f/1.4, there’s plenty of control over depth of field — can you say _bokeh_? — as well as enough speed for low light photography. It will come as no surprise, then, that 35mm f/1.4 lenses are a staple of every Full Frame camera system out there.
 
-The **[Sony Zeiss FE 35mm f/1.4 Distagon T\*](http://amznlinks.com/global?user=analogsenses&us=B00U29GNBO&uk=B00UJRSOB6&es=B00UJRSOB6)** is the first such lens for the Full Frame E-mount system, and what a lens it is. Designed as a collaboration between the two companies, it is manufactured by Sony up to Zeiss specifications, and it’s currently the fastest 1st-party lens for the E-mount system, together with the 50mm f/1.4 and 85mm f/1.4 primes. But more on those later.
+The **[Sony Zeiss FE 35mm f/1.4 Distagon T\*](http://amznlinks.com/global?user=analogsenses&us=B00U29GNBO&uk=B00UJRSOB6&es=B00UJRSOB6)** is the first such lens for the Full Frame E-mount system, and what a lens it is. Designed as a collaboration between the two companies, it is manufactured by Sony up to Zeiss specifications. It’s currently the fastest 1st-party lens for the E-mount system, together with the 50mm f/1.4 and 85mm f/1.4 primes. But more on those later.
 
 <img src="https://c4.staticflickr.com/2/1704/23729877683_c3c014ecc8_o.jpg" width="500"/>
 
 On the technical front, the lens features a Distagon design with 12 elements in 8 groups and 9 rounded aperture blades. These two design treats give it a superior bokeh when compared to similar lenses for other systems. Sharpness is excellent across the frame right from f/1.4, and the lens becomes razor-sharp when stopped down a bit, even in the extreme corners. It also uses Zeiss’ T\* coating, and has weather sealing.
 
-Besides its speed, the 35mm Distagon is also noteworthy in that it features a switch that changes the clicky-ness of the aperture ring: with just a simple flick you can choose between having nice and reassuring clicks every 1/3rd of a stop, or having a completely click-less aperture ring that is smooth and silent, and therefore better suited for video recording.
+Besides its speed, the 35mm Distagon is also noteworthy in that it features a physical switch that changes the clicky-ness of the aperture ring: with just a simple flick you can choose between having nice and reassuring clicks every 1/3rd of a stop, or having a completely click-less aperture ring that is smooth and silent, and therefore better suited for video recording.
 
-Finally, the 35mm Distagon is a rather big and heavy lens, especially for a mirrorless system. And at $1,598, it’s also towards the more expensive end of the FE lens lineup, and is in fact one of the most expensive 35mm lenses for any camera system. However, its optical performance and excellent build quality more than make up for its high price and considerable heft. If you value lenses as long-term investments, you’ll be absolutely delighted by this one.
+Finally, the 35mm Distagon is a rather big and heavy lens, especially for a mirrorless system. And at $1,598, it’s also towards the more expensive end of the FE lens lineup. In fact, it is one of the most expensive 35mm lenses for any camera system. However, its optical performance and excellent build quality more than make up for its high price and considerable heft. If you value lenses as long-term investments, you’ll be absolutely delighted by this one.
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
@@ -227,15 +240,15 @@ At 778g the 50mm Planar is noticeably heavier than the 35mm Distagon, which was 
 
 Sony, however, took a different approach when planning the first few lenses for their FE system. What if a 50mm lens didn’t have to be cheap? What if you took price out of the equation and simply focused on making the best 50mm lens that you could? What would such a lens look like?
 
-The answer is, it would probably look a lot like the **[Sony Zeiss FE 55mm f/1.8 Sonnar T\*](http://amznlinks.com/global?user=analogsenses&us=B00FSB799Q&uk=B00FYRLSK0&es=B00FYRLSK0)** lens. Here we have a standard lens with a maximum aperture of “only” f/1.8, and a price tag of just a hair under $1,000. Something doesn’t add up here, because these prices are reserved for more exotic, faster lenses with f/1.4 or even f/1.2 maximum apertures.
+The answer is, it would probably look a lot like the **[Sony Zeiss FE 55mm f/1.8 Sonnar T\*](http://amznlinks.com/global?user=analogsenses&us=B00FSB799Q&uk=B00FYRLSK0&es=B00FYRLSK0)** lens. Here we have a standard lens with a maximum aperture of “only” f/1.8, and a price tag of just a hair under $1,000. Something doesn’t add up here, because these price points are usually reserved for more exotic, faster lenses with f/1.4 or even f/1.2 maximum apertures.
 
 <img src="https://c5.staticflickr.com/2/1484/24248468412_a69714d6cb_o.jpg" width="500"/>
 
-Luckily, specs aren’t everything. With an all-metal, weather-sealed body, the Sonnar 55mm lens packs professional-grade image quality in a relatively light and compact package. This is one of the sharpest FE lenses to date, being incredibly sharp right from f/1.8. That means it’s fully usable in any situations, and you’ll never need to stop it down just to get acceptable image quality, as you often would with cheaper lenses.
+Luckily, specs aren’t everything. With an all-metal, weather-sealed body, the Sonnar 55mm lens packs professional-grade image quality in a relatively light and compact package. This is one of the sharpest FE lenses to date, being incredibly sharp right from f/1.8. That means it’s fully usable in any situation, and you’ll never need to stop it down just to get acceptable image quality, as you often would with cheaper lenses.
 
-The Sonnar 55mm lens also happens to have one of the most beautiful bokehs of any standard lens out there. Now, bokeh is a notoriously subjective thing, but the Sonnar 55mm renders very smooth and creamy images with incredibly abrupt transitions between the in-focus and the out-of-focus areas. This helps it achieve the classic Zeiss “pop” and 3D effect that so many photographers crave. And while there may be some onion rings in the bokeh balls due to the use of aspherical elements, these are never pronounced enough to become a problem.
+The Sonnar 55mm lens also happens to have one of the most beautiful bokehs of any standard lens out there. Now, bokeh is a notoriously subjective aspect, but the Sonnar 55mm renders very smooth and creamy images with incredibly abrupt transitions between the in-focus and the out-of-focus areas. This helps it achieve the classic Zeiss “pop” and 3D effect that so many photographers crave. And while there may be some onion rings in the bokeh balls due to the use of aspherical elements, these are never pronounced enough to become a problem.
 
-By comparison, the newer 50mm f/1.4 Planar lens gives you an aperture ring, slightly smoother bokeh without onion rings and similar sharpness — although the corners are a bit weaker — but it comes in a package that is over twice as big and heavy and about $500-600 more expensive. Whether the tradeoff is worth it to you personally, only you can say.
+By comparison, the newer 50mm f/1.4 Planar lens gives you an aperture ring, slightly smoother bokeh without onion rings and similar sharpness — although the corners are a bit weaker — but it comes in a package that is over twice as big and heavy, and about $500-600 more expensive. Whether the tradeoff is worth it to you personally, only you can say.
 
 At the end of the day, if all you want is a cheap nifty-fifty, then this lens clearly isn’t for you. But if you want a _great_ standard lens, one that you’ll want to keep and use for decades, the Sonnar 55mm f/1.8 lens definitely fits the bill.
 
@@ -256,21 +269,23 @@ Portrait lenses are often described as short telephoto lenses as well, which can
 
 <h3 id="batis-85">Zeiss Batis 85mm f/1.8</h3>
 
-Currently the longest lens in the Batis family, this was the first true portrait lens for the FE system, and it just so happens to be one of the best portrait lenses for _any_ system. You see where this is going, don’t you?
+The Batis 85mm was the first classic portrait lens for the FE system, and it just so happens to be one of the best portrait lenses for _any_ system.
 
-The **[Zeiss Batis 85mm f/1.8](http://amznlinks.com/global?user=analogsenses&us=B00WII52ZU&uk=B00WII52ZU&es=B00WII52ZU)** lens finds itself in pretty much the same situation as several other lenses featured throughout this guide: at $1,199, it is certainly more expensive than similar lenses for other systems, but its build quality and optical performance are also clearly superior, making it well worth it in the end. This is quickly becoming a recurring theme in the FE system as a whole.
+The **[Zeiss Batis 85mm f/1.8](http://amznlinks.com/global?user=analogsenses&us=B00WII52ZU&uk=B00WII52ZU&es=B00WII52ZU)** lens finds itself in pretty much the same situation as several other lenses featured throughout this guide: at $1,199, it is certainly more expensive than similar lenses for other systems, but its build quality and optical performance are up there with the very best lenses money can buy, making it a worthwhile investment in the end.
 
 <img src="https://farm2.staticflickr.com/1657/23729877603_92083475c9_b.jpg" width="500"/>
 
-In addition to weather sealing, metal body and OLED display, all features that the lens shares with its 18mm and 25mm siblings, the 85mm Batis also features built-in image stabilization technology. This will work on its own to provide 2-3 stops worth of real-world stabilization, or together with the in-body image stabilization technology (IBIS) found in the 2nd-generation α7-series cameras to achieve up to 4 stops of stabilization. Not bad, indeed.
+In addition to weather sealing, a metal body and an OLED display, the 85mm Batis also features built-in optical image stabilization technology. This will work on its own to provide 2-3 stops worth of real-world stabilization, or together with the in-body image stabilization technology (IBIS) found in modern Sony cameras to achieve up to 4 stops of stabilization. Not bad, indeed.
 
-At this price point some people will no doubt still be unfazed by the lens’s modest maximum aperture of f/1.8, but if you’ve ever shot with an 85mm Full Frame lens, then you know that depth of field at most working distances is already super-thin at this aperture. If you were to use an even faster lens you’d quickly run into frequent focusing issues, such as only having one eye in focus, or placing focus on the nose and missing the eyes.
+At this price point some people will no doubt still be unfazed by the lens’s modest maximum aperture of f/1.8, but if you’ve ever shot with an 85mm Full Frame lens, you know that depth of field at most working distances is already razor-thin at this aperture. If you were to use an even faster lens you’d quickly run into frequent focusing issues, such as only having one eye in focus, or placing focus on the nose and missing the eyes.
 
 Despite what speed evangelists say, if you want great portraits, f/1.8 is more than enough, and the 85mm Batis excels at doing just that. Faster lenses definitely have their place, and can be used to great effect in some situations, but they are by no means a requirement for doing awesome portraiture work.
 
-In exchange for that extra bit of light-gathering ability, the 85mm Batis gives you a whole lot more in terms of image quality: sharp across the frame wide open, this lens is fully usable right from f/1.8, and definitely sharper than any other 85mm lenses at that aperture, except Zeiss’ own **[85mm Otus](http://amznlinks.com/global?user=analogsenses&us=B00NGEE102&uk=B00NGEE102&es=B00NGEE102)** lens. That said, keep in mind that, while the Otus is sharper and faster, it also costs a whopping $4,000 and lacks both autofocus and image stabilization, which the Batis has. When you look at it that way, the Batis sure looks like an excellent bargain by comparison.
+In exchange for that extra bit of light-gathering ability, the 85mm Batis gives you a whole lot more in terms of image quality. Sharp across the frame wide open, this lens is fully usable right from f/1.8 and its color, contrast and pop are all classic Zeiss-like.
 
-All in all, the 85mm Batis is a truly outstanding portrait lens surely deserving of a place in your kit.
+That being said, as of mid-2017 there’s an odd elephant in the room. The $599 Sony FE 85mm f/1.8 lens is just as sharp and comes in at half the price of the Batis. That lens is an excellent bargain, but you do give up image stabilization and the excellent T\* coatings that greatly reduce chromatic aberration and improve flare resistance. Besides, those coatings are largely responsible for much of the classic rendering and character of Zeiss lenses, which is a big reason why they are so appreciated by photographers.
+
+This one is admittedly a tough call, but I’m still giving the edge to the Batis despite the significant price gap. The Sony is a fantastic choice if your budget is a bit constrained, but if you want the best compact portrait prime in the FE system, the Batis is the one to get.
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
@@ -281,17 +296,15 @@ All in all, the 85mm Batis is a truly outstanding portrait lens surely deserving
 
 <h3 id="85-gm">Sony FE 85mm f/1.4 G-Master</h3>
 
-A long-awaited 85mm f/1.4 lens for the Sony FE system was finally announced in early 2016, and released in March. This lens caught almost everyone by surprise, not because people didn’t expect to see such a lens eventually, but because it was released very shortly after the universally-praised 85mm Batis lens. For a growing system, it somehow feels redundant to repeat that focal length instead of covering the still-missing 135mm spot, but then again Sony’s lens roadmap has always been a bit of a mystery.
-
-The **[Sony FE 85mm f/1.4 G-Master](http://amznlinks.com/global?user=analogsenses&us=B01BESR5KO&uk=B01BUAVL7E&es=B01BUAVL7E)** belongs to Sony’s newly introduced G-Master line of professional lenses. These are designed and manufactured with a 50 lines per mm resolution target, which is a significant step up from the previous standard, and should ensure G-Master lenses will be able to resolve even future high-resolution sensors somewhere around the 75 Megapixel mark, or even more.
+The **[Sony FE 85mm f/1.4 G-Master](http://amznlinks.com/global?user=analogsenses&us=B01BESR5KO&uk=B01BUAVL7E&es=B01BUAVL7E)** belongs to Sony’s G-Master line of professional lenses. These are designed and manufactured with a 50 lines-per-mm resolution target, which is a significant step up from the previous standard, and should ensure G-Master lenses will be able to resolve the finest details, even when shot on future high-resolution sensors somewhere around the 75 Megapixel mark, or even more.
 
 <img src="https://c8.staticflickr.com/9/8862/28166523663_6dd5031360_o.jpg" width="500"/>
 
-The 85mm G-Master lens features 11 elements in 8 groups, which is a considerable amount of glass. As a result, the lens is slightly slower to focus than the 85mm Batis. It’s also been widely reported that AF is a bit noisy with this lens, so videographers may want to test it and see for themselves before buying. AF speed is quick enough for most everyday scenes, but the lens certainly lacks the snappiness of the 85mm Batis.
+The 85mm G-Master lens features 11 elements in 8 groups, which is a considerable amount of glass. As a result, the lens is quite a bit slower to focus than both of the f/1.8 lenses. It’s also been widely reported that AF is a bit noisy with this lens, so videographers may want to test it and see for themselves before buying. AF speed is quick enough for most everyday scenes, but the lens certainly lacks the snappiness of the 85mm Batis.
 
-A new extreme aspherical (XA) element, which is manufactured to extremely small tolerances, allows these lenses to deliver smooth bokeh without the typical onion rings associated with the use of traditional aspherical elements. Plus, its 11 circular aperture blades ensure bokeh highlights remain circular throughout most of the frame, and produce a more neutral bokeh compared to the swirly effect you can see with other lenses like the 85mm Batis. Of course, bokeh is by definition a subjective aspect, and I just so happen to prefer the swirly bokeh of the Batis lens, but if you like your bokeh balls to remain round, this 85mm G-Master lens is definitely the way to go.
+A new extreme aspherical (XA) element, which is manufactured to extremely small tolerances, allows these lenses to deliver smooth bokeh without the typical onion rings associated with traditional aspherical elements. Plus, its 11 circular aperture blades ensure bokeh highlights remain circular throughout most of the frame, and produce a more neutral bokeh compared to the swirly effect you can see with other lenses like the 85mm Batis. Of course, bokeh is by definition a subjective aspect, and I just so happen to prefer the swirly bokeh of the Batis lens. That being said, if you like your bokeh balls to remain round, this 85mm G-Master lens is definitely the way to go.
 
-Apart from specific image quality enhancements, the 85mm G-Master lens features several high-end hardware controls like a dedicated aperture ring that can be de-clicked for video, an AF/MF switch, and a focus hold button. However, the 85mm G-Master lens is significantly larger than the Batis and at 820g, it comes in at almost twice the weight. Furthermore, it doesn’t have built-in image stabilization, so if you plan on using the lens with your APS-C Sony camera — none of which feature IBIS — then the Batis may be the better choice. 
+Apart from specific image quality enhancements, the 85mm G-Master lens features several high-end hardware controls like a dedicated aperture ring that can be de-clicked for video, an AF/MF switch, and a focus hold button. However, the 85mm G-Master lens is significantly larger than the Batis and at 820g, it comes in at almost twice the weight. Furthermore, it doesn’t have built-in image stabilization, so if you plan on using the lens with an APS-C Sony camera — other than the α6500 — then the Batis may be the better choice. 
 
 In terms of raw sharpness, it’s worth pointing out that the Batis is ever-so-slightly sharper from f/1.8 up to f/2.8, but from then on both lenses are basically identical. These two portrait primes are both phenomenal choices, and both deserve a place in this guide. 
 
@@ -300,6 +313,54 @@ At $1,798, the 85mm G-Master lens is a no-compromises optical instrument, with a
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
 	<a href="http://amznlinks.com/global?user=analogsenses&us=B01BESR5KO&uk=B01BUAVL7E&es=B01BUAVL7E"><img src="https://c2.staticflickr.com/6/5639/29783994073_0f09da7c63_o.jpg"/></a>
+</section>
+
+<p class="card-separator">♤</p>
+
+<h3 id="100STF-gm">Sony FE 100mm f/2.8 STF G-Master</h3>
+
+The **[Sony FE 100mm f/2.8 STF G-Master](http://amznlinks.com/global?user=analogsenses&us=B06WRMXVKK&uk=B06VTFT32D&es=B06VTFT32D)** is Sony’s first lens for the FE system to feature an apodization element (APD). This element is analogous to a radial neutral density filter that darkens the outer part of the diaphragm, which translates into much smoother edges in the bokeh. Between the APD element and the 11-bladed aperture diaphragm, those seeking ultimate softness in their bokeh highlights will no doubt be impressed by the rendering of this lens.
+
+That being said, keep in mind that the apodization element does affect light transmission, so even though the lens is rated as f/2.8, in reality its T-stop — the actual amount of light that gets through — is T/5.6. That means you lose a full stop of light in exchange for the nicer looking bokeh, so this may not be the best lens to use in low light.
+
+<img src="https://farm5.staticflickr.com/4394/36625152861_55b8ab07d0_o.jpg" width="500"/>
+
+Going beyond the apodization element, Sony hasn’t compromised on any other aspects of image quality with this lens. The 100mm STF G-Master is blisteringly sharp across the frame at all apertures, which gives its images an even more striking contrast between the perfectly detailed in-focus areas and the completely soft out-of-focus bits.
+
+AF is also great, especially when shot on the most recent Sony cameras, and the lens even has a Macro mode that allows it to focus as close as 1.87 ft (0.57 m). And in typical G-Master fashion, the lens sports a plethora of physical controls, all of which make operation a breeze. These include an aperture ring, switchable aperture ring click stops, a Focus Hold button, and an AF/MF focus select switch. 
+
+All in all, the 100mm STF G-Master is a very unique lens that enables photographers to shoot in a different way, and it’s one of the most interesting lenses in the FE system.
+
+<section class="product-link">
+	<h4 class="buy-now">Buy it online</h4>
+	<a href="http://amznlinks.com/global?user=analogsenses&us=B06WRMXVKK&uk=B06VTFT32D&es=B06VTFT32D"><img src="https://farm5.staticflickr.com/4416/36611363802_9689df2037_o.jpg"/></a>
+</section>
+
+<p class="card-separator">♤</p>
+
+<h3 id="batis-135">Zeiss Batis 135mm f/2.8</h3>
+
+The **[Zeiss Batis 135mm f/2.8](http://amznlinks.com/global?user=analogsenses&us=B06Y2YV1N5&uk=B06Y2YV1N5&es=B06Y2YV1N5)** belongs to the Zeiss Batis family of lenses and is the first 135mm prime lens to be released for the FE system. Thanks to the increased compression effect, this focal length works very well for medium-distance portraits, events, landscapes and so on. The 135mm prime is definitely a staple in many a photographer’s kit.
+
+<img src="https://farm5.staticflickr.com/4370/36625153091_7ae442d4fa_o.jpg" width="494"/>
+
+This particular flavor of the classic 135mm prime lens, however, differs from many others in a few interesting ways.
+
+For one, it’s an f/2.8 lens, as opposed to the more common f/2 or even f/1.8 apertures we’ve seen from other manufacturers. This is admittedly disappointing, but f/2.8 at 135mm should still provide plenty of subject isolation for those craving bokeh. The flip side to that is that, at only 1.35 lb (614 g), this lens is considerably smaller and lighter than most of its main competitors.
+
+Another important difference is that this lens is optically stabilized, a first among 135mm primes. Which means that, if you’re shooting stationary subjects, the 135mm Batis will actually perform better in low light than any of the other 135mm lenses despite its slower aperture.
+
+There seems to be a very clear design ethos when it comes to the Batis family: moderately fast aperture, compact size, light weight, weather sealing, an OLED display, and uncompromising image quality. It’s certainly an interesting strategy that plays to the strengths of mirrorless technology, and so far it’s proven to be a very successful one. 
+
+However, the new 135mm deviates from the rest of the Batis family in one very important aspect: price. While the other Batis lenses aren’t cheap, they aren’t ridiculously expensive either. This lens, on the other hand, clocks in at $2,000, which makes it the most expensive prime lens in the FE system by far. That’s a hard pill to swallow for a lens with an f/2.8 maximum aperture, no matter how good it is. Especially when the rest of 135mm lenses out there are also superb in their own right and cost several hundred dollars less.
+
+To make up for this rather high price tag, the 135mm Batis brings a unique element to the table: its Apo Sonnar design. Apochromatic designs effectively eliminate all chromatic aberrations even when shooting wide open without reducing sharpness. Add to that the gorgeous colors, the classic Zeiss rendering, and the virtually nonexistent distortion, and you have an absolute powerhouse of a lens when it comes to image quality and optical performance.
+
+With the Batis family, Zeiss is taking a stand. These lenses are their way of saying that there’s much more to lens design than maximum aperture, and I wholeheartedly agree. None of the Batis lenses are the fastest in their class, but they are without a doubt some of the best pieces of glass money can buy. If you can look past the boring f/2.8 aperture, you’ll realize the 135mm Batis is a phenomenal lens, and yet another worthy addition to the family.
+
+<section class="product-link">
+	<h4 class="buy-now">Buy it online</h4>
+	<a href="http://amznlinks.com/global?user=analogsenses&us=B06Y2YV1N5&uk=B06Y2YV1N5&es=B06Y2YV1N5"><img src="https://farm5.staticflickr.com/4289/35386717625_762bf4bf12_o.jpg"/></a>
 </section>
 
 <p class="card-separator">♤</p>
@@ -314,9 +375,7 @@ With that in mind, **true macro** lenses are those capable of achieving a reprod
 
 <h3 id="90-macro">Sony FE 90mm f/2.8 Macro G OSS</h3>
 
-As most of this guide has made clear, the FE system is more about quality than it is about quantity. It will come as no surprise, then, that the **[Sony FE 90mm f/2.8 Macro G OSS](http://amznlinks.com/global?user=analogsenses&us=B00U29GNEG&uk=B00ULLSWSU&es=B00ULLSWSU)** is one of only two available macro lenses for the system — the other one being the recently announced and significantly cheaper **[Sony FE 50mm f/2.8 Macro](http://amznlinks.com/global?user=analogsenses&us=B01LC8GMV4&uk=B01LDII0VS&es=B01LDII0VS)**.
-
-With a maximum magnification rate of 1:1, the Sony 90mm is a true macro lens. As befitting a G-series lens — Sony’s branding for their premium line of lenses — it also has an all-metal body, weather sealing, and for the first time in a Full Frame macro lens, optical image stabilization (called Optical SteadyShot by Sony, or simply OSS) built right into the lens. So whether you own one of the 1st-generation α7-series cameras, or a later model with 5-axis SteadyShot in the body, you’ll be able to get sharp, crisp shots handheld, which is a huge win for macro shooters.
+With a maximum magnification rate of 1:1, the Sony 90mm is a true macro lens. As befitting a G-series lens — Sony’s branding for their premium line of lenses — it also has an all-metal body, weather sealing and, for the first time in a Full Frame macro lens, optical image stabilization (called Optical SteadyShot by Sony, or simply OSS) built right into the lens. So whether you own one of the 1st-generation α7-series cameras, or a later model with 5-axis SteadyShot in the body, you’ll be able to get sharp, crisp shots handheld, which is a huge win for macro shooters.
 
 <img src="https://c1.staticflickr.com/2/1696/24061123240_1bf7c9311b_o.jpg" width="500"/>
 
@@ -326,7 +385,7 @@ Aside from being a great macro lens, the Sony 90mm macro lens does an excellent 
 
 If portraiture is your bread and butter as a photographer, you’ll probably be better off getting one of the 85mm primes instead, but if you want an extremely capable macro lens that can more than hold its own when used as a portrait lens, you can’t go wrong with this one. 
 
-In fact, I know some people who actually bought this lens because they were tired of waiting for the Batis to ship in volume, and once they used it they never looked back. It really is that good. And at $1,098, it’s even a bit cheaper than the Batis.
+In fact, I know some people who actually bought this lens because they were tired of waiting for the Batis 85mm to ship in volume, and once they used it they never looked back. It really is that good. And at $1,098, it’s even a bit cheaper than the Batis.
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
@@ -343,23 +402,48 @@ If that sounds like a great proposition to you, that’s because it is. Unfortun
 
 Zoom lenses are also not what they used to be, and for the most part, that’s a good thing. Image quality has improved dramatically in recent years, to the point where modern zooms actually rival prime lenses in terms of sharpness and overall image quality. If you decide to go with a zoom lens as part of your kit, the only thing you’ll be potentially missing from an equivalent set of primes is speed. However, it’s worth keeping in mind that this improved optical performance usually comes at a cost in terms of both price and size/weight: good, fast zooms are expensive, and they’re _big_.
 
+<h3 id="12-24-f4">Sony FE 12-24mm f/4 G</h3>
+
+The **[Sony FE 12-24mm f/4 G](http://amznlinks.com/global?user=analogsenses&us=B072J4B6WS&uk=B07236Z9C6&es=B07236Z9C6)** is the widest zoom lens available for the FE system, and one of the best ultra-wide angle zooms available for any system.
+
+<img src="https://farm5.staticflickr.com/4332/36367820190_fc8dcc4345_o.jpg" width="500"/>
+
+Let’s start with the obvious: 12mm on Full Frame is wide. Like, _really_ wide. It’s a great deal wider than 16mm, because at the ultra-wide angle range, every mm has a profound impact on your field of view. That means you’ll be able to get way more into your frame than with a classic 16-35mm lens.
+
+If you want a set of three zooms lenses as your main kit, instead of the classic holy trinity, I’d argue that it’s better to combine this lens with the 24-70mm and 70-200mm G-Master lenses. That way you get significantly more reach at the wide end of the range without any overlap between lenses. I always felt the overlap between 16-35mm and 24-70mm lenses was a bit redundant so if you already own a 24-70mm lens, I’d much rather get this one instead of the 16-35mm to complement it.
+
+As for image quality, this appears to be another fantastic offering from Sony. It’s very sharp at all apertures and all focal lengths across the entire frame, even in the corners. Color and contrast are also up there with what we expect from Sony these days, which is to say they’re both excellent.
+
+The 12-24mm f/4 is a G-series lens, which means it was designed and built entirely by Sony without participation from Zeiss. As such, the lens doesn’t have the excellent T\* coatings because those are a proprietary Zeiss formula. Flare resistance may not be perfect with this lens, but it will still be pretty good. The same thing applies to the 70-200mm  f/4 G lens, which I own, and while I have seen some occasional flaring with that lens, I’ve never had a shot ruined because of it. I expect the 12-24mm’s performance to be similar on that front.
+
+Build quality is also very good, and even though this is not a G-Master lens, it’s still among the best-built lenses for the system. And at $1,699, it’s not unreasonably priced for an ultra-wide angle zoom.
+
+One potentially important downside of the 12-24mm f/4 lens is that, since the front element is curved and protrudes from the front, you can’t use screw-on filters with it. That’s a bit of a bummer if you rely on polarizing or neutral-density filters for your landscape work. That being said, this is no different from most other ultra-wide lenses out there, nearly all of which feature similar front-element designs.
+
+At the end of the day, the Sony FE 12-24mm f/4 G is an extremely competent ultra-wide angle lens for your Sony camera, and easily earns a spot on this guide.
+
+<section class="product-link">
+	<h4 class="buy-now">Buy it online</h4>
+	<a href="http://amznlinks.com/global?user=analogsenses&us=B072J4B6WS&uk=B07236Z9C6&es=B07236Z9C6"><img src="https://farm5.staticflickr.com/4279/35386717365_9329d1e9b8_o.jpg"/></a>
+</section>
+
+<p class="card-separator">♧</p>
+
 <h3 id="16-35-f4">Sony Zeiss Vario-Tessar T* FE 16–35mm f/4 ZA OSS</h3>
 
-This lens gives α7-series shooters a window into the ultra-wide angle focal range, with the convenience of a zoom.
+This lens gives Sony shooters a window into the ultra-wide to moderate wide angle focal range, with the convenience that an f/4 zoom brings to the table.
 
-Being another collaboration between Sony and Zeiss, the **[Sony Zeiss Vario-Tessar T\* FE 16–35mm F4 ZA OSS](http://amznlinks.com/global?user=analogsenses&us=B00NGTN25C&uk=B00NVA7J1Y&es=B00NVA7J1Y)** shares many of the features found in some of the other lenses on this list. That includes an all-metal design, weather sealing, built-in image stabilization (OSS), and the use of Zeiss’ T\* multi-coating.
+Being another collaboration between Sony and Zeiss, the **[Sony Zeiss Vario-Tessar T\* FE 16–35mm F4 ZA OSS](http://amznlinks.com/global?user=analogsenses&us=B00NGTN25C&uk=B00NVA7J1Y&es=B00NVA7J1Y)** shares many of the features found in some of the other lenses on this guide. That includes an all-metal design, weather sealing, built-in image stabilization (OSS), and the use of Zeiss’ T\* multi-coating.
 
 <img src="https://c5.staticflickr.com/2/1693/24061123220_257819e2c2_o.jpg" width="500"/>
 
-What’s new about this lens is, of course, the ability to zoom and change focal length while maintaining great resolution and image quality across the entire zoom range. This makes the lens considerably bigger and heavier than most primes, though.
-
-Sharpness-wise, the lens renders crisp and detailed images in the center right from f/4 and at all focal lengths. The corners are still perfectly good at f/4, but they don’t reach the same resolution as the center, something that is to be expected in a lens of this nature. The corners sharpen up nicely by f/8, where the lens is super-sharp across the entire frame. As with most zoom lenses, resolution dips slightly at both ends of the zoom range, and in this particular case, towards the 35mm end.
+Sharpness-wise, the lens renders crisp and detailed images in the center right from f/4 and at all focal lengths. The corners are still perfectly good at f/4, but they don’t reach the same resolution as the center, something that is to be expected in a lens of this nature. The corners sharpen up nicely by f/8, where the lens is super-sharp across the entire frame. As with most zoom lenses, though, resolution dips slightly at both ends of the zoom range. In this particular case, the resolution drop is most noticeable at the 35mm end.
 
 Vignetting is surprisingly low at the wide end, something difficult to achieve in a wide angle lens. Distortion, however, is a bit more pronounced, but is very well corrected by software, either in-camera if you shoot JPEG, or in Adobe Lightroom with the included lens profile. Neither is a problem in real-world usage.
 
 Finally, being a wide angle lens, there isn’t a whole lot of bokeh to speak of, even at f/4, but what little there is does look acceptable, if not spectacular. On the other hand, thanks to its seven aperture blades this lens renders beautiful sunstars when stopped down.
 
-All in all, a very good ultra-wide angle lens for your α7-series camera. If you shoot lots of landscapes and want a versatile lens, this one is definitely worth adding to your kit. It currently retails for $1,348.
+All in all, a very good ultra-wide angle lens for your Sony camera. If you shoot lots of landscapes and want a versatile lens, this one is definitely worth adding to your kit. It currently retails for $1,348.
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
@@ -382,7 +466,7 @@ This 70-200mm lens is a G-series lens, meaning it was designed and manufactured 
 
 The Sony 70-200mm f/4 is built like a small tank: not very heavy considering what it is, but impressively solid. It has an all-metal body with weather sealing, and comes bundled with a metal tripod collar, which is a nice touch. The focus and zoom rings are made of textured rubber and they’re both very smooth and pleasant to use. Furthermore, there are three focus hold buttons on the barrel, something that clearly shows this is a high-end piece of glass.
 
-The lens also has optical image stabilization (OSS) built in, and can provide up to four stops of real-world stabilization when used on a 2nd-generation α7-series body. Other niceties include dedicated switches for focus mode, focus range, OSS, and panning mode. These make using the lens everyday much easier and more convenient.
+The lens also has optical image stabilization (OSS) built in, and can provide up to four stops of real-world stabilization when used on modern Sony cameras with IBIS. Other niceties include dedicated switches for focus mode, focus range, OSS, and panning mode. These make using the lens everyday much easier and more convenient.
 
 Image quality-wise, there’s hardly anything to complain about here: sharpness is very good across the frame at all focal lengths, bokeh is excellent, distortion is minimal and vignetting is essentially invisible in real world usage. Flare resistance is good — but not great — and focusing speed and accuracy are top notch. If you don’t like this lens, I can assure you it’s not the lens’s fault.
 
@@ -395,23 +479,46 @@ At $1,498, this isn’t a cheap lens by any means, but it’s worth every penny.
 
 <p class="card-separator">♢</p>
 
+<h3 id="16-35-gm">Sony FE 16–35mm f/2.8 G-Master</h3>
+
+The **[Sony FE 16-35mm f/2.8 G-Master](http://amznlinks.com/global?user=analogsenses&us=B071LHLS11&uk=B071LJZKJL&es=B071LJZKJL)**, released in mid-2017, completes the holy trinity of fast zooms for the FE system, together with the 24-70 mm f/2.8 and 70-200 mm f/2.8 G-Master lenses.
+
+Fast, constant aperture zooms are the staple of the working photographer’s kit, and this three-lens combo makes for one hell of a setup for all kinds of professional photographers. If you need f/2.8 in the ultra-wide angle range — think low-light landscape photography — then this lens is as good as it gets within the system.
+
+<img src="https://farm5.staticflickr.com/4370/36367820370_20b7b68e66_o.jpg" width="500"/>
+
+The 16-35mm f/2.8 G-Master lens features the same excellent build quality as the rest of the G-Master family, and also the same impeccable image quality. It’s significantly sharper across the frame at all apertures and focal lengths than the f/4 Zeiss lens, although this improvement does come at the cost of size. It doesn’t come at the cost of weight, though, with the lens weighing a mere 24 oz (680 g). This makes it the lightest G-Master zoom in the lineup, which is a nice surprise.
+
+As for bokeh, there isn’t a whole lot of it to begin with, which is to be expected considering the ultra-wide angle range. Depth of field will be significant in this focal range even at the maximum aperture, but Sony hasn’t used that as an excuse to cut corners here. The 16-35mm f/2.8 G-Master still features the same 11 rounded aperture blades as the other two G-Master zooms, which should help keep bokeh highlights nice and circular across most of the frame, not just in the center.
+
+Compared to the two main alternatives to this lens in the FE system, The 16-35mm G-Master lens isn’t quite as wide as the Sony FE 12-24mm f/4 G lens, but it is faster and, more importantly, it is compatible with filters. This may be more important to you if your workflow relies on them. The G-Master is also a full stop faster than the Sony Zeiss 16-35mm f/4, so if low light performance is a concern, the G-Master will be the one to get. Of course, at $2,198, you’re also paying quite a bit more for the G-Master than for any of the other two, so keep that in mind when making your choice.
+
+If you can stomach the price tag, don’t mind the extra size, and don’t need to go wider than 16mm, then the Sony FE 16-35mm f/2.8 G-Master is the only wide angle lens you will ever need.
+
+<section class="product-link">
+	<h4 class="buy-now">Buy it online</h4>
+	<a href="http://amznlinks.com/global?user=analogsenses&us=B071LHLS11&uk=B071LJZKJL&es=B071LJZKJL"><img src="https://farm5.staticflickr.com/4217/35386717835_d6a14b215e_o.jpg"/></a>
+</section>
+
+<p class="card-separator">♧</p>
+
 <h3 id="24-70-gm">Sony FE 24-70mm F/2.8 G-Master</h3>
 
 The much-awaited f/2.8 standard zoom for the FE system was announced in February 2016 and released a month later. After the relatively uninspiring performance of the f/4 version, the pressure was on Sony to deliver a best-in-class zoom lens for the system, and they certainly didn’t disappoint.
 
-The **[Sony FE 24-70mm f/2.8 G-Master](http://amznlinks.com/global?user=analogsenses&us=B01BESQYJW&uk=B01BUAVMQY&es=B01BUAVMQY)** lens belongs to Sony’s top-of-the-line G-Master collection. Just like the other G-Master lenses, this zoom features impressive build quality and optics, and is capable of delivering image quality that rivals — and in some cases, exceeds — that of prime lenses in the same focal range.
+The **[Sony FE 24-70mm f/2.8 G-Master](http://amznlinks.com/global?user=analogsenses&us=B01BESQYJW&uk=B01BUAVMQY&es=B01BUAVMQY)** lens belongs to Sony’s top-of-the-line G-Master collection. Just like the other G-Master lenses, this zoom features impressive build quality and optics, and is capable of delivering image quality that rivals that of prime lenses in the same focal range.
 
 <img src="https://c6.staticflickr.com/9/8662/28166524533_fabbf9a179_o.jpg" width="500"/>
 
 With a whopping 18 elements in 13 groups, including one extra aspherical (XA) element, this lens packs some serious punch in the IQ department. It is every bit as sharp as the current gold standard, the Canon EF 24-70mm f/2.8 L II lens, but unlike that one, the Sony has all the advantages of a native lens. Both lenses are missing image stabilization, though, which is one of the extremely few issues I can find with either of them.
 
-At 886g, size and weight are comparable to the Canon zoom lens, with the Sony being slightly bigger and heavier, but not by much. This is unfortunately necessary in order to achieve the fast f/2.8 aperture throughout the entire zoom range. Mirrorless technology helps design smaller cameras and lenses, but it doesn’t circumvent the laws of Physics just yet. 
+At 886g, size and weight are comparable to the Canon zoom lens, with the Sony being slightly bigger and heavier, but not by much. This is unfortunately necessary in order to achieve the fast f/2.8 aperture throughout the entire zoom range. Mirrorless technology helps design smaller cameras and lenses, but it hasn’t managed to circumvent the laws of Physics just yet. 
 
 In terms of bokeh, the 24-70mm G-Master lens is certainly not bad, although it can be a bit nervous on occasion, depending on your composition. Mind you, this is still an excellent performance for a zoom lens, but if you want the ultimate bokeh, you’ll be better served by a fast prime lens like the 35mm Distagon or the 50mm Planar instead.
 
 Autofocus performance is also great, with the lens locking onto most subjects quickly and responsively, which makes it ideal for shooting in complex situations like events, weddings, etc. Together with a fast portrait prime like the 85mm Batis or the 85mm G-Master, this zoom would form an impressive two-lens combo.
 
-What’s not so great, as is often the case with Sony lenses, is price. At $2,198, the Sony lens carries a significant premium over the $1,799 Canon for what is essentially the same optical performance and features. This may be because the Sony lens is new, while the Canon has been out for a while, but at the end of the day that’s irrelevant. Now, is it worth it to pay a $400 premium in order to get a native lens instead of an adapted one? In my mind, absolutely.
+What’s not so great, as is often the case with Sony lenses, is price. At $2,198, the Sony lens carries a significant premium over the $1,799 Canon for what is essentially the same optical performance and features. This may be because the Sony lens is still relatively new, while the Canon has been out for a while. At the end of the day, however, that’s irrelevant. Now, is it worth paying a $400 premium in order to get a native lens instead of an adapted one? In my mind, absolutely.
 
 After waiting for nearly three years, Sony FE shooters finally have a truly outstanding native standard zoom lens for the system. It’s been a long time coming, but once you get your hands on the 24-70mm f/2.8 G-Master lens, you’ll quickly realize it’s been well worth the wait.
 
@@ -426,7 +533,7 @@ After waiting for nearly three years, Sony FE shooters finally have a truly outs
 
 The premium telephoto zoom is the money-making lens of tons of professional photographers around the world. With such a versatile focal range, fast AF performance and a fast f/2.8 aperture, this lens format excels at everything from event photography, sports, portraits, and even landscape photography.
 
-The **[Sony FE 70-200mm f/2.8 G-Master](http://amznlinks.com/global?user=analogsenses&us=B01IDQEQ34&uk=B01G2ZMUDQ&es=B01G2ZMUDQ)** lens is the longest lens in Sony’s premium G-Master lineup. It’s also the biggest, heaviest and most expensive out of all FE lenses. Simply put, it’s a beast. The good news is, it apparently performs like one, too.
+Simply put, the **[Sony FE 70-200mm f/2.8 G-Master](http://amznlinks.com/global?user=analogsenses&us=B01IDQEQ34&uk=B01G2ZMUDQ&es=B01G2ZMUDQ)** lens is a beast. The good news is, it apparently performs like one, too.
 
 <img src="https://c6.staticflickr.com/9/8641/28166524053_6f4c5105a0_o.jpg" width="500"/>
 
@@ -434,13 +541,38 @@ The lens features 23 elements (!) in 18 groups, including one extra aspherical (
 
 Hardware-wise, the lens features a similar array of controls as the f/4 lens. These include dedicated switches for focus mode, focus range, OSS, and panning mode, as well as three focus hold buttons. It also comes with a removable tripod collar. All in all, this is an extremely solid lens, and clearly the flagship in the FE system so far.
 
-In terms of image quality, the lens improves upon the f/4 version in every possible way. In fact, the few reviewers that have taken on this lens all seem to agree that it is optically flawless. If the 24-70mm G-Master lens matched the performance of the equivalent Canon L zoom, everything seems to indicate that this holds true for the 70-200mm G-Master lens as well. And that’s saying a lot, because that Canon zoom is as close to a perfect lens as it gets.
+In terms of image quality, the lens improves upon the f/4 version in every possible way. If the 24-70mm G-Master lens matched the performance of the equivalent Canon L zoom, everything seems to indicate that this holds true for the 70-200mm G-Master lens as well. And that’s saying a lot, because that Canon zoom is as close to a perfect lens as it gets.
 
 At $2,598, the Sony 70-200mm G-Master lens is definitely not cheap, not to mention about $600 more expensive than the equivalent Canon lens. However, if you’re a working photographer who needs this type of zoom, nothing will ever beat the performance of a native lens, and at least now you have an option that is every bit as good as any other lens out there.
   
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
 	<a href="http://amznlinks.com/global?user=analogsenses&us=B01IDQEQ34&uk=B01G2ZMUDQ&es=B01G2ZMUDQ"><img src="https://c5.staticflickr.com/6/5646/29784769924_19f638c8a7_o.jpg"/></a>
+</section>
+
+<p class="card-separator">♡</p>
+
+<h3 id="100-400-gm">Sony FE 100-400mm F/4.5-5.6 G-Master</h3>
+
+Released in mid-2017 alongside the Sony α9 camera, the **[Sony FE 100-400mm G-Master](http://amznlinks.com/global?user=analogsenses&us=B06ZYJ2MG7&uk=B06ZYJ2MG7&es=B06ZYJ2MG7)** lens is the first super telephoto zoom lens for the FE system aimed squarely at professional sports and action photographers.
+
+<img src="https://farm5.staticflickr.com/4402/36367820470_acc73267ef_o.jpg" width="500"/>
+
+The main credentials of the lens include an extremely long reach and quick and accurate autofocus, all while providing the same excellent image quality that is the hallmark of the G-Master family of lenses. When used on the new α9 camera, this lens will enable photographers to capture all sorts of fast-paced action like never before.
+
+The 100-400mm G-Master lens features 22 elements in 16 groups, including one Super ED and two ED elements, as well as Sony’s Nano AR coating. It also has an all-metal body, 9 rounded aperture blades, and Optical SteadyShot, which is Sony’s terminology for image stabilization.
+
+Physically, the lens features an array of dedicated controls similar to the ones on 70-200mm G-Master lens. These include dedicated switches for focus mode, focus range, OSS, and panning mode. It also has three focus hold buttons and comes with a removable tripod collar. Unlike the 70-200mm G-Master, though, the 100-400mm lens extends physically when zoomed in. This means that, even though at 100mm it is relatively small and compact — for a super telephoto lens — it becomes quite a bit larger as you zoom in all the way to 400mm.
+
+The lens is compatible with Sony’s 1.5x and 2x teleconverters, meaning you can get all the way to 600mm on Full Frame, which is great. However, if you go the teleconverter route, do keep in mind you’ll lose some image quality and light transmission along the way.
+
+Speaking of image quality, the 100-400mm lens packs impressive sharpness across the entire zoom range, being reportedly much sharper than the equivalent Canon lens. Considering this is a much more modern lens design that doesn’t come as a surprise, but it’s still nice to hear. Also, chromatic aberrations should be pretty minimal due to the use of special glass elements, and flare resistance should be excellent thanks to Sony’s Nano AR coatings. These are still not quite up to the same standard as Zeiss’ superb T\* coatings, but they’re good enough to make flaring a non-issue in real-world shooting.
+
+At $2,498, the Sony 100-400mm G-Master lens is up there with the 70-200mm G-Master in price, making it one of the most expensive lenses available for the FE system. Unfortunately, if you’re a sports and action photographer, you don’t really have any other options, so this will have to do. On the plus side, the lens does appear to deliver the performance and image quality that its price tag suggests, and should therefore be a sensible investment for those who need it.
+
+<section class="product-link">
+	<h4 class="buy-now">Buy it online</h4>
+	<a href="http://amznlinks.com/global?user=analogsenses&us=B06ZYJ2MG7&uk=B06ZYJ2MG7&es=B06ZYJ2MG7"><img src="https://farm5.staticflickr.com/4286/35386717475_aaf883d05f_o.jpg"/></a>
 </section>
 
 <p class="card-separator">♡</p>
@@ -465,9 +597,9 @@ As perhaps the best manufacturer of manual lenses — it’s basically a tossup 
 
 All of the Loxia lenses share the same hallmark features: an all-metal design, a dedicated aperture ring, a nice and compact size, and an included metal hood. They also feature a click-less option for the aperture ring that can be enabled by turning a screw on the lens mount. This allows users to choose their preferred behavior for these lenses, and makes them well suited for video recording, too.
 
-Please note that, being full manual lenses, **the Loxia lenses will only work in Aperture Priority or Manual mode**. Aperture always needs to be selected by the user by turning the ring on the lens, which means that **Shutter Speed Priority mode will not work** — or, to be more precise, it will operate just like Manual mode. This is unfortunate, since it makes the lenses poorly suited for situations where you may want to maintain a sufficiently fast shutter speed at all times to avoid motion blur. Luckily, several recent Sony cameras have a menu option to select the minimum shutter speed allowed with Auto-ISO, which goes a long way towards making the Loxia lenses usable in these situations. It’s not a perfect solution, but it’s good enough.
+Please note that, being full manual lenses, **the Loxia lenses will only work in Aperture Priority or Manual mode**. Aperture always needs to be selected by the user by turning the ring on the lens, which means that **Shutter Speed Priority mode will not work** — or, to be more precise, it will operate just like Manual mode. This is unfortunate, since it makes the lenses poorly suited for situations where you may want to maintain a sufficiently fast shutter speed at all times to avoid motion blur. Luckily, several recent Sony cameras have a menu option to select the minimum shutter speed allowed with Auto-ISO, which goes a long way towards making the Loxia lenses usable in these situations. It’s not a perfect solution, but it works.
 
-Besides that, the Loxia lenses are fully native E-mount lenses with electronic integration at all levels. That means EXIF data is relayed to the camera, including focal length and aperture.
+Besides that, the Loxia lenses are fully native E-mount lenses with electronic integration at all levels. That means all EXIF data is relayed to the camera, including focal length and aperture.
 
 What’s perhaps more interesting about this electronic integration is the fact that the Loxia lenses can automatically trigger in-camera manual focus aids like focus peaking and magnification by simply turning the focus ring. This is a huge advantage that makes manual focusing a lot easier, and it’s a unique feature that no other manual lens for the system offers.
 
@@ -477,7 +609,7 @@ Let’s take a look at all four Loxia lenses so far:
 	<img src="https://c7.staticflickr.com/6/5818/29632661974_1f7604df20_o.jpg"/>
 </figure>
 
-The **[Zeiss Loxia 21mm f/2.8 Distagon T\*](http://amznlinks.com/global?user=analogsenses&us=B019OUCQ9Y&uk=B019OUCQ9Y&es=B019OUCQ9Y)** is currently the widest of the Loxia lenses, and at $1,499, it’s also the most expensive. This is arguably the best ultra-wide angle lens for the FE system, barely edging out the Batis 18mm in terms of image quality. Both lenses are similarly sharp, but the Loxia controls chromatic aberration just a tad better. On the other hand, it suffers a bit more from coma, so if you’re into astrophotography, the Batis lens may be the better choice. For everything else, the two lenses are nearly indistinguishable in real-world shooting. If you’re struggling to decide, my advice is to choose between the two based on your preferred field of view. Keep in mind that in the ultra-wide range every millimeter counts, so 18mm is actually quite a bit wider than 21mm.  
+The **[Zeiss Loxia 21mm f/2.8 Distagon T\*](http://amznlinks.com/global?user=analogsenses&us=B019OUCQ9Y&uk=B019OUCQ9Y&es=B019OUCQ9Y)** is currently the widest of the Loxia lenses, and at $1,499, it’s also the most expensive. This is arguably the best ultra-wide angle prime lens for the FE system, barely edging out the Batis 18mm in terms of image quality. Both lenses are similarly sharp, but the Loxia controls chromatic aberration just a tad better. On the other hand, it suffers a bit more from coma, so if you’re into astrophotography, the Batis lens may be the better choice. For everything else, the two lenses are nearly indistinguishable in real-world shooting. If you’re struggling to decide, my advice is to choose between the two based on your preferred field of view. Keep in mind that in the ultra-wide range every millimeter counts, so 18mm is actually quite a bit wider than 21mm.  
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
@@ -486,7 +618,7 @@ The **[Zeiss Loxia 21mm f/2.8 Distagon T\*](http://amznlinks.com/global?user=ana
 
 <p class="card-separator">♧</p>
 
-The **[Zeiss Loxia 35mm f/2 Biogon T\*](http://amznlinks.com/global?user=analogsenses&us=B00Q2QAHOU&uk=B00Q2QAHOU&es=B00Q2QAHOU)** is a wonderful lens, and in my mind, the one worth getting first out of the three Loxias. The reason for that is that it’s almost as good optically and almost as fast as the 35mm Distagon, but it’s a whole lot smaller. If you can live without AF, this lens will probably be better for you than the Distagon, if only because you won’t be as limited when it comes to using it as a walk-around lens, which is one of the primary purposes of a 35mm lens to begin with. That said, keep in mind that the Loxia uses a Biogon design, which will render images with a different character than the Distagon. In general, most people prefer the Distagon’s bokeh, but this is all entirely subjective. The point is, your mileage may vary, so be sure to try one if at all possible before buying, but rest assured, the 35mm Loxia is a _gorgeous_ lens. It currently retails for $1,299.  
+The **[Zeiss Loxia 35mm f/2 Biogon T\*](http://amznlinks.com/global?user=analogsenses&us=B00Q2QAHOU&uk=B00Q2QAHOU&es=B00Q2QAHOU)** is a wonderful lens, and in my mind, the one worth getting first out of all the Loxias. The reason for that is that it’s almost as good optically and almost as fast as the 35mm Distagon, but it’s a whole lot smaller. If you can live without AF, this lens will probably be better for you than the Distagon, if only because you won’t be as limited when it comes to using it as a walk-around lens, which is one of the primary purposes of a 35mm lens to begin with. That said, keep in mind that the Loxia uses a Biogon design that will render images with a different character. In general, most people prefer the Distagon’s bokeh, but this is all entirely subjective. The point is, your mileage may vary, so be sure to try one if at all possible before buying, but rest assured, the 35mm Loxia is a _gorgeous_ lens. It currently retails for $1,299.  
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
@@ -495,7 +627,7 @@ The **[Zeiss Loxia 35mm f/2 Biogon T\*](http://amznlinks.com/global?user=analogs
 
 <p class="card-separator">♢</p>
 
-The **[Zeiss Loxia 50mm f/2 Planar T\*](http://amznlinks.com/global?user=analogsenses&us=B00NW7B68S&uk=B00NW7B68S&es=B00NW7B68S)** is the most affordable of the three at $949, but it’s also the least interesting to me. Part of that has to do with just how ridiculously good the 55mm Sonnar with AF is, of course. Both lenses are similar on paper, but the 55mm has the edge in terms of sharpness, bokeh, and overall usefulness. The Loxia is definitely better built, but again, it’s not as if the Sonnar isn’t well built itself. Price-wise, there’s not much difference between them, either. In this case, unless you need or totally prefer MF, I have to recommend going with the 55mm Sonnar instead of this one. From a future-proof point of view, however, both lenses are excellent investments, which is why the 50mm Loxia makes this list despite not being my personal preference.  
+The **[Zeiss Loxia 50mm f/2 Planar T\*](http://amznlinks.com/global?user=analogsenses&us=B00NW7B68S&uk=B00NW7B68S&es=B00NW7B68S)** is the most affordable of the three at $949, but it’s also the least interesting to me. Part of that has to do with just how ridiculously good the 55mm Sonnar with AF is, of course. Both lenses are similar on paper, but the 55mm has the edge in terms of sharpness, bokeh, and overall usefulness. The Loxia is definitely better built, but again, it’s not as if the Sonnar isn’t well built itself. Price-wise, there’s not much difference between them, either. In this case, unless you need or totally prefer MF, I have to recommend going with the 55mm Sonnar instead of this one. From a future-proof point of view, however, both lenses are excellent investments, which is why the 50mm Loxia makes the list despite not being my personal preference.  
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
@@ -504,81 +636,50 @@ The **[Zeiss Loxia 50mm f/2 Planar T\*](http://amznlinks.com/global?user=analogs
 
 <p class="card-separator">♤</p>
 
-The **[Zeiss Loxia 85mm f/2.4 Sonnar T\*](https://www.bhphotovideo.com/c/product/1282150-REG/zeiss_2162_636_loxia_85mm_f_2_4_lens.html)** is the longest member of the Loxia family, and at $1,399, it’s priced about halfway between the other two portrait primes for the system: the 85mm Batis and the 85mm G-Master. As of this guide’s latest update (October 2016), the lens has only been announced by Zeiss with an estimated release date of mid-December 2016, so there aren’t any reviews yet that would allow us to assess its optical quality. For what it’s worth, the few test shots I took with it at Photokina 2016 were exceptionally sharp, and Zeiss is bragging about it being essentially distortion-free [on their website](http://www.zeiss.com/camera-lenses/en_us/camera_lenses/loxia/loxia2485.html). Color rendition appears to be typically Zeiss-like: contrasty with plenty of punch and excellent skin tones. Again, this was not a controlled test, so take it with a grain of salt, but if what I saw holds true in the final production models, this lens is going to be a worthy addition to the Loxia line, which definitely earns it a place on this list.  
+The **[Zeiss Loxia 85mm f/2.4 Sonnar T\*](http://amznlinks.com/global?user=analogsenses&us=B01M4O8RFK&uk=B01M4O8RFK&es=B01M4O8RFK)** is a classic portrait prime and, at $1,399, it’s priced at the halfway point between two of the most popular portrait primes for the system: the 85mm Batis and the 85mm G-Master. Like its brethren, the 85mm Loxia is built like a tank, exceptionally sharp, and essentially distortion-free. Color rendition is typically Zeiss-like: contrasty with plenty of punch and excellent skin tones. Despite its moderate maximum aperture this lens is definitely a worthy addition to the Loxia line, which easily earns it a place on this list.
 
 <section class="product-link">
-	<h4 class="buy-now">Pre-order it online</h4>
-	<a href="https://www.bhphotovideo.com/c/product/1282150-REG/zeiss_2162_636_loxia_85mm_f_2_4_lens.html"><img src="https://c1.staticflickr.com/9/8276/29785038424_c7b18ca986_o.jpg"/></a>
+	<h4 class="buy-now">Buy it online</h4>
+	<a href="http://amznlinks.com/global?user=analogsenses&us=B01M4O8RFK&uk=B01M4O8RFK&es=B01M4O8RFK"><img src="https://c1.staticflickr.com/5/4279/34577310973_aaf883d05f_o.jpg"/></a>
 </section>
 
 At the end of the day, all of the Loxia lenses are excellent, and present a very interesting alternative for those who prefer or require manual focus. A time-tested classic with a modern twist, indeed.
 
 <p class="card-separator">♡</p>
 
-<h2 id="video-lenses">Lenses optimized for video</h2>
-
-The final category in this guide includes lenses optimized for video, also called cine lenses. Unlike lenses designed for taking pictures, cine lenses have a different set of requirements and features.
-
-Although cine lenses can be used for taking pictures, they are usually not competitive with comparable photo lenses in terms of price or resolution. Cine lenses are clearly aimed at video professionals, which means they are usually quite expensive and feature super-tough metal bodies. In a typical production or studio environment, there’s no time to baby the equipment, so these lenses need to be able to withstand many hours of daily abuse.
-
-They’re also precision instruments, a factor that definitely contributes to increase their price. While the vast majority of photo lenses use what is known as a varifocal design — meaning the focus point changes as you zoom in or out — Cine lenses are usually parfocal: you can zoom in and out of your subject without losing focus. This is absolutely essential for video, and can save you a ton of effort. Parfocal designs are much more complex and require more precision to implement, which ultimately drives up the cost of the lens.
-
-In the FE system, there is currently only one 1st-party cine lens. Fortunately, it is a rather good one.
-
-<h3 id="28-135-f4">Sony FE PZ 28-135mm f/4 G OSS</h3>
-
-The **[Sony FE PZ 28-135mm f/4 G OSS](http://amznlinks.com/global?user=analogsenses&us=B00NGTN0Y0&uk=B00NVA7ARW&es=B00NVA7ARW)** lens covers a very versatile focal range with a constant maximum aperture of f/4. This comes in handy when zooming in while recording video, because it allows you to maintain the same exposure parameters across the zooming range.
-
-The constant maximum aperture is great to have, but what makes this a video-first lens is the fact that it uses a parfocal design, which allows you to easily capture shots that would require the use of complex focus-pulling techniques with conventional photo lenses.
-
-<img src="https://farm2.staticflickr.com/1543/24248468342_d1efe30842_o.jpg" width="500"/>
-
-The lens is absolutely huge, but it’s actually relatively small and light if you compare with other Full Frame cine lenses. It features an all-metal body, weather sealing, and dedicated rings to control the zoom, the focus and the iris of the lens, another video-only feature. Even better, the focus ring actually has hard stops at infinity and the minimum focusing distance, which makes manual focus a breeze with this lens. It also has an internal zoom motor for electronic zoom control, which adds even more versatility to the lens.
-
-At $2,498, this one’s definitely not cheap, but again, it’s actually pretty affordable if you compare it with other Full Frame cine lenses. If you’re a videographer, the Sony FE 28-135mm f/4 lens should definitely be a part of your kit.
-
-<section class="product-link">
-	<h4 class="buy-now">Buy it online</h4>
-	<a href="http://amznlinks.com/global?user=analogsenses&us=B00NGTN0Y0&uk=B00NVA7ARW&es=B00NVA7ARW"><img src="https://c2.staticflickr.com/6/5817/30329555961_63e77221c7_o.jpg"/></a>
-</section>
-
-<p class="card-separator">♧</p>
-
 <h2 id="aside-24-70">A brief aside on the Sony Zeiss 24-70mm f/4 lens</h2>
 
 You might have noticed that there’s a high-profile omission in this guide: the **[Sony Zeiss Vario-Tessar T\* FE 24-70mm f/4 ZA OSS](http://amznlinks.com/global?user=analogsenses&us=B00FSB79FU&uk=B00FYRLSIC&es=B00FYRLSIC)** lens. That lens has been omitted because I do not consider it to be a good long-term investment, which is the primary factor for inclusion in this guide. 
 
-Despite being a pretty good lens overall, the 24-70mm f/4 lens is clearly the weakest of all three f/4 zooms currently in the lineup. At 24mm the lens is soft in the corners at all apertures, and it never really gets sharp. Besides, its overall image quality, while still pretty good, fails to match that of the other two lenses.
+Despite being a pretty good lens overall, the 24-70mm f/4 lens is clearly the weakest of all f/4 zooms currently in the lineup. At 24mm the lens is soft in the corners at all apertures, and it never really gets sharp.
 
 <img src="https://c7.staticflickr.com/2/1519/24061123030_fcf9da2a3e_o.jpg" width="500"/>
 
-There’s also the fact that Sony has now released the much-awaited **[24-70mm f/2.8 G-Master](#24-70-gm)**, which runs laps around this lens in terms of optical quality, making it a much better investment.
+Of course, there’s also the fact that Sony has now released the much-awaited **[24-70mm f/2.8 G-Master](#24-70-gm)**, which is objectively superior in terms of optical quality, making it a considerably smarter long-term investment.
 
-Again, just to be clear, we’re talking about lenses as long-term investments here. The 24-70mm f/4 lens is still a great lens, and in fact I do own it. I’m very happy with it, and though I’ll probably end up replacing it at some point, I still think it’s an underrated lens.
+Again, just to be clear, we’re talking about lenses as long-term investments here. The 24-70mm f/4 lens is still a great lens, and in fact I own it myself. I’m very happy with it, and I’ve gotten many wonderful images out of it. My work does not require a big and heavy standard zoom like the G-Master, and its improvements in optical quality are largely lost on me. That makes the f/4 lens a much better fit for my actual needs, which is what matters most in the end. 
 
-If you just need a small and light standard zoom, there’s nothing wrong with the 24-70mm f/4 lens. It’s a fine lens, and it will serve you well. But if you want your lenses to remain relevant and retain their value for a decade or more, I have to steer you away from this one.
+If that sounds like you, my advice is to just buy the f/4 lens and enjoy the unmatched convenience it brings. It really is a very good lens, and it will serve you well. Just don’t expect to be able to sell it five years from now without losing some money.
 
 <p class="card-separator">♢</p>
 
 <h2 id="wishlist-rumors">Wishlist for upcoming lenses and/or existing rumors</h2>
 
-While Photokina 2016 didn’t bring much in the way of E-mount announcements, we will probably see some more FE lenses announced soon. Sony still has a few gaps to fill in their lineup, and the list of possible candidates includes:
+2017 has already brought a few new pieces of glass for the FE system, including several high-end zoom lenses and budget primes like the new 85mm f/1.8. Having said that, we will probably still see some more FE lenses announced very soon. Sony still has a few gaps to fill in their lineup, and the list of possible candidates includes:
 
-* **More G-Master primes**, like the long-awaited 135mm prime lens. If it turns out to be an f/1.8 lens like the existing version for the A-mount, it’s going to be epic.
+* **More G-Master primes**, like the rumored 135mm prime lens. If it turns out to be an f/1.8 lens like the existing version for the A-mount, it’s going to be a system-seller for sure.
 
-* **More Batis lenses**. There are still gaps at 35mm, 50mm, and 135mm, to name a few.
+* **More Batis lenses**. There are still gaps at 35mm and 50mm. Not huge priorities, admittedly, but if you’d like to own a complete set of Batis primes, these are all that’s left.
 
 * **More Loxia lenses**. A tilt-shift Loxia lens would have architecture photographers drooling in no time.
 
-* **More affordable primes**, like the existing 28mm f/2, 50mm f/1.8 or 50mm f/2.8 Macro lenses.
+* **More affordable primes**, like the existing 28mm f/2, 50mm f/1.8, 50mm f/2.8 Macro, and 85mm f/1.8 lenses. A relatively affordable 35mm f/2 or thereabouts is probably the most glaring omission in the system to date.
 
-* **The missing 16-35mm f/2.8 G-Master zoom**. This is almost a given at this point.
+* **Faster ultra-wide angle primes** in the vein of the Sigma f/1.4 Art lenses. 
 
-* **A fast ultra-wide angle prime** (f/1.4, anyone?) 
+* **Fast super telephoto primes** for sports photography, like the rumored 400mm f/2.8 G-Master.
 
-* **A super telephoto prime** (300mm or longer).
-
-The point is, with so much movement in the industry and the FE system being in such a state of flux at the moment, it only makes sense to invest in lenses that you _know_ are top-notch, and that will remain relevant in a decade or more. Luckily, there are plenty of options to choose from already, and more seem to be on the way.
+* **Native Sigma Art lenses**. You can currently use the existing Canon and Sigma-mount versions with several adapters, including Sigma’s own MC-11, but nothing will ever beat the performance of a native lens. Sigma has publicly admitted to being working on native FE lenses and, according to the rumor sites, we should see a native FE version of their 35mm f/1.4 Art prime before the end of the year. Color me intrigued.
 
 <p class="card-separator">♤</p>
 
@@ -590,7 +691,7 @@ If you’re just starting out your FE lens kit and price is not a concern, the *
 
 If on the other hand you prefer to start your kit off with a prime lens, I highly recommend going with either the **[25mm f/2 Batis](#batis-25)**, **[55mm f/1.8 Sonnar](#sonnar-55)**, or **[85mm f/1.8 Batis](#batis-85)** as your first lens depending on your shooting style. These lenses represent the best overall value and a great compromise between size, weight, image quality, build quality, and price. You can’t go wrong with any of them. If size and weight don’t bother you much and you don’t mind spending a bit more, the **[35mm f/1.4 Distagon](#distagon-35)** is also an excellent choice as the foundation upon which to build up your kit.
 
-From then on, it’s only a matter of expanding your lens arsenal in the direction you shoot most often. If you can, rent every lens you’re curious about before buying it and take your time to learn where you’re most comfortable. Above all, go with your gut, but be aware that sometimes it takes a while to get used to a new focal length, so be patient and don’t be quick to dismiss any particular lens. And of course, above all, enjoy the process.
+From then on, it’s only a matter of expanding your lens arsenal in the direction you shoot most often. If you can, rent every lens you’re curious about before buying it and take your time to learn where you’re most comfortable. Go with your gut, but be aware that sometimes it takes a while to get used to a new focal length, so be patient and don’t be quick to dismiss any particular lens. And of course, above all, be sure to enjoy the process.
 
 <p class="card-separator">♡</p>
 
@@ -598,7 +699,7 @@ From then on, it’s only a matter of expanding your lens arsenal in the directi
 
 The whole idea of looking at lenses as long-term investments is born out of necessity. Lenses are expensive pieces of equipment, and very few people can afford to be upgrading them every couple of years.
 
-The Sony FE system is a perfect example of this philosophy. While admittedly there aren’t many lenses in the lineup yet, most of the existing ones are incredible pieces of glass. Every single one of the lenses featured in this guide offers best-in-class performance not only within the context of the FE system, but arguably across any other camera systems as well. Lenses like the 35mm f/1.4 Distagon, the 50mm f/1.4 Planar and the 85mm f/1.4 G-Master — the holy trinity of fast f/1.4 primes for the system — have raised the bar for the industry, and we’re all better off for it.
+The Sony FE system is a perfect example of this philosophy. Most of the available lenses for the system are incredible pieces of glass. Every single one of the lenses featured in this guide offers best-in-class performance not only within the context of the FE system, but arguably across any other camera systems as well. Lenses like the 35mm f/1.4 Distagon, the 50mm f/1.4 Planar and the 85mm f/1.4 G-Master — the holy trinity of fast f/1.4 primes for the system — have raised the bar for the industry, and we’re all better off for it.
 
 Also, investing in high-end lenses is a great way to future-proof your kit.
 

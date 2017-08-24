@@ -11,8 +11,8 @@
 						{% unless page.meta == false %}
 						     <div class="meta">
 						        {% include post/date.html %}
-						        {% if updated %}
-						        	<p>Last updated on {{ updated | date: "%B %d, %Y" }}</p>
+						        {% if post.updated %}
+						        	<p>Last updated on {{ post.updated | date: "%B %d, %Y" }}</p>
 						        {% else %}
 						        	<p>{{ time | date: "%B %d, %Y" }}
 						        {% endif %}
@@ -50,8 +50,8 @@
 						    <p class="subtitle">{{ post.subtitle }}<p>
 						  {% endif %}
 					      {% include post/date.html %}
-					      {% if updated %}
-					      	<p>Last updated on {{ updated | date: "%B %d, %Y" }}</p>
+					      {% if post.updated %}
+					      	<p>Last updated on {{ post.updated | date: "%B %d, %Y" }}</p>
 					      {% else %}
 					      	<p>{{ time | date: "%B %d, %Y" }}</p>
 					      {% endif %}
@@ -65,8 +65,8 @@
 			{% unless page.meta == false %}
 		      <div class="meta">
 		        {% include post/date.html %}
-		        {% if updated %}
-		        	<p>Last updated on {{ updated | date: "%B %d, %Y" }}</p>
+		        {% if post.updated %}
+		        	<p>Last updated on {{ post.updated | date: "%B %d, %Y" }}</p>
 		        {% else %}
 		        	<p>{{ time | date: "%B %d, %Y" }}
 		        {% endif %}
@@ -78,8 +78,8 @@
 			 	{% unless page.meta == false %}
 			      <div class="meta">
 			        {% include post/date.html %}
-			        {% if updated %}
-			        	<p>Last updated on {{ updated | date: "%B %d, %Y" }}</p>
+			        {% if post.updated %}
+			        	<p>Last updated on {{ post.updated | date: "%B %d, %Y" }}</p>
 			        {% else %}
 			        	<p>{{ time | date: "%B %d, %Y" }}
 			        {% endif %}
