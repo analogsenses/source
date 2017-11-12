@@ -8,7 +8,7 @@ categories:
 - Photography
 - Podcasting
 - Candid
-external-url: http://www.candid.fm/7db01cd9
+external-url: http://www.candid.fm/3e9f7b07
 ---
 
 In an experimental new segment, we choose an image from each others’ recent work and try to dissect the story and technique that went into realizing it. It was fun.

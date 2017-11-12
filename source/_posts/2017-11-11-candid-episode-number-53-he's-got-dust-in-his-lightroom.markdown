@@ -8,7 +8,7 @@ categories:
 - Photography
 - Podcasting
 - Candid
-external-url: http://www.candid.fm/7db01cd9
+external-url: hhttp://www.candid.fm/92889103
 ---
 
 There’s a new Lightroom in town! Well… two new Lightrooms. It’s all a bit confusing, but we’re here to help untangle it.
