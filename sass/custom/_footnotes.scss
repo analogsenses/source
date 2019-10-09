@@ -1,4 +1,3 @@
-
 #footnotediv {
 	position:absolute;
 	width:400px;
@@ -8,13 +7,19 @@
 #footnotediv {
 	background-color: white;
 	font-size: 1.0em;
-	color: black;
+	color: #404040;
 	padding: 25px 25px 25px 30px;
-	border: 4px solid teal;
+	border: 2px solid teal;
 	border-radius:1em;
 	box-shadow: 0 0 4px 0  #333;
 	-webkit-box-shadow: #333 0 0 4px 0;
 	-moz-box-shadow: 0 0 4px 0 #333;
+	@media (prefers-color-scheme: dark) {
+		background-color: #394147;
+		color: #A9ABAD;
+		border: 2px solid #A9ABAD;
+		
+	}
 }
 
 #footnotediv p {

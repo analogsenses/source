@@ -241,7 +241,6 @@ The main thing to remember is that wireless, noise-cancelling headphones are des
 Overall, I found the H9’s sound quality to be on the upper end of the wireless, noise-cancelling headphone range. They’re clearly better than the Bose QC35 II and almost as good as the Sony 1000XM2, but they don’t quite reach the highs of the Bowers & Wilkins PX. In the right conditions, those headphones just sound a little better – if by better you mean more accurate – because they’re less concerned about massaging the sound and more about letting its original character come through.
 
 However, the Beoplay H9 definitely hold their own in practical, real-world use. Flat recordings or poorly produced tracks, for example, can sound slightly boring and unappealing on the PX, which is the price to pay for their superior clarity. This is where letting talented audio engineers work their magic pays off, and I’m willing to bet many people out there would actually prefer the H9’s sound signature over that of the PX.
-The Beoplay H9 are supported by the companion Beoplay app, just like all of the company’s products. The app offers a very clean design, with a streamlined interface that makes it easy to toggle the ANC function and tweak the H9’s sound profile to better suit your musical taste.
 
 <section class="photoset">
 	<figure class="sidebyside">
@@ -251,6 +250,8 @@ The Beoplay H9 are supported by the companion Beoplay app, just like all of the 
 		</div>
 	</figure>
 </section>
+
+The Beoplay H9 are supported by the companion Beoplay app, just like all of the company’s products. The app offers a very clean design, with a streamlined interface that makes it easy to toggle the ANC function and tweak the H9’s sound profile to better suit your musical taste.
 
 Speaking of altering the sound profile, the Beoplay app offers what is easily the most user-friendly audio equalizer I’ve ever seen, which is great, because the H9 respond very well to subtle EQ tweaks. Like most truly great designs, it’s so simple and intuitive that explaining how it works is actually harder than using it. Alas, it is my job as a reviewer to try, so I’ll do my best.
 
