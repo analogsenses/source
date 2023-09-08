@@ -62,7 +62,7 @@ I know they sound cheesy, but these are not mere platitudes or clichés. When yo
 
 I hope you find this article useful, maybe even inspiring. Now there’s only one thing left to do: go to that special person, choose your favorite way – better yet, come up with you own – and tell them. You know who I’m talking about; you’ve known all along as you were reading this piece.
 
-Don’t wait until next month, or next week. Don’t even wait until tomorrow. If you’re lucky enough to be in the same room, just look them in the eye and tell them right now. And if you’re not, don’t put it off until you are, because by then the moment will have passed. Just call them, or text them. FaceTime them. Send a note with a raven. Whatever. If all else fails, just send them this article and tell them, “*It reminded me of you*”. That will do it. That’s all it takes.
+Don’t wait until next month, or next week. Don’t even wait until tomorrow. If you’re lucky enough to be in the same room, just look them in the eye and tell them right now. And if you’re not, don’t put it off until you are, because by then the moment will have passed. Just call them, or text them. FaceTime them. Send a raven with a note. Whatever. If all else fails, just send them this article and tell them, “*It reminded me of you*”. That will do it. That’s all it takes.
 
 It’s *that* easy.
 
