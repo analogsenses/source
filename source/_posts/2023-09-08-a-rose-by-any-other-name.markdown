@@ -40,6 +40,7 @@ In no particular order:
 - "*You have my sword (bonus points for nerdery)*".
 - "*You’re always on my mind*".
 - "*I’m thinking of you*".
+- "*Here, I got you a beer*".
 - "*You bring a smile to my face*".
 - "*I’m so proud of you*".
 - "*I brag about you all the time*".
