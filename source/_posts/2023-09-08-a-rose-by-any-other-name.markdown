@@ -15,7 +15,7 @@ When was the last time you said, “*I love you*”, and truly meant it?
 
 I’m not talking about saying those three words as you gaze deeply into the eyes of a romantic partner – although that’s also important. I’m talking about expressing genuine, selfless love for the people close to your heart, the ones that really matter to you.
 
-You know who they are. They’re the ones that make life worth living. Your desert island people. Your pack. The ones that, if you were to call them up in the middle of the night and tell them you’ve killed someone, would show up ten minutes later with a shovel and a body bag, and never ask any questions. They’re not merely friends, or family. They’re more than that, because true love transcends those labels. 
+You know who they are. They’re the ones that make life worth living. Your desert island people. Your pack. If you were to call them up in the middle of the night and tell them you’ve killed someone, they would show up ten minutes later with a shovel and a body bag, and never ask any questions. They’re not merely friends, or family. They’re more than that, because true love transcends those labels. 
 
 I’m very lucky to have people in my life who love me and tell me so. To not have to wonder, to just know it for a fact, feels like a superpower. It’s something I never take for granted, and I like to think that the people close to me probably have a pretty good idea of how I feel about them, too. At least I hope that’s the case, and I strive to make it so.
 
