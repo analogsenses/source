@@ -9,8 +9,8 @@ sharing: true
 categories:
 - Photostories
 - Travel
-start-date: 2015-03-23 15:15:52 +0100
-end-date: 2016-03-30 13:15:52 +0100
+start-date: 2024-03-23 15:15:52 +0100
+end-date: 2024-03-30 13:15:52 +0100
 external-url: "https://adobe.ly/4ae8J9z"
 description: "The story of a trip five years in the making."
 ---
