@@ -16,7 +16,7 @@ tags:
 
 Just look at this for a moment:
 
-[![gramaphone](http://farm3.static.flickr.com/2727/4070099652_834e823206.jpg)](http://www.flickr.com/photos/44085028@N03/4070099652/)
+[![gramaphone](/assets/images/flickr/4070099652_834e823206.jpg)](http://www.flickr.com/photos/44085028@N03/4070099652/)
 
 Beautiful, isn't it? The first gramophone was invented in the 1870's by none other than Thomas Alva Edison (yes, the same man that invented the light bulb and the motion picture camera). Back then, it was only an attempt to play back previously recorded telegraph messages. But from that point in human history until the 1980's, the turntable experienced an unprecedented rise until it became the center of the music market, used for both professional and consumer purposes. It became an icon that is still present in our collective consciences, some 20 years after it was replaced from mainstream use.
 

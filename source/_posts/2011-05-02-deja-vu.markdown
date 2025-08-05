@@ -42,4 +42,4 @@ Cheers, my friend. Take care, and see you next time.
 
 
 
-[![Mate in Berlin](http://farm6.static.flickr.com/5262/5678188902_c1e0cc1c01.jpg)](http://www.flickr.com/photos/analogsenses/5678188902/)
+[![Mate in Berlin](/assets/images/flickr/5678188902_c1e0cc1c01.jpg)](http://www.flickr.com/photos/analogsenses/5678188902/)

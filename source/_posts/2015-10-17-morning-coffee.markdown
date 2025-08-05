@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 How many ways are there to start a weekly linkage piece? It turns out, more than I thought, but not nearly as many as I hoped.
@@ -199,7 +199,7 @@ That was intense. To finish the issue in better spirits, allow me to share a cou
 
 On Wednesday, I arranged a meeting with my friend Sabina and we headed to a nearby park. I took all my lenses with me, as well as, for the first time, a flash. I recently purchased a [Sony HVL-F43M](http://amzn.to/1hKhCg2) flash unit, and I have to say it adds a whole new dimension to the shooting experience. 
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5777/22236406232_ee2697a770_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/22236406232_ee2697a770_o.jpg"/></p>
 
 By being able to actually manipulate the light in the scene, I’m finding I can create some images that were previously outside of my reach. I love the possibilities this has opened up for me, and I’m having so much fun with it in my shoots.
 

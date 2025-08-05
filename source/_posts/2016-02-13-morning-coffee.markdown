@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "The Star Wars madness continues, followed by some of the week’s most interesting pieces of writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Hello there, welcome to another issue of _Morning Coffee_.
@@ -55,7 +55,7 @@ However, before Finn can explain anymore about Skywalker and the map, BB-8 burst
 Still foolish and still underestimating Rey, Finn tries to hold her hand while they run, to which she responds in the only reasonable way: by telling him, “I know how to run without you holding my hand!” Not the subtlest of ways, but it’ll certainly do. At this point Finn is acting out of pure survival instinct, so Rey’s words don’t really register, and he tries to hold her hand again, only to be scolded by her again.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1621/24370037703_3de5e718a1_o.jpg"/>
+<img src="/assets/images/flickr/24370037703_3de5e718a1_o.jpg"/>
 <p class="photo-credit">“I know how to run without you holding my hand!” Yes she does.</p>
 </figure>
 
@@ -66,7 +66,7 @@ If this was a typical Hollywood film, Finn’s actions would be interpreted as c
 Instead, we get a Rey that is almost annoyed by this guy who continues to underestimate her, and just decides to humor him because it’s the easiest and, crucially, fastest way to get the hell out of there. This is such a great way to subvert the typical “damsel in distress” trope that I really hope directors and screenwriters everywhere are paying attention.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1514/24997038415_0098375be8_o.jpg"/>
+<img src="/assets/images/flickr/24997038415_0098375be8_o.jpg"/>
 <p class="photo-credit">“Are you ok?” Pretty much, dude.</p>
 </figure>
 
@@ -144,7 +144,7 @@ Another week has gone by, one that was mostly spent taking care of things outsid
 Besides that, my next review for _Tools & Toys_ is already in the final stage, so I’ll probably spend the remainder of the weekend tweaking the last few details. I honestly can’t say enough good things about the [Sony FE 70-200mm F4](http://www.amazon.com/gp/product/B00I8BICEO/?tag=analogsens-20) lens. No matter how you slice it, it’s an incredibly impressive piece of glass.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1661/24703187020_61acc654a1_o.jpg"/>
+<img src="/assets/images/flickr/24703187020_61acc654a1_o.jpg"/>
 </figure>
 
 I’ve also been working on a special project I’m really excited about, and I do hope to have some more news for you very soon. I do apologize for being so cryptic, but I don’t want to spoil the surprise.

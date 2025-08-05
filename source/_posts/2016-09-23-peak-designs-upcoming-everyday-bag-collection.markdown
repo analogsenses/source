@@ -9,7 +9,7 @@ categories:
 - Tools & Toys
 - Photography
 external-url: http://toolsandtoys.net/peak-designs-upcoming-everyday-bag-collection/
-title-image: https://c8.staticflickr.com/9/8185/29790086711_971196a149_o.jpg
+title-image: /assets/images/flickr/29790086711_971196a149_o.jpg
 ---
 
 Yesterday I spent some quality time with the Peak Design folks at Photokina, and I had a chance to play with their upcoming Everyday Bags collection, including the Everyday Backpack, Everyday Tote, and Everyday Sling. Head on over to _Tools & Toys_ to see more pics and to read my first quick thoughts on the bags.

@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Hello there, welcome to the first edition of Morning Coffee in 2016.

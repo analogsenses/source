@@ -18,7 +18,7 @@ Let's see: it's a hot Summer afternoon and I'm sitting in a nice cafe, typing on
 
 Since I'm not above self-deprecation and I have a very particular sense of humor, here's the shot for your viewing pleasure:
 
-[![The most original scene in the world](http://farm8.staticflickr.com/7314/9386905564_339fb3570e.jpg)](http://www.flickr.com/photos/analogsenses/9386905564/)
+[![The most original scene in the world](/assets/images/flickr/9386905564_339fb3570e.jpg)](http://www.flickr.com/photos/analogsenses/9386905564/)
 
 There's even latte-art in the coffee, for Christ's sake. It's moments like these that make me wonder whether we've all been brainwashed by an unknown, hipster-loving alien species. Or maybe this is all some sort of weird, mass-delusion experiment and nobody bothered to tell me. Just for the record, a little heads-up would be nice next time.
 

@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Another week, and another issue of Morning Coffee to help you relax and recharge your batteries over the weekend. If you’re into photography, you’re in for a treat this week. 
@@ -63,7 +63,7 @@ Some really nice tips in this one.
 
 Robert Downey Jr., Scarlett Johansson, Charlize Theron, and other Hollywood stars recreate some iconic scenes from several classic Hitchcock films. Fantastic.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/612/20582666562_26e974c308_o.jpg" width="650"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/20582666562_26e974c308_o.jpg" width="650"/></p>
 
 <p class="photo-credit">Marion Cotillard recreating the classic shower scene from Hitchcock’s Psycho.</p>
 
@@ -152,7 +152,7 @@ Sadly, though, I’m well aware that it doesn’t make sense to keep two cameras
 
 Since the A7 II arrived only yesterday and most of my afternoon was spent on a train bound to my hometown, I haven’t had any real time to play with it yet. As such, I’ll refrain from making any sort of serious claims about it for now. I plan to take my sweet time to form an honest opinion, and only then will I write about it at length. I believe it’s only fair, because my user experience has been pretty much _defined_ by the E-M10, and the Sony is an entirely different beast. I don’t want to judge it based on comparing it to the Olympus — or any other camera, for that matter.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5644/20584963602_68e5a95d49_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20584963602_68e5a95d49_o.jpg"/></p>
 
 With that in mind, here are a few _very, very_ initial impressions:
 

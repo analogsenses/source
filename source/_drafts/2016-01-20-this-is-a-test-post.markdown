@@ -142,19 +142,19 @@ Modern sites feature a rich variety of media: photos, videos, tweets, Instagram 
 
 The first option is to have photos embedded within the confines of the main text. In this case, images are never wider than the text itself. This is how that looks:
 
-<figure class="normal-width"><img src="https://farm6.staticflickr.com/5808/21168957681_91936cc164_o.jpg"/></figure>
+<figure class="normal-width"><img src="/assets/images/flickr/21168957681_91936cc164_o.jpg"/></figure>
 
 <p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 
-<figure class="normal-width"><img src="https://farm2.staticflickr.com/1678/23876918634_8b64e7d40b_o.jpg"/></figure>
+<figure class="normal-width"><img src="/assets/images/flickr/23876918634_8b64e7d40b_o.jpg"/></figure>
 
 The problem with this approach is that these images will never be displayed at full-width on your screen. And if you’re looking at them on a smartphone, it doesn’t really make much sense to waste valuable space with margins. This approach works very well in some specific cases, so it’s important to support it, but clearly we can do better. Here’s a wider image:
 
-<figure class="extra-width"><img src="https://farm2.staticflickr.com/1621/24389171822_71c8712c22_o.jpg"/></figure>
+<figure class="extra-width"><img src="/assets/images/flickr/24389171822_71c8712c22_o.jpg"/></figure>
 
 That’s better. This size works well for portrait images, as well. Here’s what a portrait image looks like at this wider size:
 
-<figure class="extra-width"><img src="https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/></figure>
+<figure class="extra-width"><img src="/assets/images/flickr/23870421983_f2990fba7a_o.jpg"/></figure>
 
 <p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 
@@ -164,7 +164,7 @@ I like this size better, but keep in mind that portrait images that are this wid
 
 Then there’s an even wider size that is best suited for landscape-orientation pictures. This is what that looks like:
 
-<figure class="full-width"><img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/></figure>
+<figure class="full-width"><img src="/assets/images/flickr/23869243554_e51d215470_o.jpg"/></figure>
 
 Obviously, this size is not optimal for portrait-orientation images, as it would take a very tall screen to be able to view the entire image.[^StyleReference4]
 
@@ -180,7 +180,7 @@ Finally, the caption should change to reflect the current way images are display
 
 <section class="photoset">
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+		<img src="/assets/images/flickr/23869243554_e51d215470_o.jpg"/>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:74.18%">
@@ -189,7 +189,7 @@ Finally, the caption should change to reflect the current way images are display
 		</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+		<img src="/assets/images/flickr/23869243554_e51d215470_o.jpg"/>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.9%">
@@ -204,7 +204,7 @@ Finally, the caption should change to reflect the current way images are display
 		<p class="caption-wide">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 		<p class="caption-narrow">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+		<img src="/assets/images/flickr/23869243554_e51d215470_o.jpg"/>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
@@ -213,7 +213,7 @@ Finally, the caption should change to reflect the current way images are display
 		</div>
 	</figure>
 	<figure class="full-width">
-	<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+	<img src="/assets/images/flickr/23869243554_e51d215470_o.jpg"/>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:73.1%">
@@ -222,7 +222,7 @@ Finally, the caption should change to reflect the current way images are display
 		</div>
 	</figure>
 	<figure class="full-width">
-		<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+		<img src="/assets/images/flickr/23869243554_e51d215470_o.jpg"/>
 	</figure>
 </section>
 

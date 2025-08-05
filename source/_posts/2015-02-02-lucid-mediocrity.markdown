@@ -44,7 +44,7 @@ Lately I’ve been really getting into film photography, and the other day I pub
 
 To further prove my point, yesterday I scanned another roll of [Kodak Tri-X film](http://www.amazon.com/gp/product/B004UT0T5S/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004UT0T5S&linkCode=as2&tag=analogsens-20&linkId=JNNXSBD3BQSUIFKQ) and among other things, this came out:
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8679/16241508288_54ae68e301_o.jpg" alt="Vespa and the Sol Apple Store"></p>
+<p class="extra-width"><img src="/assets/images/flickr/16241508288_54ae68e301_o.jpg" alt="Vespa and the Sol Apple Store"></p>
 
 It’s a seemingly simple, almost mundane image of a Vespa motorcycle in Sol Square, Madrid. In the background you can see the brand-new Sol Apple Store, and that’s pretty much it. 
 
@@ -67,7 +67,7 @@ It turned out, Ben liked the article enough [to link to it on The Brooks Review]
 
 For example, I now cringe a little bit when I look at some of the photos. The framing, the colors, the post-processing... Everything seems slightly _off_, as if it wasn’t really me who took them. I suppose that’s great, because it means I’ve grown as a photographer since then. I certainly have no intention of going back to “fix it”, as I believe in letting my work be true to itself and more importantly, be a reflection of who I was at the time. Plus, if I had to fix everything I don’t like about my past work I would never get anything done.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7458/16403572246_56146bf4cb_o.jpg" alt="Building a lightweight photography kit for the urban professional"></p>
+<p class="extra-width"><img src="/assets/images/flickr/16403572246_56146bf4cb_o.jpg" alt="Building a lightweight photography kit for the urban professional"></p>
 
 <p class="photo-credit">I don’t know what I like better, if the cord plugged into the wall socket, the fact that the chair is not straight, the overly saturated red color of the chair which looks nothing like real life (it’s actually orange), or the sunlight entering through the window to add absolutely nothing to the overall picture.</p>
 

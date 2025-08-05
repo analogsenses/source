@@ -13,7 +13,7 @@ post_format:
 external-url: http://instagram.com/p/mgWHOhxa2u/
 ---
 
-[![Finally, my SDK is complete.](https://farm8.staticflickr.com/7261/13704004154_bb8e10b8f9.jpg)](http://instagram.com/p/mgWHOhxa2u/)
+[![Finally, my SDK is complete.](/assets/images/flickr/13704004154_bb8e10b8f9.jpg)](http://instagram.com/p/mgWHOhxa2u/)
 
 Finally, my SDK is complete.
 

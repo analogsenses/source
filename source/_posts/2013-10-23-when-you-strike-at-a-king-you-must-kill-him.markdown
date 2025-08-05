@@ -13,7 +13,7 @@ categories:
 ---
 
 
-[![...The Game...](http://farm3.staticflickr.com/2730/4344651102_6a186d5733.jpg)](http://www.flickr.com/photos/darrentunnicliff/4344651102/)   
+[![...The Game...](/assets/images/flickr/4344651102_6a186d5733.jpg)](http://www.flickr.com/photos/darrentunnicliff/4344651102/)   
 
 
 

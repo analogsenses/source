@@ -14,7 +14,7 @@ categories:
 
 By the time you read this, my words will have become a digital stream of ones and zeroes that have somehow found their way to your screen across the Internet. But you must know, they weren't always like this. In their original form they were not made of pixels and electrons, no. They were carefully formed by precise traces of blue ink, flowing through the tip of my pen onto the first page of a brand new Moleskine notebook. There's something incredibly refreshing about a new notebook. That first empty page is very special. It represents a clean slate, a sea of possibilities. A new beginning.
 
-[![Analog Writing](http://farm7.static.flickr.com/6199/6086174290_9eea892552.jpg)](http://www.flickr.com/photos/analogsenses/6086174290/)
+[![Analog Writing](/assets/images/flickr/6086174290_9eea892552.jpg)](http://www.flickr.com/photos/analogsenses/6086174290/)
 
 What is it about beginnings that we love so much? It may be the promise of what's still to come. It may be the hope for better things as they inch closer, slowly but surely finding their way towards us. Each new beginning brings a unique feeling of anticipation that to me is very much like reading a good book.
 

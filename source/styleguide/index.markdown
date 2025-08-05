@@ -141,21 +141,21 @@ Modern sites feature a rich variety of media: photos, videos, tweets, Instagram 
 
 The first option is to have photos embedded within the confines of the main text. In this case, images are never wider than the text itself. This is how that looks:
 
-<img src="https://farm6.staticflickr.com/5808/21168957681_91936cc164_o.jpg"/>
+<img src="/assets/images/flickr/21168957681_91936cc164_o.jpg"/>
 
 <p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 
 Of course, photos can be embedded in portrait orientation, as well:
 
-<img src="https://farm2.staticflickr.com/1678/23876918634_8b64e7d40b_o.jpg"/>
+<img src="/assets/images/flickr/23876918634_8b64e7d40b_o.jpg"/>
 
 The problem with this approach is that these images will never be displayed at full-width on your screen. And if you’re looking at them on a smartphone, it doesn’t really make much sense to waste valuable space with margins. This approach works very well in some specific cases, so it’s important to support it, but clearly we can do better. Here’s a wider image:
 
-<figure class="extra-width"><img src="https://farm2.staticflickr.com/1621/24389171822_71c8712c22_o.jpg"/></figure>
+<figure class="extra-width"><img src="/assets/images/flickr/24389171822_71c8712c22_o.jpg"/></figure>
 
 That’s better. This size works well for portrait images, as well. Here’s what a portrait image looks like at this wider size:
 
-<figure class="extra-width"><img src="https://farm2.staticflickr.com/1506/23870421983_f2990fba7a_o.jpg"/></figure>
+<figure class="extra-width"><img src="/assets/images/flickr/23870421983_f2990fba7a_o.jpg"/></figure>
 
 I like this size better, but keep in mind that portrait images that are this wide can be harder to view on laptops with widescreen displays. You should find a compromise that works for you there.[^StyleReference3]
 
@@ -164,7 +164,7 @@ I like this size better, but keep in mind that portrait images that are this wid
 Then there’s an even wider size that is best suited for landscape-orientation pictures. This is what that looks like:
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1591/23869243554_e51d215470_o.jpg"/>
+<img src="/assets/images/flickr/23869243554_e51d215470_o.jpg"/>
 <p class="caption">This is a photo caption. If your site uses pictures from other photographers, this is a great place to give them credit.</p>
 </figure>
 
@@ -175,7 +175,7 @@ Obviously, this size is not optimal for portrait-orientation images, as it would
 And finally, we can have true full width panoramas, like this one:
 
 <figure class="panorama">
-<a class="fancybox" rel="MenorcaPanorama" href="https://c4.staticflickr.com/9/8639/28282683011_028f66ee88_o.jpg"><img src="https://c4.staticflickr.com/9/8639/28282683011_028f66ee88_o.jpg" alt="" /></a>
+<a class="fancybox" rel="MenorcaPanorama" href="/assets/images/flickr/28282683011_028f66ee88_o.jpg"><img src="/assets/images/flickr/28282683011_028f66ee88_o.jpg" alt="" /></a>
 </figure>
 
 This should extend the entire width of your screen, regardless of the size of your window.

@@ -2,7 +2,7 @@
 layout: post
 title: "Thailand 2024: a photo story"
 subtitle: "Thailand 2024"
-title-image: https://live.staticflickr.com/65535/53625127088_e1309effe8_o.jpg
+title-image: /assets/images/flickr/53625127088_e1309effe8_o.jpg
 date: 2024-04-01 14:38:44 +0200
 comments: false
 sharing: true

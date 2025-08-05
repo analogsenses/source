@@ -35,7 +35,7 @@ This trend towards frequent upgrades may make sense in the case of the tech indu
 
 Take the shaving industry, for example. Back in the early 20th-century, [King C. Gillette](http://en.wikipedia.org/wiki/King_C._Gillette) found a way to disrupt the established technology by introducing [disposable razors and blades](http://en.wikipedia.org/wiki/Safety_razor) that promised the convenience of not needing to be cared for and maintained. Much like phone subsidies today, this turned out to resonate well with consumers and the entire shaving industry shifted towards this newer model, which for the most part remains dominant today. Gone are the [straight razors](http://en.wikipedia.org/wiki/Straight_razor) of old, which were made of quality steel that could last for generations if properly cared for. Instead, we now have the latest Fusion Pro Glide, and every couple shaves you have to throw away 5 blades. In this case, the price of convenience is far too high — quite literally too, because disposable razors are way more expensive in the long run.
 
-<p class="extra-width"><img class="extra-width" src="https://farm8.staticflickr.com/7573/15649226921_42c4b3b749_o.jpg"/></p>
+<p class="extra-width"><img class="extra-width" src="/assets/images/flickr/15649226921_42c4b3b749_o.jpg"/></p>
 
 <p class="photo-credit">Straight razor: if it's good enough for Bond, it's good enough for you.</p>
 
@@ -43,11 +43,11 @@ It also happened with clothing. Companies like H&M and Zara have made billions o
 
 And what about writing instruments? You can buy a pack of [Bic pens](http://en.wikipedia.org/wiki/Bic_Cristal) for a few cents each, as opposed to spending upwards of $100 on [a nice fountain pen](http://www.amazon.com/gp/product/B0036EGL8W/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0036EGL8W&linkCode=as2&tag=analsens03-20&linkId=7WDW7OMWDUW4274K). However, you'll be missing out on the pleasure of writing with a high-quality precision instrument that can become a lifetime companion.
 
-<p class="extra-width"><img class="extra-width" src="https://farm8.staticflickr.com/7562/15465375598_a564d330bf_h.jpg"/></p>
+<p class="extra-width"><img class="extra-width" src="/assets/images/flickr/15465375598_a564d330bf_h.jpg"/></p>
 
 <p class="photo-credit">My Waterman Perspective fountain pen.</p>
 
-<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3932/15030782384_e60cebd252_h.jpg"/></p>
+<p class="extra-width"><img class="extra-width" src="/assets/images/flickr/15030782384_e60cebd252_h.jpg"/></p>
 
 Consumerism is a trick on the mind and as a society, we've swallowed it hook, line and sinker: we buy cheap stuff and replace it all the time instead of investing in quality items that will last forever. Luckily, there are still artisans out there, and some companies still worry about creating timeless products. These companies often cater to niche markets, albeit very lucrative ones, because the people who appreciate and value quality are willing to go to great lengths to get it.
 

@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A look at The Last of Us, followed by some of the week’s most interesting pieces of writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Hello there, welcome to another issue of _Morning Coffee_.
@@ -31,7 +31,7 @@ My ambitions when it comes to gaming are fairly modest: have fun, and experience
 However, every once in a while there comes a game so remarkable that it fully and completely transcends the previously known limitations of the medium and becomes something else entirely. These are incredibly rare, and may come only once in a generation. _[The Last of Us](http://amzn.to/251XIEq)_ is exactly that kind of game.
 
 <figure class="full-width">
-<img src="https://farm8.staticflickr.com/7601/26419667804_fa85a50272_k.jpg"/>
+<img src="/assets/images/flickr/26419667804_fa85a50272_k.jpg"/>
 </figure>
 
 On its face, the premise of the game seems fairly simple: set in a dystopian future where a virus has wiped out most of the human race and turned them into fungi-shaped zombies, two mean-spirited scavengers are tasked with smuggling a teenage girl out of a quarantine zone. So far, nothing seems out of the ordinary: just another zombie-ridden survival game, right?
@@ -41,7 +41,7 @@ Wrong.
 What sets _The Last of Us_ apart from many other games is the depth and complexity of its characters. There are zombies in the game, yes, but the story is never about them. It’s not even about the Fireflies, a so-called resistance group that’s apparently looking for a cure. _The Last of Us_ tells a story that is much smaller in scope, but much bigger in relevance. It’s the story of a broken man and a lost girl, both of whom stubbornly refuse to give up even in the face of insurmountable odds. It’s a story about family, and love. A story about growing up, and learning to let go.
 
 <figure class="full-width">
-<img src="https://farm8.staticflickr.com/7713/26751418010_8ffafe4e7e_o.jpg" width="960"/>
+<img src="/assets/images/flickr/26751418010_8ffafe4e7e_o.jpg" width="960"/>
 </figure>
 
 Right from the beginning, _The Last of Us_ punches you in the stomach with a scene so poignant and tragic that you have no choice but to instantly empathize with Joel, the main playable character in the game. By bearing witness to this traumatic event, we’re prepared to understand — if not quite forgive — Joel for any questionable actions he may go on to commit over the course of the story. And boy, does he commit them. Clearly, you don’t get to survive long in a zombie apocalypse by being nice.
@@ -51,7 +51,7 @@ Ellie, on the other hand, represents the polar opposite of Joel. She was born af
 And so, while there’s a fair amount of killing to do — both zombie and human killing, mind you — and lots of huge areas to traverse and gorgeous sets to explore, to me the most compelling aspect of _The Last of Us_ is being able to witness the complex and nuanced relationship that slowly develops between Joel and Ellie. He teaches her to find the strength to do whatever it takes to survive, and she teaches him that there’s more to life than surviving. It’s a long and powerful journey during which both characters change profoundly — and hopefully, so do we.
 
 <figure class="full-width">
-<img src="https://farm8.staticflickr.com/7792/26931010882_a98f566555_o.jpg" width="960"/>
+<img src="/assets/images/flickr/26931010882_a98f566555_o.jpg" width="960"/>
 </figure>
 
 I won’t get into any more specifics here, because if you haven’t played the game, spoiling it would be cruel. Suffice it to say that Naughty Dog managed to make Joel, Ellie and many of the supporting characters feel surprisingly like real people, with their own problems and ambitions, instead of random stereotypes. This is storytelling at its absolute, unequivocal best.
@@ -61,7 +61,7 @@ Of course, when it comes to telling a compelling, believable story, it never hur
 And last but certainly not least, there’s the wonderful _[Left Behind](https://en.wikipedia.org/wiki/The_Last_of_Us:_Left_Behind)_, a roughly 3-hour-long DLC that was released about a year after the main game. _Left Behind_ helped bridge a particular gap in the story of the main game, and also gave us a lot more insight into Ellie as a character. It not only further developed the story of _The Last of Us_, but it also gave us the opportunity to spend a few more precious hours in the company of these characters we’ve come to know so well. In my mind, it is quite possibly the best DLC ever, and it’s only fitting that it would put one heck of a finishing touch on such a remarkable game.
 
 <figure class="full-width">
-<img src="https://farm8.staticflickr.com/7104/26991650716_5ddbb76804_o.jpg" width="960"/>
+<img src="/assets/images/flickr/26991650716_5ddbb76804_o.jpg" width="960"/>
 </figure>
 
 _The Last of Us_ will always be remembered as an excellent game, perhaps the crowning achievement of the previous generation of consoles. To me, however, it will go down as one of the most compelling and emotional stories I’ve ever experienced, and one of the most polished and inspired pieces of creative work I’ve ever seen.

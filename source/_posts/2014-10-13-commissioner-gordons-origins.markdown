@@ -13,4 +13,4 @@ If you're watching [Gotham](http://www.imdb.com/title/tt3749900/), you may have 
 
 Well, now you know why:
 
-[![Commissioner Gordon's Origins](https://farm4.staticflickr.com/3946/15522398851_7c0d3f1bc6_o.jpg =450x)](http://www.dorkly.com/post/62579/commissioner-gordons-origins)
+[![Commissioner Gordon's Origins](/assets/images/flickr/15522398851_7c0d3f1bc6_o.jpg =450x)](http://www.dorkly.com/post/62579/commissioner-gordons-origins)

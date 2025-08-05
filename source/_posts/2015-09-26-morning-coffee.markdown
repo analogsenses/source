@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 It feels like it was yesterday that I was complaining about the slow rhythm of August, and now, before I even noticed, September is on its way out, summer is but a memory, and we’re heading straight into the holiday season. Boy, time really does fly when you’re busy.

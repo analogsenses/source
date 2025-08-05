@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 It’s been a turbulent week in Europe. Pretty much every country in the EU is looking at Greece with increasing concern these days, after it became the first developed country to default on its I.M.F. loans.
@@ -147,7 +147,7 @@ It’s [July Fourth](https://en.wikipedia.org/wiki/Independence_Day_(United_Stat
 
 As it happens, tomorrow is another highly celebrated day of the year: my birthday. I’m turning 32 in a few hours, and I’m spending the weekend in my hometown with my parents to celebrate. Last night we had dinner at a new restaurant that a friend of mine opened three days ago, and we had a wonderful time. I really enjoy these quiet moments together, and in my mind it’s the perfect way to get slightly older.
 
-<p class="extra-width"><img src="https://c2.staticflickr.com/4/3899/19399297392_e866111a3e_o.jpg" /></p>
+<p class="extra-width"><img src="/assets/images/flickr/19399297392_e866111a3e_o.jpg" /></p>
 
 I’m not one to dwell much on my birthdays, but this time around it feels slightly different than past years. I’ve been working for myself full-time for close to a year now, and it’s been one of the most rewarding experiences of my life. I still have a ways to go to make it sustainable, and I may have to make some hard choices about my life in the near future but for now, things are good. I love doing what I do, and I feel incredibly fortunate for the opportunity to pursue this life. I’m well aware of the privilege it entails, and I’m committed to doing the very best work I can. Hopefully you’ll stick around to see it.
 

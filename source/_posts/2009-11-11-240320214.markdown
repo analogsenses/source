@@ -15,11 +15,11 @@ tags:
 ---
 
 
-[![gramaphone by the ant hill mob, on Flickr](https://farm3.staticflickr.com/2727/4070099652_834e823206_b.jpg)](https://www.flickr.com/photos/44085028@N03/4070099652)
+[![gramaphone by the ant hill mob, on Flickr](/assets/images/flickr/4070099652_834e823206_b.jpg)](https://www.flickr.com/photos/44085028@N03/4070099652)
 
 Just Beautiful. And it plays music, too.
 
-[![iO by M Al-Ghanim, on Flickr](https://farm4.staticflickr.com/3193/2636791335_3d9ebe6b89_o.jpg)](https://www.flickr.com/photos/weda3eah007/2636791335)
+[![iO by M Al-Ghanim, on Flickr](/assets/images/flickr/2636791335_3d9ebe6b89_o.jpg)](https://www.flickr.com/photos/weda3eah007/2636791335)
 
 ... but yeah, this is more like it.
 

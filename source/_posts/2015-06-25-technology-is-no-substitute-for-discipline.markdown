@@ -42,7 +42,7 @@ Next time you get gear anxiety, think of it like this: people have been complain
 
 A vast majority of the greatest, most iconic images in history were captured by cameras with laughable specs by today’s standards, and you know what? Nobody cares. I’m yet to meet a person that looks at [Ernesto Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara)’s iconic portrait and complains because it isn’t sharp enough.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/332/19144491375_998342c406_o.jpg" title="Guerrillero Heroico. Photo by Alberto Korda, 1960."/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19144491375_998342c406_o.jpg" title="Guerrillero Heroico. Photo by Alberto Korda, 1960."/></p>
 
 <p class="photo-credit">“Guerrillero Heroico”. Ernesto Che Guevara at the funeral for the victims of the <a href="https://en.wikipedia.org/wiki/La_Coubre_explosion">La Coubre explosion</a>. Photo by <a href="https://en.wikipedia.org/wiki/Alberto_Korda">Alberto Korda</a>, 1960. Image is in the <a href="https://en.wikipedia.org/wiki/Che_Guevara#/media/File:CheHigh.jpg">Public Domain</a>.</p>
 
@@ -57,7 +57,7 @@ I don’t know about you but more often than not, I tend to prefer the work of t
 
 It goes beyond photography, of course. Do you really believe [Michelangelo’s David](https://en.wikipedia.org/?title=David_(Michelangelo\)) would be any better if he’d used today’s technology to create it?
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/259/19119236636_dedcaf7e2e_o.jpg" title="David by Michelangelo, 1501-1504. Photo by Jörg Bittner Unna, 2011."/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19119236636_dedcaf7e2e_o.jpg" title="David by Michelangelo, 1501-1504. Photo by Jörg Bittner Unna, 2011."/></p>
 
 <p class="photo-credit">“David” by <a href="https://en.wikipedia.org/wiki/Michelangelo">Michelangelo</a>, 1501-1504. Photo by <a href="https://commons.wikimedia.org/wiki/User:Jörg_Bittner_Unna">Jörg Bittner Unna</a>, 2011. Image source: <a href="https://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a>.</p>
 
@@ -90,7 +90,7 @@ In the words of everyone’s favorite mathematician and chaos theorist, [Dr. Ian
 
 That is _exactly_ my point. Technology can be a powerful enabler, as it allows people to attain knowledge without discipline. Sometimes that’s great, but sometimes it’s unfortunate. You should _definitely_ use technology as an aid, but not as a substitute for experience.
 
-<p class="extra-width"><img src="https://c4.staticflickr.com/4/3856/18958867690_2145a86a93_o.jpg" title="Dr. Ian Malcolm as portrayed by actor Jeff Goldblum in the film Jurassic Park, 1993."></a>
+<p class="extra-width"><img src="/assets/images/flickr/18958867690_2145a86a93_o.jpg" title="Dr. Ian Malcolm as portrayed by actor Jeff Goldblum in the film Jurassic Park, 1993."></a>
 
 <p class="photo-credit">Dr. Ian Malcolm as portrayed by actor Jeff Goldblum in the film <a href="http://www.imdb.com/title/tt0107290/">Jurassic Park</a>, 1993.</p>
 

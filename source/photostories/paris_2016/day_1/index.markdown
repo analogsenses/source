@@ -6,11 +6,11 @@ layout: page
 sharing: true
 title: "Paris 2016: Day One"
 subtitle: "The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well."
-title-image: https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg
-title-image-2: https://c1.staticflickr.com/9/8897/27751263824_a49b949bf2_o.jpg
-title-image-3: https://c6.staticflickr.com/9/8745/28289064861_1cf48e4c56_o.jpg
-title-image-4: https://c4.staticflickr.com/9/8617/28367837955_6c91eed361_o.jpg
-title-image-5: https://c1.staticflickr.com/9/8183/28264221832_93d7cc8c18_o.jpg
+title-image: /assets/images/flickr/28068227450_aaf819ef33_o.jpg
+title-image-2: /assets/images/flickr/27751263824_a49b949bf2_o.jpg
+title-image-3: /assets/images/flickr/28289064861_1cf48e4c56_o.jpg
+title-image-4: /assets/images/flickr/28367837955_6c91eed361_o.jpg
+title-image-5: /assets/images/flickr/28264221832_93d7cc8c18_o.jpg
 description: "The first night was all about saying goodbye to 2015 and hello to 2016 in good spirits. And we did it well."
 ---
 
@@ -23,8 +23,8 @@ A quick aside on the hotel: this particular Best Western is an excellent deal fo
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom: 28.8%">
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1660/24475755710_474cb3ee50_o.jpg"><img src="https://farm2.staticflickr.com/1660/24475755710_474cb3ee50_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1565/24745054746_9b95f44d57_o.jpg"><img src="https://farm2.staticflickr.com/1565/24745054746_9b95f44d57_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/24475755710_474cb3ee50_o.jpg"><img src="/assets/images/flickr/24475755710_474cb3ee50_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/24745054746_9b95f44d57_o.jpg"><img src="/assets/images/flickr/24745054746_9b95f44d57_o.jpg" alt="" /></a>
 		</div>
 		<p class="caption-in-set">The Best Western Ducs de Bourgogne is a classic hotel and a pretty good deal overall. Photo credit: <a href="http://www.bestwestern-bourgogne.com">official website</a>.</p>
 	</figure>
@@ -46,20 +46,20 @@ We had made a special dinner reservation in advance at [Chez Claude](http://www.
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.92%">
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1682/24144141064_ff991d4da6_o.jpg"><img src="https://farm2.staticflickr.com/1682/24144141064_ff991d4da6_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis1" href="https://c1.staticflickr.com/9/8897/27751263824_a49b949bf2_o.jpg"><img src="https://c1.staticflickr.com/9/8897/27751263824_a49b949bf2_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/24144141064_ff991d4da6_o.jpg"><img src="/assets/images/flickr/24144141064_ff991d4da6_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/27751263824_a49b949bf2_o.jpg"><img src="/assets/images/flickr/27751263824_a49b949bf2_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis1" href="https://c6.staticflickr.com/9/8745/28289064861_1cf48e4c56_o.jpg"><img src="https://c6.staticflickr.com/9/8745/28289064861_1cf48e4c56_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/28289064861_1cf48e4c56_o.jpg"><img src="/assets/images/flickr/28289064861_1cf48e4c56_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1707/24163235993_d94e8abbf3_o.jpg"><img src="https://farm2.staticflickr.com/1707/24163235993_d94e8abbf3_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/24163235993_d94e8abbf3_o.jpg"><img src="/assets/images/flickr/24163235993_d94e8abbf3_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:37.1%">
 			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1647/24476757350_52b3ba21e0_o.jpg"><img src="https://farm2.staticflickr.com/1647/24476757350_52b3ba21e0_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1551/24654481272_f5cea10c33_o.jpg"><img src="https://farm2.staticflickr.com/1551/24654481272_f5cea10c33_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/24654481272_f5cea10c33_o.jpg"><img src="/assets/images/flickr/24654481272_f5cea10c33_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -73,28 +73,28 @@ Then, as midnight drew closer, we were offered another complimentary glass of ch
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.92%">
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1464/24678785261_894521f20d_o.jpg"><img src="https://farm2.staticflickr.com/1464/24678785261_894521f20d_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis1" href="https://c4.staticflickr.com/9/8617/28367837955_6c91eed361_o.jpg"><img src="https://c4.staticflickr.com/9/8617/28367837955_6c91eed361_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/24678785261_894521f20d_o.jpg"><img src="/assets/images/flickr/24678785261_894521f20d_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/28367837955_6c91eed361_o.jpg"><img src="/assets/images/flickr/28367837955_6c91eed361_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:41.38%">
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1612/24790095515_f3d6c05f8a_o.jpg"><img src="https://farm2.staticflickr.com/1612/24790095515_f3d6c05f8a_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1660/24476757200_c532129b24_o.jpg"><img src="https://farm2.staticflickr.com/1660/24476757200_c532129b24_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/24790095515_f3d6c05f8a_o.jpg"><img src="/assets/images/flickr/24790095515_f3d6c05f8a_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/24476757200_c532129b24_o.jpg"><img src="/assets/images/flickr/24476757200_c532129b24_o.jpg" alt="" /></a>
 		</div>
 		<p class="caption-in-set">When you’re drinking whisky like a sir, the moustache is not optional.</p>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1574/24476757320_2fb4fb9b1c_o.jpg"><img src="https://farm2.staticflickr.com/1574/24476757320_2fb4fb9b1c_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/24476757320_2fb4fb9b1c_o.jpg"><img src="/assets/images/flickr/24476757320_2fb4fb9b1c_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryParis1" href="https://c1.staticflickr.com/9/8183/28264221832_93d7cc8c18_o.jpg"><img src="https://c1.staticflickr.com/9/8183/28264221832_93d7cc8c18_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis1" href="https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg"><img src="https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/28264221832_93d7cc8c18_o.jpg"><img src="/assets/images/flickr/28264221832_93d7cc8c18_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/28068227450_aaf819ef33_o.jpg"><img src="/assets/images/flickr/28068227450_aaf819ef33_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis1" href="https://farm2.staticflickr.com/1672/24145434633_20cd4e239d_o.jpg"><img src="https://farm2.staticflickr.com/1672/24145434633_20cd4e239d_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis1" href="/assets/images/flickr/24145434633_20cd4e239d_o.jpg"><img src="/assets/images/flickr/24145434633_20cd4e239d_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -107,7 +107,7 @@ From then on, it was all laughter until we eventually called it a night and head
 	<article>
 		<div class="story-cover">
 			<a href="/photostories/paris_2016/day_2/#landing-point">
-				<img src="https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg"/>
+				<img src="/assets/images/flickr/28350563055_f206fe4590_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Two</h1>
 				</div>
@@ -121,7 +121,7 @@ From then on, it was all laughter until we eventually called it a night and head
 	<article>
 		<div class="story-cover">
 			<a href="/photostories/paris_2016/day_3/#landing-point">
-				<img src="https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg"/>
+				<img src="/assets/images/flickr/28068244410_884517187c_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Three</h1>
 				</div>

@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing"
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Another week has come and gone, and things in the tech community seem to have fallen in a typical summer stupor. Not even the release of Windows 10 and the rumors of a likely new Apple TV managed to inspire much debate, at least among the people I follow on Twitter.
@@ -164,18 +164,18 @@ As much as I love them though, the reality is that shooting an event like this w
 
 Here are some of the shots I’ve already processed. I really enjoy how some of them have turned out.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/259/20171550476_afa98feb69_o.jpg"  title="Fabio’s baptism"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/20171550476_afa98feb69_o.jpg"  title="Fabio’s baptism"/></p>
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/299/20009760460_5aa4b87b52_o.jpg"  title="Fabio’s baptism"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/20009760460_5aa4b87b52_o.jpg"  title="Fabio’s baptism"/></p>
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/503/20189630242_925c120de9_o.jpg"  title="Fabio’s baptism"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/20189630242_925c120de9_o.jpg"  title="Fabio’s baptism"/></p>
 
 As for what’s next, I’m working hard on my upcoming review of the [Panasonic 20mm f/1.7](http://www.amazon.com/gp/product/B00DJS830Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DJS830Y&linkCode=as2&tag=analogsens-20&linkId=GUKLR2VQUV7QH4EN) pancake lens, which should be published next Tuesday on _Tools & Toys_. This is a truly fantastic lens and coincidentally, it’s on sale right now on Amazon for $298, which is just a ridiculous deal. If you don’t want to wait until Tuesday, feel free to go pick it up now.
 
 And speaking of that review, I’ve been playing around with my setup for taking product shots, and I really like what I’ve managed come up with so far. Taking a page from [Josh Ginter’s playbook](http://thenewsprint.co), I’ve decided to go with a solid white backdrop for my product shots this time around.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/389/20171615626_814cbbfd76_o.jpg" title="Panasonic Lumix G 20mm f/1.7 pancake lens mounted on an Olympus OM-D E-M10 camera"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/20171615626_814cbbfd76_o.jpg" title="Panasonic Lumix G 20mm f/1.7 pancake lens mounted on an Olympus OM-D E-M10 camera"/></p>
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/523/19575217064_2921b511c4_o.jpg" title="Panasonic Lumix G 20mm f/1.7 pancake lens"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19575217064_2921b511c4_o.jpg" title="Panasonic Lumix G 20mm f/1.7 pancake lens"/></p>
 
 Not too shabby for an improvised studio setup at home, is it? I’ll let you know more about how these pictures were taken once the full review is published. Until then, have a wonderful weekend, and thank you for reading.

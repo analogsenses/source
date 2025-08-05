@@ -24,7 +24,7 @@ For many enthusiasts and even some professional photographers, MILCs are a great
 
 The big players here are Panasonic, Olympus, Fujifilm and Sony. They all offer great cameras, stellar lenses and similar price points, so choosing between them becomes mostly a matter of picking the sensor size and dedicated features that better match your personal shooting style.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7538/16265576372_8f71e37e78_o.jpg" title="Olympus OM-D E-M1 vs Nikon D800"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16265576372_8f71e37e78_o.jpg" title="Olympus OM-D E-M1 vs Nikon D800"></a></p>
 
 <p class="photo-credit">Olympus OM-D E-M1 with 12-40mm f/2.8 PRO lens vs Nikon D800 with the comparable 24-70mm f/2.8 zoom lens. The difference in size and weight is remarkable. Photo Credit: <a href="https://www.flickr.com/photos/cajie/10434801163">Cajetan Barretto</a>.</p>
 
@@ -53,7 +53,7 @@ All major players have cameras in this category. Notable mentions include the [P
 
 These are all excellent cameras with plenty of high-end features but to me, the most interesting camera by far in this space is the new [Fujifilm X100T](http://www.amazon.com/gp/product/B00NF6ZGY6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00NF6ZGY6&linkCode=as2&tag=analogsens-20&linkId=UJOEHAKSVD7FTRQV). While the Panasonic, the Canon and the Sony all try to offer a no-compromises zoom lens with varying success, the Fuji truly embraces its single-focus nature with a gorgeous prime lens that sets it apart in terms of image quality.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8589/16240485586_e1b422bd2d_o.jpg" title="Fujifilm X100T"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16240485586_e1b422bd2d_o.jpg" title="Fujifilm X100T"></a></p>
 
 <p class="photo-credit">The Fujifilm X100T is the most interesting fixed-lens camera available right now. Photo Credit: <a href="https://www.flickr.com/photos/danielygo/15813645596">Daniel Go</a>.</p>
 
@@ -77,19 +77,19 @@ The arrival of great fixed-lens cameras like the Fuji X100T has many people wond
 
 The X100T has a lot going for it, starting with its choice of focal length. The only way I could be happy with a fixed-lens camera is if it had a 35mm (full-frame equivalent) lens, which is _by far_ my favorite focal length. It’s incredibly versatile, perfect for street photography and environmental portraits, where you want to showcase a bit more of the scene along with your subject. You can do many different things with a 35mm lens, and do them _really_ well. Indeed, it’s surprisingly easy to shoot great images in this focal length and many people, both newcomers and seasoned photographers alike, just intuitively “get it”.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7499/16238971046_50b16fb8cd_o.jpg" title="Park of Juan Carlos I, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16238971046_50b16fb8cd_o.jpg" title="Park of Juan Carlos I, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7461/16077356978_dcd5f528bb_o.jpg" title="Park of Juan Carlos I, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16077356978_dcd5f528bb_o.jpg" title="Park of Juan Carlos I, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7542/16341951252_038f3f2ff7_o.jpg" title="Saxophone player in Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16341951252_038f3f2ff7_o.jpg" title="Saxophone player in Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
 
 <p class="photo-credit">You can take pretty cool pictures with a 35mm lens where you get to show a bit more of the scene, along with your subject. All pictures: Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film.</p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7520/15644996853_beec8a7337_o.jpg" title="Almudena Cathedral, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/15644996853_beec8a7337_o.jpg" title="Almudena Cathedral, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7532/16077522940_01073496e2_o.jpg" title="Royal Palace of Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16077522940_01073496e2_o.jpg" title="Royal Palace of Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8618/16156920589_6a47c4bf49_o.jpg" title="Capitol Building and Gran Vía, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16156920589_6a47c4bf49_o.jpg" title="Capitol Building and Gran Vía, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
 
 <p class="photo-credit">The 35mm perspective is perfect for capturing city landmarks, which wouldn’t fit in the frame with longer — and therefore, narrower — lenses. All pictures: Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film.</p>
 
@@ -99,7 +99,7 @@ Unfortunately, support for this focal length in the M4/3 ecosystem kind of sucks
 
 The lack of a proper 35mm-equivalent fast prime lens is probably the single sore spot left in the M4/3 system. As of this writing, the only choices are the [Olympus M. Zuiko 17mm f/1.8](http://www.amazon.com/gp/product/B00A7Q9U9Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A7Q9U9Y&linkCode=as2&tag=analogsens-20&linkId=MD6GBKPHY5F5AJK5), which is fine but not stellar, and the [Voigtlander Nokton 17.5mm f/0.95](http://www.amazon.com/gp/product/B007VHDUN4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007VHDUN4&linkCode=as2&tag=analogsens-20&linkId=G7L4TOT7DNQLHNWM), which is an amazing lens but costs twice as much as the E-M10 itself and is manual-focus only. I’d love to see a 17.5mm f/1.4 lens from Panasonic/Leica, but it doesn’t look like it’s going to happen anytime soon.
 
-<img src="https://farm4.staticflickr.com/3842/15179707832_ea21b46be5_o.jpg" title="Canon AE-1 Program film SLR with Canon FDn 50mm f/1.8 lens and Olympus OM-D E-M10 Micro Four Thirds camera with Panasonic Leica 25mm f/1.4 lens"></a>
+<img src="/assets/images/flickr/15179707832_ea21b46be5_o.jpg" title="Canon AE-1 Program film SLR with Canon FDn 50mm f/1.8 lens and Olympus OM-D E-M10 Micro Four Thirds camera with Panasonic Leica 25mm f/1.4 lens"></a>
 
 <p class="photo-credit">Canon AE-1 Program film SLR with Canon FDn 50mm f/1.8 lens and Olympus OM-D E-M10 Micro Four Thirds camera with Panasonic Leica 25mm f/1.4 lens.</p>
 
@@ -116,11 +116,11 @@ It all boils down to giving a shit.
 
 When you give a shit, you wonder about your composition, and about the light. You consider if your subject is comfortable, or if the situation feels forced. You take into account the nature of the shot, and whether you want to isolate your subject or integrate them within the scene. You do all this before even coming close to touching the shutter release and in the end, it shows. Comparatively, I get many more keepers when I shoot film because with film, everything is arranged in a way that forces me to slow down and think. I also know I have a limited resource — only 36 frames per roll — which motivates me to try and make every shot count.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7578/16264057242_62a80707b9_o.jpg" title="Ren at Park of Juan Carlos I. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16264057242_62a80707b9_o.jpg" title="Ren at Park of Juan Carlos I. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8655/16263069881_61d9343881_o.jpg" title="Agus and Ren at Park of Juan Carlos I. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16263069881_61d9343881_o.jpg" title="Agus and Ren at Park of Juan Carlos I. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7521/15649644294_9e41cd0dce_o.jpg" title="Ren and Pedro at Park of Juan Carlos I. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/15649644294_9e41cd0dce_o.jpg" title="Ren and Pedro at Park of Juan Carlos I. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Fuji Superia 400 film"></a></p>
 
 <p class="photo-credit">When your subjects are relaxed it’s a lot easier to capture fun or spontaneous moments. All pictures: Canon AE-1 Program with Canon FDn 35mm f/2 lens. Top two: Kodak Portra 400 film. Bottom: Fuji Superia 400 film.</p>
 
@@ -133,13 +133,13 @@ But if you limit yourself to a single focal length, there are some things you’
 
 One of the most sought-after effects in modern digital photography is the shallow depth of field, where only a smart portion of the scene is in focus and the rest is blurry. The quality of the out of focus areas is called _bokeh_ which, when it’s good, is usually described as “creamy”.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8615/16079752489_d31efbd4be_o.jpg" title="Bokeh is the word that describes the out of focus areas. E-M10 with Panasonic/Leica 25mm f/1.4 lens at f/1.4"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16079752489_d31efbd4be_o.jpg" title="Bokeh is the word that describes the out of focus areas. E-M10 with Panasonic/Leica 25mm f/1.4 lens at f/1.4"></a></p>
 
 <p class="photo-credit">Bokeh is the word that describes the out of focus areas. E-M10 with Panasonic/Leica 25mm f/1.4 lens at f/1.4</p>
 
 The amount and quality of bokeh depends on several elements like sensor size, lens speed and yes, focal length. Getting tons of bokeh with a 35mm lens is pretty difficult, particularly with a crop sensor camera like the Fuji X100T. That’s just how optics work, and there’s no way around it. Of course, this is not an absolute statement: you _can_ create some amount of bokeh with the X100T, and it will look fine. If that’s enough for you then awesome, but if you really want to achieve subject separation with lots of gorgeous, creamy bokeh, your best bet is to go with a long, fast lens and ideally, a full-frame sensor.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8635/16156619767_12ea1698fb_o.jpg" title="Miriam at Paseo de la Castellana, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16156619767_12ea1698fb_o.jpg" title="Miriam at Paseo de la Castellana, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens and Kodak Portra 400 film"></a></p>
 
 <p class="photo-credit">This is about as much bokeh as you can realistically expect from the 35mm focal length. It’s not bad by any means, but it’s not spectacular either. Canon AE-1 Program with Canon FDn 35mm f/2 lens at f/2 and Kodak Portra 400 film</p>
 
@@ -147,29 +147,29 @@ Another issue with short focal lengths — 35mm or less — is perspective disto
 
 You can reasonably mimic a 50mm field of view with a 35mm lens by cropping or stepping closer to the scene, mainly because there’s not much difference between the two to begin with. However, mimicking a longer lens becomes more difficult due to perspective distortion.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8609/16264059392_b1de1eb0f6_o.jpg" title="Fountain. Canon AE-1 Program with Canon FDn 50mm f/1.8 lens at f/2 and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16264059392_b1de1eb0f6_o.jpg" title="Fountain. Canon AE-1 Program with Canon FDn 50mm f/1.8 lens at f/2 and Fuji Superia 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7554/15642471014_57189fa1f6_o.jpg" title="Fountain. Canon AE-1 Program with Canon FDn 35mm f/2 lens at f/2 and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/15642471014_57189fa1f6_o.jpg" title="Fountain. Canon AE-1 Program with Canon FDn 35mm f/2 lens at f/2 and Fuji Superia 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8604/16077357908_bd802df673_o.jpg" title="Fountain. Canon AE-1 Program with Canon FDn 35mm f/2 lens at f/2 and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16077357908_bd802df673_o.jpg" title="Fountain. Canon AE-1 Program with Canon FDn 35mm f/2 lens at f/2 and Fuji Superia 400 film"></a></p>
 
 <p class="photo-credit">These images show how it’s possible to mimic a 50mm field of view by cropping a picture taken with a 35mm lens. Notice the difference in bokeh: all other things being equal — both lenses are stopped down to f/2 — the longer lens has noticeably better bokeh. All images: Canon AE-1 Program camera and Fuji Superia 400 film. Top: Canon FDn 50mm f/1.8 lens at f/2. Middle: Canon FDn 35mm f/2 lens at f/2, cropped to mimic a 50mm field of view. Bottom: Canon FDn 35mm f/2 lens at f/2, complete frame.</p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7577/16078774289_8e297973e1_o.jpg" title="Orient Square, Madrid. Canon AE-1 Program with Canon FDn 50mm f/1.8 lens at f/2 and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16078774289_8e297973e1_o.jpg" title="Orient Square, Madrid. Canon AE-1 Program with Canon FDn 50mm f/1.8 lens at f/2 and Fuji Superia 400 film"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7559/16264893335_46123438b0_o.jpg" title="Orient Square, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens at f/2 and Fuji Superia 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16264893335_46123438b0_o.jpg" title="Orient Square, Madrid. Canon AE-1 Program with Canon FDn 35mm f/2 lens at f/2 and Fuji Superia 400 film"></a></p>
 
 <p class="photo-credit">The difference between the field of view of a 50mm and a 35mm lens is small, but it’s enough to matter when shooting city landmarks. Both images: Canon AE-1 Program and Fuji Superia 400 film. Top: Canon FDn 50mm f/1.8 lens at f/8. Bottom: Canon FDn 35mm f/2 lens at f/8.</p>
 
 Portrait lenses are usually long because with the longer focal lengths, perspective distortion is barely noticeable and people look more natural. By comparison, a close-up portrait shot with a wide-angle lens looks weird and the results are often not very flattering. Also, it’s much easier to achieve subject separation and bokeh with a long lens, which is a great way to make your subject “pop” from the background. In my mind, the minimum acceptable length for portraits is 50mm, and the sweetspot is in the 85mm-150mm range.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8653/16079568100_88d56e0ff9_o.jpg" title="My Dad in Plasencia. Olympus E-M10 with Panasonic Leica 25mm f/1.4 lens at f/1.4"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16079568100_88d56e0ff9_o.jpg" title="My Dad in Plasencia. Olympus E-M10 with Panasonic Leica 25mm f/1.4 lens at f/1.4"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7560/16078501640_b1cea551fb_o.jpg" title="Miriam. Olympus E-M10 with Panasonic Leica 25mm f/1.4 lens at f/1.6"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16078501640_b1cea551fb_o.jpg" title="Miriam. Olympus E-M10 with Panasonic Leica 25mm f/1.4 lens at f/1.6"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7521/15643447674_02aa58a09a_o.jpg" title="Pablo. Olympus E-M10 with Panasonic Leica 25mm f/1.4 lens at f/1.4"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/15643447674_02aa58a09a_o.jpg" title="Pablo. Olympus E-M10 with Panasonic Leica 25mm f/1.4 lens at f/1.4"></a></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7571/16264050971_21feae8410_o.jpg" title="Pedro. Olympus E-M10 with Panasonic Leica 25mm f/1.4 lens at f/1.4"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16264050971_21feae8410_o.jpg" title="Pedro. Olympus E-M10 with Panasonic Leica 25mm f/1.4 lens at f/1.4"></a></p>
 
 <p class="photo-credit">These portraits were all taken with an Olympus E-M10 and the Panasonic Leica 25mm f/1.4 lens, which is equivalent to a 50mm full-frame length. Anything shorter than this, and portraits start to look weird due to perspective distortion.</p>
 
@@ -190,6 +190,6 @@ I know I’m making it sound difficult but trust me, you really wouldn’t want 
 
 Because, after all, that’s where all the fun is.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7496/16154917518_5f641df931_o.jpg" title="Me. Canon AE-1 Program with Canon FDn 50mm f/1.8 lens and Kodak Tri-X 400 film"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/16154917518_5f641df931_o.jpg" title="Me. Canon AE-1 Program with Canon FDn 50mm f/1.8 lens and Kodak Tri-X 400 film"></a></p>
 
 <p class="photo-credit">This is me. Hi. Canon AE-1 Program film SLR with Canon FDn 50mm f/1.8 lens and Kodak Tri-X 400 black and white film.</p>

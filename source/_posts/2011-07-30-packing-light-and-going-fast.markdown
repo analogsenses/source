@@ -21,7 +21,7 @@ Right now I'm in my home town, Plasencia, visiting my parents. Since it's August
 
 I'm also lucky because I keep some of my clothes at my parents', so that I don't need to bring everything with me every time. However, this time around I brought everything I'll use, with the only exception of a pair of dress shoes. Everything else was conveniently packed as you can see in the images below.
 
-[![Everything for 5 days away](http://farm7.static.flickr.com/6030/5990609647_c11cd60402.jpg)](http://www.flickr.com/photos/analogsenses/5990609647/)
+[![Everything for 5 days away](/assets/images/flickr/5990609647_c11cd60402.jpg)](http://www.flickr.com/photos/analogsenses/5990609647/)
 
 Here's the checklist:
 
@@ -43,7 +43,7 @@ Belt
 Keys
 iPad charger and cable
 
-[![Ready to go.](http://farm7.static.flickr.com/6128/5991167704_9e9def238f.jpg)](http://www.flickr.com/photos/analogsenses/5991167704/)
+[![Ready to go.](/assets/images/flickr/5991167704_9e9def238f.jpg)](http://www.flickr.com/photos/analogsenses/5991167704/)
 
 And here's everything packed up in my 25-liter Nike Hayward Medium backpack (which has sadly been discontinued). There's actually plenty of room left. I could have easily fit another pair of jeans, an extra pair of shoes and even my MacBook Pro, but by bringing only the essentials, my backpack feels lighter, and I can go faster. As you can see, carrying only one bag means you can move better, and you have less things to worry about. It feels great.
 

@@ -9,7 +9,7 @@ categories:
 - Social Media
 description: "Making sense of the world sometimes requires taking a step back"
 subtitle: "Making sense of the world sometimes requires taking a step back"
-title-image: https://live.staticflickr.com/65535/50286784078_fe746f1bb3_4k.jpg
+title-image: /assets/images/flickr/50286784078_fe746f1bb3_4k.jpg
 ---
 
 The ethos for Analog Senses is quite straightforward: beyond being your typical tech blog, it's also a place where I get to reflect about the impact technology has in our lives, our relationships, and society as a whole.

@@ -9,7 +9,7 @@ categories:
 - Headphones
 description: "The B&W PX are my noise-cancelling headphones of choice, but they probably shouldn't be yours. Here's why."
 subtitle: "The B&W PX are my noise-cancelling headphones of choice, but they probably shouldn't be yours. Here's why."
-title-image: https://farm5.staticflickr.com/4625/25741210667_1e5087b2b2_o.jpg
+title-image: /assets/images/flickr/25741210667_1e5087b2b2_o.jpg
 ---
 
 When buying a pair of noise-cancelling headphones, you're confronted with a quite a few choices: build quality, sound quality, battery life, noise cancellation, comfort, ease of use, and price, to name but a few. All of these are important, but of course not all are _equally_ important to every user. And therein lies the rub.

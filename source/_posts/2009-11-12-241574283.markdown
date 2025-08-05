@@ -14,7 +14,7 @@ tags:
 - Photo
 ---
 
-[![Moleskine Computer by Álvaro Serrano, on Flickr](https://farm6.staticflickr.com/5582/14890443889_6e8ea25534_o.jpg)](https://www.flickr.com/photos/analogsenses/14890443889)
+[![Moleskine Computer by Álvaro Serrano, on Flickr](/assets/images/flickr/14890443889_6e8ea25534_o.jpg)](https://www.flickr.com/photos/analogsenses/14890443889)
 
 
 Coolest ad ever.

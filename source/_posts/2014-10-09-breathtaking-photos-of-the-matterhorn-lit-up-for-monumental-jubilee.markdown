@@ -14,6 +14,6 @@ Daisy Qin:
 
 Pretty much.
 
-[![The Matterhorn](https://farm6.staticflickr.com/5607/15487889112_b883e2c6e0_o.jpg)](http://blog.nuvango.com/photos-matterhorn/)
+[![The Matterhorn](/assets/images/flickr/15487889112_b883e2c6e0_o.jpg)](http://blog.nuvango.com/photos-matterhorn/)
 
 Via [Laughing Squid](http://laughingsquid.com/the-matterhorn-lit-up-at-night-by-a-trail-of-hikers/).

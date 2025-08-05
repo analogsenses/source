@@ -26,6 +26,6 @@ I'm light, and I'm fast. But more importantly, I'm on my train, and off to some 
 Now, try doing that with a trolley or a big suitcase.  
 
 
-[![](http://farm8.static.flickr.com/7141/6472646405_ef6281a940.jpg)](http://flickr.com/photos/46431541@N02/6472646405)
+[![](/assets/images/flickr/6472646405_ef6281a940.jpg)](http://flickr.com/photos/46431541@N02/6472646405)
 
-[![](http://farm8.static.flickr.com/7030/6472655383_84658858e5.jpg)](http://farm8.static.flickr.com/7030/6472655383_84658858e5.jpg)
+[![](/assets/images/flickr/6472655383_84658858e5.jpg)](http://farm8.static.flickr.com/7030/6472655383_84658858e5.jpg)

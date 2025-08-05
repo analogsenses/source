@@ -11,7 +11,7 @@ description: "Sobriety as a lifestyle is difficult, and being responsible consum
 
 [José Mujica](http://en.wikipedia.org/wiki/José_Mujica), the current President of Uruguay, is quite the character. He doesn't live in the presidential house, for one, and instead spends his days in a modest farm owned by his wife in the outskirts of Montevideo, Uruguay's capital city. His security detail is the bare minimum Uruguayan law would allow him: two security guards by the front gate and two orange traffic safety cones. And the cones, he jokes, he could do without.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7579/15972171266_ef1f5e327f_h.jpg" alt="Permanent Council Receives President of Uruguay"></a></p>
+<p class="extra-width"><img src="/assets/images/flickr/15972171266_ef1f5e327f_h.jpg" alt="Permanent Council Receives President of Uruguay"></a></p>
 
 <p class="photo-credit">Photo Credit: <a href="https://www.flickr.com/photos/oasoea/14194136345" title="Permanent Council Receives President of Uruguay by OEA - OAS, on Flickr">OEA - OAS</a></p>
 
@@ -93,7 +93,7 @@ As luck would have it, my electric shaver — a cheap one made by Philips — wh
 
 Which brings us to my next trick:
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8604/15814553287_985804a5c3_h.jpg" alt="Straight Razor Shaving 101"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/15814553287_985804a5c3_h.jpg" alt="Straight Razor Shaving 101"/></p>
 
 I've always found the world of straight razor shaving fascinating, and I actually even bought one many years ago, when I didn't know any better and I didn't even own a computer. I never did any serious research and ended up buying a cheap one at a local store. The experience was understandably terrible — there were no [YouTube tutorials](https://www.youtube.com/watch?v=sDq-2ZRVYXA) around at the time — and after that, I kind of moved on and put it behind me. Recently though, it's been coming back to me as a perfect example of everything I'm talking about here.
 
@@ -101,7 +101,7 @@ That incident years ago was a textbook failure of the two-week test — although
 
 This time around, I'm doing things differently. Since my shaver is dead and I need to spend the money anyway, why not take this opportunity to reassess the whole thing? Why not apply the test this time and see what happens?
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7469/15814358559_3706253d86_h.jpg" alt="Straight Razor Shaving 101"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/15814358559_3706253d86_h.jpg" alt="Straight Razor Shaving 101"/></p>
 
 
 ##14 days. 336 hours. 20,160 minutes. Maybe this wasn't such a good idea
@@ -116,13 +116,13 @@ The Filarmónica eventually went unsold, which eased me up a bit and gave me the
 
 I finally settled on a new, unused vintage Jaguar, a group brand of renowned German manufacturer [J. A. Henckels](http://en.wikipedia.org/wiki/J._A._Henckels). I paid about $60 for it. It's a great razor and to my eye, it also looks lovely:
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8647/15380709413_327fbb2bd0_h.jpg" alt="Straight Razor Shaving 101"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/15380709413_327fbb2bd0_h.jpg" alt="Straight Razor Shaving 101"/></p>
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7560/15814346739_59d86d4bee_h.jpg" alt="Straight Razor Shaving 101"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/15814346739_59d86d4bee_h.jpg" alt="Straight Razor Shaving 101"/></p>
 
 It's been a few days since I received it and so far I'm incredibly happy with my purchase. There's quite a bit of a learning curve ahead of me, but I've already completed my first whole shave with it — two passes and all — and I've somehow managed to not slit my throat in the process, so I'd say I'm off to an pretty good start.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8603/15812987418_b4b219cdc9_h.jpg" alt="Straight Razor Shaving 101"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/15812987418_b4b219cdc9_h.jpg" alt="Straight Razor Shaving 101"/></p>
 
 
 ##Home is now behind you, the world is ahead
@@ -137,4 +137,4 @@ I look forward to exploring this new interest of mine, with the eyes of a curiou
 
 I just have to take it two weeks at a time. 
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7571/15974601016_d6f6235eab_h.jpg" alt="Straight Razor Shaving 101"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/15974601016_d6f6235eab_h.jpg" alt="Straight Razor Shaving 101"/></p>

@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Hello there, welcome to another issue of _Morning Coffee_, my weekly roundup of interesting writing.
@@ -114,65 +114,65 @@ Great interview with one of my favorite street photographers, with some awesome 
 
 If you follow me [on Twitter](https://twitter.com/analogsenses), you may already know that I finally received my [leather Brixton](http://amzn.to/1R0TxRi) camera bag from Ona a couple days ago. I fully intend to write a complete review of the bag but before that, I’d like to share a few first impressions with you.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5821/22907271474_5ca8be0ab6_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/22907271474_5ca8be0ab6_o.jpg"/></p>
 
 I’ll just come out and say it: the leather Brixton is one of the most beautiful bags I’ve ever seen. Not _camera_ bags, mind you, but bags, period. It’s _definitely_ the most beautiful bag I’ve ever owned, or used.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5836/23509451516_f1fdecc9e9_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23509451516_f1fdecc9e9_o.jpg"/></p>
 
 It is _gorgeous_. The Antique Cognac finish is beautifully aged, but make no mistake, this is still clearly a new bag, and the leather is a bit stiff at first. After 48 hours of intensive use — basically two full days out with it — I’m already starting to notice some slight softening, though, which makes me confident that the bag is going to feel awesome once it gets fully broken in.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/782/23453112521_107d179a85_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23453112521_107d179a85_o.jpg"/></p>
 
 As far as capacity goes, the bag can easily hold everything I need to carry on a daily basis, and even my full kit on special days. 
 
 For example, I can carry my [Sony α7 II](http://amzn.to/1Q6Nyub) with the [24-70mm f/4](http://amzn.to/1Q6MqGU) zoom lens attached, plus the [55mm f/1.8](http://amzn.to/1lEfOHv) and [70-200mm f/4](http://amzn.to/1Q6NASR) lenses, my [Sony HVL-F43M flash](http://amzn.to/1lEfUPo), and my 13-inch MacBook Pro. 
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/637/23509457716_269b0d8d02_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23509457716_269b0d8d02_o.jpg"/></p>
 
 All of this fits in the main compartment, and there’s plenty of room in the front pockets for my cleaning tools, my [small Manfrotto tripod](http://amzn.to/1lEg4pY) and the MBP’s charger. I usually carry a spare iPhone charger and Lightning cable in one of the side pockets, and there’s still room in the back pocket for a magazine, a small paperback book, or a full-sized iPad. Even an iPad Pro.
 
 Clearly, space isn’t a problem with this bag, at least when considering my current photographic needs.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/665/23427041702_8334a70784_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/23427041702_8334a70784_o.jpg"/></p>
 
 Then there’s the matter of weight. At 4.1 lbs empty, this is clearly not your typical lightweight bag, and once you start adding gear, things can get quite heavy. That was my single biggest concern before buying the leather version of the bag, I’ll admit. You can really feel the difference on your back between a heavy bag and a lighter bag after a long day. 
 
 That extra weight — a full pound heavier than [the canvas versions](http://amzn.to/1N9VCo1) — essentially means you could carry one more lens or another camera body for the same total weight. All of these are valid, logical concerns.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/633/23167585839_1f3a218b85_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23167585839_1f3a218b85_o.jpg"/></p>
 
 After just one look at that leather, though, I knew I was doomed to throw logic and caution into the wind, and just buy the leather bag anyway. It took me a few months to finally take the plunge, but I’m really, _really_ glad I did. This is a bag that will probably get passed down to my future children in a few decades’ time.
 
 Still, it is a heavy bag, there’s no getting around that. Particularly if you need to carry a laptop with you — unless said laptop is a super light notebook like the new MacBook, that is.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/701/22908470723_aefb2a16f3_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/22908470723_aefb2a16f3_o.jpg"/></p>
 
 The good news is, even when fully loaded, the leather Brixton is comfortable enough to carry without any issues. The bad news is that any bag this heavy, no matter how comfortable, is going to be tough on your back after a few hours of continued use. The leather Brixton can be many things, but one thing it’s not is a casual walk-around bag.
 
 So far I’ve coped well with this, though. By taking short breaks every now and then and allowing my back to rest, I can easily make it through an entire day without ever feeling sore.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/578/23167594819_71447b4a65_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23167594819_71447b4a65_o.jpg"/></p>
 
 It's also worth pointing out that if you only carry moderate amounts of gear — say, for instance, you don’t need a laptop, or you only need a couple lenses — then weight becomes a non-issue. With light to moderate loads, the Brixton is almost perfect.
 
 Now let’s talk about the build quality.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/768/23453110171_3d0eb2b850_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23453110171_3d0eb2b850_o.jpg"/></p>
 
 The leather Brixton is built to last for generations, and this is no understatement. Everything from the thick leather to the solid construction is of the highest quality. Clearly the Brixton is an expensive bag, but it definitely makes you feel the incredible craftsmanship that went into creating it.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/780/22907275884_5c4d2885a0_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/22907275884_5c4d2885a0_o.jpg"/></p>
 
 In the high-end leather bag market, the only company I can think of that produces similarly high-quality bags is Hard Graft.[^Leather1] Compare the leather Brixton with their [Box Camera Bag](http://www.hardgraft.com/products/boxcamerabag-classic), which is more expensive than the Ona while offering not nearly as many features — or, in my personal opinion, looking nearly as good — and it’s no wonder why Ona has been absolutely killing it lately. These are not just cool-looking, overpriced bags, they are exquisitely designed, impeccably made, full-featured bags, and it shows.
 
 [^Leather1]: I know Saddleback Leather makes [awesome quality bags](http://www.saddlebackleather.com/gadget-bag), but I just don’t really like the aesthetics of their products. Of course, your mileage may vary.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5809/23239824670_9fa746c9c2_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23239824670_9fa746c9c2_o.jpg"/></p>
 
 It’s still soon to be drawing any conclusions, so for now let’s just say I’m extremely satisfied with my purchase. I’m also looking forward to seeing how the bag matures with time and use. This is one of those rare items that get better with age, as the leather develops a rich patina that only adds character to the bag.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5705/23427072912_cc412ba296_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23427072912_cc412ba296_o.jpg"/></p>
 
 <p class="card-separator">♢</p>
 

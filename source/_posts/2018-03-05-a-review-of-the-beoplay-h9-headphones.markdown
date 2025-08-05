@@ -9,7 +9,7 @@ categories:
 - Headphones
 description: "Putting B&O Play’s first crack at wireless noise cancelling headphones to the test"
 subtitle: "Putting B&O Play’s first crack at wireless noise cancelling headphones to the test"
-title-image: https://farm5.staticflickr.com/4625/25741210667_1e5087b2b2_o.jpg
+title-image: /assets/images/flickr/25741210667_1e5087b2b2_o.jpg
 ---
 
 It’s a great time to be in the market for a pair of wireless, noise cancelling headphones. They’re a popular – and therefore, increasingly crowded – product category, and with good reason: from frequent flyers to casual dog-walkers, it seems like everyone has an excuse to use one of these.
@@ -34,12 +34,12 @@ Let’s take a closer look at them.
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4789/40611325601_3acfb875e9_o.jpg"><img src="https://farm5.staticflickr.com/4789/40611325601_3acfb875e9_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4797/40611325531_ebf0b0d204_o.jpg"><img src="https://farm5.staticflickr.com/4797/40611325531_ebf0b0d204_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611325601_3acfb875e9_o.jpg"><img src="/assets/images/flickr/40611325601_3acfb875e9_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611325531_ebf0b0d204_o.jpg"><img src="/assets/images/flickr/40611325531_ebf0b0d204_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4610/40569070252_5a4a4a38ac_o.jpg"><img src="https://farm5.staticflickr.com/4610/40569070252_5a4a4a38ac_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569070252_5a4a4a38ac_o.jpg"><img src="/assets/images/flickr/40569070252_5a4a4a38ac_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -50,27 +50,27 @@ B&O Play’s products are well known for their impeccable Scandinavian design an
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4631/40569070212_f687c6c293_o.jpg"><img src="https://farm5.staticflickr.com/4631/40569070212_f687c6c293_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4778/40611325311_b656d0e23b_o.jpg"><img src="https://farm5.staticflickr.com/4778/40611325311_b656d0e23b_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569070212_f687c6c293_o.jpg"><img src="/assets/images/flickr/40569070212_f687c6c293_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611325311_b656d0e23b_o.jpg"><img src="/assets/images/flickr/40611325311_b656d0e23b_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 		<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4653/40569070182_d4d2d61aec_o.jpg"><img src="https://farm5.staticflickr.com/4653/40569070182_d4d2d61aec_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569070182_d4d2d61aec_o.jpg"><img src="/assets/images/flickr/40569070182_d4d2d61aec_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4775/40611323891_a036d6f08d_o.jpg"><img src="https://farm5.staticflickr.com/4775/40611323891_a036d6f08d_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4800/40569069652_8b327a9c71_o.jpg"><img src="https://farm5.staticflickr.com/4800/40569069652_8b327a9c71_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611323891_a036d6f08d_o.jpg"><img src="/assets/images/flickr/40611323891_a036d6f08d_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569069652_8b327a9c71_o.jpg"><img src="/assets/images/flickr/40569069652_8b327a9c71_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4779/40569069452_866c9f2a86_o.jpg"><img src="https://farm5.staticflickr.com/4779/40569069452_866c9f2a86_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4699/40611323151_3887675772_o.jpg"><img src="https://farm5.staticflickr.com/4699/40611323151_3887675772_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569069452_866c9f2a86_o.jpg"><img src="/assets/images/flickr/40569069452_866c9f2a86_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611323151_3887675772_o.jpg"><img src="/assets/images/flickr/40611323151_3887675772_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4621/38801566070_34016ebcc5_o.jpg"><img src="https://farm5.staticflickr.com/4621/38801566070_34016ebcc5_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/38801566070_34016ebcc5_o.jpg"><img src="/assets/images/flickr/38801566070_34016ebcc5_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -80,21 +80,21 @@ The H9 come in your choice of Black or Natural leather (as reviewed), and both c
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4629/26739621358_b79d4ac8ca_o.jpg"><img src="https://farm5.staticflickr.com/4629/26739621358_b79d4ac8ca_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/26739621358_b79d4ac8ca_o.jpg"><img src="/assets/images/flickr/26739621358_b79d4ac8ca_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4665/40611323761_9e76a9b464_o.jpg"><img src="https://farm5.staticflickr.com/4665/40611323761_9e76a9b464_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4793/40569069532_64d2702cba_o.jpg"><img src="https://farm5.staticflickr.com/4793/40569069532_64d2702cba_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611323761_9e76a9b464_o.jpg"><img src="/assets/images/flickr/40611323761_9e76a9b464_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569069532_64d2702cba_o.jpg"><img src="/assets/images/flickr/40569069532_64d2702cba_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4723/40611323591_0881979539_o.jpg"><img src="https://farm5.staticflickr.com/4723/40611323591_0881979539_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611323591_0881979539_o.jpg"><img src="/assets/images/flickr/40611323591_0881979539_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4615/40611325101_c62524835b_o.jpg"><img src="https://farm5.staticflickr.com/4615/40611325101_c62524835b_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4605/40611325201_de2afbbc8c_o.jpg"><img src="https://farm5.staticflickr.com/4605/40611325201_de2afbbc8c_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611325101_c62524835b_o.jpg"><img src="/assets/images/flickr/40611325101_c62524835b_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611325201_de2afbbc8c_o.jpg"><img src="/assets/images/flickr/40611325201_de2afbbc8c_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -108,17 +108,17 @@ My only ergonomic complaint about the H9 is that the earpads are a bit too thick
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4667/39900283904_730ba64db7_o.jpg"><img src="https://farm5.staticflickr.com/4667/39900283904_730ba64db7_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4664/38801565350_a70b427ff8_o.jpg"><img src="https://farm5.staticflickr.com/4664/38801565350_a70b427ff8_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/39900283904_730ba64db7_o.jpg"><img src="/assets/images/flickr/39900283904_730ba64db7_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/38801565350_a70b427ff8_o.jpg"><img src="/assets/images/flickr/38801565350_a70b427ff8_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4609/26739620868_620838b9df_o.jpg"><img src="https://farm5.staticflickr.com/4609/26739620868_620838b9df_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/26739620868_620838b9df_o.jpg"><img src="/assets/images/flickr/26739620868_620838b9df_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4800/38801565230_eb6dbfccd4_o.jpg"><img src="https://farm5.staticflickr.com/4800/38801565230_eb6dbfccd4_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4659/38801564930_b6fafa0577_o.jpg"><img src="https://farm5.staticflickr.com/4659/38801564930_b6fafa0577_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/38801565230_eb6dbfccd4_o.jpg"><img src="/assets/images/flickr/38801565230_eb6dbfccd4_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/38801564930_b6fafa0577_o.jpg"><img src="/assets/images/flickr/38801564930_b6fafa0577_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -131,7 +131,7 @@ The main problem is the fact that the H9 don’t support multi-device pairing, s
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4670/26739620338_4b7cceb520_o.jpg"><img src="https://farm5.staticflickr.com/4670/26739620338_4b7cceb520_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/26739620338_4b7cceb520_o.jpg"><img src="/assets/images/flickr/26739620338_4b7cceb520_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -139,7 +139,7 @@ I also encountered several issues while attempting to update the firmware with t
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4759/40611322261_df782f4838_o.jpg"><img src="https://farm5.staticflickr.com/4759/40611322261_df782f4838_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611322261_df782f4838_o.jpg"><img src="/assets/images/flickr/40611322261_df782f4838_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -148,17 +148,17 @@ Phone calls are pretty good, with clear sound coming through without any dropout
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4678/40569069712_68664f60bd_o.jpg"><img src="https://farm5.staticflickr.com/4678/40569069712_68664f60bd_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4801/40611323971_c60e513a27_o.jpg"><img src="https://farm5.staticflickr.com/4801/40611323971_c60e513a27_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569069712_68664f60bd_o.jpg"><img src="/assets/images/flickr/40569069712_68664f60bd_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611323971_c60e513a27_o.jpg"><img src="/assets/images/flickr/40611323971_c60e513a27_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4615/40569069672_ddd8ea80f2_o.jpg"><img src="https://farm5.staticflickr.com/4615/40569069672_ddd8ea80f2_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569069672_ddd8ea80f2_o.jpg"><img src="/assets/images/flickr/40569069672_ddd8ea80f2_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4652/26739620638_d32aa8f1d0_o.jpg"><img src="https://farm5.staticflickr.com/4652/26739620638_d32aa8f1d0_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4781/40569071172_b5a51c67bb_o.jpg"><img src="https://farm5.staticflickr.com/4781/40569071172_b5a51c67bb_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/26739620638_d32aa8f1d0_o.jpg"><img src="/assets/images/flickr/26739620638_d32aa8f1d0_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569071172_b5a51c67bb_o.jpg"><img src="/assets/images/flickr/40569071172_b5a51c67bb_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -176,17 +176,17 @@ Having said that, the one thing that bothered me about the H9’s battery life i
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4609/26739620868_620838b9df_o.jpg"><img src="https://farm5.staticflickr.com/4609/26739620868_620838b9df_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4661/40611324651_8306ce7e87_o.jpg"><img src="https://farm5.staticflickr.com/4661/40611324651_8306ce7e87_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/26739620868_620838b9df_o.jpg"><img src="/assets/images/flickr/26739620868_620838b9df_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611324651_8306ce7e87_o.jpg"><img src="/assets/images/flickr/40611324651_8306ce7e87_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4657/26739620498_816ce541cb_o.jpg"><img src="https://farm5.staticflickr.com/4657/26739620498_816ce541cb_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/26739620498_816ce541cb_o.jpg"><img src="/assets/images/flickr/26739620498_816ce541cb_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4719/40611324941_51204c2a9c_o.jpg"><img src="https://farm5.staticflickr.com/4719/40611324941_51204c2a9c_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4720/40611324451_226dc831b2_o.jpg"><img src="https://farm5.staticflickr.com/4720/40611324451_226dc831b2_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611324941_51204c2a9c_o.jpg"><img src="/assets/images/flickr/40611324941_51204c2a9c_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611324451_226dc831b2_o.jpg"><img src="/assets/images/flickr/40611324451_226dc831b2_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -201,7 +201,7 @@ Overall, the Beoplay H9’s ANC isn’t bad, by any means; it’s just gentler t
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4699/40611321731_3b483e481f_o.jpg"><img src="https://farm5.staticflickr.com/4699/40611321731_3b483e481f_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611321731_3b483e481f_o.jpg"><img src="/assets/images/flickr/40611321731_3b483e481f_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -218,8 +218,8 @@ Similarly, flat recordings that would normally sound boring and underwhelming wh
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4789/39900289834_15029bbc49_o.jpg"><img src="https://farm5.staticflickr.com/4789/39900289834_15029bbc49_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4778/40611326811_662aa95580_o.jpg"><img src="https://farm5.staticflickr.com/4778/40611326811_662aa95580_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/39900289834_15029bbc49_o.jpg"><img src="/assets/images/flickr/39900289834_15029bbc49_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611326811_662aa95580_o.jpg"><img src="/assets/images/flickr/40611326811_662aa95580_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -232,7 +232,7 @@ It’s clear which way B&O Play went with for the H9, and though I’m sure some
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4658/39900289634_097b861aea_o.jpg"><img src="https://farm5.staticflickr.com/4658/39900289634_097b861aea_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/39900289634_097b861aea_o.jpg"><img src="/assets/images/flickr/39900289634_097b861aea_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -245,8 +245,8 @@ However, the Beoplay H9 definitely hold their own in practical, real-world use. 
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4664/39900289374_fe4b3a0bd9_o.jpg"><img src="https://farm5.staticflickr.com/4664/39900289374_fe4b3a0bd9_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4790/39900288994_541cfc1159_o.jpg"><img src="https://farm5.staticflickr.com/4790/39900288994_541cfc1159_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/39900289374_fe4b3a0bd9_o.jpg"><img src="/assets/images/flickr/39900289374_fe4b3a0bd9_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/39900288994_541cfc1159_o.jpg"><img src="/assets/images/flickr/39900288994_541cfc1159_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -264,8 +264,8 @@ Another nifty feature hidden in the EQ is that you can pinch with two fingers to
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4795/40611321521_4120c8dae7_o.jpg"><img src="https://farm5.staticflickr.com/4795/40611321521_4120c8dae7_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4697/39900282974_36144b83c0_o.jpg"><img src="https://farm5.staticflickr.com/4697/39900282974_36144b83c0_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611321521_4120c8dae7_o.jpg"><img src="/assets/images/flickr/40611321521_4120c8dae7_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/39900282974_36144b83c0_o.jpg"><img src="/assets/images/flickr/39900282974_36144b83c0_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -276,7 +276,7 @@ Of course, there are some limits to the kind of performance you can get out of t
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4614/40569071602_b8009779ce_o.jpg"><img src="https://farm5.staticflickr.com/4614/40569071602_b8009779ce_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569071602_b8009779ce_o.jpg"><img src="/assets/images/flickr/40569071602_b8009779ce_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -288,7 +288,7 @@ Overall, when it comes to sound quality, the Beoplay H9 make a perfectly reasona
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4630/40569070902_ed1db0e45b_o.jpg"><img src="https://farm5.staticflickr.com/4630/40569070902_ed1db0e45b_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569070902_ed1db0e45b_o.jpg"><img src="/assets/images/flickr/40569070902_ed1db0e45b_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -303,7 +303,7 @@ Now, as frustrating as the controls were, I still believe they were a good, inno
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4656/40569070812_d12a3a9635_o.jpg"><img src="https://farm5.staticflickr.com/4656/40569070812_d12a3a9635_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569070812_d12a3a9635_o.jpg"><img src="/assets/images/flickr/40569070812_d12a3a9635_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -317,7 +317,7 @@ There’s something about Beoplay products in general – and the H9 in particul
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4612/40611326141_c85176a054_o.jpg"><img src="https://farm5.staticflickr.com/4612/40611326141_c85176a054_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611326141_c85176a054_o.jpg"><img src="/assets/images/flickr/40611326141_c85176a054_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -343,7 +343,7 @@ The Beoplay H9 offer a comprehensive set of features that should be enough to sa
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4673/40611325701_19a80ee0c3_o.jpg"><img src="https://farm5.staticflickr.com/4673/40611325701_19a80ee0c3_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40611325701_19a80ee0c3_o.jpg"><img src="/assets/images/flickr/40611325701_19a80ee0c3_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -357,7 +357,7 @@ However, the reality of living with the H9 on a daily basis isn’t quite perfec
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryBeoplayH91" href="https://farm5.staticflickr.com/4788/40569070672_572c85b1bb_o.jpg"><img src="https://farm5.staticflickr.com/4788/40569070672_572c85b1bb_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryBeoplayH91" href="/assets/images/flickr/40569070672_572c85b1bb_o.jpg"><img src="/assets/images/flickr/40569070672_572c85b1bb_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -367,5 +367,5 @@ More like this, please.
 
 <section class="product-link">
 	<h4 class="buy-now">Beoplay H9</h4>
-	<a href="http://amznlinks.com/global?user=analogsenses&us=B01M68J83Q&uk=B01M68J83Q&es=B01M68J83Q"><img src="https://farm5.staticflickr.com/4657/39722139385_d840a53433_o.jpg"/></a>
+	<a href="http://amznlinks.com/global?user=analogsenses&us=B01M68J83Q&uk=B01M68J83Q&es=B01M68J83Q"><img src="/assets/images/flickr/39722139385_d840a53433_o.jpg"/></a>
 </section>

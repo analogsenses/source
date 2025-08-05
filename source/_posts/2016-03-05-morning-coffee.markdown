@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A look at one of my favorite fictional characters, followed by a roundup of some of the week’s most interesting pieces of writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Hello there, welcome to another issue of _Morning Coffee_.
@@ -81,13 +81,13 @@ The first thing is a live-action film based on the original manga that was relea
 This is definitely no Oscar material, but I thought the characters were very well portrayed, and the actors were all great in their respective roles. A popcorn-eating movie if I ever saw one, but hey, it’s a Lupin movie, so I’m not complaining.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1449/24895442464_689745bb2c_o.jpg" width="675"/>
+<img src="/assets/images/flickr/24895442464_689745bb2c_o.jpg" width="675"/>
 </figure>
 
 The second one, and by far my favorite, is that in late 2015 we saw the release of the first proper Lupin The Third animated season in over 30 years. I started watching it yesterday, and I’m happy to report it’s good. Very, very good.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1660/24898822943_242c08a042_o.jpg"/>
+<img src="/assets/images/flickr/24898822943_242c08a042_o.jpg"/>
 </figure>
 
 The story takes place in Italy, and begins with Lupin getting married. In the embedded opening theme below you can see that our protagonist is sporting a blue jacket this time around, but he’s still driving his trademark yellow Fiat 500, and he’s still very much the Lupin we know and love.
@@ -159,11 +159,11 @@ As a bonus, this will be Miriam’s first time seeing actual snow. Madrid doesn�
 On the work front I’m currently finishing up my review of the [Rode PSA-1](http://www.amazon.com/gp/product/B001D7UYBO/?tag=analogsens-20) boom arm, one of the most popular choices among podcasters.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1509/25155806299_5156806b5e_o.jpg"/>
+<img src="/assets/images/flickr/25155806299_5156806b5e_o.jpg"/>
 </figure>
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1675/24892813704_7834512e02_o.jpg"/>
+<img src="/assets/images/flickr/24892813704_7834512e02_o.jpg"/>
 </figure>
 
 I love this arm, and with it I can record [Candid](http://www.candid.fm) comfortably and without worrying about my posture. It’s a wonderful investment, and I can’t recommend it enough. I have a lot more to say about it, so stay tuned for the full review.

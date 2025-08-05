@@ -6,7 +6,7 @@ comments: true
 categories: 
 - Digital Life
 external-url: https://ifttt.com/recipes/338896-receive-analog-sense-s-morning-coffee-by-e-mail
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 A couple of weeks ago I mentioned how I was thinking about making some changes to the current format of my Morning Coffee articles. One such change included the possibility to offer it as an email newsletter instead of, or alongside the current version. 

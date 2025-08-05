@@ -8,7 +8,7 @@ sharing: true
 categories: 
 - Photography
 - Guides
-title-image: https://c7.staticflickr.com/1/232/31287133350_6e6d2a634d_o.jpg
+title-image: /assets/images/flickr/31287133350_6e6d2a634d_o.jpg
 description: "2016 has been a good year for mirrorless photography. If you’re in the market for a new camera, I’ve got your back."
 subtitle: "2016 has been a good year for mirrorless photography. If you’re in the market for a new camera, I’ve got your back."
 ---
@@ -22,7 +22,7 @@ Features like touchscreens, IBIS and dual SD card slots are now available in man
 With those aspects in mind, I’ve created this guide to help you figure out which camera is the right one to get depending on _your_ particular needs. I’m also giving out the first Editor’s Choice award in the history of _Analog Senses_ to the best camera of 2016, and the one I recommend for most people. To learn which camera took home this most prestigious award, just keep reading!
 
 <figure class="panorama">
-	<img src="https://c8.staticflickr.com/1/299/30853190463_1406f12393_o.jpg"/>
+	<img src="/assets/images/flickr/30853190463_1406f12393_o.jpg"/>
 </figure>
 
 <section class="toc">
@@ -99,7 +99,7 @@ The PEN-F is inspired by Olympus’ classic PEN F line of half-frame 35mm film c
 [^BestCameras1]: Half-frame film cameras used an 18×24 mm vertical (portrait) format, producing twice the pictures on a roll of 135 film as the regular 36×24 mm format.
 
 <figure>
-	<img src="https://c7.staticflickr.com/1/772/31725681806_1c7fcfa65f_o.jpg" width="450"/>
+	<img src="/assets/images/flickr/31725681806_1c7fcfa65f_o.jpg" width="450"/>
 </figure>
 
 It may look cute and simple, but the PEN-F packs some serious punch in terms of technology and image quality. With a 20-Megapixel Micro Four Thirds (MFT) sensor, 5-axis IBIS and a build quality that rivals the best cameras out there, the PEN-F is certainly no slouch. Only the lack of weather sealing keeps it from being the perfect travel camera in my book.[^BestCameras2]
@@ -146,7 +146,7 @@ Landscape photography is often associated with travel, but the requirements are 
 The [Sony a7R Mark II](http://amznlinks.com/global?user=analogsenses&us=B00ZDWGFR2&uk=B010THXVNQ&es=B010THXVNQ) fulfills these requirements with ease. Its 42-Megapixel Full Frame sensor gives you all the detail and dynamic range you could want, and the 5-axis IBIS helps a lot when you want to leave the tripod behind. And since it’s dust and moisture resistant, using it in rough weather is not a problem either.
 
 <figure>
-	<img src="https://c1.staticflickr.com/6/5578/31725687176_035a1e3405_o.jpg" width="450"/>
+	<img src="/assets/images/flickr/31725687176_035a1e3405_o.jpg" width="450"/>
 </figure>
 
 Best of all, though, are the lenses. The Zeiss [18mm F/2.8](http://amznlinks.com/global?user=analogsenses&us=B01E8OBQS8&uk=B01E8OBQS8&es=B01E8OBQS8) and [25mm F/2](http://amznlinks.com/global?user=analogsenses&us=B00WIHXBK4&uk=B00WIHXBK4&es=B00WIHXBK4) Batis lenses are incredibly sharp corner-to-corner and provide all the features of modern glass, as well as the signature Zeiss color and contrast. If you like to focus manually, there’s also the fantastic [Zeiss 21mm f/2.8 Loxia](http://amznlinks.com/global?user=analogsenses&us=B019OUCQ9Y&uk=B019OUCQ9Y&es=B019OUCQ9Y). As for zoom lenses, the [Sony Zeiss FE 16-35mm F/4](http://amznlinks.com/global?user=analogsenses&us=B00NGTN25C&uk=B00NVA7J1Y&es=B00NVA7J1Y) is a solid performer, and I expect a higher-end F/2.8 G-Master version to be announced in 2017.
@@ -187,7 +187,7 @@ Mirrorless cameras have traditionally lagged behind DSLRs when it comes to conti
 With that in mind, the best mirrorless camera for action and sports is a very close call between the [Fuji X-T2](http://amznlinks.com/global?user=analogsenses&us=B01I3LNMAM&uk=B01I5LE51A&es=B01I5LE51A) and the [Sony a6500](http://amznlinks.com/global?user=analogsenses&us=B01M586Y9R&uk=B01M2WAE29&es=B01M2WAE29), but ultimately the Fuji comes out on top.
 
 <figure>
-	<img src="https://c6.staticflickr.com/1/501/31763114485_37133a905f_o.jpg" width="450"/>
+	<img src="/assets/images/flickr/31763114485_37133a905f_o.jpg" width="450"/>
 </figure>
 
 Both cameras have class-leading AF systems, with the Sony offering more AF points, but the Fuji being more customizable. Discerning users will quickly learn to choose the appropriate AF mode for the Fuji in order to get consistently great results, while the Sony always feels like playing the lottery: sometimes it will work flawlessly, and others it will fail miserably. Having the option to configure the AF system’s behavior goes a long way towards getting the results you want, and that’s where the Fuji outperforms the Sony.
@@ -197,7 +197,7 @@ The a6500 does have a couple cool features that are missing from the X-T2, thoug
 On the other hand, the Fuji X-T2 has dual SD-card slots, which is a must-have in a high-end camera these days and a strange omission in the a6500. The Fuji X-T2 also has a joystick to move the AF point around. Many people prefer the immediacy of dedicated physical controls over a touchscreen, so that’s up to you. Of course, the ideal solution would have been to include both, but for some reason Fuji opted not to build a touchscreen into the X-T2.
 
 <figure>
-	<img src="https://c8.staticflickr.com/6/5592/31763114975_749283f7f9_o.jpg" width="512"/>
+	<img src="/assets/images/flickr/31763114975_749283f7f9_o.jpg" width="512"/>
 	<p class="caption">The lack of high-quality native APS-C lenses for the Sony a6500 means you’re stuck using bigger and more expensive Full Frame lenses with it, which is not ideal.</p>
 </figure>
 
@@ -243,7 +243,7 @@ First of all, it needs to be weather sealed. That’s non-negotiable. A lot can 
 Then there’s the matter of reach. It’s not always feasible or advisable to get up close and personal with certain animals, so you’ll want to have an outstanding telephoto lens in your arsenal. The [Olympus PRO 300mm F/4](http://amznlinks.com/global?user=analogsenses&us=B01950SVHY&uk=B019MYY38O&es=B019MYY38O) prime lens gives you a 600mm-equivalent field of view in a lens that’s still small enough to carry anywhere. And with Olympus’ superb IBIS technology and the lens’ own image stabilization working together, you can easily capture tack-sharp photos handheld.
 
 <figure>
-	<img src="https://c7.staticflickr.com/1/607/31616230062_86755ef12e_o.jpg" width="450"/>
+	<img src="/assets/images/flickr/31616230062_86755ef12e_o.jpg" width="450"/>
 </figure>
 
 Another important factor is speed. In wildlife photography you don’t usually get a second chance to capture the perfect shot — after all, wild animals are notoriously bad at following posing directions. This is where having a quick and accurate AF system, fast burst rate, and generous buffer depth matters most, and the E-M1 II is an industry leader in all of those things. With 121 cross-type hybrid AF points, a 15 fps burst rate with full AF capabilities, and a buffer that just keeps going forever, you won’t need a second chance to capture the next iconic National Geographic cover.
@@ -292,7 +292,7 @@ As for which focal length is the best, this is a subject of much debate among ph
 With those requirements in mind, the best camera for street photography right now is the [Sony RX1R Mark II](http://amznlinks.com/global?user=analogsenses&us=B016N39J0O&uk=B017BD5ZA8&es=B017BD5ZA8).
 
 <figure>
-	<img src="https://c2.staticflickr.com/1/423/31763113745_cb53c96136_o.jpg" width="450"/>
+	<img src="/assets/images/flickr/31763113745_cb53c96136_o.jpg" width="450"/>
 </figure>
 
 This camera is so small and light that it’s hard to believe it has a 42-Megapixel Full Frame sensor inside. It also has a gorgeous 35mm F/2 Zeiss lens built into the body, which is just about perfect for street photography. And since you’ve got resolution to spare, you can easily crop your images to a 50mm field of view without any noticeable loss of quality.
@@ -313,7 +313,7 @@ Both are extremely high-end fixed-lens cameras and both are very good, but where
 Build quality-wise, the Leica Q is certainly a step above the Sony. It feels remarkably solid and dense, in a way that is very reassuring. Its EVF is superb, and the software menu is well thought-out. Nobody makes cameras like Leica, so this is hardly a surprise. It’s also a very user-friendly camera, and the shooting experience is about as intuitive as it gets. The Sony, on the other hand, can be a bit overwhelming with a seemingly infinite amount of menu items and customizable options.
 
 <figure>
-	<img src="https://c5.staticflickr.com/1/534/31725682916_f4eb86bb54_o.jpg" width="350"/>
+	<img src="/assets/images/flickr/31725682916_f4eb86bb54_o.jpg" width="350"/>
 </figure>
 
 Where the Leica simply can’t keep up with the Sony is in raw specs: resolution is only 24 Megapixels, as opposed to 42. This limits the amount of cropping you can do with the Leica, while the Sony is a lot more versatile.
@@ -343,7 +343,7 @@ With a 42-megapixel Full Frame sensor that delivers industry-leading image quali
 On top of that, Sony’s recent push to release more high-end Full Frame lenses is already paying off, with the E-mount offering a truly comprehensive range of professional-grade glass.
 
 <figure>
-	<img src="https://c1.staticflickr.com/6/5578/31725687176_035a1e3405_o.jpg" width="450"/>
+	<img src="/assets/images/flickr/31725687176_035a1e3405_o.jpg" width="450"/>
 </figure>
 
 The new G-Master lenses, for example, are all best-in-class and provide all the image quality a photographer could ever need. Now there’s a full trinity of F/1.4 primes, and Sony also has a [90mm F/2.8 macro](http://amznlinks.com/global?user=analogsenses&us=B00U29GNEG&uk=B00ULLSWSU&es=B00ULLSWSU) lens that is so sharp existing resolution benchmarks can’t measure it accurately. On top of that, Zeiss is also doing wonderful things with the Batis and Loxia lines of lenses, with every new release becoming an instant hit. As far as portrait and studio photographers are concerned, all that’s missing now in the system is a fast 135mm prime lens, and I would be very surprised if such a lens didn’t see the light of day in 2017.
@@ -364,7 +364,7 @@ The likely explanation for that is that high-end studio photography is still all
 With the X1D, Hasselblad managed to fit a 50-Megapixel Medium Format sensor into a mirrorless body that is considerably smaller than a Full Frame DSLR, which is an impressive technological achievement. Resolution is certainly enough for most applications, although considering the Full Frame Canon 5DS R has had a 50-Megapixel sensor for a while, it isn’t exactly Earth-shattering.
 
 <figure>
-	<img src="https://c7.staticflickr.com/1/734/31725681166_913c0512a1_o.jpg" width="400"/>
+	<img src="/assets/images/flickr/31725681166_913c0512a1_o.jpg" width="400"/>
 </figure>
 
 Now, the [Hasselblad X1D](https://www.bhphotovideo.com/c/product/1260272-REG/hasselblad_h_3013901_x1d_50c_medium_format_mirrorless.html) is technically a Medium Format camera because it has a sensor that’s larger than Full Frame but the truth is that, at 44 x 33 mm, it’s still very much on the small side of Medium Format. This means the image quality gains over Full Frame, while significant, will not be overwhelming.
@@ -396,7 +396,7 @@ Finally, if you shoot handheld, image stabilization is also important because it
 With that in mind, the best camera for low light shooting is the [Sony a7S Mark II](http://amznlinks.com/global?user=analogsenses&us=B0158SRJVQ&uk=B015XT4TGS&es=B015XT4TGS).
 
 <figure>
-	<img src="https://c3.staticflickr.com/1/332/31725686226_85a1fcdaa6_o.jpg" width="450"/>
+	<img src="/assets/images/flickr/31725686226_85a1fcdaa6_o.jpg" width="450"/>
 </figure>
 
 While most modern cameras have a maximum usable ISO of 6,400 or thereabouts, you can still get perfectly usable images with the Sony a7S II at ISO 25,600 or even higher, depending on your tolerance for noise. This sort of high-ISO performance is just ridiculous, and miles ahead every other camera out there.
@@ -446,7 +446,7 @@ Luckily, there are still manufacturers like Fuji that remain committed to a phil
 Fuji cameras are different, and the [X-T2](http://amznlinks.com/global?user=analogsenses&us=B01I3LNMAM&uk=B01I5LE51A&es=B01I5LE51A) is no exception. You can tell by details such as the perfect placement of dials and buttons, and the dedicated aperture rings on most lenses. The Fuji X-Series system is designed by photographers, for photographers, and it shows.
 
 <figure>
-	<img src="https://c6.staticflickr.com/1/501/31763114485_37133a905f_o.jpg" width="512"/>
+	<img src="/assets/images/flickr/31763114485_37133a905f_o.jpg" width="512"/>
 </figure>
 
 Using the X-T2 is a two-hands operation, as it should be. Once you get used to this workflow, it’s easy to notice the benefits: every essential parameter — including aperture, shutter speed, and ISO — is available right at your fingertips via dedicated hardware controls. Simple. Of course, you can still set everything to Auto and fire away without a care in the world, but if you’ve made it this far into this guide, something tells me you care a bit more about photography.
@@ -456,7 +456,7 @@ I’m admittedly a Sony shooter myself, but every day I’m tempted by the Fuji 
 Then there’s the matter of Fuji’s gorgeous film emulations, including the new Acros. These manage to replicate the feel of some of Fuji’s iconic film stocks with a modern twist, and the results are fantastic. It’s easy to overlook this feature as gimmicky, but being able to share images that look finished straight out of camera is a huge benefit in many situations.
 
 <figure class="full-width">
-	<img src="https://c2.staticflickr.com/9/8130/30234487201_b82cded0e3_o.jpg"/>
+	<img src="/assets/images/flickr/30234487201_b82cded0e3_o.jpg"/>
 </figure>
 
 That being said, the Fuji X-T2 is not only about character; it is a technological marvel in its own right. It has a class-leading 24-Megapixel X-Trans III sensor and a state-of-the-art AF system. It also has a rugged, weather-sealed body, dual SD-card slots, and a top-shelf EVF. In terms of specs and features, it is very much a modern camera, but it’s also so much more than that.
@@ -479,7 +479,7 @@ The X-Pro 2 shares many of the features of the X-T2, to the point where both cam
 The X-T2 goes for a standard SLR-like look, including a viewfinder hump. It also has an electronic viewfinder and a tilting LCD screen, like most mirrorless cameras these days. The X-Pro 2, on the other hand, is rangefinder-style camera and has a fixed LCD screen and a hybrid viewfinder — optical and electronic — that makes shooting with it an entirely different experience.
 
 <figure>
-	<img src="https://c3.staticflickr.com/1/560/31725683546_5dc6b9a085_o.jpg" width="512"/>
+	<img src="/assets/images/flickr/31725683546_5dc6b9a085_o.jpg" width="512"/>
 </figure>
 
 People who love classic rangefinder cameras will fall head over heels for the X-Pro 2. It really is a super fun camera to shoot with. If you’re coming from an SLR-like camera, shooting with a rangefinder takes some getting used to, but it’s actually very simple. The main advantage is that you’re always seeing the entire scene, not just the part of it that is captured by the field of view of your lens. This allows you to anticipate subject movement and compose your shots a lot more easily. 

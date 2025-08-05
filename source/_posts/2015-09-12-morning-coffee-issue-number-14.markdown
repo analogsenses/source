@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 What a crazy week. As if an Apple keynote wasn’t enough of a post-vacation jolt, we also got other announcements in the photographic department, as well as plenty of interesting news for those not so tech-inclined.
@@ -170,10 +170,10 @@ Speaking of lenses, I’ve been using the [Sony FE 55mm f/1.8](http://www.amazon
 
 I’ve used it, together with my 24-70mm zoom, to create my second photo essay which, if the schedule holds, should be published this week. It’s about one of my favorite places in Madrid: a food market that’s recently been renovated and now doubles as a popular hangout place. Look for it on _Tools & Toys_ this upcoming Thursday. For now, I’ll leave you with a couple images as a teaser.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/575/20726430704_ddb4a6e4d1_o.jpg" width="960"></p>
+<p class="full-width"><img src="/assets/images/flickr/20726430704_ddb4a6e4d1_o.jpg" width="960"></p>
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5628/20728024213_a6cb4441f2_o.jpg" width="960"></p>
+<p class="full-width"><img src="/assets/images/flickr/20728024213_a6cb4441f2_o.jpg" width="960"></p>
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5694/21161271138_b276856ca3_o.jpg" width="960"></p>
+<p class="full-width"><img src="/assets/images/flickr/21161271138_b276856ca3_o.jpg" width="960"></p>
 
 And on that note, we’ve reached the end of another _Morning Coffee_ issue. Thanks for reading and, of course, have a wonderful weekend.

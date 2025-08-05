@@ -2,7 +2,7 @@
 layout: post
 title: "Paris 2016: a photo story"
 subtitle: "Paris 2016"
-title-image: https://c7.staticflickr.com/9/8696/28247113022_aae47a03b7_o.jpg
+title-image: /assets/images/flickr/28247113022_aae47a03b7_o.jpg
 date: 2016-02-03 23:16:52 +0100
 comments: false
 sharing: true
@@ -26,5 +26,5 @@ Since a regular article wouldn’t be appropriate for such a wonderful city, I c
 Just follow the title link to get to the beginning. I do hope you’ll enjoy it as much as we did.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1488/24475046170_c40288bc10_o.jpg"/>
+<img src="/assets/images/flickr/24475046170_c40288bc10_o.jpg"/>
 </figure>

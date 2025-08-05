@@ -12,7 +12,7 @@ categories:
 - Apple
 - Guides
 description: "After more than six years as my main computer, I was faced with the need to either replace or upgrade my Early-2008 24-inch iMac. Instead of replacing it, I upgraded the internal hard drive with an SSD, which gave it a new lease of life."
-title-image: https://c8.staticflickr.com/9/8636/28347135135_595aa1a6ff_o.jpg
+title-image: /assets/images/flickr/28347135135_595aa1a6ff_o.jpg
 ---
 
 _**UPDATE, July 16, 2016:** This article was originally published on May 21, 2014. Since then, it’s consistently been the most popular piece on this site almost every month. The original text is still valid, but SSD recommendations are now outdated._
@@ -22,7 +22,7 @@ _As of July 2016, the consumer-grade SSD I recommend is the [Samsung 850 EVO](ht
 _Even though it will not be supported by the newly-announced macOS Sierra, my Early-2008 iMac is still my primary Mac. It’s a terrific machine and I have no plans to replace it anytime soon. The rest of the article has been preserved in its original form for historical accuracy._
 
 <figure class="full-width">
-	<img src="https://farm3.staticflickr.com/2904/14189051376_3e98590f1a_b.jpg" title="Set everything up in a comfortable environment and get to work!"/>
+	<img src="/assets/images/flickr/14189051376_3e98590f1a_b.jpg" title="Set everything up in a comfortable environment and get to work!"/>
 	<p class="caption">Set everything up in a comfortable environment and get to work!</p>
 </figure>
 
@@ -54,7 +54,7 @@ Fortunately, the general consensus seems to be that right now, the best consumer
 I was initially leaning towards [the 500 GB model](http://www.amazon.com/gp/product/B00E3W19MO/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=B00E3W19MO&link_code=as3&tag=analogsens-20&linkId=2X75ROL22WE6DWQK), which retails on Amazon in Spain for 216€ (about $295). It would match my internal drive’s size, so I would not give up any space in the transition, which seemed like the best way to go. However, I never really used all the space in my internal drive. Most of my storage needs are for my media collection (music, TV shows, movies and photos), which I keep on an external drive anyway. I typically only use about 100 GB of internal storage, which include the OS, my applications, documents, my Dropbox folder and little more, so what’s the point of buying a large SSD if I’m not even going to use half of its capacity? For reference, [the 250 GB version](http://www.amazon.com/gp/product/B00E3W1726/ref=as_li_tl?ie=UTF8&camp=211189&creative=373489&creativeASIN=B00E3W1726&link_code=as3&tag=analogsens-20&linkId=P6V3VKDN3NZO3FO6) retails for 120€ (about $164). After careful consideration, I decided to buy two 250 GB drives instead of the 500 GB, and use the other one to upgrade my 13” Mid-2010 MacBook Pro. That way I could upgrade both Macs for only a little bit more money.
 
 <figure class="full-width">
-	<img src="https://farm3.staticflickr.com/2938/14025500850_824955693e_b.jpg" title="Scary, I know, but it’s easier than it looks."/>
+	<img src="/assets/images/flickr/14025500850_824955693e_b.jpg" title="Scary, I know, but it’s easier than it looks."/>
 	<p class="caption">Scary, I know, but it’s easier than it looks.</p>
 </figure>
 
@@ -83,7 +83,7 @@ I do have a few comments that I thought were not sufficiently clear on the guide
 The last part of the process is, of course, getting your new SSD up and running. Here you have basically two options: you can restore from a previous Time Machine or [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/superduperdescription.html) backup, or you can start fresh by installing OS X from scratch. For the iMac, I decided to restore from a backup, since I’d made a clean install not too long ago. For the MacBook Pro, however, I chose to do a clean install instead. I booted the newly-assembled iMac from a SuperDuper! backup I had on an external drive and used SuperDuper! to restore the backup to the SSD. The restoring process took about 90 minutes and it was absolutely flawless. When it was done, I was up and running again without any issues whatsoever. I really cannot recommend SuperDuper! enough. If you own a Mac, you should definitely be using it.
 
 <figure class="full-width">
-	<img src="https://farm6.staticflickr.com/5532/14211973414_fc9ab7e6b1_b.jpg" title="It’s Alive!"/>
+	<img src="/assets/images/flickr/14211973414_fc9ab7e6b1_b.jpg" title="It’s Alive!"/>
 	<p class="caption">It’s Alive!</p>
 </figure>
 

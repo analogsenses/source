@@ -13,7 +13,7 @@ There’s a question I get every now and then, for which I admit I haven’t bee
 
 _“What is your website about?”_
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7608/16854597542_6edebec282_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/16854597542_6edebec282_o.jpg"/></p>
 <p class="photo-credit">Photo credit: <a href="https://www.flickr.com/photos/guysie/6095265888">Guy Sie</a></p>
 
 It’s a deceivingly simple question, often asked by well-intentioned friends and family members who are genuinely trying to understand what it is I’m doing here. However, as much as I’d like to put them at ease the truth is, I’m not sure a correct answer even exists.

@@ -20,7 +20,7 @@ These early reviews have been interesting to read because they gave us the first
 
 For the moment, the only honest, responsible thing to say about the future of the Apple Watch is this: time will tell.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8718/17122385446_c622face90_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/17122385446_c622face90_o.jpg"/></p>
 
 <p class="photo-credit">Photo credit: <a href="www.flickr.com/photos/hawaii/16483032093">Ryan Ozawa</a>.</p>
 

@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A Deadpool review, and why the PG-13 rating is hurting filmmaking, followed by some of the week’s most interesting pieces of writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Hello there, welcome to another issue of _Morning Coffee_.
@@ -23,7 +23,7 @@ Beyond that, though, what interests me most about the film is the story behind i
 
 Don’t worry, this entire issue is spoiler-free, so you can keep reading even if you still haven’t watched the movie. But seriously, what are you waiting for? It’s really good.
 
-<img src="https://farm2.staticflickr.com/1468/25029623902_6369e4afe7_o.jpg"/>
+<img src="/assets/images/flickr/25029623902_6369e4afe7_o.jpg"/>
 
 
 ##Issue \#34: A different kind of superhero movie
@@ -138,7 +138,7 @@ In case you missed it, my in-depth review of the [Sony FE 70-200mm F4](http://ww
 
 If that wasn’t enough, on Wednesday I made [my podcasting debut](http://www.candid.fm), alongside Marius Masalar and Josh Ginter. Candid is a weekly photography show that explores the skills and technology we contend with on the road from hobbyist to professional. Each episode is roughly an hour, and it has a casual, relaxed tone that I really enjoy.
 
-<img src="https://farm2.staticflickr.com/1500/25062384096_456ed62d16_o.jpg" width="400"/>
+<img src="/assets/images/flickr/25062384096_456ed62d16_o.jpg" width="400"/>
 
 Working on the show with Marius and Josh has been a treat so far, and we’re all having tons of fun with it. Hopefully you will, too. And if you decide to listen and like what you hear, please take a minute of your time to [spread the word](https://twitter.com/intent/tweet?url=http://www.candid.fm/1/&text=Candid,%20Episode%201:%20“Okay%20Bokeh”%20by%20@candid_fm), and review the show [on iTunes](https://geo.itunes.apple.com/podcast/candid/id1085070184). It really helps us a lot. Thanks!
 

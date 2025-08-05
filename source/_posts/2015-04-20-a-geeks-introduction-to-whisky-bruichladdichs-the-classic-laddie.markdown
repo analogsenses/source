@@ -7,14 +7,14 @@ sharing: true
 categories: 
 - Whisky
 description: "Jam-packed with the salty scent of the Islay coast, this wonderful single malt will no doubt send you on an unforgettable trip down memory lane."
-title-image: https://c7.staticflickr.com/9/8782/27733646534_a0033622a0_o.jpg
+title-image: /assets/images/flickr/27733646534_a0033622a0_o.jpg
 ---
 
 The Classic Laddie is described by its maker as “the definitive Bruichladdich”. 
 
 Made from 100% Scottish barley, this single malt aims to become the whisky that is synonym with the Bruichladdich name. However, that’s no easy task. Out there in the real world, [The Classic Laddie](http://www.bruichladdich.com/the-whisky/bruichladdich/the-classic-laddie) has some pretty big shoes to fill.
 
-<img src="https://farm8.staticflickr.com/7599/16596631293_511d3217a6_o.jpg"/>
+<img src="/assets/images/flickr/16596631293_511d3217a6_o.jpg"/>
 
 Back when I was planning [my journey](http://www.analogsenses.com/2014/10/09/the-finer-things-in-life-a-geeks-introduction-to-scotch/) of discovery, [Mark Bylok](http://www.markbylok.com) suggested to me that, out of the many different single malts out there, I could do a lot worse than starting out with a classic Bruichladdich. 
 
@@ -27,7 +27,7 @@ If there’s one whisky you could blame for Bruichladdich’s current stellar re
 
 Before The Laddie Ten came to be, the story of Bruichladdich was a sad one. Located on the Rinns of the isle of Islay, it was built in 1881 by the Harvey brothers, who managed it with great success until the death of William Harvey in 1936. In the following decades the distillery had several owners, but none of them were able to capitalize on its potential and in 1994, it was eventually shut down.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8818/16594398084_d52784e293_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/16594398084_d52784e293_o.jpg"/></p>
 
 <p class="photo-credit">Photo credit: <a href="https://www.flickr.com/photos/minx_sheff/8701920470">Helen</a>.</p>
 
@@ -44,7 +44,7 @@ In 2012, the Bruichladdich distillery was sold to [Rémy Cointreau](http://en.wi
 
 After its resurrection in 2001, Bruichladdich set on a ten-year journey that culminated with one of their first ten-year-old single malt releases: [The Laddie Ten](http://www.bruichladdich.com/the-whisky/bruichladdich/the-laddie-ten-year-old). This fantastic single malt was received with nearly universal praise, and strongly revitalized business for the distillery. It is not hyperbole to say that Bruichladdich literally bet their house and their business on The Laddie Ten being successful. Luckily for them, not only was it successful — and massively so — it actually created a cult following for Bruichladdich that grows bigger every year.
 
-<img src="https://farm8.staticflickr.com/7702/16596630803_72b39f41a9_o.jpg"/>
+<img src="/assets/images/flickr/16596630803_72b39f41a9_o.jpg"/>
 
 However, what made The Laddie Ten a resounding success also made it an ephemeral one. Being a vintage bottling from a single year (2001), its characteristics were made unique by that year’s weather and the properties of the barley that was used to make it. That unfortunately means that Bruichladdich themselves are unable to produce more of it and once the original bottling sells out, The Laddie Ten will forever be a part of Bruichladdich’s history.
 
@@ -54,7 +54,7 @@ So, unless you’re willing to go to Scotland to get it — which is a perfectl
 
 Which brings us to [The Classic Laddie: Scottish Barley](http://www.bruichladdich.com/the-whisky/bruichladdich/the-classic-laddie).
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8719/17216272821_59a453419d_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/17216272821_59a453419d_o.jpg"/></p>
 
 
 ## The Classic Laddie: Scottish Barley
@@ -67,18 +67,18 @@ The second, and probably most important one is that, being created from several 
 
 {% youtube 6GciiH9ErAA %}
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8698/17030673779_509cc9e0d7_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/17030673779_509cc9e0d7_o.jpg"/></p>
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8766/17215150582_18435e0a5a_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/17215150582_18435e0a5a_o.jpg"/></p>
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5459/16596637043_d366e5055e_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/16596637043_d366e5055e_o.jpg"/></p>
 
 
 ## The color
 
 This is a moderately light colored whisky, but it’s also very thick, oily and dense, and it clings to the glass like it never wants to let go of it. I’d say it’s between a 0.8 (deep gold) and a 1.0 (deep copper) on the [Whisky Magazine](http://www.whiskymag.com/) color chart: 
 
-<p class="extra-width"><a href="https://www.flickr.com/photos/analogsenses/15541294995" title="Colour-bar-Big by Álvaro Serrano, on Flickr"><img src="https://farm4.staticflickr.com/3938/15541294995_3fd02f3bb8_o.jpg" title="Colour-bar-Big"></a></p>
+<p class="extra-width"><a href="https://www.flickr.com/photos/analogsenses/15541294995" title="Colour-bar-Big by Álvaro Serrano, on Flickr"><img src="/assets/images/flickr/15541294995_3fd02f3bb8_o.jpg" title="Colour-bar-Big"></a></p>
 
 <p class="photo-credit">Click or tap on the chart to view it full-size.</p>
 
@@ -89,7 +89,7 @@ Another thing of note about The Classic Laddie is that it’s not artificially c
 
 Extremely fresh and clean. At first deceptively sweet, it then gives way to a more complex scent with many different components: dried fruit, and summer breeze. Perhaps some honey. Adding water opens it up quite a bit and removes some of the strength of the alcohol that sometimes dulls your sense of smell. Then the salty aroma of the sea hits you like a mace. Finally, a note of lemon reveals itself, and perhaps some mint.
 
-<img src="https://farm8.staticflickr.com/7659/16596636873_485cb46ebe_o.jpg"/>
+<img src="/assets/images/flickr/16596636873_485cb46ebe_o.jpg"/>
 
 
 ## The palate
@@ -108,7 +108,7 @@ Those memories were always there on some level, buried among decades’ worth of
 
 And you know what? It feels good to be back.
 
-<img src="https://farm9.staticflickr.com/8762/16594394884_702b854f68_o.jpg"/>
+<img src="/assets/images/flickr/16594394884_702b854f68_o.jpg"/>
 
 
 ## The finish
@@ -124,7 +124,7 @@ My advice is this: pick your favorite record — you get bonus points if it’s 
 
 That record is solid gold, and it goes tremendously well with the liquid gold that is this Bruichladdich. Just hearing Miss Ella charmingly and confidently improvising the lyrics, and doing her remarkably spot-on Louis Armstrong impersonation is enough to send me back to a time when the future held nothing but possibility, and our only obligation was to dream big.
 
-<img src="https://farm9.staticflickr.com/8797/17030669129_d5b23e553c_o.jpg"/>
+<img src="/assets/images/flickr/17030669129_d5b23e553c_o.jpg"/>
 
 Some of those dreams have come true. Others are gone forever. But some, the most important ones, are still there, waiting for you to remember them.
 
@@ -137,4 +137,4 @@ On a final note, I’m now even more curious to try The Laddie Ten. If The Class
 
 One of those I will drink right away. The other I will save, in case a day comes when I need to remind myself of who I am, and why I’ll always dream big.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7693/16596635023_53e9d3abb6_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/16596635023_53e9d3abb6_o.jpg"/></p>

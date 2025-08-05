@@ -9,7 +9,7 @@ categories:
 - Tools & Toys
 - Podcasting
 external-url: http://toolsandtoys.net/reviews/the-rode-psa-1-boom-arm/
-title-image: https://c1.staticflickr.com/8/7467/28068820800_912a7f83d2_o.jpg
+title-image: /assets/images/flickr/28068820800_912a7f83d2_o.jpg
 ---
 
 My review of the [Rode PSA-1 boom arm](http://www.amazon.com/gp/product/B001D7UYBO/?tag=analogsens-20) was published today on _Tools & Toys_.
@@ -23,7 +23,7 @@ In the end I settled on borrowing an XLR microphone from my father’s FM radio 
 Being a dynamic microphone, though, the Shure 10A is _extremely_ picky about my posture, and requires consistent technique to sound any good. It soon became clear that a traditional desk stand just wouldn’t do, so I decided to invest in the Rode PSA-1 boom arm and I never looked back.
 
 <figure class="full-width">
-	<img src="https://farm2.staticflickr.com/1598/25186433294_82a27b26a3_o.jpg"/>
+	<img src="/assets/images/flickr/25186433294_82a27b26a3_o.jpg"/>
 </figure>
 
 The Rode PSA-1 is a great product: it is very solid, and it offers all the features of more expensive studio arms at a very reasonable price point. What’s not to love?
@@ -31,7 +31,7 @@ The Rode PSA-1 is a great product: it is very solid, and it offers all the featu
 All things considered, I spent about $250 total for my setup, and I’m really happy with how well it’s working for me. I can’t recommend the Rode PSA-1 boom arm enough, especially if you own a dynamic microphone, or are planning to get one anytime soon.
 
 <figure class="full-width">
-	<img src="https://farm2.staticflickr.com/1688/25516239160_64a9d9761c_o.jpg"/>
+	<img src="/assets/images/flickr/25516239160_64a9d9761c_o.jpg"/>
 </figure>
 
 As a side bonus, I recorded [a short video](https://www.youtube.com/watch?v=8OvL0RfbY8A) for the review, where I go over the main advantages of having a boom arm vs a desk stand for your microphone. You can find it embedded below. I’m well aware there’s lots of things to improve as far as production goes, but for a first attempt at a multiple-camera video, I’m quite happy with how it turned out. 

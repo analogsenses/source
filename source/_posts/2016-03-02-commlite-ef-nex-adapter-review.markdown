@@ -7,7 +7,7 @@ sharing: true
 categories: 
 - Photography
 description: "This adapter enables Sony users to shoot with Canon EF glass while retaining AF and image stabilization on those lenses that support it. Unfortunately, performance is spotty at best."
-title-image: https://c1.staticflickr.com/9/8782/28068502680_2ace0e5507_o.jpg
+title-image: /assets/images/flickr/28068502680_2ace0e5507_o.jpg
 ---
 
 Ah, the wonderful world of adapted lenses. If you’re a Sony E-mount shooter, you’ve probably been down this road at some point, or are considering it now. The E-mount system is still relatively young, and there are a few gaps in the focal range for which no native lens exists yet. Trying to find a DSLR lens you can adapt seems like a great solution, at least on paper.
@@ -17,7 +17,7 @@ Moreover, recent Sony cameras like the [a7 II](http://www.amazon.com/gp/product/
 [^Commlite1]: Provided you have updated your camera to firmware 2.0 or later.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1668/24817596774_b6840eeedc_o.jpg">
+<img src="/assets/images/flickr/24817596774_b6840eeedc_o.jpg">
 </figure>
 
 So far, going the adapted lens route is looking like a no-brainer, but of course, things are rarely that simple in life.
@@ -25,13 +25,13 @@ So far, going the adapted lens route is looking like a no-brainer, but of course
 The good news is, there are plenty of adapters to choose from, spanning a wide range of features and price points. The bad news is, there are plenty of adapters to choose from, spanning a wide range of features and price points.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1691/25448155925_244cbc6673_o.jpg">
+<img src="/assets/images/flickr/25448155925_244cbc6673_o.jpg">
 </figure>
 
 Finding the right adapter to buy is a particularly tricky proposition, because it depends on a lot of unstable and/or vaguely specified factors: your existing lens lineup, your camera body, your requirements in terms of AF performance and EXIF data, and a few others. Some or all of them may change at any point, which could drastically alter the value proposition of any adapter.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1586/25080565149_c36897107c_o.jpg">
+<img src="/assets/images/flickr/25080565149_c36897107c_o.jpg">
 </figure>
 
 
@@ -66,7 +66,7 @@ However, even the Metabones adapter with its flashy price tag is unpredictable a
 Which brings us to the [Commlite EF-NEX adapter](http://www.amazon.com/gp/product/B00DW0EV2I/?tag=analogsens-20).
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1536/25153018260_3c19f130a5_o.jpg">
+<img src="/assets/images/flickr/25153018260_3c19f130a5_o.jpg">
 </figure>
 
 On paper, the Commlite adapter offers almost the same features as the Metabones — except for the firmware upgradeability — for a whole lot less money. 
@@ -80,7 +80,7 @@ The Commlite adapter currently retails for about $70. Should it perform as adver
 Let’s take a closer look and see what we find.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1520/25080683499_abaa13ea6b_o.jpg">
+<img src="/assets/images/flickr/25080683499_abaa13ea6b_o.jpg">
 </figure>
 
  
@@ -103,11 +103,11 @@ The feature set of the Commlite adapter is impressive for the price:
 Other than that last point, this is a comprehensive feature list, and it certainly points towards the Commlite being an impressive value. The only features that are missing, at least on paper, are weather-sealing and a user-upgradeable firmware. But at this price point, we certainly can’t complain.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1572/25329803082_9cfa7d6693_o.jpg">
+<img src="/assets/images/flickr/25329803082_9cfa7d6693_o.jpg">
 </figure>
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1655/25080649869_346aa5c469_o.jpg">
+<img src="/assets/images/flickr/25080649869_346aa5c469_o.jpg">
 </figure>
 
 
@@ -118,43 +118,43 @@ The Commlite adapter is very well built. It’s made out of a solid chunk of met
 Both mounts are chrome-plated, and feel similarly solid. On the lens side, there’s a red and a white dot that mark the proper mounting places for Full Frame and APS-C Canon lenses, respectively. On the camera side, a white dot does the same job.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1537/25152655670_8661b0e810_o.jpg">
+<img src="/assets/images/flickr/25152655670_8661b0e810_o.jpg">
 </figure>
 
 There are gold-plated electrical contacts on both sides of the adapter, which are there to enable electronic communication between the camera and the lens, with the adapter acting as an interpreter.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1621/25080665069_f6e5aaab6c_o.jpg">
+<img src="/assets/images/flickr/25080665069_f6e5aaab6c_o.jpg">
 </figure>
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1539/25422100306_eaca97d3b6_o.jpg">
+<img src="/assets/images/flickr/25422100306_eaca97d3b6_o.jpg">
 </figure>
 
 The lens release lever is the only plastic part of the adapter, but this is understandable. It still feels more than solid enough, and performs its intended function without issues.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1495/24817635954_1c543330df_o.jpg">
+<img src="/assets/images/flickr/24817635954_1c543330df_o.jpg">
 </figure>
 
 The supplied tripod collar is a nice touch. It’s also made of metal, and gives a much nicer balance to the package when you set the camera down on a desk, for example. Of course, it greatly improves the balance when used on an actual tripod, as well.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1498/25448608515_c6449d459f_o.jpg">
+<img src="/assets/images/flickr/25448608515_c6449d459f_o.jpg">
 </figure>
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1607/24818060964_20abec48df_o.jpg">
+<img src="/assets/images/flickr/24818060964_20abec48df_o.jpg">
 </figure>
 
 When mounted, there’s almost no play between lens and adapter, or between adapter and camera, giving the overall package a reasonably compact and robust feel. I suppose this could be slightly improved, but it’s perfectly reasonable as-is.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1465/25329880432_1ee57cdd12_o.jpg">
+<img src="/assets/images/flickr/25329880432_1ee57cdd12_o.jpg">
 </figure>
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1686/25152589620_8b7d33edb6_o.jpg">
+<img src="/assets/images/flickr/25152589620_8b7d33edb6_o.jpg">
 </figure>
 
 ##AF performance
@@ -164,7 +164,7 @@ This is where the spell breaks. Sadly, the truth is that, at least with the Cano
 It’s not just a problem of speed, either. That by itself is something I could have lived with, provided it wasn’t unbearably sluggish. It mostly is, but the real kicker is that AF accuracy is incredibly, maddeningly, excruciatingly bad, too.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1470/25422172536_6bbe5d6287_o.jpg">
+<img src="/assets/images/flickr/25422172536_6bbe5d6287_o.jpg">
 </figure>
 
 This lens and adapter combination makes for one of the most frustrating photographic experiences I’ve ever seen. Even in stellar lighting conditions, the Canon lens would often simply refuse to lock on to anything. I tried, to no avail, to change the AF region from center lock, to flexible spot, to wide, and from single-shot to continuous AF. In every one of those cases, the lens would focus reasonably well on one shot, only to once again become stubborn in the next.
@@ -176,7 +176,7 @@ It’s quite difficult to explain this behavior with words, so I made a small vi
 This kind of unpredictable behavior makes it impossible to trust this adapter to get the job done when it matters. For that reason, I would never use it for any sort of critical work where AF is a must.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1594/24821613403_3d65948bbf_o.jpg">
+<img src="/assets/images/flickr/24821613403_3d65948bbf_o.jpg">
 </figure>
 
 By comparison, when I used the very same Canon lens on my venerable Canon EOS-3 film camera, AF performance was impressive: very, very quick to focus and dead on, even in dimmer lighting conditions. So clearly, it doesn’t appear to be the lens’s fault.
@@ -184,7 +184,7 @@ By comparison, when I used the very same Canon lens on my venerable Canon EOS-3 
 Of course, as you’ve seen in the video above, this unpredictable AF performance also applies during video recording, so there’s no way I would ever recommend this adapter if you need to use AF for video.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1541/24817778624_61a931b5d4_o.jpg">
+<img src="/assets/images/flickr/24817778624_61a931b5d4_o.jpg">
 </figure>
 
 Your mileage may vary with other Canon lenses, but as far as I’m concerned, no matter how you look at it, when it comes to AF, this adapter is not a tool you can rely on in any serious situation. For what it’s worth, I also tested the adapter with my old Canon EF 50mm f/1.8 lens, and the results were similar.
@@ -199,37 +199,37 @@ The adapter’s poor AF performance pushed me to use manual focus for about 90% 
 The Commlite’s built-in electronic integration means you can just flick the AF/MF switch found on most Canon lenses and the camera will switch between autofocus and manual focus modes accordingly. This is a nice touch, and it would be super useful if the adapter was any good in AF mode. Alas, as we’ve seen, that is not usually the case.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1485/25355408771_1c9da58400_o.jpg">
+<img src="/assets/images/flickr/25355408771_1c9da58400_o.jpg">
 </figure>
 
 Once in MF mode, all the built in focusing aids work exactly as they would with a native lens: peaking and magnification work wonderfully, and together they make for a very enjoyable experience. Alternatively, you also have the option to use the built-in depth of field scale available on most high-end Canon lenses.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1563/24653136252_6225a00e01_o.jpg">
+<img src="/assets/images/flickr/24653136252_6225a00e01_o.jpg">
 </figure>
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1691/24744725576_6b5b5f47bd_o.jpg">
+<img src="/assets/images/flickr/24744725576_6b5b5f47bd_o.jpg">
 </figure>
 
 Image stabilization also works like a charm, even for those lenses that don’t have built-in stabilization, like this Canon 35mm. And since the adapter provides electronic integration, there’s no need to manually enter the focal length for the camera’s IBIS to work. Everything happens automatically, which is another nice touch of this setup.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1533/24744724596_8a79719d9a_o.jpg">
+<img src="/assets/images/flickr/24744724596_8a79719d9a_o.jpg">
 </figure>
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1516/24142801664_c50ac9bee6_o.jpg">
+<img src="/assets/images/flickr/24142801664_c50ac9bee6_o.jpg">
 </figure>
 
 Aperture control is also a non-issue in practice. The camera’s aperture dial works perfectly well, and the camera recognizes the lens’s maximum aperture of f/1.4 with no problems whatsoever. And since Canon lenses usually don’t have aperture rings on them, there’s no possibility for conflicting settings here. Light metering is also excellent, and the camera captures consistently correct exposures without any issues.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1525/24703728091_99f1951fdc_o.jpg">
+<img src="/assets/images/flickr/24703728091_99f1951fdc_o.jpg">
 </figure>
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1718/24429564579_f80c023aae_o.jpg">
+<img src="/assets/images/flickr/24429564579_f80c023aae_o.jpg">
 </figure>
 
 Finally, the tripod collar gives you a nice mounting point that creates a much more stable setup, which is definitely a welcome feature, especially considering most Canon L lenses are quite large and heavy.
@@ -242,7 +242,7 @@ All in all, the Commlite adapter is a nicely made product, capable of delivering
 I realize this may be a case of bad luck, and performance with other Canon lenses may be much better. That may well be the case but the fact is, this lens is officially supported, and AF performance with it is still abysmal. Sadly, that gives me zero confidence in whatever Commlite says regarding other lenses.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1509/25329776282_3b5af88e0d_o.jpg">
+<img src="/assets/images/flickr/25329776282_3b5af88e0d_o.jpg">
 </figure>
 
 Using the adapter in MF mode, however, is a pleasure. Everything works exactly as it should, and the entire process feels almost as nice as using a native lens would. In this mode, the Commlite adapter will give you access to a wide range of high-performing Canon glass that is not natively available for the E-mount system yet. 
@@ -250,7 +250,7 @@ Using the adapter in MF mode, however, is a pleasure. Everything works exactly a
 Given the affordable price of this adapter — again, only $70 — this is still a remarkable value proposition many people will be glad to consider. If you want to have a chance to rent nice lenses occasionally to take with you on a trip, or for a studio job where AF is not critical, this is a great and affordable way to do it.
 
 <figure class="full-width">
-<img src="https://farm2.staticflickr.com/1536/25448269455_a8077b1184_o.jpg">
+<img src="/assets/images/flickr/25448269455_a8077b1184_o.jpg">
 </figure>
 
 Unfortunately, my guess is that, for most people looking to adapt Canon lenses, AF won’t be something they’re willing to give up along the way. And those people, I’m afraid, will have to keep looking.

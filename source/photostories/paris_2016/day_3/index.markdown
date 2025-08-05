@@ -6,11 +6,11 @@ layout: page
 sharing: true
 title: "Paris 2016: Day Three"
 subtitle: "On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre."
-title-image: https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg
-title-image-2: https://c7.staticflickr.com/9/8696/28247113022_aae47a03b7_o.jpg
-title-image-3: https://c8.staticflickr.com/9/8799/27752754063_a776e9c9c6_o.jpg
-title-image-4: https://c7.staticflickr.com/8/7551/28264776302_73343efd61_o.jpg
-title-image-5: https://c5.staticflickr.com/9/8718/27751873564_66f3e845a1_o.jpg
+title-image: /assets/images/flickr/28068244410_884517187c_o.jpg
+title-image-2: /assets/images/flickr/28247113022_aae47a03b7_o.jpg
+title-image-3: /assets/images/flickr/27752754063_a776e9c9c6_o.jpg
+title-image-4: /assets/images/flickr/28264776302_73343efd61_o.jpg
+title-image-5: /assets/images/flickr/27751873564_66f3e845a1_o.jpg
 description: "On day three we rode our bicycles to the Tour Eiffel and then paid an evening visit to the Arc de Triomphe. And at night, we had a wonderfully classy dinner in the bohemian neighborhood of Montmartre."
 ---
 
@@ -27,42 +27,42 @@ Once we got rid of the bicycles we stayed close to the tower for a while. The Ei
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.9%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1647/24770994796_725033c7bb_o.jpg"><img src="https://farm2.staticflickr.com/1647/24770994796_725033c7bb_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1458/24170354573_a71e96a324_o.jpg"><img src="https://farm2.staticflickr.com/1458/24170354573_a71e96a324_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24770994796_725033c7bb_o.jpg"><img src="/assets/images/flickr/24770994796_725033c7bb_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24170354573_a71e96a324_o.jpg"><img src="/assets/images/flickr/24170354573_a71e96a324_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg"><img src="https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/28068244410_884517187c_o.jpg"><img src="/assets/images/flickr/28068244410_884517187c_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:39.5%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1633/24170354543_73649f083d_o.jpg"><img src="https://farm2.staticflickr.com/1633/24170354543_73649f083d_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1583/24429565699_65e5347033_o.jpg"><img src="https://farm2.staticflickr.com/1583/24429565699_65e5347033_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24170354543_73649f083d_o.jpg"><img src="/assets/images/flickr/24170354543_73649f083d_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24429565699_65e5347033_o.jpg"><img src="/assets/images/flickr/24429565699_65e5347033_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis2" href="https://farm2.staticflickr.com/1449/24770994606_35d9d32730_o.jpg"><img src="https://farm2.staticflickr.com/1449/24770994606_35d9d32730_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis2" href="/assets/images/flickr/24770994606_35d9d32730_o.jpg"><img src="/assets/images/flickr/24770994606_35d9d32730_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:45.85%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1697/24501694700_4b0096b3b6_o.jpg"><img src="https://farm2.staticflickr.com/1697/24501694700_4b0096b3b6_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1492/24703729261_a63ea7a5cf_o.jpg"><img src="https://farm2.staticflickr.com/1492/24703729261_a63ea7a5cf_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24501694700_4b0096b3b6_o.jpg"><img src="/assets/images/flickr/24501694700_4b0096b3b6_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24703729261_a63ea7a5cf_o.jpg"><img src="/assets/images/flickr/24703729261_a63ea7a5cf_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1486/24679381902_f72488ae51_o.jpg"><img src="https://farm2.staticflickr.com/1486/24679381902_f72488ae51_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24679381902_f72488ae51_o.jpg"><img src="/assets/images/flickr/24679381902_f72488ae51_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.87%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1590/24170354333_b2e0332976_o.jpg"><img src="https://farm2.staticflickr.com/1590/24170354333_b2e0332976_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1484/24429565489_82101bde6b_o.jpg"><img src="https://farm2.staticflickr.com/1484/24429565489_82101bde6b_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24170354333_b2e0332976_o.jpg"><img src="/assets/images/flickr/24170354333_b2e0332976_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24429565489_82101bde6b_o.jpg"><img src="/assets/images/flickr/24429565489_82101bde6b_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1655/24429565539_d8ce657b13_o.jpg"><img src="https://farm2.staticflickr.com/1655/24429565539_d8ce657b13_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24429565539_d8ce657b13_o.jpg"><img src="/assets/images/flickr/24429565539_d8ce657b13_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1713/24679381822_b40f32d897_o.jpg"><img src="https://farm2.staticflickr.com/1713/24679381822_b40f32d897_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24679381822_b40f32d897_o.jpg"><img src="/assets/images/flickr/24679381822_b40f32d897_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -70,51 +70,51 @@ After that, we went to [Place du Trocadéro](https://en.wikipedia.org/wiki/Troca
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1615/24679381782_7eed48e5f5_o.jpg"><img src="https://farm2.staticflickr.com/1615/24679381782_7eed48e5f5_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24679381782_7eed48e5f5_o.jpg"><img src="/assets/images/flickr/24679381782_7eed48e5f5_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:43.45%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1624/24429565339_16ab567330_o.jpg"><img src="https://farm2.staticflickr.com/1624/24429565339_16ab567330_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1535/24797224575_b6230bfb4a_o.jpg"><img src="https://farm2.staticflickr.com/1535/24797224575_b6230bfb4a_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24429565339_16ab567330_o.jpg"><img src="/assets/images/flickr/24429565339_16ab567330_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24797224575_b6230bfb4a_o.jpg"><img src="/assets/images/flickr/24797224575_b6230bfb4a_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1647/24169057814_6da12edcdf_o.jpg"><img src="https://farm2.staticflickr.com/1647/24169057814_6da12edcdf_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24169057814_6da12edcdf_o.jpg"><img src="/assets/images/flickr/24169057814_6da12edcdf_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:57.18%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1702/24703728881_0917cde60d_o.jpg"><img src="https://farm2.staticflickr.com/1702/24703728881_0917cde60d_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1450/24703728731_6e6d6b9a91_o.jpg"><img src="https://farm2.staticflickr.com/1450/24703728731_6e6d6b9a91_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24703728881_0917cde60d_o.jpg"><img src="/assets/images/flickr/24703728881_0917cde60d_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24703728731_6e6d6b9a91_o.jpg"><img src="/assets/images/flickr/24703728731_6e6d6b9a91_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:45.2%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1613/24770993956_124184db45_o.jpg"><img src="https://farm2.staticflickr.com/1613/24770993956_124184db45_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1596/24170353823_328e7aa591_o.jpg"><img src="https://farm2.staticflickr.com/1596/24170353823_328e7aa591_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24770993956_124184db45_o.jpg"><img src="/assets/images/flickr/24770993956_124184db45_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24170353823_328e7aa591_o.jpg"><img src="/assets/images/flickr/24170353823_328e7aa591_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1453/24703728551_4dd3cd1442_o.jpg"><img src="https://farm2.staticflickr.com/1453/24703728551_4dd3cd1442_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24703728551_4dd3cd1442_o.jpg"><img src="/assets/images/flickr/24703728551_4dd3cd1442_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:59.3%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1547/24501694030_647214cf77_o.jpg"><img src="https://farm2.staticflickr.com/1547/24501694030_647214cf77_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1513/24169057524_475b9e8847_o.jpg"><img src="https://farm2.staticflickr.com/1513/24169057524_475b9e8847_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24501694030_647214cf77_o.jpg"><img src="/assets/images/flickr/24501694030_647214cf77_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24169057524_475b9e8847_o.jpg"><img src="/assets/images/flickr/24169057524_475b9e8847_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://c7.staticflickr.com/9/8696/28247113022_aae47a03b7_o.jpg"><img src="https://c7.staticflickr.com/9/8696/28247113022_aae47a03b7_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/28247113022_aae47a03b7_o.jpg"><img src="/assets/images/flickr/28247113022_aae47a03b7_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:73.5%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1653/24703728481_82c8d95a0c_o.jpg"><img src="https://farm2.staticflickr.com/1653/24703728481_82c8d95a0c_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1594/24797224155_75e7da1d88_o.jpg"><img src="https://farm2.staticflickr.com/1594/24797224155_75e7da1d88_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24703728481_82c8d95a0c_o.jpg"><img src="/assets/images/flickr/24703728481_82c8d95a0c_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24797224155_75e7da1d88_o.jpg"><img src="/assets/images/flickr/24797224155_75e7da1d88_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:35.63%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1641/24170353483_aa7fdb82f4_o.jpg"><img src="https://farm2.staticflickr.com/1641/24170353483_aa7fdb82f4_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1535/24501693840_a10e643961_o.jpg"><img src="https://farm2.staticflickr.com/1535/24501693840_a10e643961_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24170353483_aa7fdb82f4_o.jpg"><img src="/assets/images/flickr/24170353483_aa7fdb82f4_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24501693840_a10e643961_o.jpg"><img src="/assets/images/flickr/24501693840_a10e643961_o.jpg" alt="" /></a>
 	</div>
 	</figure>
 </section>
@@ -132,33 +132,33 @@ Ready to defy the quickly worsening weather, we decided to get up to the top of 
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:35.85%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1509/24797224075_51be86520e_o.jpg"><img src="https://farm2.staticflickr.com/1509/24797224075_51be86520e_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1487/24770993486_a4d963376c_o.jpg"><img src="https://farm2.staticflickr.com/1487/24770993486_a4d963376c_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24797224075_51be86520e_o.jpg"><img src="/assets/images/flickr/24797224075_51be86520e_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24770993486_a4d963376c_o.jpg"><img src="/assets/images/flickr/24770993486_a4d963376c_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://c8.staticflickr.com/9/8799/27752754063_a776e9c9c6_o.jpg"><img src="https://c8.staticflickr.com/9/8799/27752754063_a776e9c9c6_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/27752754063_a776e9c9c6_o.jpg"><img src="/assets/images/flickr/27752754063_a776e9c9c6_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:32.96%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1655/24429564649_ace78979be_o.jpg"><img src="https://farm2.staticflickr.com/1655/24429564649_ace78979be_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://c7.staticflickr.com/8/7551/28264776302_73343efd61_o.jpg"><img src="https://c7.staticflickr.com/8/7551/28264776302_73343efd61_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24429564649_ace78979be_o.jpg"><img src="/assets/images/flickr/24429564649_ace78979be_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/28264776302_73343efd61_o.jpg"><img src="/assets/images/flickr/28264776302_73343efd61_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1718/24429564579_f80c023aae_o.jpg"><img src="https://farm2.staticflickr.com/1718/24429564579_f80c023aae_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24429564579_f80c023aae_o.jpg"><img src="/assets/images/flickr/24429564579_f80c023aae_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:32.96%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1593/24170353213_7b438b2128_o.jpg"><img src="https://farm2.staticflickr.com/1593/24170353213_7b438b2128_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1444/24501693590_6246a84d1a_o.jpg"><img src="https://farm2.staticflickr.com/1444/24501693590_6246a84d1a_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24170353213_7b438b2128_o.jpg"><img src="/assets/images/flickr/24170353213_7b438b2128_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24501693590_6246a84d1a_o.jpg"><img src="/assets/images/flickr/24501693590_6246a84d1a_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1673/24770993216_2d1be66dbd_o.jpg"><img src="https://farm2.staticflickr.com/1673/24770993216_2d1be66dbd_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24770993216_2d1be66dbd_o.jpg"><img src="/assets/images/flickr/24770993216_2d1be66dbd_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://c5.staticflickr.com/9/8718/27751873564_66f3e845a1_o.jpg"><img src="https://c5.staticflickr.com/9/8718/27751873564_66f3e845a1_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/27751873564_66f3e845a1_o.jpg"><img src="/assets/images/flickr/27751873564_66f3e845a1_o.jpg" alt="" /></a>
 	</figure>
 	</section>
 
@@ -176,21 +176,21 @@ Then, with our bellies successfully packed with exquisite French food, we took a
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1563/24169056994_39ebbccfe1_o.jpg"><img src="https://farm2.staticflickr.com/1563/24169056994_39ebbccfe1_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24169056994_39ebbccfe1_o.jpg"><img src="/assets/images/flickr/24169056994_39ebbccfe1_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.63%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1679/24170353093_e52ffc8e25_o.jpg"><img src="https://farm2.staticflickr.com/1679/24170353093_e52ffc8e25_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1606/24501693510_cafe3ca78b_o.jpg"><img src="https://farm2.staticflickr.com/1606/24501693510_cafe3ca78b_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24170353093_e52ffc8e25_o.jpg"><img src="/assets/images/flickr/24170353093_e52ffc8e25_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24501693510_cafe3ca78b_o.jpg"><img src="/assets/images/flickr/24501693510_cafe3ca78b_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1557/24770993046_57691b6cea_o.jpg"><img src="https://farm2.staticflickr.com/1557/24770993046_57691b6cea_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24770993046_57691b6cea_o.jpg"><img src="/assets/images/flickr/24770993046_57691b6cea_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:37.05%">
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1441/24501693440_bd9ea9907a_o.jpg"><img src="https://farm2.staticflickr.com/1441/24501693440_bd9ea9907a_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis3" href="https://farm2.staticflickr.com/1582/24429564159_890cd67cee_o.jpg"><img src="https://farm2.staticflickr.com/1582/24429564159_890cd67cee_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24501693440_bd9ea9907a_o.jpg"><img src="/assets/images/flickr/24501693440_bd9ea9907a_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis3" href="/assets/images/flickr/24429564159_890cd67cee_o.jpg"><img src="/assets/images/flickr/24429564159_890cd67cee_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -206,7 +206,7 @@ All in all, this was a great day, but there was still more to come.
 	<article>
 		<div class="story-cover">
 			<a href="/photostories/paris_2016/day_2/#landing-point">
-				<img src="https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg"/>
+				<img src="/assets/images/flickr/28350563055_f206fe4590_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Two</h1>
 				</div>
@@ -220,7 +220,7 @@ All in all, this was a great day, but there was still more to come.
 	<article>
 		<div class="story-cover">
 			<a href="/photostories/paris_2016/day_4/#landing-point">
-				<img src="https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg"/>
+				<img src="/assets/images/flickr/28247109392_e1ef010455_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Four</h1>
 				</div>

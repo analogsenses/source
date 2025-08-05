@@ -102,12 +102,12 @@ I think I’m already starting to get a sense for which pieces I should link to 
 
 As a finishing touch, I’d like to leave you with a cool image. This morning there was no coffee for me while I worked on this issue. The reason for that is that I’m in my hometown of Plasencia for the weekend visiting my parents, and my dad asked me to help him out with something. Not many of you will know this, but my dad has worked in the radio business for most of his life. He founded a broadcasting company over 30 years ago and at 69, he’s still going strong.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/9/8845/18145256244_9ff08fd484_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18145256244_9ff08fd484_o.jpg"/></p>
 
 This morning he asked me to work the control room while he covered a live press event, so I’ve been working on this issue while sitting at the wheel here at the station’s HQ. I’ve always loved radio and I guess you could say it’s in my blood. I supposed that’s why I also love podcasting so much. 
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/328/18767910035_2077c54afc_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18767910035_2077c54afc_o.jpg"/></p>
 
 Who knows, maybe one day I’ll follow in my dad’s footsteps but for now, I’ll leave you with a picture of him doing what he does best. Have a wonderful weekend, and thank you for reading.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/9/8857/18581717389_171b336557_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18581717389_171b336557_o.jpg"/></p>

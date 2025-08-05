@@ -8,7 +8,7 @@ categories:
 - Apple
 - Digital Life
 description: "After yet another quarter of lackluster sales, many are questioning the iPad’s role in the future of computing."
-title-image: https://c1.staticflickr.com/1/684/32630333736_1159e8ed57_o.jpg
+title-image: /assets/images/flickr/32630333736_1159e8ed57_o.jpg
 ---
 
 Earlier this week Apple published their latest [quarterly results](http://www.macworld.com/article/3163463/macs/apples-q1-2017-records-for-the-iphone-and-services-but-the-ipad-still-struggles.html), including record revenue and iPhone sales. Meanwhile, though, iPad sales were once again down year-over-year, in a trend that’s starting to get too long to ignore.[^Future1]

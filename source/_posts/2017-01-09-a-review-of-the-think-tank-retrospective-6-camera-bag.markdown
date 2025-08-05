@@ -9,7 +9,7 @@ categories:
 - Tools & Toys
 - Photography
 external-url: http://toolsandtoys.net/reviews/a-review-of-the-think-tank-retrospective-6-camera-bag/
-title-image: https://c1.staticflickr.com/1/397/32057491632_d4b6a8b075_o.jpg
+title-image: /assets/images/flickr/32057491632_d4b6a8b075_o.jpg
 ---
 
 My last review of 2016 was about one of the best camera bags I’ve ever used: the [Think Tank Retrospective 6](http://amznlinks.com/global?user=analogsenses&us=B01D2CTJVI&uk=B01D2CTJVI&es=B01D2CTJVI). 

@@ -10,7 +10,7 @@ wordpress_id: 2
 
 **Analog Senses** is a website about the human side of technology, featuring links and articles on design, photography, Apple and the tech industry in general, as well as other interesting things currently happening on planet Earth. It is written and produced by **Álvaro Serrano**.
 
-<p class="full-width"><img class="extra-width" src="https://c4.staticflickr.com/6/5721/30584641555_6057f70584_o.jpg"/></p>
+<p class="full-width"><img class="extra-width" src="/assets/images/flickr/30584641555_6057f70584_o.jpg"/></p>
 
 I was born in 1983 in [Plasencia](http://en.wikipedia.org/wiki/Plasencia), a walled city in Western Spain, small in size but steeped in History. The time was 1:05 a.m., it was Summer and it also happened to be Tuesday. 
 

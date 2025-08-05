@@ -12,7 +12,7 @@ categories:
 - Digital Life
 ---
 
-[![The new iPad](http://farm8.staticflickr.com/7201/6964009811_2c44c9f8e0.jpg)](http://www.apple.com/ipad/)
+[![The new iPad](/assets/images/flickr/6964009811_2c44c9f8e0.jpg)](http://www.apple.com/ipad/)
 
 Not the iPad 3, or the iPad 2S, or the iPad HD. Just [the new iPad](http://apple.com/ipad/). I like that. I believe Apple has decided to change their naming convention after the small backlash they received with the iPhone 4S not being the iPhone 5. It somehow made some crazy people think that the new upgrade wasn't big enough that it was worthy of a new version number on its own. Which is nuts, because a name is just a name, and the simpler it is, the better for everyone. I always liked how, whenever there is a new iMac, it's simply "the new iMac". It may look different, but it is the same product you already know and love. It works, and I see no reason why they shouldn't do the same for all their product lines.
 

@@ -21,11 +21,11 @@ With that in mind, a few weeks ago I decided it was finally time to clean up my 
 
 For future reference, this is what Analog Senses looked like up until yesterday:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1444/24415347052_d7a7f09eff_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/24415347052_d7a7f09eff_o.jpg"/></p>
 
 And this is what it should be looking like right now:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1649/24229648930_0139885a6f_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/24229648930_0139885a6f_o.jpg"/></p>
 
 Human beings don’t usually like change, but I have to say the new design has grown on me surprisingly quickly, to the point where I can now barely look at the old one anymore. 
 
@@ -66,19 +66,19 @@ Perhaps the coolest new feature is that the site now supports full width images 
 
 Again, for future reference, this is what the widest images looked like in the previous design:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1672/23895479014_87bb1de0d9_k.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23895479014_87bb1de0d9_k.jpg"/></p>
 
 You can clearly see the margins at both sides of the image there. This is what that same image looks like now:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1607/24499017526_b14ab2d7d7_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/24499017526_b14ab2d7d7_o.jpg"/></p>
 
 Another detail about this is that images are now borderless, which can yield great results when used with the right type of image. Check this image from my [Sony E-Mount lens guide](http://www.analogsenses.com/2016/01/13/gear-guide-the-best-full-frame-lenses-for-the-sony-e-mount/), for example. This is what it looked like before:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1505/24523666665_524ac09bbb_k.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/24523666665_524ac09bbb_k.jpg"/></p>
 
 And this is what it looks like now:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1720/24442847371_917e04b2a4_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/24442847371_917e04b2a4_o.jpg"/></p>
 
 Again, night and day. I don’t know if you’ll agree, but to my eye things look much better in the new design. 
 
@@ -100,11 +100,11 @@ Regarding mobile devices, the site should look great on every iOS device, past o
 
 <p class="photo-credit">Analog Senses on the iPhone 5s.</p>
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1545/23893700874_ecb3702335_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23893700874_ecb3702335_o.jpg"/></p>
 
 <p class="photo-credit">Analog Senses on the iPhone 6/6s.</p>
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1634/24521888295_4023f3085c_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/24521888295_4023f3085c_o.jpg"/></p>
 
 <p class="photo-credit">Analog Senses on the iPhone 6 Plus/6s Plus.</p>
 
@@ -112,7 +112,7 @@ I really like how the new full-width images look on the iPhone, especially in po
 
 The site looks great on every iPhone, but I like it even better on the iPad:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1540/23893701054_38a2c7ea8f_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23893701054_38a2c7ea8f_o.jpg"/></p>
 
 <p class="photo-credit">Analog Senses on the iPad Air 2.</p>
 
@@ -120,7 +120,7 @@ This looks and behaves exactly the same as the desktop version, although interna
 
 In particular, full width images now look awesome in landscape mode on the iPad:
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1701/24496981866_1c99f5a1ca_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/24496981866_1c99f5a1ca_o.jpg"/></p>
 
 <p class="photo-credit">Analog Senses on the iPad Air 2.</p>
 
@@ -137,4 +137,4 @@ Those are all interesting and compelling features, and they’ll probably arrive
 
 Thank you for reading.
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1609/24155413599_1dcc781c71_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/24155413599_1dcc781c71_o.jpg"/></p>

@@ -6,11 +6,11 @@ layout: page
 sharing: true
 title: "Paris 2016: Day Four"
 subtitle: "Our last morning in Paris was spent walking around the bohemian neighborhood of Montmartre, including a visit to the Sacré-Coeur"
-title-image: https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg
-title-image-2: https://c2.staticflickr.com/9/8463/27751993193_a49a15f15e_o.jpg
-title-image-3: https://c5.staticflickr.com/9/8786/28085105540_c89759aac2_o.jpg
-title-image-4: https://c6.staticflickr.com/9/8634/28288991941_7f3f132edc_o.jpg
-title-image-5: https://c8.staticflickr.com/9/8221/28288980831_5a3d0dd0fb_o.jpg
+title-image: /assets/images/flickr/28247109392_e1ef010455_o.jpg
+title-image-2: /assets/images/flickr/27751993193_a49a15f15e_o.jpg
+title-image-3: /assets/images/flickr/28085105540_c89759aac2_o.jpg
+title-image-4: /assets/images/flickr/28288991941_7f3f132edc_o.jpg
+title-image-5: /assets/images/flickr/28288980831_5a3d0dd0fb_o.jpg
 description: "Our last morning in Paris was spent walking around the bohemian neighborhood of Montmartre, including a visit to the Sacré-Coeur."
 ---
 
@@ -32,34 +32,34 @@ All in all, it was the perfect way to cap a fantastic trip.
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis4" href="https://c8.staticflickr.com/9/8221/28288980831_5a3d0dd0fb_o.jpg"><img src="https://c8.staticflickr.com/9/8221/28288980831_5a3d0dd0fb_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis4" href="/assets/images/flickr/28288980831_5a3d0dd0fb_o.jpg"><img src="/assets/images/flickr/28288980831_5a3d0dd0fb_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:34.25%">
-			<a class="fancybox" rel="galleryParis4" href="https://c2.staticflickr.com/9/8463/27751993193_a49a15f15e_o.jpg"><img src="https://c2.staticflickr.com/9/8463/27751993193_a49a15f15e_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1447/24699557101_b55aa172e5_o.jpg"><img src="https://farm2.staticflickr.com/1447/24699557101_b55aa172e5_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="/assets/images/flickr/27751993193_a49a15f15e_o.jpg"><img src="/assets/images/flickr/27751993193_a49a15f15e_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="/assets/images/flickr/24699557101_b55aa172e5_o.jpg"><img src="/assets/images/flickr/24699557101_b55aa172e5_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:35.5%">
-			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1524/24425014809_35ed90cae9_o.jpg"><img src="https://farm2.staticflickr.com/1524/24425014809_35ed90cae9_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1537/24766832026_7d0d2f9afc_o.jpg"><img src="https://farm2.staticflickr.com/1537/24766832026_7d0d2f9afc_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="/assets/images/flickr/24425014809_35ed90cae9_o.jpg"><img src="/assets/images/flickr/24425014809_35ed90cae9_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="/assets/images/flickr/24766832026_7d0d2f9afc_o.jpg"><img src="/assets/images/flickr/24766832026_7d0d2f9afc_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis4" href="https://c5.staticflickr.com/9/8786/28085105540_c89759aac2_o.jpg"><img src="https://c5.staticflickr.com/9/8786/28085105540_c89759aac2_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis4" href="/assets/images/flickr/28085105540_c89759aac2_o.jpg"><img src="/assets/images/flickr/28085105540_c89759aac2_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:39.59%">
-			<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1475/24425014749_0d81b2c167_o.jpg"><img src="https://farm2.staticflickr.com/1475/24425014749_0d81b2c167_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="galleryParis4" href="https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg"><img src="https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="/assets/images/flickr/24425014749_0d81b2c167_o.jpg"><img src="/assets/images/flickr/24425014749_0d81b2c167_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="galleryParis4" href="/assets/images/flickr/28247109392_e1ef010455_o.jpg"><img src="/assets/images/flickr/28247109392_e1ef010455_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis4" href="https://farm2.staticflickr.com/1560/24674856852_6d44d9af2a_o.jpg"><img src="https://farm2.staticflickr.com/1560/24674856852_6d44d9af2a_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis4" href="/assets/images/flickr/24674856852_6d44d9af2a_o.jpg"><img src="/assets/images/flickr/24674856852_6d44d9af2a_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryParis4" href="https://c6.staticflickr.com/9/8634/28288991941_7f3f132edc_o.jpg"><img src="https://c6.staticflickr.com/9/8634/28288991941_7f3f132edc_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryParis4" href="/assets/images/flickr/28288991941_7f3f132edc_o.jpg"><img src="/assets/images/flickr/28288991941_7f3f132edc_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -88,7 +88,7 @@ P.S. If you enjoyed this photo story, please take a minute to share it on your p
 	<article>
 		<div class="story-cover">
 			<a href="/photostories/paris_2016/day_3/#landing-point">
-				<img src="https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg"/>
+				<img src="/assets/images/flickr/28068244410_884517187c_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Three</h1>
 				</div>
@@ -102,7 +102,7 @@ P.S. If you enjoyed this photo story, please take a minute to share it on your p
 	<article>
 		<div class="story-cover">
 			<a href="/photostories/paris_2016/day_1/#landing-point">
-				<img src="https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg"/>
+				<img src="/assets/images/flickr/28068227450_aaf819ef33_o.jpg"/>
 				<div class="story-header">
 					<h1>Day One</h1>
 				</div>

@@ -8,7 +8,7 @@ categories:
 - Whisky
 - Guides
 description: "I've always wanted to venture into the world of single malt Scotch whisky. Here's how I plan to do it."
-title-image: https://c6.staticflickr.com/9/8648/27733340013_a06263cbb6_o.jpg
+title-image: /assets/images/flickr/27733340013_a06263cbb6_o.jpg
 ---
 
 It is a fact of life that over the years, as we mature and soak in more of the world, our tastes and preferences evolve with us. It is also a fact that certain things require some preparation before they can be enjoyed. You can't just jump ahead and try them; you must be patient and trust that one day, when you're ready, they will find you. Alcohol is one such thing, and it's a journey that lasts a lifetime.
@@ -41,7 +41,7 @@ The world of single malt Scotch whisky is deeply fascinating, full of heritage a
 
 _DISCLAIMER: Although this section is meant only as a starting point, it should be readily apparent that I'm by no means an expert on the subject. If you spot any inaccuracies, omissions or glaring mistakes, please let me know._
 
-<p class="extra-width"><img class="extra-width" src="https://farm4.staticflickr.com/3954/15485657672_77a68298cc_o.jpg"/></p>
+<p class="extra-width"><img class="extra-width" src="/assets/images/flickr/15485657672_77a68298cc_o.jpg"/></p>
 
 Whisky is a distilled alcoholic beverage made from fermented grain mash, usually malted barley, although other grains may be used. For a whisky to be labeled as _Scotch_ whisky it must be produced entirely in Scotland and aged in oak casks for a minimum of 3 years prior to bottling. Finally, a _single malt_ Scotch whisky must be made only from water and malted barley, _and_ must be produced in a single distillery in Scotland.
 
@@ -59,7 +59,7 @@ Although no two single malts are exactly alike, some similarities can be found b
 
 [^3]: Image source: [Wikipedia](http://en.wikipedia.org/wiki/File:Scotch_regions.svg).
 
-![Scotch Regions](https://farm6.staticflickr.com/5611/15473726781_6a879a5c5a_c.jpg =400x)
+![Scotch Regions](/assets/images/flickr/15473726781_6a879a5c5a_c.jpg =400x)
 
 * **Highland** is the largest distilling region, producing a wide range of whiskies which are usually very robust and with a sweet finish, though not as balanced as the Speyside single malts.
 
@@ -103,7 +103,7 @@ Unfortunately, The Laddie Ten is very difficult to procure these days. According
 
 A second recommendation was the popular [Glenfiddich 12 Year Old](http://www.allthingswhisky.com/?p=1030). This Speyside Scotch whisky is actually the world's best selling single malt, and is recommended by many as an ideal starter whisky. Sounds good to me. In fact, I've already purchased my first bottle and so far we seem to be getting along pretty well. 
 
-<p class="extra-width"><img class="extra-width" src="https://farm3.staticflickr.com/2948/15462910266_e2828b7b63_o.jpg"/></p>
+<p class="extra-width"><img class="extra-width" src="/assets/images/flickr/15462910266_e2828b7b63_o.jpg"/></p>
 
 But that was only the beginning, of course. After a few more hours of research, this is what the first few stages of my travel itinerary looked like:
 
@@ -138,4 +138,4 @@ In the meantime, stay tuned for my Glenfiddich 12 Year Old review, which should 
 
 Until then, happy tasting!
 
-![Glenfiddich 12](https://farm6.staticflickr.com/5603/15299367188_19b5d78b22_o.jpg)
+![Glenfiddich 12](/assets/images/flickr/15299367188_19b5d78b22_o.jpg)

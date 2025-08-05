@@ -20,7 +20,7 @@ This year the story was no different, and the keynote went exactly as expected. 
 Of course, not every announcement was equally important, nor received with the same enthusiasm by the developer crowd that filled Moscone West, but that is how these things usually work. Let’s take a closer look at each of the main announcements and see what they promise to bring to the table.
 
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/518/18643946882_81f38b0c7a_o.jpg" title="OS X El Capitan"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18643946882_81f38b0c7a_o.jpg" title="OS X El Capitan"/></p>
 
 ##OS X El Capitan
 
@@ -37,7 +37,7 @@ The UX improvements were admittedly less impressive, but they also include some 
 These are all nice features that will make using a Mac every day easier and more pleasant but the truth is, other than Metal, none of them really strike me as life-changing, to be honest. The good news is, system requirements for El Capitan haven’t changed, so if your Mac supports Yosemite, you should be able to upgrade when the public version is released in the fall. And since it’s a free upgrade that actually helps older Macs run better, there’s literally no good reason not to upgrade this time around.
 
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/313/18460914460_f336aaf37b_o.jpg" title="iOS 9"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18460914460_f336aaf37b_o.jpg" title="iOS 9"/></p>
 
 ##iOS 9
 
@@ -47,7 +47,7 @@ This is also understandable. There’s really not much low-hanging fruit left in
 
 Besides some performance and security enhancements, iOS 9 also includes some new UX features and even new apps. But the real stars here were the new multitasking features for the iPad. These features include three new modes: Split View, Slide Over and Picture in Picture.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/255/18460856588_16722e2a5c_o.jpg" title="Split View for iPad in iOS 9"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18460856588_16722e2a5c_o.jpg" title="Split View for iPad in iOS 9"/></p>
 
 Split View is exactly what it sounds like: it is now possible to have two apps side by side and use them simultaneously, much like the new fullscreen mode in El Capitan. Alas, this feature is only available on the iPad Air 2, which is currently  the only iPad with 2GB of RAM.
 
@@ -71,7 +71,7 @@ News is a new app built into iOS 9 that is very similar to Flipboard in nature, 
 Apple is yet to release a News Format guide to creating content for the new app, so it’s clearly still early to know how well the new publishing service will work. There are many unanswered questions for readers and publishers, but it definitely looks promising. Personally, I’m really excited about it and I’ve already signed up to become a publisher. If everything goes smoothly, you’ll soon be able to follow Analog Senses in the News app if you so desire.
 
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/532/18027959153_5dcd2bea81_o.jpg" title="watchOS 2"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18027959153_5dcd2bea81_o.jpg" title="watchOS 2"/></p>
 
 ##watchOS 2
 
@@ -99,7 +99,7 @@ Other than that, the new WatchKit will allow developers to use Bluetooth to comm
 All in all, the native SDK for the Apple Watch will provide many interesting new opportunities for 3rd-party developers, and that is great news for everyone.
 
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/512/18025943084_a6de79ed38_o.jpg" title="Apple Music"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18025943084_a6de79ed38_o.jpg" title="Apple Music"/></p>
 
 ##Apple Music
 

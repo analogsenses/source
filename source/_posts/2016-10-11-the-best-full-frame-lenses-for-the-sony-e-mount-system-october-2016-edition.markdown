@@ -7,7 +7,7 @@ sharing: true
 categories: 
 - Photography
 external-url: /2016/01/13/gear-guide-the-best-full-frame-lenses-for-the-sony-e-mount/#landing-point
-title-image: https://c1.staticflickr.com/9/8618/28316864776_15dd41861d_o.jpg
+title-image: /assets/images/flickr/28316864776_15dd41861d_o.jpg
 ---
 
 I’ve just updated my guide to the best Full Frame E-mount lenses to account for the state of the system as of October 2016, including the — admittedly few — announcements we saw at Photokina. 

@@ -23,4 +23,4 @@ Great post from Marco, explaining in great detail how his own back problems moti
 
 
 
-[![The Coke-can standing desk on its last day](http://farm4.static.flickr.com/3327/3234209861_c7f34e2e8e.jpg)](http://www.flickr.com/photos/marcoarment/3234209861/)
+[![The Coke-can standing desk on its last day](/assets/images/flickr/3234209861_c7f34e2e8e.jpg)](http://www.flickr.com/photos/marcoarment/3234209861/)

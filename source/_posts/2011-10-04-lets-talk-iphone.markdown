@@ -14,7 +14,7 @@ categories:
 
 It's that time of the year again. There's an Apple keynote today, which means that every writer covering Apple has been busy over the last few weeks, making predictions and analyses about what we're likely going to see. I don't normally engage in that game, but this year I will be following the keynote with special interest, so I thought I would make an exception and join in the fun.
 
-[![Apple Invite - Let's Talk iPhone](http://farm7.static.flickr.com/6225/6210559257_f1509ace0f.jpg)](http://www.flickr.com/photos/analogsenses/6210559257/)
+[![Apple Invite - Let's Talk iPhone](/assets/images/flickr/6210559257_f1509ace0f.jpg)](http://www.flickr.com/photos/analogsenses/6210559257/)
 
 Here it goes. My first prediction is this: by the end of the day, my wallet will be thinner and lighter. A few hundred bucks lighter, to be precise.
 

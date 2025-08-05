@@ -8,7 +8,7 @@ categories:
 - Digital Life
 description: "I think you’re nice"
 subtitle: "I think you’re nice"
-title-image: https://live.staticflickr.com/65535/53173331375_294cde14ab_6k.jpg
+title-image: /assets/images/flickr/53173331375_294cde14ab_6k.jpg
 ---
 
 When was the last time you said, “*I love you*”, and truly meant it?

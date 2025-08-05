@@ -20,7 +20,7 @@ Agreed. Backpacks are almost always the most comfortable and convenient bags to 
 
 In his piece, Ben also called upon readers to share their own criteria for choosing the right bag for a trip, so here are my two cents on the matter.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8702/17067920901_47706c6e36_o.jpg" title="The GORUCK GR2 laid flat on a hotel bed"></p>
+<p class="extra-width"><img src="/assets/images/flickr/17067920901_47706c6e36_o.jpg" title="The GORUCK GR2 laid flat on a hotel bed"></p>
 
 
 ##General rules
@@ -56,6 +56,6 @@ That pretty much covers every type of trip I usually take. These rules are very 
 
 In any case, these are flexible rules and nothing is set in stone. For example, if a short trip requires more formal clothing I will probably choose to go with a bigger bag. The key is to play with them a little bit, make them work for you and your particular trip, and find the right balance.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7672/16446563124_940532453f_o.jpg" title="Captain Barbossa - Guidelines"></p>
+<p class="extra-width"><img src="/assets/images/flickr/16446563124_940532453f_o.jpg" title="Captain Barbossa - Guidelines"></p>
 
 Finally and above all, remember that with packing, as with many things in life, practice makes perfect. So if you really want to get better at it, you’re just going to have to keep traveling.

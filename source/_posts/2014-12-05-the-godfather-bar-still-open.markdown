@@ -8,7 +8,7 @@ categories:
 external-url: http://www.messynessychic.com/2014/12/05/the-godfather-bar-still-open/
 ---
 
-<p class="extra-width"><img src="https://farm3.staticflickr.com/2856/12408754085_53449051bd_h.jpg" alt="Bar Vitelli en Savoca (famoso por una escena de &quot;El Padrino&quot;)"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/12408754085_53449051bd_h.jpg" alt="Bar Vitelli en Savoca (famoso por una escena de &quot;El Padrino&quot;)"/></p>
 
 <p class="photo-credit"> Photo Credit: <a href="https://www.flickr.com/photos/ramoncutanda/12408754085">Ramón Cutanda López</a></p>
 

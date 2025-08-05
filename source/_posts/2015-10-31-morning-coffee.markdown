@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Welcome to another issue of Morning Coffee. I hope you all got you new Apple TVs already, and I also hope you _won’t_ stay the whole weekend at home sitting in front of it like mindless drones.

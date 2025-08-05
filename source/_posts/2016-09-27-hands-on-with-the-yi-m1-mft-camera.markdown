@@ -8,7 +8,7 @@ categories:
 - Photokina
 - Photography
 description: "The first entry from Yi Technology in the Micro Four Thirds arena packs some serious tech in a very affordable body, with some clever tricks up its sleeve."
-title-image: https://c6.staticflickr.com/9/8754/29341283413_2b288474eb_o.jpg
+title-image: /assets/images/flickr/29341283413_2b288474eb_o.jpg
 ---
 
 Last week at Photokina, there was one announcement that surprised pretty much everyone. Chinese company Yi Technology — the camera branch of smartphone manufacturer Xiaomi — just became a new Micro Four Thirds player by announcing the [Yi M1](https://www.amazon.com/YI-Mirrorless-Digital-Camera-42-5mm/dp/B01CW4CNKG/?tag=analogsens-20), a small camera with clean lines and a minimalist design, a classic look very reminiscent of Leica cameras.
@@ -18,16 +18,16 @@ The Yi M1 comes in your choice of silver — _Ice Silver_, actually — or _Stor
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="YiM1-1" href="https://c7.staticflickr.com/9/8187/29672622230_bd22531181_o.jpg"><img src="https://c7.staticflickr.com/9/8187/29672622230_bd22531181_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="YiM1-1" href="/assets/images/flickr/29672622230_bd22531181_o.jpg"><img src="/assets/images/flickr/29672622230_bd22531181_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:35.22%">
-			<a class="fancybox" rel="YiM1-1" href="https://c2.staticflickr.com/9/8076/29966280065_cc4986c969_o.jpg"><img src="https://c2.staticflickr.com/9/8076/29966280065_cc4986c969_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="YiM1-1" href="https://c7.staticflickr.com/9/8397/29852271782_30bdc699b0_o.jpg"><img src="https://c7.staticflickr.com/9/8397/29852271782_30bdc699b0_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-1" href="/assets/images/flickr/29966280065_cc4986c969_o.jpg"><img src="/assets/images/flickr/29966280065_cc4986c969_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-1" href="/assets/images/flickr/29852271782_30bdc699b0_o.jpg"><img src="/assets/images/flickr/29852271782_30bdc699b0_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="YiM1-1" href="https://c6.staticflickr.com/9/8135/29339651693_9e30947b02_o.jpg"><img src="https://c6.staticflickr.com/9/8135/29339651693_9e30947b02_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="YiM1-1" href="/assets/images/flickr/29339651693_9e30947b02_o.jpg"><img src="/assets/images/flickr/29339651693_9e30947b02_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -41,16 +41,16 @@ On the ergonomics front, the Yi M1 is very light, weighing only 280 g. The grip 
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="YiM1-2" href="https://c7.staticflickr.com/6/5512/29932213686_63c0dbc5b2_o.jpg"><img src="https://c7.staticflickr.com/6/5512/29932213686_63c0dbc5b2_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="YiM1-2" href="/assets/images/flickr/29932213686_63c0dbc5b2_o.jpg"><img src="/assets/images/flickr/29932213686_63c0dbc5b2_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:37.12%">
-			<a class="fancybox" rel="YiM1-2" href="https://c3.staticflickr.com/9/8116/29932291386_e86f4aa55f_o.jpg"><img src="https://c3.staticflickr.com/9/8116/29932291386_e86f4aa55f_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="YiM1-2" href="https://c7.staticflickr.com/6/5259/29672705070_f9980fc6ac_o.jpg"><img src="https://c7.staticflickr.com/6/5259/29672705070_f9980fc6ac_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-2" href="/assets/images/flickr/29932291386_e86f4aa55f_o.jpg"><img src="/assets/images/flickr/29932291386_e86f4aa55f_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-2" href="/assets/images/flickr/29672705070_f9980fc6ac_o.jpg"><img src="/assets/images/flickr/29672705070_f9980fc6ac_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="YiM1-2" href="https://c6.staticflickr.com/9/8072/29966141805_5a7ae3d2e6_o.jpg"><img src="https://c6.staticflickr.com/9/8072/29966141805_5a7ae3d2e6_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="YiM1-2" href="/assets/images/flickr/29966141805_5a7ae3d2e6_o.jpg"><img src="/assets/images/flickr/29966141805_5a7ae3d2e6_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -59,12 +59,12 @@ The Yi M1 also has a nice touchscreen that responds very well to touch, and the 
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33.18%">
-			<a class="fancybox" rel="YiM1-3" href="https://c5.staticflickr.com/8/7696/29339014044_e9dfc09374_o.jpg"><img src="https://c5.staticflickr.com/8/7696/29339014044_e9dfc09374_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="YiM1-3" href="https://c1.staticflickr.com/9/8072/29932219056_10e4ba5336_o.jpg"><img src="https://c1.staticflickr.com/9/8072/29932219056_10e4ba5336_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-3" href="/assets/images/flickr/29339014044_e9dfc09374_o.jpg"><img src="/assets/images/flickr/29339014044_e9dfc09374_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-3" href="/assets/images/flickr/29932219056_10e4ba5336_o.jpg"><img src="/assets/images/flickr/29932219056_10e4ba5336_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="YiM1-3" href="https://c2.staticflickr.com/9/8598/29883268641_3d2942fa4d_o.jpg"><img src="https://c2.staticflickr.com/9/8598/29883268641_3d2942fa4d_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="YiM1-3" href="/assets/images/flickr/29883268641_3d2942fa4d_o.jpg"><img src="/assets/images/flickr/29883268641_3d2942fa4d_o.jpg" alt="" /></a>
 		<p class="caption">You can change which parameter is operated by the control dial just by tapping one of the options displayed on the screen.</p>
 	</figure>
 </section>
@@ -75,16 +75,16 @@ All in all, this is a decently made camera with basic dedicated hardware control
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="YiM1-4" href="https://c1.staticflickr.com/9/8704/29338918264_cd4ded3ace_o.jpg"><img src="https://c1.staticflickr.com/9/8704/29338918264_cd4ded3ace_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="YiM1-4" href="/assets/images/flickr/29338918264_cd4ded3ace_o.jpg"><img src="/assets/images/flickr/29338918264_cd4ded3ace_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:37.12%">
-			<a class="fancybox" rel="YiM1-4" href="https://c4.staticflickr.com/9/8094/29339767843_cf56524d55_o.jpg"><img src="https://c4.staticflickr.com/9/8094/29339767843_cf56524d55_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="YiM1-4" href="https://c7.staticflickr.com/9/8081/29672663510_d5873f4aca_o.jpg"><img src="https://c7.staticflickr.com/9/8081/29672663510_d5873f4aca_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-4" href="/assets/images/flickr/29339767843_cf56524d55_o.jpg"><img src="/assets/images/flickr/29339767843_cf56524d55_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-4" href="/assets/images/flickr/29672663510_d5873f4aca_o.jpg"><img src="/assets/images/flickr/29672663510_d5873f4aca_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="YiM1-4" href="https://c5.staticflickr.com/9/8545/29339043204_5db4f6c49f_o.jpg"><img src="https://c5.staticflickr.com/9/8545/29339043204_5db4f6c49f_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="YiM1-4" href="/assets/images/flickr/29339043204_5db4f6c49f_o.jpg"><img src="/assets/images/flickr/29339043204_5db4f6c49f_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -106,16 +106,16 @@ That being said, Yi also announced two new lenses of their own: a typical 12-40m
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="YiM1-5" href="https://c6.staticflickr.com/6/5252/29339693773_b7f3fa8231_o.jpg"><img src="https://c6.staticflickr.com/6/5252/29339693773_b7f3fa8231_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="YiM1-5" href="/assets/images/flickr/29339693773_b7f3fa8231_o.jpg"><img src="/assets/images/flickr/29339693773_b7f3fa8231_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:37.12%">
-			<a class="fancybox" rel="YiM1-5" href="https://c8.staticflickr.com/9/8062/29339680663_3511c2fdca_o.jpg"><img src="https://c8.staticflickr.com/9/8062/29339680663_3511c2fdca_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="YiM1-5" href="https://c1.staticflickr.com/9/8752/29338929544_2e08e69380_o.jpg"><img src="https://c1.staticflickr.com/9/8752/29338929544_2e08e69380_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-5" href="/assets/images/flickr/29339680663_3511c2fdca_o.jpg"><img src="/assets/images/flickr/29339680663_3511c2fdca_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-5" href="/assets/images/flickr/29338929544_2e08e69380_o.jpg"><img src="/assets/images/flickr/29338929544_2e08e69380_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="YiM1-5" href="https://c2.staticflickr.com/6/5706/29966158305_b0fcbab132_o.jpg"><img src="https://c2.staticflickr.com/6/5706/29966158305_b0fcbab132_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="YiM1-5" href="/assets/images/flickr/29966158305_b0fcbab132_o.jpg"><img src="/assets/images/flickr/29966158305_b0fcbab132_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -138,8 +138,8 @@ What was most surprising to me is the fact that the camera doesn’t support man
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:37.12%">
-			<a class="fancybox" rel="YiM1-6" href="https://c5.staticflickr.com/9/8506/29672582220_da3d5fa213_o.jpg"><img src="https://c5.staticflickr.com/9/8506/29672582220_da3d5fa213_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="YiM1-6" href="https://c6.staticflickr.com/6/5263/29883173661_eeaea94ef4_o.jpg"><img src="https://c6.staticflickr.com/6/5263/29883173661_eeaea94ef4_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-6" href="/assets/images/flickr/29672582220_da3d5fa213_o.jpg"><img src="/assets/images/flickr/29672582220_da3d5fa213_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-6" href="/assets/images/flickr/29883173661_eeaea94ef4_o.jpg"><img src="/assets/images/flickr/29883173661_eeaea94ef4_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
@@ -153,12 +153,12 @@ Flicking a switch on the lens barrel, you get to take macro pictures, which adds
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="YiM1-7" href="https://c1.staticflickr.com/9/8271/29338925784_13b5d6656c_o.jpg"><img src="https://c1.staticflickr.com/9/8271/29338925784_13b5d6656c_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="YiM1-7" href="/assets/images/flickr/29338925784_13b5d6656c_o.jpg"><img src="/assets/images/flickr/29338925784_13b5d6656c_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:37.12%">
-			<a class="fancybox" rel="YiM1-7" href="https://c3.staticflickr.com/9/8238/29672698330_003093d7a8_o.jpg"><img src="https://c3.staticflickr.com/9/8238/29672698330_003093d7a8_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="YiM1-7" href="https://c2.staticflickr.com/6/5789/29966317785_7a3c43e08f_o.jpg"><img src="https://c2.staticflickr.com/6/5789/29966317785_7a3c43e08f_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-7" href="/assets/images/flickr/29672698330_003093d7a8_o.jpg"><img src="/assets/images/flickr/29672698330_003093d7a8_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="YiM1-7" href="/assets/images/flickr/29966317785_7a3c43e08f_o.jpg"><img src="/assets/images/flickr/29966317785_7a3c43e08f_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -172,7 +172,7 @@ However, after playing with it for a while, it strikes me as a very compelling f
 This camera packs some serious punch, and it shouldn’t be underestimated. The entry level to the Micro Four Thirds system just got a heck of a lot better, and both Olympus and Panasonic will have to raise the bar accordingly. Imagine what this company could do two or three years from now, once they’ve had time to iron out the kinks, if they decide to pursue the higher end of the market.
 
 <figure class="full-width">
-<img src="https://c5.staticflickr.com/6/5328/29852208452_aa7ca39c74_o.jpg"/>
+<img src="/assets/images/flickr/29852208452_aa7ca39c74_o.jpg"/>
 </figure>
 
 During my visit to their stand, one of the Yi representatives I spoke with noticed my [Sony a7 II camera](https://www.amazon.com/Sony-Alpha-Mirrorless-Digital-Camera/dp/B00PX8CHO6/?tag=analogsens-20), then looked me in the eye very seriously and said: “_your camera is for work. Our camera is for life_”. They just may be onto something here. 

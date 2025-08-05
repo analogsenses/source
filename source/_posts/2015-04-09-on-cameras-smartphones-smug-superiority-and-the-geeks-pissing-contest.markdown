@@ -32,7 +32,7 @@ I understand this completely, as I felt _exactly_ the same way until just a year
 
 And yet, when I look at [those pictures](https://www.flickr.com/photos/analogsenses/sets/72157628609300191/) now I’m perfectly happy with them, and I recall the great moments I lived in those trips just fine. 
 
-<img src="https://farm8.staticflickr.com/7650/16882648757_ca91212520_o.jpg" title="Copacabana Beach, Rio de Janeiro"/>
+<img src="/assets/images/flickr/16882648757_ca91212520_o.jpg" title="Copacabana Beach, Rio de Janeiro"/>
 
 <p class="photo-credit">Copacabana Beach, Rio de Janeiro, Brazil. January 8, 2012. Picture taken with an iPhone 4S</p>
 
@@ -40,7 +40,7 @@ That said, if I were to take those trips today, would I take my iPhone 5S — a 
 
 It’s not that the iPhone camera isn’t good enough for documenting memories — it actually excels at that. I’m perfectly happy to capture moments with my phone, and in fact I do it every day. In a pinch or when an unexpected photo opportunity arises, a smartphone will do but when there’s time to think, compose and create an image, I rely on my camera.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7622/17090045725_2e5d3b566d_o.jpg" alt="Friends you haven’t met yet"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/17090045725_2e5d3b566d_o.jpg" alt="Friends you haven’t met yet"/></p>
 
 <p class="photo-credit">“Don’t forget that strangers are just friends you haven’t met yet”. Porto Alegre, Brazil. December 27, 2011. Picture taken with an iPhone 4S.</p>
 
@@ -68,7 +68,7 @@ Granted, if you look at some 30-year-old prints today, most of them will look li
 
 Photography reached the pinnacle of optical performance sometime in the late 1980’s or early 1990’s and the industry has mostly been reinventing itself since the switch to digital. Even today we’re still playing catch-up to what medium format film has been able to do for over 40 years. Heck, some of the best pictures I’ve ever taken were shot with [a 34-year-old, fully manual 35mm film camera](/2015/02/19/adventures-in-film-photography-the-canon-ae-1-program/), and I wouldn’t trade it for a smartphone in a million years.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8679/16396160970_27f47cd225_o.jpg" alt="Debod Temple, Madrid"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/16396160970_27f47cd225_o.jpg" alt="Debod Temple, Madrid"/></p>
 
 <p class="photo-credit">Debod Temple, Madrid, Spain. February 2015. Picture taken with a Canon AE-1 Program 35mm film SLR.</p>
 

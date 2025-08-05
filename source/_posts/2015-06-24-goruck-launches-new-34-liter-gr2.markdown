@@ -16,9 +16,9 @@ That said, I don’t think this is about reducing weight, but increasing comfort
 
 Here’s a couple of pictures from [my review of the original GR2](http://toolsandtoys.net/reviews/the-goruck-gr2/) over at _Tools & Toys_, showing the ruck on me and my girlfriend for reference:
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/421/18500612853_bece9111e7_o.jpg" title="GORUCK GR2 review over at Tools & Toys"></p>
+<p class="extra-width"><img src="/assets/images/flickr/18500612853_bece9111e7_o.jpg" title="GORUCK GR2 review over at Tools & Toys"></p>
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/374/18933885638_4fd0a3cb62_o.jpg" title="GORUCK GR2 review over at Tools & Toys"></p>
+<p class="extra-width"><img src="/assets/images/flickr/18933885638_4fd0a3cb62_o.jpg" title="GORUCK GR2 review over at Tools & Toys"></p>
 
 <p class="photo-credit">Top: original 40-liter GR2 on my back (5'7”). Bottom: original 40-liter GR2 on my girlfriend's back (5'5”).</p>
 

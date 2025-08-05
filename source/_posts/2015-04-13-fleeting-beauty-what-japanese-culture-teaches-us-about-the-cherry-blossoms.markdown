@@ -18,6 +18,6 @@ Every year around April, when the cherry trees blossom in a spectacular coordina
 
 For a few precious days — the full bloom rarely lasts more than three days — we are reminded of how beautiful our planet can be, and how fleeting beautiful things are.
 
-<p class="extra-width"><img src="https://farm9.staticflickr.com/8811/16927413177_834a89ef48_o.jpg" title="“A Flood of Cherry Blossoms”, by Miquel González Page"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/16927413177_834a89ef48_o.jpg" title="“A Flood of Cherry Blossoms”, by Miquel González Page"/></p>
 
 <p class="photo-credit">Photo credit: “A Flood of Cherry Blossoms”, by <a href="https://www.flickr.com/photos/miquelgp/14008187943">Miquel González Page</a>.</p>

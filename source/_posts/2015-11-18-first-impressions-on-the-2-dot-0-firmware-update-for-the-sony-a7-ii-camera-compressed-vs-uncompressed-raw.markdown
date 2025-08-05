@@ -19,27 +19,27 @@ I still haven’t had much time to test the new firmware, other than to verify t
 
 With that in mind, I set up a quick test scene to see if I could find a similar difference here myself:
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5770/23130692371_ad0e855e82_h.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23130692371_ad0e855e82_h.jpg"/></p>
 
 As you can see, there’s quite a bit of underexposure going on here, so this should work nicely. Here’s the same image with the exposure cranked up by two full stops.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5669/23093138186_4e15e377e2_h.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23093138186_4e15e377e2_h.jpg"/></p>
 
 Now things are starting to look better. Here’s a 100% crop of the central area (2,000 pixels wide, image optimized for Retina displays):
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/701/23105266042_4d8e64f64a_h.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23105266042_4d8e64f64a_h.jpg"/></p>
 
 The JPEG export above was created from the regular compressed RAW, with my usual settings for Analog Senses. For comparison, here’s a similar crop exported from an uncompressed RAW:
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5806/22726897819_6e8859a823_h.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/22726897819_6e8859a823_h.jpg"/></p>
 
 Can you see any differences? I can’t. Now let’s see what happens if we raise exposure by three full stops. Again, first an image created from the regular compressed RAW:
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5822/22727271209_4084791f35_h.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/22727271209_4084791f35_h.jpg"/></p>
 
 And now a similar crop exported from an uncompressed RAW:
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/644/23119564695_dc5a3ffb60_h.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23119564695_dc5a3ffb60_h.jpg"/></p>
 
 See anything yet? Me neither. 
 
@@ -78,7 +78,7 @@ If, for example, I didn’t already own the [Zeiss FE 24-70mm f/4](http://amzn.t
 
 Similarly, I’ve been looking to buy a nice 35mm f/1.4 lens for a while, and until today my only realistic choice was the excellent but expensive [Zeiss 35mm f/1.4 Distagon](http://amzn.to/1QN77Xq). That lens comes in at a whopping $1,598, which is too steep a price for me to justify it right now. However, the superb [Sigma 35mm f/1.4 Art](http://amzn.to/1QNdhqC) lens “only” costs $899, which makes it a much more reasonable alternative. I could even buy the newest version of the [Metabones EF adapter](http://amzn.to/1Ofq2YE) together with the Sigma lens and I would still spend about $300 lens than with the Zeiss lens alone. And as an added bonus, I could also use the Sigma lens with my Canon EOS 3 film camera.
 
-<img src="https://farm6.staticflickr.com/5816/22702694087_1997be8550_b.jpg"/>
+<img src="/assets/images/flickr/22702694087_1997be8550_b.jpg"/>
 
 <p class="photo-credit">The Sigma 35mm f/1.4 Art lens. Photo credit: <a href="https://commons.wikimedia.org/wiki/File:Sigma_35mm_f1.4_DG_Art,_Barrel_20141016_1.jpg">Wikimedia Commons</a>.</p>
 

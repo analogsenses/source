@@ -19,7 +19,7 @@ There's a marked tendency in the world of product reviews to praise the new and 
 
 These are good times for photography enthusiasts. We've had a few exceptionally good years in a row now, with lots of fantastic releases from all companies. 2013 in particular was a remarkable year, with several product releases in the second half of the year that continue to lead their respective categories, even in the face of newer products from their competitors. 
 
-<p class="extra-width"><a href="https://www.flickr.com/photos/kentkc/14149050797" title="Olympus OM-D E-M1 by Kent, on Flickr"><img src="https://farm3.staticflickr.com/2919/14149050797_f53b24a482_h.jpg" alt="Olympus OM-D E-M1"></a></p>
+<p class="extra-width"><a href="https://www.flickr.com/photos/kentkc/14149050797" title="Olympus OM-D E-M1 by Kent, on Flickr"><img src="/assets/images/flickr/14149050797_f53b24a482_h.jpg" alt="Olympus OM-D E-M1"></a></p>
 
 <p class="photo-credit">The Olympus OM-D E-M1. Photo credit: <a href="https://www.flickr.com/photos/kentkc/">Kent</a></p>
 
@@ -27,7 +27,7 @@ Such is the case of the excellent [Olympus OM-D E-M1 Micro Four Thirds camera](h
 
 Today, the E-M1 may no longer be the flashy object of desire it was a year ago, but it definitely remains one of the strongest performers in its category. The [Panasonic Lumix DMC-GH4](http://www.amazon.com/gp/product/B00I9GYG8O/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00I9GYG8O&linkCode=as2&tag=analogsens-20&linkId=34VFQSSI2INQ46M5) and the [Fujifilm X-T1](http://www.amazon.com/gp/product/B00HYAL88W/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HYAL88W&linkCode=as2&tag=analogsens-20&linkId=OG2CFONST4IJI45E) — both released in 2014 — are currently its two main competitors. Both cameras received Editor's Choice Awards from The Phoblographer, with the GH4 emerging as the winner in today's list. Is the GH4, then, simply and obviously _better_ than the year-old E-M1?
 
-<p class="extra-width"><a href="https://www.flickr.com/photos/fresh_soup/14296557895" title="Panasonic GH4 by Will Solis, on Flickr"><img src="https://farm4.staticflickr.com/3829/14296557895_1dec490df5_h.jpg" alt="Panasonic GH4"></a></p>
+<p class="extra-width"><a href="https://www.flickr.com/photos/fresh_soup/14296557895" title="Panasonic GH4 by Will Solis, on Flickr"><img src="/assets/images/flickr/14296557895_1dec490df5_h.jpg" alt="Panasonic GH4"></a></p>
 
 <p class="photo-credit">The Panasonic GH4. Photo credit: <a href="https://www.flickr.com/photos/fresh_soup/">Will Solis</a></p>
 
@@ -41,7 +41,7 @@ The truth is, it's not so simple. Like the E-M1, both the GH4 and the X-T1 are a
 
 [^camera1]: The recently announced Sony A7 Mark II introduces 5-axis image stabilization for the first time in a full-frame camera. However, it hasn't been tested yet so we still don't know how it compares to the Olympus technology.
 
-<p class="extra-width"><a href="https://www.flickr.com/photos/k100dave/13441006743" title="X-T1 by David Camerer, on Flickr"><img src="https://farm6.staticflickr.com/5322/13441006743_1df8e32b3f_h.jpg" alt="X-T1"></a></p>
+<p class="extra-width"><a href="https://www.flickr.com/photos/k100dave/13441006743" title="X-T1 by David Camerer, on Flickr"><img src="/assets/images/flickr/13441006743_1df8e32b3f_h.jpg" alt="X-T1"></a></p>
 
 <p class="photo-credit">The Fuji X-T1. Photo credit: <a href="https://www.flickr.com/photos/k100dave/">David Camerer</a></p>
 
@@ -57,7 +57,7 @@ When you buy an interchangeable-lens camera, you're actually buying into a syste
 
 In that regard, the Micro Four Thirds system has been leading the industry in the past few years with truly exceptional new lenses coming out every few months. This year, for example, the spectacular [Panasonic Leica DG Nocticron 42.5mm f/1.2](http://www.amazon.com/gp/product/B00HXE4GZQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HXE4GZQ&linkCode=as2&tag=analogsens-20&linkId=37PIA66A46YK5B5Q) was released. It's featured on The Phoblographer's list, of course, and it's probably the most impressive lens released in 2014 in any category and for any system. It really is _that_ good. So if you decided to go for a Micro Four Thirds camera — the E-M1 or the GH4 — this lens sounds like an obvious choice, doesn't it?
 
-<p class="extra-width"><a href="https://www.flickr.com/photos/hrns/13167420533" title="Panasonic Leica DG Nocticron 42.5mm 1.2 ASPH by Henry Söderlund, on Flickr"><img src="https://farm8.staticflickr.com/7395/13167420533_ebfbbf3258_h.jpg" alt="Panasonic Leica DG Nocticron 42.5mm 1.2 ASPH"></a></p>
+<p class="extra-width"><a href="https://www.flickr.com/photos/hrns/13167420533" title="Panasonic Leica DG Nocticron 42.5mm 1.2 ASPH by Henry Söderlund, on Flickr"><img src="/assets/images/flickr/13167420533_ebfbbf3258_h.jpg" alt="Panasonic Leica DG Nocticron 42.5mm 1.2 ASPH"></a></p>
 
 <p class="photo-credit">The Panasonic Leica DG Nocticron 45mm f/1.2. Photo credit: <a href="https://www.flickr.com/photos/hrns/">Henry Söderlund</a></p>
 

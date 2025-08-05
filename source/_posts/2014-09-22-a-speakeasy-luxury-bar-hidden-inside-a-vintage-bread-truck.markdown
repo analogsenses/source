@@ -12,7 +12,7 @@ The Dieline:
 
 > Integrated branding agency Ragged Edge has created the The World’s Most Intimate Martini Bar, hidden inside a beautifully restored Citroen van.
 
-![The World’s Most Intimate Martini Bar](https://farm6.staticflickr.com/5561/15321808335_21182e59a6_o.jpg)
+![The World’s Most Intimate Martini Bar](/assets/images/flickr/15321808335_21182e59a6_o.jpg)
 
 Damn. Why didn't I think of that?
 

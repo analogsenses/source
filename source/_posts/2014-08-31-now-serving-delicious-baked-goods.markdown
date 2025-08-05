@@ -16,27 +16,27 @@ If you're a frequent reader of the site, you may have noticed some changes aroun
 
 This is what Analog Senses used to look like on a Mac:
 
-[![Analog Senses Mac - WordPress by Álvaro Serrano, on Flickr](https://farm4.staticflickr.com/3841/15080621286_08cac69de6_b.jpg)](https://www.flickr.com/photos/analogsenses/15080621286)
+[![Analog Senses Mac - WordPress by Álvaro Serrano, on Flickr](/assets/images/flickr/15080621286_08cac69de6_b.jpg)](https://www.flickr.com/photos/analogsenses/15080621286)
 
 And this is what it looks like now:
 
-[![Analog Senses Mac - Octopress by Álvaro Serrano, on Flickr](https://farm4.staticflickr.com/3874/15103261732_10aa140cd4_b.jpg)](https://www.flickr.com/photos/analogsenses/15103261732)
+[![Analog Senses Mac - Octopress by Álvaro Serrano, on Flickr](/assets/images/flickr/15103261732_10aa140cd4_b.jpg)](https://www.flickr.com/photos/analogsenses/15103261732)
 
 This is what it used to look like on an iPhone: 
 
-[![Analog Senses on iPhone, WordPress vs. Octopress by Álvaro Serrano, on Flickr](https://farm6.staticflickr.com/5564/15080589436_465a752a25_z.jpg)](https://www.flickr.com/photos/analogsenses/15080589436)
+[![Analog Senses on iPhone, WordPress vs. Octopress by Álvaro Serrano, on Flickr](/assets/images/flickr/15080589436_465a752a25_z.jpg)](https://www.flickr.com/photos/analogsenses/15080589436)
 
 And what it looks like now:
 
-[![Analog Senses on iPhone - Octopress by Álvaro Serrano, on Flickr](https://farm6.staticflickr.com/5585/14917362350_d3e183f680_o.jpg)](https://www.flickr.com/photos/analogsenses/14917362350)
+[![Analog Senses on iPhone - Octopress by Álvaro Serrano, on Flickr](/assets/images/flickr/14917362350_d3e183f680_o.jpg)](https://www.flickr.com/photos/analogsenses/14917362350)
 
 And finally, before on an iPad:
 
-[![Analog Senses on iPad - WordPress vs. Octopress by Álvaro Serrano, on Flickr](https://farm4.staticflickr.com/3907/15103635175_693cad6da6_h.jpg)](https://www.flickr.com/photos/analogsenses/15103635175)
+[![Analog Senses on iPad - WordPress vs. Octopress by Álvaro Serrano, on Flickr](/assets/images/flickr/15103635175_693cad6da6_h.jpg)](https://www.flickr.com/photos/analogsenses/15103635175)
 
 And now:
 
-[![Analog Senses on iPad - WordPress vs. Octopress by Álvaro Serrano, on Flickr](https://farm4.staticflickr.com/3864/15103273352_c06a66563f_h.jpg)](https://www.flickr.com/photos/analogsenses/15103273352)
+[![Analog Senses on iPad - WordPress vs. Octopress by Álvaro Serrano, on Flickr](/assets/images/flickr/15103273352_c06a66563f_h.jpg)](https://www.flickr.com/photos/analogsenses/15103273352)
 
 Those are fairly minor cosmetic changes, but I believe they add up to a more relaxed, more enjoyable reading experience for the site. At least, that was one of my intentions when I started tinkering around. It's also now a responsive design (which I believe was long overdue), so you should be able to read Analog Senses on your device of choice without compromising the experience. All things considered, I believe this is a substantial improvement and I'm quite happy with how it turned out.
 

@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Another week goes by and we’re getting closer to September, when the Internet suddenly comes back to life. And with a rumored Apple event taking place on September 5th, including, presumably, the launch of new iPhones, it sure looks like things are going to be speeding up pretty quickly this time around. 
@@ -107,27 +107,27 @@ I’m really excited to try it and see if there really is such a huge difference
 
 To give you another reference for the 24-70, here are two shots of the same scene. The first one was taken with the Olympus 17mm f/1.8 lens on my E-M10, and the second was taken with the Zeiss 24-70 zoom on the A7II.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5773/20163067244_a83e49054f_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20163067244_a83e49054f_o.jpg"/></p>
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5666/20785677445_224a3d89e6_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20785677445_224a3d89e6_o.jpg"/></p>
 
 The Olympus was set at f/2 and the Zeiss at 34mm and f/4, with ISO being the minimum native value each camera supports (200 for the Olympus, 100 for the A7II). Both images were exported straight from RAW, with only white balance adjusted to Auto. No sharpening or any other processing has been done. Both images were shot handheld and image stabilization was on. 
 
 These conditions should create as level a playing field as possible between the two systems, while still being a real-world scenario, so let’s take a look at some 100% crops and see what we find. Images are retina-scaled, so if you’re reading this on a non-retina Mac, right-click on any of them and click “open image in a new tab” to see it pixel for pixel.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5827/20786373025_d02f61d303_o.jpg" /></p>
+<p class="full-width"><img src="/assets/images/flickr/20786373025_d02f61d303_o.jpg" /></p>
 
 For all images, the Olympus is on the left and the Zeiss on the right. Center crops show both lenses have similar levels of sharpness, with the Zeiss showing slightly more detail thanks to the A7II’s higher resolution sensor. Even so, considering one is a prime lens and the other a zoom, this is already impressive for the Zeiss. 
 
 If we move slightly off-center, differences get more pronounced:
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5741/20759922756_bccba52af7_o.jpg" /></p>
+<p class="full-width"><img src="/assets/images/flickr/20759922756_bccba52af7_o.jpg" /></p>
 
 Here the Zeiss is quite a bit sharper, retaining far more detail than the Olympus. Check the intricate details on the street plaque to see how much of a difference there is.
 
 So far it looks like a clean sweep for the Zeiss. However, the Olympus improves again in the far corners:
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5674/20598185500_8fe8e3d025_o.jpg" /></p>
+<p class="full-width"><img src="/assets/images/flickr/20598185500_8fe8e3d025_o.jpg" /></p>
 
 Here both lenses are again similarly sharp, with no discernible differences between the two. Both show similar amounts of detail. There are two things to consider here:
 

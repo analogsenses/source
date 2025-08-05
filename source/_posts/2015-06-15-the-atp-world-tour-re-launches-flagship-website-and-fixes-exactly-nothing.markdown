@@ -33,31 +33,31 @@ Allow me to walk you through how some of the site’s great new responsive eleme
 
 Loading the homepage gets you a zoomed-in partial view by default, so you’re only seeing part of the content. That would be pretty bad in and of itself but worst of all, _there’s no way to zoom back out and see the entire page_. If there’s a full-width picture on the site — and there often are — there’s no way to see the entire image area.
 
-<img src="https://c2.staticflickr.com/6/5594/18644314648_297f422c5c_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/>
+<img src="/assets/images/flickr/18644314648_297f422c5c_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/>
 
 ###Incomplete headlines
 
 Came here for the headlines? Too bad. We hope you’re good at figuring out which words were cut out, or that you don’t really care about these thumbnails because no matter what you do, we won’t show you both at the same time.
 
-<img src="https://c4.staticflickr.com/4/3790/18644360410_a44e6c70d6_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/>
+<img src="/assets/images/flickr/18644360410_a44e6c70d6_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/>
 
 ###Incomplete sections
 
 Who’s the current World No. 2, FedEx? I didn’t know they played. And how many points do they hold? Is it 9,500,000? That doesn’t seem fair. Who’s No. 1 then, UPS?
 
-<img src="https://c4.staticflickr.com/4/3894/18834742201_da8eec30fc_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/>
+<img src="/assets/images/flickr/18834742201_da8eec30fc_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/>
 
 ###Incomplete banners
 
 Challenger Tour. _Freaking Yeah!_
 
-<img src="https://c2.staticflickr.com/6/5595/18833018915_cdbf24041a_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/>
+<img src="/assets/images/flickr/18833018915_cdbf24041a_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/>
 
 ###Incomplete galleries
 
 Who’s that guy in the blue shirt? All I’m getting is that Rafael Nadal blasted into his first grass-court fine, for some reason. Perhaps he was driving cross-country and broke the on-grass speed limit. Is that a thing? And how exactly does one blast into a fine? I’m no expert, but I think you’re doing it wrong, Rafa.
 
-<img src="https://c4.staticflickr.com/4/3788/18832053155_4b03134dee_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/>
+<img src="/assets/images/flickr/18832053155_4b03134dee_o.jpg" width="320" title="ATPWorldTour’s official website redesign"/>
 
 Those were just a few examples — there are plenty more where those came from — but you get the idea. And though some could be described as fairly minor issues, some of them are just ridiculous. I mean, what’s the point of having an image gallery if you can’t see the actual images?
 

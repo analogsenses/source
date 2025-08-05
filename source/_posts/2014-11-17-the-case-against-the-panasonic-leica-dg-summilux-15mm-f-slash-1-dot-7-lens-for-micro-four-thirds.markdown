@@ -11,7 +11,7 @@ description: "The newest Leica-branded lens from Panasonic looks like a winner, 
 
 Today I read [The Phoblographer's review](http://www.thephoblographer.com/2014/11/17/review-panasonic-15mm-f1-7-micro-four-thirds/) of the [Panasonic Leica DG Summilux 15mm f/1.7](http://www.amazon.com/gp/product/B00J8HV6DG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00J8HV6DG&linkCode=as2&tag=analogsens-20&linkId=RVRSVJPCIX5WV7RR) lens for Micro Four Thirds. It's a nice review as usual, and I quite enjoyed it. They really liked the lens too, and they even gave it an Editor's Choice Award. If you're in the market for a wide-angle lens for the MFT system, it sure seems like a no-brainer. However, upon further consideration, there's a little bit more to it than that. 
 
-<p class="extra-width"><a href="https://www.flickr.com/photos/weiver/14085613614" title="P4242768 by WEIVER, on Flickr"><img src="https://farm8.staticflickr.com/7326/14085613614_46d2358856_h.jpg" alt="P4242768"></a></p>
+<p class="extra-width"><a href="https://www.flickr.com/photos/weiver/14085613614" title="P4242768 by WEIVER, on Flickr"><img src="/assets/images/flickr/14085613614_46d2358856_h.jpg" alt="P4242768"></a></p>
 
 <p class="photo-credit">The Panasonic Leica DG Summilux 15mm f/1.7 lens. Photo credit: <a href="https://www.flickr.com/photos/weiver/">WEIVER</a></p>
 
@@ -46,7 +46,7 @@ I keep going over it in my head and the more I think about it, the more I'm lean
 
 [^Pana2]: The only real drawback here — other than the price — is the lack of electrical contacts. This means there's no information about the aperture being relayed to the camera's metering system to calculate the exposure parameters. Instead, these parameters need to be set manually. If you shoot in manual mode most of the time, then this is no big deal. If, on the other hand, you rely on the camera to do it for you, then the Voigtlander lenses may not be the best choice.
 
-<p class="extra-width"><a href="https://www.flickr.com/photos/spawnbleed/8193502230" title="Voigtlander 17.5mm f0.95 by spawnbleed, on Flickr"><img src="https://farm9.staticflickr.com/8206/8193502230_209d69c55b_h.jpg" alt="Voigtlander 17.5mm f0.95"></a></p>
+<p class="extra-width"><a href="https://www.flickr.com/photos/spawnbleed/8193502230" title="Voigtlander 17.5mm f0.95 by spawnbleed, on Flickr"><img src="/assets/images/flickr/8193502230_209d69c55b_h.jpg" alt="Voigtlander 17.5mm f0.95"></a></p>
 
 <p class="photo-credit">The Voigtlander 17.5mm f/0.95 lens is a thing of beauty. Photo credit: <a href="https://www.flickr.com/photos/spawnbleed/">Spawnbleed</a></p>
 

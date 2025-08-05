@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 How was your week? Welcome to another issue of Morning Coffee.
@@ -150,4 +150,4 @@ It’s time to wrap up this issue. I’m still hard at work on my review of the 
 
 Thank you for reading, and have a great weekend.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5729/22806860599_83f8b9650b_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/22806860599_83f8b9650b_o.jpg"/></p>

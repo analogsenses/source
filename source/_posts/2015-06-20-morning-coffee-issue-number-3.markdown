@@ -140,10 +140,10 @@ I’m also looking forward to next week. Right now I’m hard at work on finishi
 
 Since it’s a portrait lens, I arranged a session with Sara, one of the models from my photography course, to illustrate the review. I’m really happy with how it went, and I can’t wait to show you the end result. For now, I’ll just leave you with a small sample from the session. Consider it a teaser for Tuesday.
 
-<p class="extra-width"><img src="https://c2.staticflickr.com/4/3696/18806317358_bf43153dd7_o.jpg" title="Olympus 45mm f/1.8 lens review for Tools & Toys"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18806317358_bf43153dd7_o.jpg" title="Olympus 45mm f/1.8 lens review for Tools & Toys"/></p>
 
 Now, If you’ll excuse me, I must get back to work and yes, you guessed it: that’s what the coffee is for.
 
 Have a great weekend.
 
-<img src="https://c1.staticflickr.com/1/437/18810200138_b8f2f88d4f_o.jpg" title="Olympus 45mm f/1.8 lens review for Tools & Toys"></a>
+<img src="/assets/images/flickr/18810200138_b8f2f88d4f_o.jpg" title="Olympus 45mm f/1.8 lens review for Tools & Toys"></a>

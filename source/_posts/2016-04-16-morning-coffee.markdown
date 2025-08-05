@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A look at my favorite means of transportation, followed by some of the week’s most interesting pieces of writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Hello there, welcome to another issue of _Morning Coffee_.
@@ -56,7 +56,7 @@ These things you would only expect to see in movies, or in cheesy romance novels
 In Porto Alegre, Brazil, there’s [a beautiful stairway](https://www.tripadvisor.com.br/Attraction_Review-g303546-d7817542-Reviews-Escadaria_24_de_Maio-Porto_Alegre_State_of_Rio_Grande_do_Sul.html) filled with colorful tiles with hand-written messages on them. One of them reads “_Não esqueças que os estranhos são amigos que ainda não conheces_”. It means “_Don’t forget that strangers are just friends you haven’t met yet_”.
 
 <figure class="extra-width">
-	<img src="https://farm8.staticflickr.com/7622/17090045725_2e5d3b566d_o.jpg"/>
+	<img src="/assets/images/flickr/17090045725_2e5d3b566d_o.jpg"/>
 </figure>
 
 Next time you find yourself on a train bound to some exotic location, don’t just stay in your seat. Go to the dining car, or the bar, and pay attention to the people around you. It won’t be long before you see a complicit smile, or an inviting gesture. That’s the moment when the magic happens, and all you got to do is smile back.

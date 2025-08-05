@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 It’s already October, I kid you not, and the Internet keeps finding topics worth arguing about. First it was ad blockers, then speculation over whether demand for the new iPhones has been lower this year, despite Apple’s announcement of record sales numbers over the launch weekend. Go figure. 
@@ -161,44 +161,44 @@ Relatedly, a few weeks ago I finally decided to use the bulk of my Amazon affili
 
 [^SonyFE1]: I’d like to thank all of you, dear readers, who have used my Amazon affiliate links over the past year, because if not for your generosity, I wouldn’t have been able to buy this lens. You have my gratitude, and I promise to put it to good use.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/693/21883555556_c73df875da_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21883555556_c73df875da_o.jpg"/></p>
 
 After a couple of excruciating weeks waiting for the lens to arrive, I finally got it on Thursday, just in time to use it on the final two shootings for the project.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5721/21883563406_3c8e35c07a_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21883563406_3c8e35c07a_o.jpg"/></p>
 
 Having just used the lens for a grand total of two days, I have to say I’m impressed. Build quality-wise, this thing is amazing. It feels like a solid piece of metal in the hand, and the included hood and removable tripod collar make it very easy to use the lens out there in the real world under a wide range of conditions.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/572/21909743885_c2a9edc8bc_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21909743885_c2a9edc8bc_o.jpg"/></p>
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5728/21288649033_7e24108090_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21288649033_7e24108090_o.jpg"/></p>
 
 There was a light drizzle at times during one of the shoots, but since the lens is weather sealed, I never needed to worry about it and I could just carry on with the shoot as normal. That’s what high-end gear is for, to provide peace of mind when conditions are tricky. In that sense, I couldn’t be happier with this lens.[^SonyFE2]
 
 [^SonyFE2]: The lens is rated as dust and moisture resistant, so I still wouldn’t take it out under heavy rain. Then again, I probably wouldn’t want to be shooting under heavy rain myself, so there’s that.
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5679/21722869739_e2d4230cf5_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/21722869739_e2d4230cf5_o.jpg"/></p>
 
 Upon reviewing the images for the project, I was very, very satisfied with the results I got from the lens. Of course, there was room for improvement here and there, but for a first outing, I really can’t complain about anything. Whatever minor mistakes occurred were clearly due to my own inexperience, not shortcomings of the lens itself.
 
 Besides the images for the project, I also managed to grab a few shots for my own use during the session, some of which I can share here with you now.
 
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/574/21288746943_69ff604924_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21288746943_69ff604924_o.jpg"/></p>
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5684/21722016078_4205a34e3e_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21722016078_4205a34e3e_o.jpg"/></p>
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/607/21919567241_82be946afa_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/21919567241_82be946afa_o.jpg"/></p>
 
 Not too shabby, is it?
 
 I still need to put it through a few more serious sessions before being able to give a real, meaningful take on it, but judging from what I’ve seen so far, this thing handles like a dream in the field. It’s solid as a rock, focuses quickly and accurately, and its ergonomics on the A7 II are great, despite being considerably larger and heavier than any other lens I’ve ever used.
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5726/21287149704_92ec510208_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/21287149704_92ec510208_o.jpg"/></p>
 
 Time will tell if it becomes one of my go-to lenses, but so far I have to say things are off to a wonderful start.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/593/21722044168_91757fcc1f_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21722044168_91757fcc1f_o.jpg"/></p>
 
 <p class="card-separator">♤</p>
 

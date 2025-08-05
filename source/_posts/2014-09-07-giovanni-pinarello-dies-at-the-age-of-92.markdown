@@ -17,7 +17,7 @@ I am deeply saddened by this news. Pinarello was a living legend in the cycling 
 
 In this image we can see Delgado and the rest of team Reynolds, including Miguel Indurain, who would go on to win 5 consecutive editions of the Tour from 1991-1995. They are all riding Pinarellos, and would continue to do so for the entirety of Indurain's career:
 
-[![Reynolds team during the 1988 edition of the Tour de France](https://farm7.staticflickr.com/6219/6310080254_5127939f15_o.jpg)](https://www.flickr.com/photos/69383344@N02/6310080254)
+[![Reynolds team during the 1988 edition of the Tour de France](/assets/images/flickr/6310080254_5127939f15_o.jpg)](https://www.flickr.com/photos/69383344@N02/6310080254)
 
 These bicycles will be forever linked to some of the most memorable feats in the history of the sport.
 

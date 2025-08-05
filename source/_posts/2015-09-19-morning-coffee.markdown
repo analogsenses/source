@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Just like some weeks are mostly boring, there are others when catching a break seems all but impossible. This was undoubtedly the latter. Let’s get to it.
@@ -206,4 +206,4 @@ It also looks like things are about to get even busier in the coming weeks. Ther
 
 For now, enjoy the rest of your weekend and, as ever, thank you for reading.
 
-<p class="full-width"><img src="https://farm8.staticflickr.com/7653/16580051037_aba8072b15_k.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/16580051037_aba8072b15_k.jpg"/></p>

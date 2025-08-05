@@ -7,7 +7,7 @@ slug: 404
 title: This isn't the page you're looking for...
 ---
 
-[![This isn't the page you're looking for...](https://farm6.staticflickr.com/5551/14896314960_1099ac8cf0_o.jpg)]({{ root_url }}/)
+[![This isn't the page you're looking for...](/assets/images/flickr/14896314960_1099ac8cf0_o.jpg)]({{ root_url }}/)
 
 You can go about your business.
 

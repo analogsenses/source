@@ -8,7 +8,7 @@ categories:
 - Photo Essays
 - Tools & Toys
 external-url: http://toolsandtoys.net/photo-essays/winter-hiking-in-navacerrada/
-title-image: https://c7.staticflickr.com/9/8631/28068462110_671059d4de_o.jpg
+title-image: /assets/images/flickr/28068462110_671059d4de_o.jpg
 ---
 
 Last Sunday I went hiking in Navacerrada, one of the tallest mountain passes in central Spain. It’s a gorgeous place, covered by pine forests as far as the eye can see, and it’s perfect for hiking, even in the winter.

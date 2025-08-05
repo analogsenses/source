@@ -14,4 +14,4 @@ He seems to like it:
 
 Robin Wong is an Olympus Malaysia employee, so take these words with a grain of salt. That said, it's hard to argue with some of the absolutely stunning images in this review:
 
-[![Tiger, by Robin Wong](https://farm4.staticflickr.com/3935/15496383435_9700316541_o.jpg)](http://robinwong.blogspot.co.uk/2014/10/olympus-mzuiko-40-150mm-f28-pro-lens.html)
+[![Tiger, by Robin Wong](/assets/images/flickr/15496383435_9700316541_o.jpg)](http://robinwong.blogspot.co.uk/2014/10/olympus-mzuiko-40-150mm-f28-pro-lens.html)

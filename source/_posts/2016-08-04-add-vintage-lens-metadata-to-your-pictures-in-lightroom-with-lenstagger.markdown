@@ -16,8 +16,8 @@ LensTagger is a Lightroom plugin that allows you to add specific lens metadata t
 If you like to have all your pictures nicely tagged for, say, sharing to Flickr, LensTagger is definitely a great solution.
 
 <figure class="full-width">
-	<a href="https://www.flickr.com/photos/analogsenses/28659261872/in/album-72157646993846191/" target="_blank" title="The hidden charm of Madrid’s street markets"><img src="https://c1.staticflickr.com/9/8587/28659261872_f7c8348b0e_o.jpg" alt="The hidden charm of Madrid’s street markets"></a>
-	<a href="https://www.flickr.com/photos/analogsenses/28149297413/in/album-72157646993846191/" target="_blank" title="The hidden charm of Madrid’s street markets"><img src="https://c6.staticflickr.com/9/8814/28149297413_7c79a33954_o.jpg" alt="The hidden charm of Madrid’s street markets"></a>
+	<a href="https://www.flickr.com/photos/analogsenses/28659261872/in/album-72157646993846191/" target="_blank" title="The hidden charm of Madrid’s street markets"><img src="/assets/images/flickr/28659261872_f7c8348b0e_o.jpg" alt="The hidden charm of Madrid’s street markets"></a>
+	<a href="https://www.flickr.com/photos/analogsenses/28149297413/in/album-72157646993846191/" target="_blank" title="The hidden charm of Madrid’s street markets"><img src="/assets/images/flickr/28149297413_7c79a33954_o.jpg" alt="The hidden charm of Madrid’s street markets"></a>
 	<p class="caption">The images above were both shot with the venerable Canon nFD 50mm f/1.8 lens on the Sony A7 II camera. Click on them to view them on Flickr, including lens metadata.</p>	
 </figure>
 

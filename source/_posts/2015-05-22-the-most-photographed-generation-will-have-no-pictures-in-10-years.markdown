@@ -19,6 +19,6 @@ It's also incredibly satisfying [to make prints of your own images](https://inst
 
 It totally makes them matter more.
 
-<a href="https://instagram.com/p/2_an63xa3P/"><img src="https://c2.staticflickr.com/6/5443/17784648068_8b565060e3_o.jpg" title="After 12 weeks, making our own prints was the perfect ending to an awesome photography course. Loved every minute! #film #prints #blackandwhite #analog #photography"></a>
+<a href="https://instagram.com/p/2_an63xa3P/"><img src="/assets/images/flickr/17784648068_8b565060e3_o.jpg" title="After 12 weeks, making our own prints was the perfect ending to an awesome photography course. Loved every minute! #film #prints #blackandwhite #analog #photography"></a>
 
 Via [CJ Chilvers’s excellent email newsletter](http://alesserphotographer.com/subscribe), which you should already be reading.

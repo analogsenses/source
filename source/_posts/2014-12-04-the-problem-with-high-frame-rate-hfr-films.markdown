@@ -15,7 +15,7 @@ Today I read [an article on The Technium](http://kk.org/thetechnium/2013/01/pain
 
 That makes a lot of sense, but it only explains why HFR movies _look_ different, not why they _feel_ different. Image quality is one thing, but motion is a separate problem, and the article doesn't negate the fact that, for most people, the extremely fluid motion typically associated with HFR movies feels extremely awkward, placing the entire viewing experience right into [the uncanny valley](http://en.wikipedia.org/wiki/Uncanny_valley). Typically, that fluid motion effect is explained away as a side effect of HFR films being more realistic, but I certainly wouldn't describe them as such. Life, after all, isn't viewed at 48 fps.
 
-<p class="extra-width"><img src="https://farm8.staticflickr.com/7547/15946568102_bf47a1e8e4_h.jpg" alt="The Hobbit - The Battle of the Five Armies"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/15946568102_bf47a1e8e4_h.jpg" alt="The Hobbit - The Battle of the Five Armies"/></p>
 
 <p class="photo-credit">Hyper-realistic Middle Earth is not so fun, after all</p>
 

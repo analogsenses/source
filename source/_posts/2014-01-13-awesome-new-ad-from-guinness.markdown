@@ -13,7 +13,7 @@ post_format:
 external-url: http://www.flickr.com/photos/analogsenses/11927200224/
 ---
 
-[![Awesome New Ad From Guinness](http://farm8.staticflickr.com/7457/11927200224_cfc4409505_o.jpg)](http://www.flickr.com/photos/analogsenses/11927200224/)
+[![Awesome New Ad From Guinness](/assets/images/flickr/11927200224_cfc4409505_o.jpg)](http://www.flickr.com/photos/analogsenses/11927200224/)
 
 This is great. Just what I believe in.
 

@@ -21,7 +21,7 @@ I haven’t personally used the lens, so I can’t speak from first-hand experie
 
 [^Loxia1]: Still, based on Jay’s review, I wouldn't go as far as to say that Jordan _definitely_ had a defective copy of the lens. The images in both reviews are close enough in terms of image quality that their different takes may have simply been a matter of personal preference. 
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/757/21222954326_20c75d6c03_o.jpg" title="Canon FDn 35mm f/2 lens"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/21222954326_20c75d6c03_o.jpg" title="Canon FDn 35mm f/2 lens"/></p>
 
 <p class="photo-credit">Something like this Canon FDn 35mm f/2 lens plus an inexpensive adapter would be a great — and much cheaper — alternative to the Loxia.</p>
 

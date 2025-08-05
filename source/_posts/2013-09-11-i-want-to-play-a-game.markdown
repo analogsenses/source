@@ -12,7 +12,7 @@ categories:
 - Digital Life
 ---
 
-[![Billy the puppet from Saw](http://farm6.staticflickr.com/5255/5535385585_6d6abd8d23.jpg)](http://www.flickr.com/photos/carlwalker74/5535385585/)
+[![Billy the puppet from Saw](/assets/images/flickr/5535385585_6d6abd8d23.jpg)](http://www.flickr.com/photos/carlwalker74/5535385585/)
 
 It's the day after the much-awaited release of new iPhone models, which means it's only a matter of hours until we start seeing the classic post-event reactions from the press. The same story happens every year, of course, with almost mathematical precision. Allow me to summarize this now standard procedure in ten easy steps:
 

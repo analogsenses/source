@@ -41,4 +41,4 @@ With this in mind and after doing some reading, I quickly started leaning toward
 
 The E-M10 is a fantastic camera (easily the best I’ve ever owned) and I’m already taking [pretty good images with it](https://www.flickr.com/photos/analogsenses/sets/72157643602683235/), which is very encouraging. I'm still mostly getting to know my way around it and trying some of the exercises from the book, but already there's a satisfying feeling whenever my prediction for how a composition will turn out is confirmed by the actual image. It still feels like magic but now, I know how the trick is done.
 
-[![New toy ^_^](https://farm8.staticflickr.com/7226/13451182905_a9df1e4eb6.jpg)](https://www.flickr.com/photos/analogsenses/13451182905)
+[![New toy ^_^](/assets/images/flickr/13451182905_a9df1e4eb6.jpg)](https://www.flickr.com/photos/analogsenses/13451182905)

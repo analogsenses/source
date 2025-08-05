@@ -14,7 +14,7 @@ This one really does deserve a _finally_. After 17 years, Canon has finally upda
 
 > The 35mm F1.4L II includes a total of 14 elements, two of which are aspherical and the other being ’Super UD’. It offers 9 aperture blades for pleasing bokeh (and gorgeous 18-ray sunbursts, we hope) and a minimum focusing distance of 0.28m/11in. It also claims to be more durable than its predecessor, with dust and water-resistant construction. The Mark II is considerably heavier, though, weighing in at 180g/6.3oz, or 31% more than the original model.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/683/20300481394_2a54e7b9bf_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/20300481394_2a54e7b9bf_o.jpg"/></p>
 
 This is a much-awaited announcement for Canon users, especially since Sigma introduced their excellent [35mm f/1.4 Art](http://www.amazon.com/gp/product/B00A35X6NU/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00A35X6NU&linkCode=as2&tag=analogsens-20&linkId=C7AROSLKIP5LPXZA) lens, which bested the Canon in just about every way and managed to do it at half the price.
 

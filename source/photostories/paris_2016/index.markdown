@@ -2,11 +2,11 @@
 layout: page
 title: "Paris 2016: a photo story"
 subtitle: "December 31st, 2015 — January 3rd, 2016"
-title-image: https://c7.staticflickr.com/9/8696/28247113022_aae47a03b7_o.jpg
-title-image-2: https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg
-title-image-3: https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg
-title-image-4: https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg
-title-image-5: https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg
+title-image: /assets/images/flickr/28247113022_aae47a03b7_o.jpg
+title-image-2: /assets/images/flickr/28068227450_aaf819ef33_o.jpg
+title-image-3: /assets/images/flickr/28350563055_f206fe4590_o.jpg
+title-image-4: /assets/images/flickr/28068244410_884517187c_o.jpg
+title-image-5: /assets/images/flickr/28247109392_e1ef010455_o.jpg
 date: 2016-02-03 12:16:52 +0100
 comments: false
 sharing: true
@@ -29,7 +29,7 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	<article>
 		<div class="story-cover">
 			<a href="/photostories/paris_2016/day_1/#landing-point">
-				<img src="https://c3.staticflickr.com/9/8746/28068227450_aaf819ef33_o.jpg"/>
+				<img src="/assets/images/flickr/28068227450_aaf819ef33_o.jpg"/>
 				<div class="story-header">
 					<h1>Day One</h1>
 				</div>
@@ -44,7 +44,7 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	<article>
 		<div class="story-cover">
 			<a href="/photostories/paris_2016/day_2/#landing-point">
-				<img src="https://c8.staticflickr.com/8/7297/28350563055_f206fe4590_o.jpg"/>
+				<img src="/assets/images/flickr/28350563055_f206fe4590_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Two</h1>
 				</div>
@@ -58,7 +58,7 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	<article>
 		<div class="story-cover">
 			<a href="/photostories/paris_2016/day_3/#landing-point">
-				<img src="https://c3.staticflickr.com/9/8893/28068244410_884517187c_o.jpg"/>
+				<img src="/assets/images/flickr/28068244410_884517187c_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Three</h1>
 				</div>
@@ -72,7 +72,7 @@ This photo story is an account of our trip, arranged by day. Just click on any o
 	<article>
 		<div class="story-cover">
 			<a href="/photostories/paris_2016/day_4/#landing-point">
-				<img src="https://c1.staticflickr.com/9/8762/28247109392_e1ef010455_o.jpg"/>
+				<img src="/assets/images/flickr/28247109392_e1ef010455_o.jpg"/>
 				<div class="story-header">
 					<h1>Day Four</h1>
 				</div>

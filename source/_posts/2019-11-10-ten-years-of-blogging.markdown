@@ -8,7 +8,7 @@ categories:
 - Digital Life
 description: "Today is the 10-year anniversary of Analog Senses. It’s been quite the journey."
 subtitle: "Here’s to ten more."
-title-image: https://live.staticflickr.com/65535/49043571796_171cbfb46e_o.jpg
+title-image: /assets/images/flickr/49043571796_171cbfb46e_o.jpg
 ---
 
 Today is the ten-year anniversary of Analog Senses. It’s been quite the journey.

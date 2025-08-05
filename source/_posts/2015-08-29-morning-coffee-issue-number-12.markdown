@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 This week was over in the blink of an eye. For some reason, it almost feels like autumn is already knocking on the door. Furthermore, the Apple event is now [officially in sight](http://www.loopinsight.com/2015/08/27/apple-sends-out-invite-for-sept-9-special-event/), which means the next few weeks are bound to go by even faster.
@@ -138,9 +138,9 @@ This is a touring exhibit that’s been displayed in London, Toronto, Shanghai, 
 
 Unfortunately, we were not allowed to take pictures inside the exhibit, so I had to make do with the amazing Aston Martin DB5 that was on display at the entrance, next to a life-sized figure of Sir Sean Connery himself.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/745/20761454068_8e8ac85e71_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20761454068_8e8ac85e71_o.jpg"/></p>
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/620/20949409455_64f95c2039_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20949409455_64f95c2039_o.jpg"/></p>
 
 All in all, not a bad experience, and definitely tons of fun for any Bond fans out there. I’m not aware of where the exhibit is going next, but if it’s somewhere near you, I strongly recommend visiting.
 

@@ -9,7 +9,7 @@ categories:
 external-url: http://www.amazon.com/gp/product/1250038820/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250038820&linkCode=as2&tag=analogsens-20&linkId=VXVVXTDGZJTOOG5B
 ---
 
-[![Humans of New York](https://farm4.staticflickr.com/3914/15134481917_e711553b08_h.jpg)](http://www.amazon.com/gp/product/1250038820/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250038820&linkCode=as2&tag=analogsens-20&linkId=VXVVXTDGZJTOOG5B)
+[![Humans of New York](/assets/images/flickr/15134481917_e711553b08_h.jpg)](http://www.amazon.com/gp/product/1250038820/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250038820&linkCode=as2&tag=analogsens-20&linkId=VXVVXTDGZJTOOG5B)
 
 [Humans of New York](http://www.humansofnewyork.com) is a wonderful —and ongoing— collection of portraits of New Yorkers by Brandon Stanton.
 

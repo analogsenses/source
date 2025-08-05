@@ -19,7 +19,7 @@ Espresso brewing is like a love relationship between you and your machine. First
 
 
 
-[![Elektra Micro Casa a Leva](http://farm3.static.flickr.com/2277/5731144683_d124d5fdca.jpg)](http://coffeegeek.com/proreviews/detailed/microcasaleva/) 
+[![Elektra Micro Casa a Leva](/assets/images/flickr/5731144683_d124d5fdca.jpg)](http://coffeegeek.com/proreviews/detailed/microcasaleva/) 
 
 The Elektra Micro Casa a Leva, one of the finest espresso machines available.
 

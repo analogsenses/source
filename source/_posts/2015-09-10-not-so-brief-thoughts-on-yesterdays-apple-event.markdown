@@ -21,7 +21,7 @@ In a rare but interesting move, Apple unveiled [new Apple Watch models](http://w
 
 Unsurprisingly, most of the new models belong to the Sport collection, which are probably the most “giftable” of all Apple Watch models due to their lower entry price. Also unsurprisingly, they all feature shiny and bright colors, making them all the more desirable. 
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/652/21117622719_7357dcbb50_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21117622719_7357dcbb50_o.jpg"/></p>
 
 <p class="photo-credit">Some of the new Apple Watch models that were introduced yesterday.</p>
 
@@ -29,7 +29,7 @@ As someone who wasn’t overly enthusiastic about the original Sport models, I t
 
 Apple also announced a new partnership with Hermès to create specifically tailored Apple Watch models. All of the ones that were shown on stage featured leather bands, which looked just beautiful. However, they will only be available for purchase in select retail stores and, if Hermès’s history is anything to go by, they’ll be out of the price range of pretty much anyone except Pharrell Williams.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/586/21116621778_ebeda27c9c_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21116621778_ebeda27c9c_o.jpg"/></p>
 
 <p class="photo-credit">The new Apple Watch Hermès collection.</p>
 
@@ -42,7 +42,7 @@ To the surprise of many, Apple also revamped their iPad lineup — well, sort of
 
 Scheduling issues aside, the star of the iPad segment was undeniably the new [iPad Pro](http://www.apple.com/ipad-pro/). With a 12.9-inch display and a new A9X chip promising desktop-class performance while maintaining the same 10-hour battery life, this iPad is pretty darn close to what many people had been asking Apple to create for years.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/667/21278264776_efd89e2946_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/21278264776_efd89e2946_o.jpg"/></p>
 
 <p class="photo-credit">With the introduction of the new iPad Pro, the iPad lineup now features three different screen sizes.</p>
 
@@ -50,7 +50,7 @@ The new iPad is unashamedly optimized for content creation rather than consumpti
 
 And here’s where things start getting ugly for me. I fully understand the need for such accessories to exist, but they still seem like half-cooked solutions to me for some reason, particularly the Smart Keyboard. I just don’t see how that big and bulky cover is better than, say, carrying an Apple Bluetooth keyboard with you. It’s not like the iPad Pro is super small to begin with, so the added bulk of a dedicated keyboard seems like a minor issue to me. Of course, both accessories are entirely optional so, as usual, it will be up to customers to vote with their wallets.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5675/21117613909_a123410682_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21117613909_a123410682_o.jpg"/></p>
 
 <p class="photo-credit">The new iPad Pro and the new Apple Pencil.</p>
 
@@ -75,7 +75,7 @@ In all fairness though, the A8 chip was so over-specced that nobody’s going to
 
 On that note, Apple also announced the release date for iOS 9: September 16.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5762/21304505355_80e6ec35dd_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21304505355_80e6ec35dd_o.jpg"/></p>
 
 <p class="photo-credit">iOS 9 will be released worldwide on September 16.</p>
 
@@ -86,7 +86,7 @@ Perhaps the most eagerly anticipated announcement was the long-rumored [new Appl
 
 Whatever Jobs really said, and regardless of whether he really did crack it or not, the new Apple TV has a lot going for it. It’s got the same A8X chip found in the iPad Air 2, so it should be able to handle the extra computational load with ease, and the new touch-sensitive Bluetooth remote looks really impressive. It also doubles as a gaming controller, which is a nice touch (pun intended).
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5808/21304514235_c59df2c792_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21304514235_c59df2c792_o.jpg"/></p>
 
 <p class="photo-credit">The new Apple TV features a redesigned interface and a new touch-sensitive remote.</p>
 
@@ -96,7 +96,7 @@ Precisely games are one of the hallmark features of the new Apple TV. Like the i
 
 Gaming performance looked impressive during the few onstage demos we saw, and the ability to use the remote as a controller (as well as any iPhone or iPod touch) is definitely a great feature. At their core, though, games on the Apple TV may be revolutionary, but the most interesting thing about them is what they represent: 3rd-party apps running on yet another Apple device, and one that aims to conquer your entire living room, at that.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5721/20683392933_52dd9bac3c_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20683392933_52dd9bac3c_o.jpg"/></p>
 
 <p class="photo-credit">Gaming is a big part of the new Apple TV, and performance seems impressive.</p>
 
@@ -104,7 +104,7 @@ Another addition to the new Apple TV is Siri integration. It’s now possible to
 
 Beyond that, Siri also works much like it does on other iOS devices, being able to display weather forecasts, sports scores and many other pieces of information. This integration has the potential to really change the way we interact with television in our homes, but it’s still early to say if it will stick. Voice-driven interfaces are always tricky to integrate at scale, but if anyone can do it, it’s surely Apple.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/672/21278247726_168892eee3_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21278247726_168892eee3_o.jpg"/></p>
 
 <p class="photo-credit">Siri is now a fundamental part of Apple TV.</p>
 
@@ -116,7 +116,7 @@ Such an announcement had been teased by pretty much everyone in the media and of
 
 We may never know, but the fact that no new deals were announced may point to a different idea, which is what I’m betting we’ll see in the coming months: it’s not about deals, it’s about apps.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5791/21304851015_4ab28776e7_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21304851015_4ab28776e7_o.jpg"/></p>
 
 <p class="photo-credit">Apple is betting big on apps as the future of Apple TV.</p>
 
@@ -135,7 +135,7 @@ The TV aspect of the Apple TV may have gotten nearly zero attention during the k
 
 Ironically, Apple’s most profitable product ever was relegated to the last spot of yesterday’s keynote. 
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/701/21293898452_73ea529745_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/21293898452_73ea529745_o.jpg"/></p>
 
 <p class="photo-credit">The new iPhone 6S and 6S Plus.</p>
 
@@ -145,7 +145,7 @@ This year, Apple seems to be playing right into that perception, with a clever m
 
 In any case, and just in case the marketing is too subtle for some, they also introduced a new rose gold-colored model that looks quite nice and elegant to my eyes.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5737/21116407480_608c6587ec_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21116407480_608c6587ec_o.jpg"/></p>
 
 <p class="photo-credit">For the first time, Apple also announced a rose gold-colored iPhone.</p>
 

@@ -9,7 +9,7 @@ categories:
 - Photography
 subtitle: "Faster AF, higher resolution, and dual SD-card slots are just the beginning. The new X-Series flagship is an absolute beast."
 description: "The Fuji X-T2 is an absolute powerhouse of a camera, and realizes all of the X-Series system’s potential."
-title-image: https://c8.staticflickr.com/6/5449/29690116303_cccd4201a9_o.jpg
+title-image: /assets/images/flickr/29690116303_cccd4201a9_o.jpg
 ---
 
 Fuji has been pretty busy lately. The company made arguably the biggest splash at [Photokina 2016](http://www.photokina.com/photokina/index-9.php) by announcing [an entirely new Medium Format system](http://www.fujifilmusa.com/press/news/display_news?newsID=881070), including the new GFX camera and an astonishing _six_ lenses, to be released over the next few months.
@@ -22,16 +22,16 @@ In fact, the GFX has the potential to be the camera that turns Medium Format dig
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="X-T2_1" href="https://c7.staticflickr.com/9/8272/29690108734_5149425293_o.jpg"><img src="https://c7.staticflickr.com/9/8272/29690108734_5149425293_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="X-T2_1" href="/assets/images/flickr/29690108734_5149425293_o.jpg"><img src="/assets/images/flickr/29690108734_5149425293_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:33%">
-			<a class="fancybox" rel="X-T2_1" href="https://c6.staticflickr.com/6/5466/29689926773_e1aa244b58_o.jpg"><img src="https://c6.staticflickr.com/6/5466/29689926773_e1aa244b58_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="X-T2_1" href="https://c6.staticflickr.com/9/8273/30234544261_1f42d4248b_o.jpg"><img src="https://c6.staticflickr.com/9/8273/30234544261_1f42d4248b_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_1" href="/assets/images/flickr/29689926773_e1aa244b58_o.jpg"><img src="/assets/images/flickr/29689926773_e1aa244b58_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_1" href="/assets/images/flickr/30234544261_1f42d4248b_o.jpg"><img src="/assets/images/flickr/30234544261_1f42d4248b_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="X-T2_1" href="https://c5.staticflickr.com/8/7582/29690114244_9b41b4003f_o.jpg"><img src="https://c5.staticflickr.com/8/7582/29690114244_9b41b4003f_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="X-T2_1" href="/assets/images/flickr/29690114244_9b41b4003f_o.jpg"><img src="/assets/images/flickr/29690114244_9b41b4003f_o.jpg" alt="" /></a>
 	</figure>
 </section>
 
@@ -44,12 +44,12 @@ Now, Fuji may have captured the attention of many eyeballs at Photokina with the
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="X-T2_2" href="https://c8.staticflickr.com/9/8662/30234504831_bdbc0700e4_o.jpg"><img src="https://c8.staticflickr.com/9/8662/30234504831_bdbc0700e4_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="X-T2_2" href="/assets/images/flickr/30234504831_bdbc0700e4_o.jpg"><img src="/assets/images/flickr/30234504831_bdbc0700e4_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:56.55%">
-			<a class="fancybox" rel="X-T2_2" href="https://c7.staticflickr.com/9/8136/30204543902_7bbd1659bb_o.jpg"><img src="https://c7.staticflickr.com/9/8136/30204543902_7bbd1659bb_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="X-T2_2" href="https://c7.staticflickr.com/9/8277/30285517886_0bf1a4471f_o.jpg"><img src="https://c7.staticflickr.com/9/8277/30285517886_0bf1a4471f_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_2" href="/assets/images/flickr/30204543902_7bbd1659bb_o.jpg"><img src="/assets/images/flickr/30204543902_7bbd1659bb_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_2" href="/assets/images/flickr/30285517886_0bf1a4471f_o.jpg"><img src="/assets/images/flickr/30285517886_0bf1a4471f_o.jpg" alt="" /></a>
 		</div>
 		<p class="caption">Fujifilm employee [Peter Fauland](https://www.instagram.com/fauland.photography/) was kind enough to show me [the new Fuji X-T2](http://amznlinks.com/global?user=analogsenses&us=B01I3LNMAM&uk=B01I5LE51A&es=B01I5LE51A) and helped me test some of its new features.</p>
 	</figure>
@@ -67,18 +67,18 @@ None of these differences are profound, or game-changing, but they didn’t need
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="X-T2_3" href="https://c2.staticflickr.com/9/8130/30234487201_b82cded0e3_o.jpg"><img src="https://c2.staticflickr.com/9/8130/30234487201_b82cded0e3_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="X-T2_3" href="/assets/images/flickr/30234487201_b82cded0e3_o.jpg"><img src="/assets/images/flickr/30234487201_b82cded0e3_o.jpg" alt="" /></a>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:43.93%">
-			<a class="fancybox" rel="X-T2_3" href="https://c8.staticflickr.com/8/7531/30234495871_66b484027f_o.jpg"><img src="https://c8.staticflickr.com/8/7531/30234495871_66b484027f_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="X-T2_3" href="https://c1.staticflickr.com/6/5648/30023650240_3e5ff82c61_o.jpg"><img src="https://c1.staticflickr.com/6/5648/30023650240_3e5ff82c61_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_3" href="/assets/images/flickr/30234495871_66b484027f_o.jpg"><img src="/assets/images/flickr/30234495871_66b484027f_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_3" href="/assets/images/flickr/30023650240_3e5ff82c61_o.jpg"><img src="/assets/images/flickr/30023650240_3e5ff82c61_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:43.93%">
-			<a class="fancybox" rel="X-T2_3" href="https://c3.staticflickr.com/8/7461/29690079914_f3aeaa3649_o.jpg"><img src="https://c3.staticflickr.com/8/7461/29690079914_f3aeaa3649_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="X-T2_3" href="https://c5.staticflickr.com/6/5692/29690069884_864f205fdb_o.jpg"><img src="https://c5.staticflickr.com/6/5692/29690069884_864f205fdb_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_3" href="/assets/images/flickr/29690079914_f3aeaa3649_o.jpg"><img src="/assets/images/flickr/29690079914_f3aeaa3649_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_3" href="/assets/images/flickr/29690069884_864f205fdb_o.jpg"><img src="/assets/images/flickr/29690069884_864f205fdb_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -96,18 +96,18 @@ For reference, here’s a few image samples I shot with the X-T2 at Photokina. A
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:45.66%">
-			<a class="fancybox" rel="X-T2_4" href="https://c2.staticflickr.com/9/8274/30320259865_f068a346e2_o.jpg"><img src="https://c2.staticflickr.com/9/8274/30320259865_f068a346e2_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="X-T2_4" href="https://c7.staticflickr.com/6/5764/30285353686_1f75e5075a_o.jpg"><img src="https://c7.staticflickr.com/6/5764/30285353686_1f75e5075a_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_4" href="/assets/images/flickr/30320259865_f068a346e2_o.jpg"><img src="/assets/images/flickr/30320259865_f068a346e2_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_4" href="/assets/images/flickr/30285353686_1f75e5075a_o.jpg"><img src="/assets/images/flickr/30285353686_1f75e5075a_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:45.66%">
-			<a class="fancybox" rel="X-T2_4" href="https://c3.staticflickr.com/6/5497/30204382602_d57421178e_o.jpg"><img src="https://c3.staticflickr.com/6/5497/30204382602_d57421178e_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="X-T2_4" href="https://c2.staticflickr.com/9/8418/29689736713_f70919cae4_o.jpg"><img src="https://c2.staticflickr.com/9/8418/29689736713_f70919cae4_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_4" href="/assets/images/flickr/30204382602_d57421178e_o.jpg"><img src="/assets/images/flickr/30204382602_d57421178e_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_4" href="/assets/images/flickr/29689736713_f70919cae4_o.jpg"><img src="/assets/images/flickr/29689736713_f70919cae4_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="full-width">
-		<a class="fancybox" rel="X-T2_4" href="hhttps://c2.staticflickr.com/6/5752/30320276625_904e22543b_o.jpg"><img src="https://c2.staticflickr.com/6/5752/30320276625_904e22543b_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="X-T2_4" href="hhttps://c2.staticflickr.com/6/5752/30320276625_904e22543b_o.jpg"><img src="/assets/images/flickr/30320276625_904e22543b_o.jpg" alt="" /></a>
 		<p class="caption">The camera usually does a great job of setting the white balance, but it may fail in challenging lighting conditions. Notice the obvious yellow cast in the image above.</p>
 	</figure>
 </section>
@@ -123,14 +123,14 @@ As far as I could tell during my brief testing, each of the new modes definitely
 <section class="photoset">
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:45.66%">
-			<a class="fancybox" rel="X-T2_5" href="https://c6.staticflickr.com/6/5713/30320270765_4df0dded30_o.jpg"><img src="https://c6.staticflickr.com/6/5713/30320270765_4df0dded30_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="X-T2_5" href="https://c6.staticflickr.com/6/5488/29689750653_022ab112a4_o.jpg"><img src="https://c6.staticflickr.com/6/5488/29689750653_022ab112a4_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_5" href="/assets/images/flickr/30320270765_4df0dded30_o.jpg"><img src="/assets/images/flickr/30320270765_4df0dded30_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_5" href="/assets/images/flickr/29689750653_022ab112a4_o.jpg"><img src="/assets/images/flickr/29689750653_022ab112a4_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 	<figure class="sidebyside">
 		<div class="stretchy-wrapper" style="padding-bottom:45.49%">
-			<a class="fancybox" rel="X-T2_5" href="https://c3.staticflickr.com/6/5587/30204381082_c59811951f_o.jpg"><img src="https://c3.staticflickr.com/6/5587/30204381082_c59811951f_o.jpg" alt="" /></a>
-			<a class="fancybox" rel="X-T2_5" href="https://c3.staticflickr.com/6/5698/30204378322_d83d086db5_o.jpg"><img src="https://c3.staticflickr.com/6/5698/30204378322_d83d086db5_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_5" href="/assets/images/flickr/30204381082_c59811951f_o.jpg"><img src="/assets/images/flickr/30204381082_c59811951f_o.jpg" alt="" /></a>
+			<a class="fancybox" rel="X-T2_5" href="/assets/images/flickr/30204378322_d83d086db5_o.jpg"><img src="/assets/images/flickr/30204378322_d83d086db5_o.jpg" alt="" /></a>
 		</div>
 	</figure>
 </section>
@@ -157,5 +157,5 @@ In the meantime, though, I can’t help but keep looking at the X-T2 and wonder.
 
 <section class="product-link">
 	<h4 class="buy-now">Buy it online</h4>
-	<a href="http://amznlinks.com/global?user=analogsenses&us=B01I3LNMAM&uk=B01I5LE51A&es=B01I5LE51A"><img src="https://c4.staticflickr.com/6/5488/30351393771_bc9d8226b2_o.jpg"/></a>
+	<a href="http://amznlinks.com/global?user=analogsenses&us=B01I3LNMAM&uk=B01I5LE51A&es=B01I5LE51A"><img src="/assets/images/flickr/30351393771_bc9d8226b2_o.jpg"/></a>
 </section>

@@ -23,7 +23,7 @@ Unlike Shawn, however, I use an iMac + MacBook Pro setup and frankly, as much as
 
 Having a laptop is a necessity for me, because I do most of my work away from my home office. Changing places every now and then helps me stay fresh and motivated, and I vastly prefer it to being chained to my desk at home all the time. I'm actually typing these words on my MacBook Pro while sitting in [La Bicicleta Café](http://www.labicicletacafe.com/index-en.html), a Cycling Café and Workplace that I frequently use as a remote office. As a bicycle nut, this is pretty much the perfect place for me to work at.
 
-<p class="extra-width"><img class="extra-width" src="https://farm3.staticflickr.com/2945/15367241461_aedebc71e5_h.jpg"/></p>
+<p class="extra-width"><img class="extra-width" src="/assets/images/flickr/15367241461_aedebc71e5_h.jpg"/></p>
 
 <p class="photo-credit">La Bicicleta Cycling Café & Workplace</p>
 

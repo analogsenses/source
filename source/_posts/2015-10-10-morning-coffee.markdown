@@ -7,7 +7,7 @@ sharing: true
 categories: 
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 Well, what do you know. It’s been almost a month since iOS 9 arrived — and content blockers with it — and the sky still hasn’t fallen on the heads of all those poor web publishers. Of course, that hasn’t stopped anyone from talking and writing about it _ad infinitum_, and the trend continued this week.
@@ -167,9 +167,9 @@ This is a long weekend in Spain, and I’m spending it in my hometown, as usual.
 
 As such, the rest of my weekend will probably be spent at the computer, or behind the camera. I’m hard at work on my review of the [Capture Clip](http://www.amazon.com/gp/product/B00H7JGOS4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00H7JGOS4&linkCode=as2&tag=analogsens-20&linkId=DBJYAJS44V3KI7K2) for _Tools & Toys_, which should be published next Tuesday, and after that I have a couple other projects coming up that I’m very eager to tackle.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/627/21883449270_0eaeb385f0_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21883449270_0eaeb385f0_o.jpg"/></p>
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/663/22071627925_4a777eab35_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/22071627925_4a777eab35_o.jpg"/></p>
 
 Next week I’ll also be doing a portrait session with a good friend, and that will be a great opportunity to put the 70-200mm lens to good use once again. I just hope the weather is good because apparently, there’s a big storm coming. I’ll be sure to share a few images from the session, as well as my ongoing thoughts on the lens, and the camera.
 

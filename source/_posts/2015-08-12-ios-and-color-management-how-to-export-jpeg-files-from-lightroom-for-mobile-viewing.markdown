@@ -8,7 +8,7 @@ categories:
 - Photography
 - Digital Life
 description: "iOS is very particular when it comes to color management, which is why some of your pictures look weird when viewed on mobile devices. Here’s what you need to do to avoid that."
-title-image: https://c3.staticflickr.com/9/8723/28266096082_df62e4c9f5_o.jpg
+title-image: /assets/images/flickr/28266096082_df62e4c9f5_o.jpg
 ---
 
 A few weeks ago I noticed something weird with some of my pictures: every time I opened a JPEG file from Lightroom on my iPhone the colors looked completely wrong and washed out, as if the image was heavily desaturated.
@@ -17,21 +17,21 @@ This is something I do often. When, for example, I want to [post a picture from 
 
 Take a look at this image, for example:
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5818/19913601234_4b1d7b4e6b_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19913601234_4b1d7b4e6b_o.jpg"/></p>
 
 If you’re reading this on a Mac or a Windows PC, that should look fine. However, this is what that same image looks like when viewed on an iOS device:
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5746/20528728952_e54f0dbc90_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/20528728952_e54f0dbc90_o.jpg"/></p>
 
 And for those of you reading this on iOS devices, this is what both images _should_ look like:
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5750/20348091680_a26ecd706b_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/20348091680_a26ecd706b_o.jpg"/></p>
 
 Have I got your attention now? Good.
 
 Remember, all three of those images are _the exact same file_. Since a Mac always displays the correct colors, I had to take screenshots on my iPad to be able to show you the difference. And what a difference it is. Here’s a side by side comparison, to further drive the point home:
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5684/20356583568_2f415d9387_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20356583568_2f415d9387_o.jpg"/></p>
 
 OK, so what the hell is going on here?
 
@@ -64,7 +64,7 @@ There are two critical factors at play here:
 
 2. The sRGB color space is considerably narrower than [Adobe RGB](https://en.wikipedia.org/wiki/Adobe_RGB_color_space), the color space typically used to calibrate computer displays, including Macs.
 
-<img src="https://farm6.staticflickr.com/5734/20349993859_513314e832_o.jpg"/>
+<img src="/assets/images/flickr/20349993859_513314e832_o.jpg"/>
 
 <p class="photo-credit">The Adobe RGB color space vs the sRGB color space. Image source: <a href="https://en.wikipedia.org/wiki/File:CIExy1931_AdobeRGB_vs_sRGB.png">Wikimedia Commons</a>.</p>
 
@@ -78,7 +78,7 @@ Unsurprisingly, this is exactly what Apple recommends doing (again, from the sam
 
 As you may have guessed by now, most of my images had been matched to the Adobe RGB color space when I exported them to JPEG from my RAW files using Lightroom. This caused the weird effect you saw at the beginning of the article. It may sound like an insignificant detail, but the impact it can have on your images is profound. Here’s another example:
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5735/20551031851_41cd63f06c_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20551031851_41cd63f06c_o.jpg"/></p>
 
 Luckily, if you’re experiencing this issue with your own images, there’s a simple way to configure Lightroom — or, I’m sure, your photo-editing application of choice — to make sure we always use the correct sRGB profile when exporting our images as JPEGs. Let’s see how we can do it.
 
@@ -122,7 +122,7 @@ Solving this problem was not technically difficult, but it required a level of r
 
 What I find most appalling about all this is that _by design_, the burden to make sure our images are matched to the correct color space falls squarely on us, the users. This may make sense from an engineering and resource-consumption standpoint, but from a user experience point of view, it leaves much to be desired. In general, I can’t help but feel that color management is something that should always happen automatically behind the scenes.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5707/20356609780_25651302ef_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20356609780_25651302ef_o.jpg"/></p>
 
 <p class="photo-credit">This is how colors should always look.</p>
 
@@ -132,4 +132,4 @@ Moreover, since the difference is not immediately obvious on a computer screen, 
 
 If you want to make sure your images are always displayed accurately on mobile devices, follow the above steps (or find the appropriate ones for your photo-editing application of choice) to make sure you’re always using the sRGB color space when exporting your images. Yes, it’s a small additional step to add to your workflow, but it may save you a ton of headache down the road.
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5702/20357321528_9d28c6b387_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/20357321528_9d28c6b387_o.jpg"/></p>

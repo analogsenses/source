@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A nerdy review of Star Wars: The Force Awakens, followed by some of the week’s most interesting pieces of writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 This has been quite the odd week, as I’ve been focusing most of my time on development projects, and not so much on writing. 
@@ -70,7 +70,7 @@ This finally shakes Dameron into action, firing his blaster towards Ren. And the
 
 Kylo Ren senses the shot, and is able to anticipate it. He turns, raises his hand and freezes the blast mid-air using the Force. We haven’t seen anything like this in any of the previous films, and it immediately lets us know this is a formidable opponent.
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1512/23930875724_aa5fd676bf_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23930875724_aa5fd676bf_o.jpg"/></p>
 
 <p class="photo-credit">Kylo Ren is introduced as a powerful character, capable of stopping a laser blast mid-air with the Force.</p>
 
@@ -174,8 +174,8 @@ Like I said in the introduction, this has been quite an unusual week for me. I�
 
 The rest of the weekend will be spent working on my review of the nifty [Manfrotto 209, 492 table top tripod kit](http://www.amazon.com/gp/product/B002VD8380/?tag=analogsens-20), which I’ve owned for a couple months now. It’s a truly useful little tripod, and I took it with me on my recent trip to Paris with great results.
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1650/24476570101_e80695a802_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/24476570101_e80695a802_o.jpg"/></p>
 
-<p class="full-width"><img src="https://farm2.staticflickr.com/1674/23932063583_aea196cdc9_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/23932063583_aea196cdc9_o.jpg"/></p>
 
 The review should be published later in the week over on _Tools & Toys_. Until then, thank you for reading, and have a wonderful weekend.

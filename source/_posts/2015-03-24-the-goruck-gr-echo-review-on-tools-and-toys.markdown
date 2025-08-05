@@ -8,7 +8,7 @@ categories:
 - Tools & Toys
 - Bags
 external-url: http://toolsandtoys.net/reviews/goruck-gr-echo/
-title-image: https://c7.staticflickr.com/9/8617/28089335710_8fbed3ae4c_o.jpg
+title-image: /assets/images/flickr/28089335710_8fbed3ae4c_o.jpg
 ---
 
 My review of the GORUCK GR Echo was published today on Tools & Toys. I love GORUCK bags. I use the GR Echo almost every day for a million different things, and I never leave my house for more than three days without my GR2. In my mind, these are easily some of the best bags money can buy, and I’m thrilled to have had the chance to review the two that I own for Tools & Toys.

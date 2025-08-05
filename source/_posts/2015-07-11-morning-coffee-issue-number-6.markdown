@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 My first week as a 32-year-old has been pretty intense as far as worldwide politics are concerned. The Greek crisis seems to be nearing its end, after an agreement was reached on a Tsipras proposal to the Eurogroup, which was then [passed by the Greek parliament](http://www.politico.eu/article/tsipras-austerity-grexit-greece-reform-bailout-merkel-vote-default-debt/). Whatever happens, Greece’s fate in the Eurozone will be decided in tomorrow’s EU Summit.
@@ -134,10 +134,10 @@ I’ve been busy, too, if I may say so.  Earlier in the week, I published a leng
 
 Other than that, I’m currently working on my next lens review for _Tools & Toys_, which should see the light of day on Tuesday. This is one of the first lenses to acquire legendary status in the Micro Four Thirds system: the [Panasonic Leica 25mm f/1.4](http://www.amazon.com/gp/product/B0055N2L22/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0055N2L22&linkCode=as2&tag=analogsens-20&linkId=WJP5EW7BKQYKFMHZ). 
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/428/19602767695_a7b85a1ee2_o.jpg"  title="Miri"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19602767695_a7b85a1ee2_o.jpg"  title="Miri"/></p>
 
 I’ve owned this amazing lens for over a year now, and it’s given me some of my favorite shots since then, some of which you’ll hopefully see on Tuesday.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/319/19595815982_31a734d4fd_o.jpg"  title="Pedro"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19595815982_31a734d4fd_o.jpg"  title="Pedro"/></p>
 
 Now, if you’ll excuse me, I have to get back to work. Enjoy the rest of your weekend and, of course, thank you for reading.

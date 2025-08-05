@@ -7,7 +7,7 @@ sharing: true
 categories: 
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 This week marks the 20th issue of Morning Coffee. Over the past few months I’ve tweaked the format a little bit but it’s fair to say that, for the most part, Morning Coffee has remained true to its original formula.
@@ -177,16 +177,16 @@ I’m not aware of any special negotiations between Netflix and the government, 
 
 In the work department, my review of the [Sony Zeiss FE Sonnar T* 55mm f/1.8](http://amzn.to/1H0Pr2S) lens for _Tools & Toys_ is well underway, and it’s on track to be published on Tuesday.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5831/20974370809_d20dcb38af_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20974370809_d20dcb38af_o.jpg"/></p>
 
 This has quickly become my favorite lens on the [Sony A7 II](http://amzn.to/204uDn5), partly because I love prime lenses, and partly because it’s just the sharpest lens I’ve ever seen. It also has an incredible bokeh, and handles like a dream in the field.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5808/21168957681_91936cc164_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21168957681_91936cc164_o.jpg"/></p>
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/768/22434022305_69817b90c7_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/22434022305_69817b90c7_o.jpg"/></p>
 
 The Sonnar 55mm wasn’t the first lens I bought, but If I only could have one lens for this camera, it would be this one, without a doubt.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5831/22444953841_a902a3cf51_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/22444953841_a902a3cf51_o.jpg"/></p>
 
 I can’t wait to show you the full review. Until then, thanks for reading, and have a great weekend.

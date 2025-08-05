@@ -9,7 +9,7 @@ categories:
 - Digital Life
 description: "We need to talk about that keyboard"
 subtitle: "We need to talk about that keyboard"
-title-image: https://live.staticflickr.com/65535/49078171351_694a704d30_o.jpg
+title-image: /assets/images/flickr/49078171351_694a704d30_o.jpg
 ---
 
 Apple's long-rumored 16-inch MacBook Pro was announced this week, and it seems to pack many of the upgrades people were desperately hoping for, and a few others that nobody saw coming.
@@ -18,7 +18,7 @@ But we need to talk about that keyboard.
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryMButterfly1" href="https://live.staticflickr.com/65535/49078373022_03af500164_o.jpg"><img src="https://live.staticflickr.com/65535/49078373022_03af500164_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryMButterfly1" href="/assets/images/flickr/49078373022_03af500164_o.jpg"><img src="/assets/images/flickr/49078373022_03af500164_o.jpg" alt="" /></a>
 		<p class="caption">The butterfly-type switch was first introduced to the MacBook lineup in 2015, with the 12-inch MacBook</p>
 	</figure>
 </section>
@@ -31,7 +31,7 @@ Which, if you're Apple, is one the last things you want your keyboard to be.
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryMButterfly2" href="https://live.staticflickr.com/65535/49078171351_694a704d30_o.jpg"><img src="https://live.staticflickr.com/65535/49078171351_694a704d30_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryMButterfly2" href="/assets/images/flickr/49078171351_694a704d30_o.jpg"><img src="/assets/images/flickr/49078171351_694a704d30_o.jpg" alt="" /></a>
 		<p class="caption">The butterfly keyboard made it possible to create thinner laptops, but it came with two severe tradeoffs</p>
 	</figure>
 	</figure>
@@ -47,7 +47,7 @@ Sounds wonderful, doesn't it?
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryMButterfly3" href="https://live.staticflickr.com/65535/49077641123_20babdecf6_o.jpg"><img src="https://live.staticflickr.com/65535/49077641123_20babdecf6_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryMButterfly3" href="/assets/images/flickr/49077641123_20babdecf6_o.jpg"><img src="/assets/images/flickr/49077641123_20babdecf6_o.jpg" alt="" /></a>
 		<p class="caption">The shallow key travel of only 0.5 mm introduced some serious reliability issues</p>
 	</figure>
 </section>
@@ -62,7 +62,7 @@ In their quest to make the keyboard as thin as possible, Apple designed the key 
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryMButterfly4" href="https://live.staticflickr.com/65535/49078372767_f5dcb66ca4_o.jpg"><img src="https://live.staticflickr.com/65535/49078372767_f5dcb66ca4_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryMButterfly4" href="/assets/images/flickr/49078372767_f5dcb66ca4_o.jpg"><img src="/assets/images/flickr/49078372767_f5dcb66ca4_o.jpg" alt="" /></a>
 		<p class="caption">Some keys are impossible to remove without breaking, making repairability a nightmare</p>
 	</figure>
 </section>
@@ -85,7 +85,7 @@ There are many headline-grabbing features about the 2019 16-inch MacBook Pro I'm
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryMButterfly5" href="https://live.staticflickr.com/65535/49078372812_850e2682ff_o.jpg"><img src="https://live.staticflickr.com/65535/49078372812_850e2682ff_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryMButterfly5" href="/assets/images/flickr/49078372812_850e2682ff_o.jpg"><img src="/assets/images/flickr/49078372812_850e2682ff_o.jpg" alt="" /></a>
 		<p class="caption">The 16-inch MacBook Pro's keyboard brings back the physical escape key that was removed in the butterfly keyboard</p>
 	</figure>
 </section>
@@ -104,7 +104,7 @@ And yet, all everybody keeps talking about is the keyboard.
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryMButterfly6" href="https://live.staticflickr.com/65535/49078171256_8d504c66b6_o.jpg"><img src="https://live.staticflickr.com/65535/49078171256_8d504c66b6_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryMButterfly6" href="/assets/images/flickr/49078171256_8d504c66b6_o.jpg"><img src="/assets/images/flickr/49078171256_8d504c66b6_o.jpg" alt="" /></a>
 		<p class="caption">The new keyboard also brings back the inverted T arrow key layout</p>
 	</figure>
 </section>
@@ -117,7 +117,7 @@ Despite Apple's best efforts to [confess nothing](https://twitter.com/danielpunk
 
 <section class="photoset">
 	<figure class="full-width">
-		<a class="fancybox" rel="galleryMButterfly7" href="https://live.staticflickr.com/65535/49078372772_b6ef814e83_o.jpg"><img src="https://live.staticflickr.com/65535/49078372772_b6ef814e83_o.jpg" alt="" /></a>
+		<a class="fancybox" rel="galleryMButterfly7" href="/assets/images/flickr/49078372772_b6ef814e83_o.jpg"><img src="/assets/images/flickr/49078372772_b6ef814e83_o.jpg" alt="" /></a>
 	</figure>
 </section>
 

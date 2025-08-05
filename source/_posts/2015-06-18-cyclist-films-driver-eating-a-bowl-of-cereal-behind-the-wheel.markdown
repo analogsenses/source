@@ -17,4 +17,4 @@ I’m baffled at the things some people do. I can’t even begin to imagine how 
 
 In related news, [Fausto Coppi](https://en.wikipedia.org/?title=Fausto_Coppi) was not impressed:
 
-<p class="extra-width"><img src="https://c4.staticflickr.com/4/3712/18304785883_7951b6d485_o.jpg" title="Fausto Coppi having coffee and reading the newspaper in the velodrome."/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18304785883_7951b6d485_o.jpg" title="Fausto Coppi having coffee and reading the newspaper in the velodrome."/></p>

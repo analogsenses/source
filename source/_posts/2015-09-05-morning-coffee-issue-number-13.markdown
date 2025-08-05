@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 I hope you’re not superstitious, because this is the 13th issue of Morning Coffee. Don’t worry, we can call it 12+1 if you want.
@@ -110,45 +110,45 @@ I always wait for Steve Huff’s reviews with great anticipation, and this time 
 
 As regular readers will know, this week I had my own piece of exotic glass to play with, the [Sony Zeiss FE 55mm f/1.8](http://www.amazon.com/gp/product/B00FSB799Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FSB799Q&linkCode=as2&tag=analogsens-20&linkId=EC6ILXAKRFZOSCUY). I’ve only had enough time with it to get a few initial impressions, but so far I’m really, really impressed with the lens.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/718/21168980171_0d68349d6a_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21168980171_0d68349d6a_o.jpg"/></p>
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/738/20973268768_ac1d8c1c36_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20973268768_ac1d8c1c36_o.jpg"/></p>
 
 
 The Zeiss 55mm is considerably smaller and lighter than the [Sony Zeiss FE 24-70mm f/4](http://www.amazon.com/gp/product/B00FSB79FU/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00FSB79FU&linkCode=as2&tag=analogsens-20&linkId=EBNSO3RSJZ25CMOQ) zoom I bought with the camera, and its image quality is probably the best I’ve ever seen in a lens.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5831/20974370809_d20dcb38af_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20974370809_d20dcb38af_o.jpg"/></p>
 
 Sharpness is impressive in the center even wide open, and the corners are nothing to sneeze at, either. What’s more, stop it down even a little bit and the entire frame becomes pin sharp. It’s incredible.
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/744/21168921001_6ba7c54906_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21168921001_6ba7c54906_o.jpg"/></p>
 
 The bokeh is simply gorgeous, melting away from the subject into a blurry background that almost seems too good, especially considering this is “only” an f/1.8 lens.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5808/21168957681_91936cc164_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21168957681_91936cc164_o.jpg"/></p>
 
-<p class="full-width"><img src="https://farm1.staticflickr.com/718/21168975821_454a982210_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21168975821_454a982210_o.jpg"/></p>
 
 Flare and chromatic aberration are exceptionally well controlled, even when shooting against the light and with high-contrast areas in the image. Besides, the built-in Lightroom profile for this lens will take care of any remaining fringes with just a click.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5711/21168937651_fc24109814_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21168937651_fc24109814_o.jpg"/></p>
 
 Similarly, vignetting and distortion seem to also be well controlled in most situations, and the Lightroom profile does an great job of correcting them, so neither are a problem in actual shooting, at least not that I’ve seen.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5723/21150897552_d152d3d220_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21150897552_d152d3d220_o.jpg"/></p>
 
 After reading so many excellent reviews I had extremely high hopes for this lens, and I’m happy to say it’s lived up to my expectations, and then some. I can definitely see it being up there with any lens from any system as far as optical quality is concerned, even the legendary Otus lenses from Zeiss. 
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5738/20540027183_cc9ec04351_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20540027183_cc9ec04351_o.jpg"/></p>
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5700/20538491994_b4c91af917_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/20538491994_b4c91af917_o.jpg"/></p>
 
 In any case, and MTF charts aside, one thing is clear: I could not have hoped for a better standard lens for my A7 II.
 
-<p class="extra-width"><img src="https://farm6.staticflickr.com/5632/21150876042_9f16fa0134_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/21150876042_9f16fa0134_o.jpg"/></p>
 
 In the coming days and weeks I’m going to be busier than ever with my photography work, which means more pictures and more in-depth thoughts on this phenomenal piece of glass are sure to follow shortly.
 
 Until then, have an amazing weekend and, of course, thank you for reading.
 
-<p class="full-width"><img src="https://farm6.staticflickr.com/5731/21150938492_0f1ed12e28_o.jpg"/></p>
+<p class="full-width"><img src="/assets/images/flickr/21150938492_0f1ed12e28_o.jpg"/></p>

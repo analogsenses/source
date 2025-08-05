@@ -12,7 +12,7 @@ categories:
 - Sports
 ---
 
-[![Drenched in sweat.](http://farm7.staticflickr.com/6061/6055152093_5406581f1c.jpg)](http://www.flickr.com/photos/analogsenses/6055152093/)
+[![Drenched in sweat.](/assets/images/flickr/6055152093_5406581f1c.jpg)](http://www.flickr.com/photos/analogsenses/6055152093/)
 
 Whenever we run for an extended period of time, [endorphins](http://en.wikipedia.org/wiki/Endorphins) are released into our bloodstream. They are a morphine-like substance that our body produces to help itself deal with extreme exertion, suppress pain, or temporarily boost our own awareness and reflexes. A cool side-effect of endorphins is that they make us feel good. That's why running until we're out of breath is so exhilarating, and we feel so incredibly great afterwards. The same thing occurs every time we have sex or eat chocolate, two activities that also trigger a release of endorphins into our system. You get the idea.
 

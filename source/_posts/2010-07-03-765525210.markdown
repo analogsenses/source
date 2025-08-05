@@ -59,7 +59,7 @@ Let's now see how it performs, and whether it's worth getting it:
 This rocks, you can literally put it on in two minutes. Provided you can find a dust-free environment to work in, this will be a breeze. Just wipe the screen clean with the included microfiber cloth, and you're good to go. Proceed as recommended in the instructions included and you should be OK. Just start aligning the top with the iSight camera and work your way down from there, it's really easy. The iVisor AG won't make any bubbles, as promised. Also, removing it and reapplying it is no problem at all. Just peel it off with your hand from any of the lower corners, and then put it back on just like you did the first time. No sweat. It doesn't leave any residue on the screen when removed, which is great, too.
 
 
-[![Matte vs Glossy](http://farm5.static.flickr.com/4100/4757311412_d219e2cddc.jpg)](http://www.flickr.com/photos/analogsenses/4757311412/)
+[![Matte vs Glossy](/assets/images/flickr/4757311412_d219e2cddc.jpg)](http://www.flickr.com/photos/analogsenses/4757311412/)
   
   
 **Bye, Bye, reflections!** 
@@ -67,11 +67,11 @@ This rocks, you can literally put it on in two minutes. Provided you can find a 
 After installing the iVisor AG, reflections are literally gone. I mean it, there's a huge difference. Here are some examples (click through for the full-sized versions):
 
 
-[![Killing reflections](http://farm5.static.flickr.com/4078/4756664435_4e4af45afc.jpg)](http://www.flickr.com/photos/analogsenses/4756664435/)   
+[![Killing reflections](/assets/images/flickr/4756664435_4e4af45afc.jpg)](http://www.flickr.com/photos/analogsenses/4756664435/)   
   
-[![Killing reflections 2](http://farm5.static.flickr.com/4077/4757302308_8420d7d7e1.jpg)](http://www.flickr.com/photos/analogsenses/4757302308/)  
+[![Killing reflections 2](/assets/images/flickr/4757302308_8420d7d7e1.jpg)](http://www.flickr.com/photos/analogsenses/4757302308/)  
   
-[![Normal usage](http://farm5.static.flickr.com/4081/4756667123_0ff92c1a5b.jpg)](http://www.flickr.com/photos/analogsenses/4756667123/)
+[![Normal usage](/assets/images/flickr/4756667123_0ff92c1a5b.jpg)](http://www.flickr.com/photos/analogsenses/4756667123/)
   
   
 **Under the Sun**
@@ -79,9 +79,9 @@ After installing the iVisor AG, reflections are literally gone. I mean it, there
 If reflections are in your worst nightmares, then this thing is for you. Even under direct sunlight, the MacBook Pro screen is definitely usable. Please note that any laptop will be uncomfortable to use under the Sun for an extended period of time. While the iVisor AG is good at handling reflections, it's not magical.
 
 
-[![Under the Sun](http://farm5.static.flickr.com/4100/4756688573_41cf0edcde.jpg)](http://www.flickr.com/photos/analogsenses/4756688573/)  
+[![Under the Sun](/assets/images/flickr/4756688573_41cf0edcde.jpg)](http://www.flickr.com/photos/analogsenses/4756688573/)  
   
-[![Under the Sun](http://farm5.static.flickr.com/4080/4757326834_6060e4632b.jpg)](http://www.flickr.com/photos/analogsenses/4757326834/)
+[![Under the Sun](/assets/images/flickr/4757326834_6060e4632b.jpg)](http://www.flickr.com/photos/analogsenses/4757326834/)
 
 
 **But…** 
@@ -93,12 +93,12 @@ The iVisor AG is a great product that does extremely well the one thing you boug
 This something I noticed only after purchasing it. The easier installation process means the end result is not as high-quality as one would expect. The adhesive used by Moshi is located only on the bezel of the screen protector, and instead of adhering itself to the whole screen with static charge, it just sits on top of the glass. This allows for a bubble-free installation, but it means that there is always a tiny gap between the iVisor layer and the actual glass, which produces a certain loss of sharpness that can be noticed especially in text. This can be very annoying at times until you get used to it, because your eye constantly tries to focus the text, which is impossible. It's also especially bad with a white background, because the white light diffracts when it travels through the iVisor, resulting in a miniature rainbow effect on every pixel that makes it look like the screen under the protector is dirty, which is not the case. Moreover, it's frustrating because if you press the iVisor onto the screen with your hands you can see the text perfectly clear, which gives you a hint of how good this protector could be if the adherence to the screen had been better designed (ahem, Power Support, I'm looking at you).
 
 
-[![Matte vs Glossy](http://farm5.static.flickr.com/4141/4757314468_33087713c7.jpg)](http://www.flickr.com/photos/analogsenses/4757314468/)
+[![Matte vs Glossy](/assets/images/flickr/4757314468_33087713c7.jpg)](http://www.flickr.com/photos/analogsenses/4757314468/)
 
 An example from **analog senses**
 
 
-[![Matte vs Glossy](http://farm5.static.flickr.com/4100/4757318426_77c45a1560.jpg)](http://www.flickr.com/photos/analogsenses/4757318426/)
+[![Matte vs Glossy](/assets/images/flickr/4757318426_77c45a1560.jpg)](http://www.flickr.com/photos/analogsenses/4757318426/)
 
 
 Another example, from **[Minimal Mac](http://minimalmac.com/)**  
@@ -129,19 +129,19 @@ Simply put, it's terrible. Anything other than looking straight at the screen be
 The colors are dulled and a bit washed out, but in my experience this was not nearly as bad as I was expecting. The screen still looks great when the brightness is set high. Still, if color is important for you, this could be a problem. This is clearly not for professional use (photographers, you're out of luck). I've read that re-calibration of the monitor helps, but obviously it can only get you so far. If you need color accuracy, I would strongly suggest the TechRestore option, since the replaced screen has the exact same specs as the original, which are pretty good. For normal use, however, you'll be perfectly OK.
 
 
-[![Matte vs Glossy](http://farm5.static.flickr.com/4135/4756670565_53e345022f.jpg)](http://www.flickr.com/photos/analogsenses/4756670565/)
+[![Matte vs Glossy](/assets/images/flickr/4756670565_53e345022f.jpg)](http://www.flickr.com/photos/analogsenses/4756670565/)
 
 
 The MacBook Pro screen with the iVisor AG on
 
 
-[![Matte vs Glossy](http://farm5.static.flickr.com/4141/4757310552_1e30cc95f6.jpg)](http://www.flickr.com/photos/analogsenses/4757310552/)
+[![Matte vs Glossy](/assets/images/flickr/4757310552_1e30cc95f6.jpg)](http://www.flickr.com/photos/analogsenses/4757310552/)
 
 
 The original MacBook Pro screen, without the iVisor AG
 
 
-[![Matte vs Glossy](http://farm5.static.flickr.com/4119/4756671513_d75e77b6f9.jpg)](http://www.flickr.com/photos/analogsenses/4756671513/)
+[![Matte vs Glossy](/assets/images/flickr/4756671513_d75e77b6f9.jpg)](http://www.flickr.com/photos/analogsenses/4756671513/)
 
 
 There's not a huge difference in color

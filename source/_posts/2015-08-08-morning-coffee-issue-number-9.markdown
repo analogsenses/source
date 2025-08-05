@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing"
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 August keeps rolling by, and things continue to be mostly calm on the Internet. It must be the heat.
@@ -158,13 +158,13 @@ This week was quite intense as far as activity is concerned, although my writing
 
 Last week, I finally made the decision to upgrade from my Micro Four Thirds camera, the amazing [Olympus OM-D E-M10](http://www.amazon.com/gp/product/B00HPQ09H6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HPQ09H6&linkCode=as2&tag=analogsens-20&linkId=YZNH3IVRICEM6E2L), to a new Full Frame camera: the [Sony A7 Mark II](http://www.amazon.com/gp/product/B00PX8CHO6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00PX8CHO6&linkCode=as2&tag=analogsens-20&linkId=TN3V7SYRGQNGCSRZ).
 
-<p class="extra-width"><img src="https://farm4.staticflickr.com/3689/20404322665_c524a726e8_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/20404322665_c524a726e8_o.jpg"/></p>
 
 <p class="photo-credit">My Olympus OM-D E-M10 has to go, along with the rest of my MFT gear.</p>
 
 To that end, and in order to partially fund the switch, I needed to part ways with most of my beloved MFT gear. A few days ago I put up for sale four of the five lenses I own, and three of them have already sold — in under 48 hours, which was a huge relief. I’m keeping the camera and the [Olympus 17mm f/1.8](http://www.amazon.com/gp/product/B00CI3R4VU/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CI3R4VU&linkCode=as2&tag=analogsens-20&linkId=GOPAGKJO7ON2JSYP) for now because I’m still working on the review of the lens, but those two will also be going away as soon as I’m done with it.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/318/19781684774_e4bc4d2a0a_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19781684774_e4bc4d2a0a_o.jpg"/></p>
 
 Still, switching camera systems is always a huge investment, and deserves some careful consideration.
 

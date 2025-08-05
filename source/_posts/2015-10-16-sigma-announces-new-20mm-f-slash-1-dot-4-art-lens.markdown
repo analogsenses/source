@@ -10,7 +10,7 @@ external-url: http://www.sigma-global.com/en/lenses/cas/product/art/a_20_14/
 
 The excellent Art series of lenses from Sigma keeps growing. Today the company announced the latest addition to the lineup, the upcoming 20mm f/1.4 Art lens. This is the world’s first f/1.4 ultra-wide-angle lens for Full Frame DSLRs, which scores Sigma another nice win in the bragging rights department.
 
-<img src="https://farm1.staticflickr.com/727/22040763429_52ec4df0e8_o.jpg"/>
+<img src="/assets/images/flickr/22040763429_52ec4df0e8_o.jpg"/>
 
 It’s still soon to tell if this new lens will be any good, but if the rest of Art lenses is anything to go by, it’s probably going to be a stunner.
 

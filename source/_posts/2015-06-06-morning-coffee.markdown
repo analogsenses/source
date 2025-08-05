@@ -12,7 +12,7 @@ description: "Introducing “Morning Coffee”, a weekly roundup of interesting 
 
 I don’t know about you, but I’m a morning person. The first two hours of my morning routine are usually the most important ones for my productivity. If I manage to get in the zone and make the most of them, the resulting energy boost is usually enough to carry me throughout the rest of the day. On the other hand, if I squander those precious hours checking my RSS feeds and procrastinating my way until noon, my chances of getting any meaningful work done that day go down significantly.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/272/18526689012_284e3c50df_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18526689012_284e3c50df_o.jpg"/></p>
 
 For the past couple of years, those first two hours of the day have been dedicated to working out. I realize it may seem counterintuitive, to dedicate my most productive time of the day to doing something apparently unrelated to my creative work, but I have found the energy I get from working out helps me focus quite a bit better later on when I’m at my desk.
 
@@ -133,4 +133,4 @@ The good news is, great writing goes well with more than just coffee, so choose 
 
 Have a lovely weekend and, as ever, thank you for reading.
 
-<p class="extra-width"><img src="https://c1.staticflickr.com/1/504/18526682912_570141ffd3_o.jpg"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/18526682912_570141ffd3_o.jpg"/></p>

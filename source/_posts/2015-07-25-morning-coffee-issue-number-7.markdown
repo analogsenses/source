@@ -8,7 +8,7 @@ categories:
 - Digital Life
 - Weekly Linkage
 description: "A weekly roundup of interesting writing."
-title-image: https://c2.staticflickr.com/9/8789/27731387873_228d555c50_o.jpg
+title-image: /assets/images/flickr/27731387873_228d555c50_o.jpg
 ---
 
 I keep experimenting with the format of these Morning Coffee pieces in an attempt to make them more interesting and easier to read, and also more manageable for me to produce. In the past I’ve usually started them off with a bird’s eye view of some of the most newsworthy items of the week, followed by the linked pieces and a more personal afterword. 
@@ -158,15 +158,15 @@ I loved this piece by Mike Bates for _Tools & Toys_. I’ve always had a soft sp
 
 It’s now been two weeks since the last issue of Morning Coffee. Last week I took a much-needed short vacation and visited the island of Menorca with my girlfriend and two of our closest friends. I had never visited Menorca before, but was soon mesmerized by its beautiful beaches, breathtaking landscapes and amazing sunsets.
 
-<p class="extra-width"><a href="https://www.flickr.com/photos/analogsenses/19732177610/in/datetaken/"><img src="https://farm1.staticflickr.com/489/19950180996_e9232d3897_o.jpg"  title="Cala Mitjana"/></a></p>
+<p class="extra-width"><a href="https://www.flickr.com/photos/analogsenses/19732177610/in/datetaken/"><img src="/assets/images/flickr/19950180996_e9232d3897_o.jpg"  title="Cala Mitjana"/></a></p>
 
 <p class="photo-credit">Cala Mitjana, one of the most beautiful beaches in the island of Menorca. This panorama was made by stitching together 12 pictures taken with my Olympus E-M10 and the Panasonic 20mm pancake lens. You can see the high-resolution version <a href="https://www.flickr.com/photos/analogsenses/19732177610/in/datetaken/">here</a>.</p> 
 
 One of the absolute highlights of our trip was spending an afternoon on a sailboat, diving in one of the many natural coves and watching the sunset while we had a few drinks and snacks. It was pretty much a perfect way to finish a fantastic day.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/321/19355456493_d4c94c6692_o.jpg"  title="Miri on the sailboat"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19355456493_d4c94c6692_o.jpg"  title="Miri on the sailboat"/></p>
 
-<p class="extra-width"><img src="https://farm4.staticflickr.com/3776/19950182306_d59c2d2c07_o.jpg" title="Nothing like a sailboat to see the sunset"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19950182306_d59c2d2c07_o.jpg" title="Nothing like a sailboat to see the sunset"/></p>
 
 It’s been an amazing vacation but, naturally, we also had our hiccups during the trip. On our second to last day, we had planned to walk to one of the island’s most secluded coves, [Cala Escorxada](https://www.google.es/search?q=cala+escorxada&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0CAcQ_AUoAWoVChMIh5rvnZ_0xgIVBDkUCh05fAh1&biw=1324&bih=1002).
 
@@ -194,7 +194,7 @@ We are now reaching the end of this issue, I’m afraid. But first, I have a con
 
 Other than that, Mérida is a gorgeous city and I definitely plan on enjoying this quick trip and making some time to visit its many wonderful historic sites, like the incredible [Roman theater](https://en.wikipedia.org/wiki/Roman_Theatre_(Mérida\)). It’s not every day you get to visit a 2,000-year-old theater that’s still being actively used.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/448/19788379838_13381c6985_o.jpg"  title="Roman theater, Mérida"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19788379838_13381c6985_o.jpg"  title="Roman theater, Mérida"/></p>
 
 <p class="photo-credit">Roman theater, Mérida. Image source: <a href="https://en.wikipedia.org/wiki/File:Merida_Roman_Theatre1.jpg">Wikimedia Commons</a>.</p> 
 
@@ -204,6 +204,6 @@ That’s it for this week’s Morning Coffee. After the much-needed rest and men
 
 Until then, have a fantastic weekend, and thank you for reading.
 
-<p class="extra-width"><img src="https://farm1.staticflickr.com/417/19976431525_1c059ba5dd_o.jpg" title="Yours truly"/></p>
+<p class="extra-width"><img src="/assets/images/flickr/19976431525_1c059ba5dd_o.jpg" title="Yours truly"/></p>
 
 <p class="photo-credit">I must say, I could get used to this whole yacht thing.</p> 
