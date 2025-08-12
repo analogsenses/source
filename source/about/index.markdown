@@ -8,21 +8,21 @@ title: About
 wordpress_id: 2
 ---
 
-**Analog Senses** is a website about the human side of technology, featuring links and articles on design, photography and the digital life, as well as other interesting things currently happening on planet Earth. It is written and produced by **Álvaro Serrano**.
+**Analog Senses** is a website about the human side of technology, featuring links, commentary and long-form articles about design, photography and the digital life, as well as other interesting things currently happening on planet Earth. It is written and produced by **Álvaro Serrano**.
 
 <p class="full-width"><img class="extra-width" src="/assets/images/flickr/30584641555_6057f70584_o.jpg"/></p>
 
 Although I live in Madrid -- the best city in the world -- I was born in 1983 in [Plasencia](http://en.wikipedia.org/wiki/Plasencia), a walled city in western Spain, small in size but steeped in History. The time was 1:05 a.m., it was Summer, and it also happened to be Tuesday. My eyes are green, just like my mother’s, and my favorite smell in the world is that of freshly brewed coffee, specially early in the morning.
 
+In mid-2014 I was diagnosed with [Type-1 Diabetes](http://en.wikipedia.org/wiki/Diabetes_mellitus_type_1), which means my body cannot regulate my blood-sugar levels on its own.
+
 I'm a scientist at heart, and a Telecommunication Engineer by trade. I also hold a Master’s degree in Bioengineering and Telemedicine. In the beginning of my career I used to work at a research group at Technical University of Madrid (UPM), developing apps for several medical research projects, of both national and international scope. I left the University in 2014 and for the next 3 years I worked as an independent software developer, writer, and photographer. 
 
-However, as entertaining as life as an independent developer can be, by 2017 I felt like I really needed a change, and I decided to embark on a new career path as an R&D consultant. After a seven-year stint at Ayming, in 2024 I joined Deloitte Spain's Gi^3 branch, where I manage the R&D Tax Incentives team.
+However, as entertaining as self-employment can be, by 2017 I felt like I really needed a change, and I decided to embark on a new career path as an R&D consultant. After a seven-year stint at Ayming, in 2024 I joined Deloitte Spain's Gi^3 branch, where I manage the R&D Tax Incentives team.
 
 <p class="full-width"><img class="extra-width" src="/assets/images/about/IMG_1958.jpeg"/></p>
 
-If we’ve ever met, I’ve probably tried to take a picture of you at some point. Over the past few years, my relationship with photography has quickly grown from hobby to passion to love to business, and now I’m hooked beyond hope. Besides taking pictures every day, I used to be one of the co-hosts of the photography podcast [Candid](http://www.candid.fm), alongside my friends [Josh Ginter](http://thenewsprint.co) and [Marius Masalar](https://mariusmasalar.me). These days, I alternate my focus -- pun intended -- between [travel](http://instagram.com/analogsenses) and [boudoir](http://instagram.com/aserranoboudoir) photography.
-
-In mid-2014 I was diagnosed with [Type-1 Diabetes](http://en.wikipedia.org/wiki/Diabetes_mellitus_type_1), which means my body cannot regulate my blood-sugar levels on its own.
+If we’ve ever met, I’ve probably tried to take a picture of you at some point. Over the past decade, my relationship with photography quickly grew from hobby to passion to business, and now to everlasting love. Besides taking pictures every day, I used to be one of the co-hosts of the photography podcast [Candid](http://www.candid.fm), alongside my friends [Josh Ginter](http://thenewsprint.co) and [Marius Masalar](https://mariusmasalar.me). These days, I alternate my focus -- pun intended -- between [travel](http://instagram.com/analogsenses) and [boudoir](http://instagram.com/aserranoboudoir) photography.
 
 <p class="card-separator">♤</p>
 
