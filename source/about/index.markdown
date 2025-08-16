@@ -18,7 +18,7 @@ In mid-2014 I was diagnosed with [Type-1 Diabetes](http://en.wikipedia.org/wiki/
 
 I'm a scientist at heart, and a Telecommunication Engineer by trade. I also hold a Master’s degree in Bioengineering and Telemedicine. In the beginning of my career I used to work at a research group at Technical University of Madrid (UPM), developing apps for several medical research projects, of both national and international scope. I left the University in 2014 and for the next 3 years I worked as an independent software developer, writer, and photographer. 
 
-However, as entertaining as self-employment can be, by 2017 I felt like I really needed a change, and I decided to embark on a new career path as an R&D consultant. After a seven-year stint at Ayming, in 2024 I joined Deloitte Spain's Gi^3 branch, where I manage the R&D Tax Incentives team.
+However, as entertaining as self-employment can be, by 2017 I felt like I really needed a change, and I decided to embark on a new career path as an R&D consultant. After a seven-year stint at Ayming, in 2024 I joined Deloitte Spain's Gi^3 branch, where I manage the R&D Incentives team.
 
 <p class="full-width"><img class="extra-width" src="/assets/images/about/IMG_1958.jpeg"/></p>
 
